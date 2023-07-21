@@ -92,7 +92,7 @@ d_nousthreskeia_order = {
     
     graphical_culture = holygfx
     
-    capital = 2113 # Chita
+    capital = 1 # Chita
     
     title = "CAPTAIN"
     foa = "CAPTAIN_FOA"
@@ -157,7 +157,7 @@ d_order_of_white_lotus = {
     
     graphical_culture = chinesegfx
     
-    capital = 3186 # Praha
+    capital = 1 # Praha
     
     title = "CAPTAIN"
     foa = "CAPTAIN_FOA"
@@ -190,7 +190,7 @@ d_liberian_order = {
     
     graphical_culture = holygfx
     
-    capital = 2329 # Conakry
+    capital = 1 # Conakry
     
     title = "CAPTAIN"
     foa = "CAPTAIN_FOA"
@@ -285,7 +285,7 @@ d_lawrence_order = {
 	
 	graphical_culture = holygfx
 	
-	capital = 2441 # Kaouda
+	capital = 1 # Kaouda
 	
 	title = "GRANDMASTER"
 	foa = "GRANDMASTER_FOA"
@@ -375,7 +375,7 @@ d_ikhwan = {
 	color={ 15 255 10 }
 	color2={ 255 255 255 }
 	
-	capital = 2157 #Riyadh
+	capital = 1 #Riyadh
 	graphical_culture = bektashigfx
 	title = "SHEIKH"
 	foa = "SHEIKH_FOA"
@@ -957,7 +957,7 @@ d_red_turbans = {
 	
 	graphical_culture = holygfx
 	
-	capital = 3537 # Nanjing
+	capital = 1 # Nanjing
 	
 	title = "GRANDMASTER"
 	foa = "GRANDMASTER_FOA"
@@ -988,7 +988,7 @@ d_hmongism_order = {
 	
 	graphical_culture = holygfx
 	
-	capital = 2860 # Hanoi
+	capital = 1 # Hanoi
 	
 	title = "GRANDMASTER"
 	foa = "GRANDMASTER_FOA"
@@ -1019,7 +1019,7 @@ d_mahayana_order = {
 	
 	graphical_culture = holygfx
 	
-	capital = 3421 # Leshan
+	capital = 1 # Leshan
 	
 	title = "GRANDMASTER"
 	foa = "GRANDMASTER_FOA"
@@ -1050,7 +1050,7 @@ d_syafi_order = {
 	
 	graphical_culture = holygfx
 	
-	capital = 3722 # Banda Aceh
+	capital = 1 # Banda Aceh
 	
 	title = "GRANDMASTER"
 	foa = "GRANDMASTER_FOA"
@@ -1081,7 +1081,7 @@ d_taoist_order = {
 	
 	graphical_culture = holygfx
 	
-	capital = 3186 # Guangzhou
+	capital = 1 # Guangzhou
 	
 	title = "GRANDMASTER"
 	foa = "GRANDMASTER_FOA"
@@ -1112,7 +1112,7 @@ d_wuist_order = {
 	
 	graphical_culture = holygfx
 	
-	capital = 3306 # Changsha
+	capital = 1 # Changsha
 	
 	title = "GRANDMASTER"
 	foa = "GRANDMASTER_FOA"
@@ -1143,7 +1143,7 @@ d_kirishitan_order = {
 	
 	graphical_culture = holygfx
 	
-	capital = 2737 # Nagasaki
+	capital = 1 # Nagasaki
 	
 	title = "GRANDMASTER"
 	foa = "GRANDMASTER_FOA"
@@ -1171,7 +1171,7 @@ d_kirishitan_order = {
 d_ignatius_knights = {
 	color = { 48 56 133 }
 	color2={ 255 255 255 }
-	capital = 2317 # Praia
+	capital = 1 # Praia
 	mercenary_type = columbus_knights_composition
 	
 	title = "GRANDMASTER"
@@ -1195,7 +1195,7 @@ d_easternlightning_order = {
 	color = { 0 56 106 }
 	color2={ 255 255 255 }
 	
-	capital = 3137 # Harbin
+	capital = 1 # Harbin
 	mercenary_type = columbus_knights_composition
 	
 	title = "GRANDMASTER"
@@ -1221,7 +1221,7 @@ d_frontier = {
 	
 	graphical_culture = chinesegfx
 
-	capital = 3583 # Beijing
+	capital = 1 # Beijing
 
 	
 	title = "CAPTAIN"
@@ -1252,7 +1252,7 @@ d_mss = {
 	
 	graphical_culture = holygfx
 
-	capital = 3583 # Beijing
+	capital = 1 # Beijing
 
 	
 	title = "CAPTAIN"
@@ -1283,7 +1283,7 @@ d_kpa = {
 	
 	graphical_culture = holygfx
 
-	capital = 2915 # Pyongyang
+	capital = 1 # Pyongyang
 
 	
 	title = "SUPREME_COMMANDER"
@@ -2318,7 +2318,7 @@ d_ashokas_chosen = {
 	color={ 205 100 0 }
 	color2={ 255 255 255 }
 	
-	capital = 1215 # Colombo, Sri Lanka
+	capital = 121 # Colombo, Sri Lanka
 	
 	title = "GRANDMASTER"
 	foa = "GRANDMASTER_FOA"
@@ -2348,7 +2348,7 @@ d_bulls_rishabha = {
 	color={ 255 100 0 }
 	color2={ 255 255 255 }
 	
-	capital = 1355 # Delhi
+	capital = 135 # Delhi
 	
 	title = "GRANDMASTER"
 	foa = "GRANDMASTER_FOA"
@@ -2378,7 +2378,7 @@ d_thaislam_order = {
 	color={ 186 128 13 }
 	color2={ 255 255 255 }
 	
-	capital = 2654
+	capital = 265
 	
 	title = "CAPTAIN"
 	foa = "CAPTAIN_FOA"
@@ -2408,7 +2408,7 @@ d_combuddhist_order = {
 	color={ 211 89 138 }
 	color2={ 255 255 255 }
 	
-	capital = 2947
+	capital = 297
 	
 	title = "CAPTAIN"
 	foa = "CAPTAIN_FOA"
@@ -2597,7 +2597,7 @@ d_spears_of_longinus = {
 	color = { 255 217 2 }
 	color2 = { 255 255 255 }
 	
-	capital = 3032 #Manila
+	capital = 303 #Manila
 	
 	title = "KAPITAN"
 	foa = "KAPITAN_FOA"

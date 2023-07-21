@@ -182,7 +182,7 @@ e_nusantara = {
 	color2={ 255 255 255 }
 	short_name = yes
 
-	capital = 3765
+	capital = 1
 
 	allow = {
 		doesnt_holds_special_empire = yes
@@ -202,7 +202,7 @@ e_jomon = {
 	color={ 190 10 31 }
 	color2={ 255 255 255 }
 
-	capital = 2806
+	capital = 1
 
 	allow = {
 		doesnt_holds_special_empire = yes
@@ -222,7 +222,7 @@ e_indonesia = {
 	color={ 160 9 35 }
 	color2={ 255 255 20 }
 	
-	capital = 3765 # c_semarang
+	capital = 1 # c_semarang
 	
 	allow = {
 		doesnt_holds_special_empire = yes
@@ -420,7 +420,7 @@ e_saudi_arabia = {
 		color={ 124 199 50 }
 		color2={ 255 255 255 }
 		
-		capital = 2157 # Riyadh
+		capital = 1 # Riyadh
 		
 		title = "ARABIA_HIGH_KING_TITLE"
 		title_female = "ARABIA_HIGH_KING_TITLE_FEMALE"
@@ -486,7 +486,7 @@ e_high_seas = { ### pirate empire
 	color = { 96 96 96 }
 	short_name = yes
 	
-	capital = 2020 # Doggerland
+	capital = 1 # Doggerland
 	
 	title = "PIRATE_KING_TITLE"
 	title_female = "PIRATE_KING_TITLE_FEMALE"
@@ -587,7 +587,7 @@ e_hui= {
 	color={ 232 231 195 }
 	color2={ 255 255 255 }
 		
-	capital = 3610 # Lanzhou
+	capital = 1 # Lanzhou
 	
 	dynasty_title_names = no
 
@@ -632,7 +632,7 @@ e_neonchina= {
 	color={ 0 168 168 }
 	color2={ 255 255 255 }
 		
-	capital = 3548 # Shanghai
+	capital = 1 # Shanghai
 	
 	dynasty_title_names = no
 
@@ -777,7 +777,7 @@ e_yuan= {
 	color = { 60 180 12 }
 	color2={ 255 255 255 }
 		
-	capital = 3583 # Beijing
+	capital = 1 # Beijing
 	
 	title = "HUANGDI"
 	title_female = "HUANGDI_FEMALE"
@@ -826,7 +826,7 @@ e_qing= {
 	color = { 230 167 12 }
 	color2={ 255 255 255 }
 		
-	capital = 3104 # Shenyang
+	capital = 1 # Shenyang
 	
 	title = "HUANGDI"
 	title_female = "HUANGDI_FEMALE"
@@ -875,7 +875,7 @@ e_sui= {
 	color = { 127 0 0 }
 	color2={ 255 255 255 }
 		
-	capital = 3631 # Xian
+	capital = 1 # Xian
 	
 	title = "HUANGDI"
 	title_female = "HUANGDI_FEMALE"
@@ -923,7 +923,7 @@ e_qi_wuist= {
 	color = { 0 74 127 }
 	color2={ 255 255 255 }
 		
-	capital = 3306 # Changsha
+	capital = 1 # Changsha
 	
 	title = "HUANGDI"
 	title_female = "HUANGDI_FEMALE"
@@ -972,7 +972,7 @@ e_katoliko_china= {
 	color = { 244 249 169 }
 	color2={ 255 255 255 }
 		
-	capital = 3186 # Guangzhou
+	capital = 1 # Guangzhou
 	
 	title = "HUANGDI"
 	title_female = "HUANGDI_FEMALE"
@@ -1021,7 +1021,7 @@ e_ming= {
 	color = { 241 163 109 }
 	color2={ 255 255 255 }
 		
-	capital = 3537 # Nanjing
+	capital = 1 # Nanjing
 	
 	dynasty_title_names = no
 
@@ -1070,7 +1070,7 @@ e_jin= {
 	color = { 145 145 145 }
 	color2={ 255 255 255 }
 		
-	capital = 3104 # Shenyang
+	capital = 1 # Shenyang
 	
 	dynasty_title_names = no
 
@@ -1216,7 +1216,7 @@ e_golden_horde= {
 	color = { 243 180 17 }
 	color2 = { 0 250 250 }
 		
-	capital = 2219 # Astrakhan
+	capital = 1 # Astrakhan
 	
 	short_name = yes
 	dynasty_title_names = no
@@ -1239,7 +1239,7 @@ e_scythia= {
 	color = { 243 180 17 }
 	color2 = { 0 250 250 }
 		
-	capital = 2219 
+	capital = 1 
 	
 	dynasty_title_names = no
 
@@ -1398,7 +1398,7 @@ k_south_sudan= {
 	color={ 21 120 162 }
 	color2={ 255 255 255 }
 	
-	capital = 2474 # Kadukli
+	capital = 1 # Kadukli
 
 	allow = {
 		conditional_tooltip = {
@@ -1486,7 +1486,7 @@ e_sri_vijaya= {
 	color={ 185 69 69 }
 	color2={ 255 255 255 }
 	
-	capital = 3701 # Singapore
+	capital = 1 # Singapore
 	
 	allow = {
 		conditional_tooltip = {
@@ -1574,7 +1574,7 @@ k_igboland= {
 	color={ 132 44 44 }
 	color2={ 255 255 255 }
 	
-	capital = 2441 # Kaouda
+	capital = 1 # Kaouda
 
 	allow = {
 		conditional_tooltip = {
@@ -1769,7 +1769,7 @@ e_cum= {
 	color={ 252 201 22 }
 	color2={ 0 163 232 }
 	
-	capital = 2220 # Gagauzia
+	capital = 1 # Gagauzia
 	
 	dynasty_title_names = no
 	
@@ -1849,7 +1849,7 @@ d_paulistano = {
 	
 	short_name = yes
 	
-	capital = 2308 # Santa Maria
+	capital = 1 # Santa Maria
 	
 	title = "CAPTAIN"
 	foa = "CAPTAIN_FOA"
@@ -1865,7 +1865,7 @@ d_madeira_party = {
 		always = no
 	}
 	
-	capital = 2307 # Madeira	
+	capital = 1 # Madeira	
 	
 }
 
@@ -1931,7 +1931,7 @@ e_atlantis = {
 	color2 = { 254 221 0 }
 
 	
-	capital = 2020 # South Doggerland
+	capital = 1 # South Doggerland
 	allow = {
 		conditional_tooltip = {
 			trigger = {
@@ -2900,7 +2900,7 @@ d_arestants = {
 		always = no
 	}
 	
-	capital = 2047
+	capital = 1
 }
 d_vorkuta = {
     color={ 136 221 255 }
@@ -2912,7 +2912,7 @@ d_vorkuta = {
 		always = no
 	}
 	
-	capital = 2046
+	capital = 1
 }
 d_kholat_syakhl = {
     color={ 82 150 80 }
@@ -2988,7 +2988,7 @@ d_lizardmen = {
     color={ 65 114 53 }
     color2= { 255 255 255 }
 	
-	capital = 2111
+	capital = 1
 	
 	short_name = yes
 	
@@ -3492,7 +3492,7 @@ e_blorg = {
 k_north_sea= {
 	color={ 215 228 247 }
 	color2={ 255 255 255 }
-	capital = 2147 
+	capital = 1 
 		
 	title = "FERO_GOV_TITLE"
 	title_female = "FERO_GOV_FEMALE"
@@ -3543,7 +3543,7 @@ e_hfe = {                      # Created by special decision only
 	color={ 255 224 15 }
 	color2={ 0 0 0 }
 	
-	capital = 3032 # Jülich / Aachen
+	capital = 1 # Jülich / Aachen
 
 	short_name = yes
 	
@@ -3648,7 +3648,7 @@ k_kuy= {
 	color={ 164 114 17 }
 	color2={ 255 255 255 }
 	
-	capital = 4159 # Sisaket
+	capital = 1 # Sisaket
 	
 	allow = {
 		conditional_tooltip = {
@@ -3669,7 +3669,7 @@ e_panglong = {                      # Created by special decision only
 	color={ 236 27 35 }
 	color2={ 255 255 255 }
 	
-	capital = 4090 # South Rangoon
+	capital = 1 # South Rangoon
 
 	short_name = no
 	
@@ -3691,7 +3691,7 @@ e_angkor = {                      # Created by special decision only
 	color={ 26 122 52 }
 	color2={ 255 255 255 }
 	
-	capital = 2697
+	capital = 1
 
 	short_name = no
 	
@@ -3713,7 +3713,7 @@ e_laos = {
 		color={ 21 70 251 }
 		color2={ 255 255 255 }
 		
-		capital = 2947 # c_vang_vieng
+		capital = 1 # c_vang_vieng
 		culture = laotian
 		
 		allow = {
@@ -3732,7 +3732,7 @@ e_laos = {
 e_macaronesia = {
 	color = { 36 17 105 }
 	color2 = { 255 255 255 }
-	capital = 2317 #Praia
+	capital = 1 #Praia
 	
 	culture = verdean
 	
