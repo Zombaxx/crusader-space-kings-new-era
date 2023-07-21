@@ -1,0 +1,15 @@
+# 984 - Province0984
+
+# County Title
+title = c_province0984
+
+# Settlements
+max_settlements = 3
+b_barony0984` = castle
+b_barony0984a = temple
+
+# Misc
+culture = punjabi
+religion = summer_queen
+
+# History

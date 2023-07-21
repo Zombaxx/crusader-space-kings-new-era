@@ -1,0 +1,14 @@
+# 1650 - Province1650
+
+# County Title
+title = c_province1650
+
+# Settlements
+max_settlements = 3
+b_barony1650` = tribal
+
+# Misc
+culture = daju
+religion = fraticelli
+
+# History

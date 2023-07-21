@@ -1,0 +1,16 @@
+# 2051 - Province2051
+
+# County Title
+title = c_province2051
+
+# Settlements
+max_settlements = 4
+b_barony2051` = castle
+b_barony2051a = temple
+b_barony2051b = city
+
+# Misc
+culture = daju
+religion = baltic_pagan
+
+# History

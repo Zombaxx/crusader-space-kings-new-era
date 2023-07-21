@@ -1,0 +1,17 @@
+# 1280 - Province1280
+
+# County Title
+title = c_province1280
+
+# Settlements
+max_settlements = 5
+b_barony1280` = castle
+b_barony1280a = temple
+b_barony1280b = city
+b_barony1280c = castle
+
+# Misc
+culture = mongol
+religion = old_hindu
+
+# History

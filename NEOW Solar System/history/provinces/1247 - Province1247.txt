@@ -1,0 +1,16 @@
+# 1247 - Province1247
+
+# County Title
+title = c_province1247
+
+# Settlements
+max_settlements = 4
+b_barony1247` = castle
+b_barony1247a = temple
+b_barony1247b = city
+
+# Misc
+culture = mongol
+religion = sufi
+
+# History

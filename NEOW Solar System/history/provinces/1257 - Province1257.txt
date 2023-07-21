@@ -1,0 +1,14 @@
+# 1257 - Province1257
+
+# County Title
+title = c_province1257
+
+# Settlements
+max_settlements = 2
+b_barony1257` = castle
+
+# Misc
+culture = alan
+religion = taoist
+
+# History

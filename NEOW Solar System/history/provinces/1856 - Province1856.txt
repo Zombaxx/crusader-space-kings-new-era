@@ -1,0 +1,15 @@
+# 1856 - Province1856
+
+# County Title
+title = c_province1856
+
+# Settlements
+max_settlements = 5
+b_barony1856` = tribal
+b_barony1856a = temple
+
+# Misc
+culture = frisian
+religion = shiite
+
+# History

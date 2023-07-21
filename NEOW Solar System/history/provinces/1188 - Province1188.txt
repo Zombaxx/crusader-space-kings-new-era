@@ -1,0 +1,17 @@
+# 1188 - Province1188
+
+# County Title
+title = c_province1188
+
+# Settlements
+max_settlements = 5
+b_barony1188` = castle
+b_barony1188a = temple
+b_barony1188b = city
+b_barony1188c = castle
+
+# Misc
+culture = alan
+religion = hellenic_pagan
+
+# History

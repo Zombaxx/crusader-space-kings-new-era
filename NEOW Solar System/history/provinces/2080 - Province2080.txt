@@ -1,0 +1,15 @@
+# 2080 - Province2080
+
+# County Title
+title = c_province2080
+
+# Settlements
+max_settlements = 3
+b_barony2080` = castle
+b_barony2080a = temple
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

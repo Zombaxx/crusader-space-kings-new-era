@@ -1,0 +1,17 @@
+# 1610 - Province1610
+
+# County Title
+title = c_province1610
+
+# Settlements
+max_settlements = 5
+b_barony1610` = castle
+b_barony1610a = temple
+b_barony1610b = city
+b_barony1610c = castle
+
+# Misc
+culture = panjabi
+religion = vajrayana
+
+# History

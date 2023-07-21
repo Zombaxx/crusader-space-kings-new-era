@@ -1,0 +1,15 @@
+# 1847 - Province1847
+
+# County Title
+title = c_province1847
+
+# Settlements
+max_settlements = 5
+b_barony1847` = tribal
+b_barony1847a = temple
+
+# Misc
+culture = panjabi
+religion = sufi
+
+# History

@@ -1,0 +1,15 @@
+# 1407 - Province1407
+
+# County Title
+title = c_province1407
+
+# Settlements
+max_settlements = 3
+b_barony1407` = castle
+b_barony1407a = temple
+
+# Misc
+culture = gaoshan
+religion = taoist
+
+# History

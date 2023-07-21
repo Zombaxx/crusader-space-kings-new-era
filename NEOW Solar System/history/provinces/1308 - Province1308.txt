@@ -1,0 +1,15 @@
+# 1308 - Province1308
+
+# County Title
+title = c_province1308
+
+# Settlements
+max_settlements = 5
+b_barony1308` = tribal
+b_barony1308a = temple
+
+# Misc
+culture = punjabi
+religion = hellenic_pagan
+
+# History

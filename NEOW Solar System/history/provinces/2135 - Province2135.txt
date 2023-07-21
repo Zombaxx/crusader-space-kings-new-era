@@ -1,0 +1,16 @@
+# 2135 - Province2135
+
+# County Title
+title = c_province2135
+
+# Settlements
+max_settlements = 4
+b_barony2135` = castle
+b_barony2135a = temple
+b_barony2135b = city
+
+# Misc
+culture = panjabi
+religion = fraticelli
+
+# History

@@ -1,0 +1,16 @@
+# 1901 - Province1901
+
+# County Title
+title = c_province1901
+
+# Settlements
+max_settlements = 4
+b_barony1901` = castle
+b_barony1901a = temple
+b_barony1901b = city
+
+# Misc
+culture = gaoshan
+religion = baltic_pagan
+
+# History

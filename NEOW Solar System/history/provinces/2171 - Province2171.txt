@@ -1,0 +1,14 @@
+# 2171 - Province2171
+
+# County Title
+title = c_province2171
+
+# Settlements
+max_settlements = 2
+b_barony2171` = tribal
+
+# Misc
+culture = panjabi
+religion = jewish
+
+# History

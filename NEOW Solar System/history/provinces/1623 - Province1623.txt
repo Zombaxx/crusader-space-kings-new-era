@@ -1,0 +1,14 @@
+# 1623 - Province1623
+
+# County Title
+title = c_province1623
+
+# Settlements
+max_settlements = 4
+b_barony1623` = tribal
+
+# Misc
+culture = daju
+religion = bon
+
+# History

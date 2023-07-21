@@ -1,0 +1,14 @@
+# 2018 - Province2018
+
+# County Title
+title = c_province2018
+
+# Settlements
+max_settlements = 4
+b_barony2018` = tribal
+
+# Misc
+culture = daju
+religion = finnish_pagan
+
+# History

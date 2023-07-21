@@ -1,0 +1,15 @@
+# 182 - Province0182
+
+# County Title
+title = c_province0182
+
+# Settlements
+max_settlements = 3
+b_barony0182` = castle
+b_barony0182a = temple
+
+# Misc
+culture = ethiopian
+religion = baptist
+
+# History

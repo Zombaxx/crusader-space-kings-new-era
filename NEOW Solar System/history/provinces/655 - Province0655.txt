@@ -1,0 +1,14 @@
+# 655 - Province0655
+
+# County Title
+title = c_province0655
+
+# Settlements
+max_settlements = 2
+b_barony0655` = castle
+
+# Misc
+culture = bedouin_arabic
+religion = shiite
+
+# History

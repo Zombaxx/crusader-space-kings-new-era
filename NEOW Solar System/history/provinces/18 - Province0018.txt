@@ -1,0 +1,17 @@
+# 18 - Province0018
+
+# County Title
+title = c_province0018
+
+# Settlements
+max_settlements = 5
+b_barony0018` = city
+b_barony0018a = temple
+b_barony0018b = castle
+b_barony0018c = city
+
+# Misc
+culture = punjabi
+religion = baptist
+
+# History

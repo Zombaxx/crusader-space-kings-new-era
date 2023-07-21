@@ -1,0 +1,16 @@
+# 1603 - Province1603
+
+# County Title
+title = c_province1603
+
+# Settlements
+max_settlements = 4
+b_barony1603` = city
+b_barony1603a = temple
+b_barony1603b = castle
+
+# Misc
+culture = panjabi
+religion = shiite
+
+# History

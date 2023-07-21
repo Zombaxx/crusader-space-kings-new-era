@@ -1,0 +1,15 @@
+# 1353 - Province1353
+
+# County Title
+title = c_province1353
+
+# Settlements
+max_settlements = 3
+b_barony1353` = castle
+b_barony1353a = temple
+
+# Misc
+culture = frisian
+religion = taoist
+
+# History

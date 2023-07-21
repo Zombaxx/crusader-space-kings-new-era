@@ -1,0 +1,16 @@
+# 1097 - Province1097
+
+# County Title
+title = c_province1097
+
+# Settlements
+max_settlements = 4
+b_barony1097` = castle
+b_barony1097a = temple
+b_barony1097b = city
+
+# Misc
+culture = darwinian
+religion = baptist
+
+# History

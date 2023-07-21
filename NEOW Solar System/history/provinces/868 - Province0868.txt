@@ -1,0 +1,14 @@
+# 868 - Province0868
+
+# County Title
+title = c_province0868
+
+# Settlements
+max_settlements = 1
+b_barony0868` = castle
+
+# Misc
+culture = kannada
+religion = vajrayana
+
+# History

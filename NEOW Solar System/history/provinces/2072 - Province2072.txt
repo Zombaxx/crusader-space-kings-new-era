@@ -1,0 +1,14 @@
+# 2072 - Province2072
+
+# County Title
+title = c_province2072
+
+# Settlements
+max_settlements = 3
+b_barony2072` = tribal
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

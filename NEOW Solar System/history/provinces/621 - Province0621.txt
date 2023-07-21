@@ -1,0 +1,15 @@
+# 621 - Province0621
+
+# County Title
+title = c_province0621
+
+# Settlements
+max_settlements = 4
+b_barony0621` = tribal
+b_barony0621a = temple
+
+# Misc
+culture = crimean
+religion = orthodox
+
+# History

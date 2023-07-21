@@ -1,0 +1,14 @@
+# 357 - Province0357
+
+# County Title
+title = c_province0357
+
+# Settlements
+max_settlements = 2
+b_barony0357` = tribal
+
+# Misc
+culture = kazakh
+religion = finnish_pagan
+
+# History

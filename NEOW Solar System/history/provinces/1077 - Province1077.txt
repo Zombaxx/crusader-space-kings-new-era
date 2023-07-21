@@ -1,0 +1,16 @@
+# 1077 - Province1077
+
+# County Title
+title = c_province1077
+
+# Settlements
+max_settlements = 4
+b_barony1077` = castle
+b_barony1077a = temple
+b_barony1077b = city
+
+# Misc
+culture = punjabi
+religion = old_hindu
+
+# History

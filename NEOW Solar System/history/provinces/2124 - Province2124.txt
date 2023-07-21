@@ -1,0 +1,14 @@
+# 2124 - Province2124
+
+# County Title
+title = c_province2124
+
+# Settlements
+max_settlements = 1
+b_barony2124` = tribal
+
+# Misc
+culture = frisian
+religion = sufi
+
+# History

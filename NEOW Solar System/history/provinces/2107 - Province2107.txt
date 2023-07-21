@@ -1,0 +1,17 @@
+# 2107 - Province2107
+
+# County Title
+title = c_province2107
+
+# Settlements
+max_settlements = 5
+b_barony2107` = castle
+b_barony2107a = temple
+b_barony2107b = city
+b_barony2107c = castle
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

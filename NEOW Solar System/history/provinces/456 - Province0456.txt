@@ -1,0 +1,17 @@
+# 456 - Province0456
+
+# County Title
+title = c_province0456
+
+# Settlements
+max_settlements = 2
+b_barony0456` = city
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_104560
+}

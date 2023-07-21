@@ -1,0 +1,15 @@
+# 1304 - Province1304
+
+# County Title
+title = c_province1304
+
+# Settlements
+max_settlements = 3
+b_barony1304` = castle
+b_barony1304a = temple
+
+# Misc
+culture = alan
+religion = hellenic_pagan
+
+# History

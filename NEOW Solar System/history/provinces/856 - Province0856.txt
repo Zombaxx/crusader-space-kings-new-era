@@ -1,0 +1,15 @@
+# 856 - Province0856
+
+# County Title
+title = c_province0856
+
+# Settlements
+max_settlements = 3
+b_barony0856` = castle
+b_barony0856a = temple
+
+# Misc
+culture = tamil
+religion = old_hindu
+
+# History

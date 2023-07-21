@@ -1,0 +1,14 @@
+# 1871 - Province1871
+
+# County Title
+title = c_province1871
+
+# Settlements
+max_settlements = 3
+b_barony1871` = tribal
+
+# Misc
+culture = gaoshan
+religion = old_hindu
+
+# History

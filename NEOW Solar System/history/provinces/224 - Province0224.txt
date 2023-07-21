@@ -1,0 +1,14 @@
+# 224 - Province0224
+
+# County Title
+title = c_province0224
+
+# Settlements
+max_settlements = 2
+b_barony0224` = tribal
+
+# Misc
+culture = irish
+religion = catholic
+
+# History

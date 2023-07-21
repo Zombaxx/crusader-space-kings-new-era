@@ -1,0 +1,14 @@
+# 2005 - Province2005
+
+# County Title
+title = c_province2005
+
+# Settlements
+max_settlements = 3
+b_barony2005` = tribal
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

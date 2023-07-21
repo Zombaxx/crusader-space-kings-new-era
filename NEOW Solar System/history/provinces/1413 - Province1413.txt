@@ -1,0 +1,16 @@
+# 1413 - Province1413
+
+# County Title
+title = c_province1413
+
+# Settlements
+max_settlements = 4
+b_barony1413` = castle
+b_barony1413a = temple
+b_barony1413b = city
+
+# Misc
+culture = gaoshan
+religion = bon
+
+# History

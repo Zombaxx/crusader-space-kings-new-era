@@ -1,0 +1,16 @@
+# 1446 - Province1446
+
+# County Title
+title = c_province1446
+
+# Settlements
+max_settlements = 4
+b_barony1446` = castle
+b_barony1446a = temple
+b_barony1446b = city
+
+# Misc
+culture = persian
+religion = taoist
+
+# History

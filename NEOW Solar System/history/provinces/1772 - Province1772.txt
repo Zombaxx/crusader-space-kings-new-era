@@ -1,0 +1,14 @@
+# 1772 - Province1772
+
+# County Title
+title = c_province1772
+
+# Settlements
+max_settlements = 2
+b_barony1772` = castle
+
+# Misc
+culture = persian
+religion = brethren
+
+# History

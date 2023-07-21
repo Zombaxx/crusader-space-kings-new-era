@@ -1,0 +1,17 @@
+# 2137 - Province2137
+
+# County Title
+title = c_province2137
+
+# Settlements
+max_settlements = 6
+b_barony2137` = castle
+b_barony2137a = temple
+b_barony2137b = city
+b_barony2137c = castle
+
+# Misc
+culture = panjabi
+religion = sufi
+
+# History

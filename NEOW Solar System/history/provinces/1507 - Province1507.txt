@@ -1,0 +1,16 @@
+# 1507 - Province1507
+
+# County Title
+title = c_province1507
+
+# Settlements
+max_settlements = 4
+b_barony1507` = castle
+b_barony1507a = temple
+b_barony1507b = city
+
+# Misc
+culture = panjabi
+religion = yazidi
+
+# History

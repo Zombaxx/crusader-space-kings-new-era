@@ -1,0 +1,471 @@
+23900010 = {
+	name = "Abdullah" #Founder of Kedah Confederacy
+	dynasty = 3843600 #Mahawangsa
+	religion = "syafi"
+	culture = "malay" 
+	trait = "lustful"
+	trait = "brave"
+	trait = "just"
+	trait = "charitable"
+	trait = "shrewd"
+	trait = "midas_touched"
+	disallow_random_traits=yes
+	2375.1.1 = {
+		birth = yes
+	}
+	2450.1.1 = {
+		death = yes
+	}
+}
+23900011 = {
+	name = "Mansur" #Unifier of Malaysia mainland
+	dynasty = 3843600 #Mahawangsa
+	father = 23900010 #Abdullah I
+	religion = "syafi"
+	culture = "malay" 
+	trait = "ambitious"
+	trait = "brave"
+	trait = "erudite"
+	trait = "charitable"
+	trait = "zealous"
+	trait = "brilliant_strategist"
+	disallow_random_traits=yes
+	2420.1.1 = {
+		birth = yes
+	}
+	2470.1.1 = {
+		death = yes
+	}
+}
+23900012 = {
+	name = "Ibrahim" #Imam of Siam
+	dynasty = 3843600 #Mahawangsa
+	father = 23900010 #Abdullah I
+	religion = "ahmadiyya"
+	culture = "malay" 
+	trait = "chaste"
+	trait = "honest"
+	trait = "erudite"
+	trait = "charitable"
+	trait = "shrewd"
+	trait = "martial_cleric"
+	disallow_random_traits=yes
+	2425.1.1 = {
+		birth = yes
+	}
+	2500.1.1 = {
+		death = yes
+	}
+}
+23900013 = {
+	name = "Sulaiman" #Merchant of Penang
+	dynasty = 3843600 #Mahawangsa
+	father = 23900010 #Abdullah I
+	religion = "syafi"
+	culture = "malay" 
+	trait = "lustful"
+	trait = "greedy"
+	trait = "just"
+	trait = "content"
+	trait = "genius"
+	trait = "midas_touched"
+	disallow_random_traits=yes
+	2430.1.1 = {
+		birth = yes
+	}
+	2470.1.1 = {
+		death = yes
+	}
+}
+23900014 = {
+	name = "Halim" #Defender of Malacca
+	dynasty = 3843600 #Mahawangsa
+	father = 23900011 #Mansur I
+	religion = "syafi"
+	culture = "malay" 
+	trait = "patient"
+	trait = "brave"
+	trait = "cruel"
+	trait = "quick"
+	trait = "shrewd"
+	trait = "tough_soldier"
+	disallow_random_traits=yes
+	2465.1.1 = {
+		birth = yes
+	}
+	2525.1.1 = {
+		death = yes
+	}
+}
+23900015 = {
+	name = "Ahmad" #Sultan of Pekan
+	dynasty = 3843601 #Bumiwangda
+	father = 23900014 #Halim I
+	secret_religion="pusaka"
+	religion = "syafi"
+	culture = "malay" 
+	trait = "ambitious"
+	trait = "legit_bastard"
+	trait = "strong"
+	trait = "cruel"
+	trait = "wroth"
+	trait = "tough_soldier"
+	disallow_random_traits=yes
+	2500.1.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+23900016 = {
+	name = "Alauddin" #Restorer of Islam, Current Tunku
+	dynasty = 3843600 #Mahawangsa
+	father = 23900014 #Halim I
+	religion = "syafi"
+	culture = "malay" 
+	trait = "celibate"
+	trait = "mystic"
+	trait = "erudite"
+	trait = "shrewd"
+	trait = "genius"
+	trait = "mastermind_theologian"
+	disallow_random_traits=yes
+	2510.1.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+23900017 = {
+	name = "Rashid" #Sultan of Johor
+	dynasty = 3843600 #Mahawangsa
+	father = 23900014 #Halim I
+	religion = "syafi"
+	culture = "malay" 
+	trait = "just"
+	trait = "honest"
+	trait = "brave"
+	trait = "shrewd"
+	trait = "content"
+	trait = "tough_soldier"
+	disallow_random_traits=yes
+	2517.1.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+23900018 = {
+	name = "Abdul" #Sultan of Perak
+	dynasty = 3843600 #Mahawangsa
+	father = 23900014 #Halim I
+	religion = "syafi"
+	culture = "malay" 
+	trait = "stubborn"
+	trait = "honest"
+	trait = "brave"
+	trait = "lustful"
+	trait = "fair"
+	trait = "indulgent_wastrel"
+	disallow_random_traits=yes
+	2520.1.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+23900019 = {
+	name = "Ali" #Heir of Penang
+	dynasty = 3843600 #Mahawangsa
+	father = 23900013 #Sulaiman
+	religion = "syafi"
+	culture = "malay" 
+	trait = "stubborn"
+	trait = "brave"
+	trait = "lustful"
+	trait = "hedonist"
+	trait = "midas_touched"
+	disallow_random_traits=yes
+	2450.1.1 = {
+		birth = yes
+	}
+	2523.1.1 = {
+		death = yes
+	}
+}
+23900020 = {
+	name = "Muhammad" #Sultan of Kedah, Heir to the throne
+	dynasty = 3843600 #Mahawangsa
+	father = 23900016 #Alauddin I
+	religion = "syafi"
+	culture = "malay" 
+	trait = "zealous"
+	trait = "just"
+	trait = "duelist"
+	trait = "quick"
+	trait = "humble"
+	trait = "brilliant_strategist"
+	disallow_random_traits=yes
+	2535.1.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+23900021 = {
+	name = "Bakti" #Governor of Lipis
+	dynasty = 3843602 #Azmi
+	religion = "syafi"
+	culture = "temiar" 
+	trait = "strategist"
+	trait = "content"
+	trait = "humble"
+	trait = "tough_soldier"
+	disallow_random_traits=yes
+	2520.1.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+23900022 = {
+	name = "Badrul" #Sultan of Terengganu
+	dynasty = 3843603 #Bendahara
+	religion = "syafi"
+	culture = "malay" 
+	trait = "socializer"
+	trait = "content"
+	trait = "gregarious"
+	trait = "kind"
+	trait = "deceitful"
+	trait = "intricate_webweaver"
+	disallow_random_traits=yes
+	2520.1.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+23900023 = {
+	name = "Intera" #Sultan of Pattani
+	dynasty = 3843604 #Sirithani
+	religion = "syafi"
+	culture = "malay" 
+	trait = "socializer"
+	trait = "content"
+	trait = "gregarious"
+	trait = "kind"
+	trait = "deceitful"
+	trait = "intricate_webweaver"
+	disallow_random_traits=yes
+	2520.1.1 = {
+		birth = yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = siamese
+		}
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+23900024 = {
+	name = "Mahmud" #Lord of Penang
+	dynasty = 3843600 #Mahawangsa
+	father = 23900019 #Sulaiman
+	religion = "syafi"
+	culture = "malay" 
+	trait = "shrewd"
+	trait = "honest"
+	trait = "charitable"
+	trait = "architect"
+	trait = "midas_touched"
+	disallow_random_traits=yes
+	2510.1.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+23900025 = {
+	name = "Mahdi" #
+	dynasty = 3843609 #Razak
+	religion = "syafi"
+	culture = "malay" 
+	trait = "kind"
+	trait = "honest"
+	trait = "greedy"
+	trait = "charitable"
+	trait = "envious"
+	trait = "intricate_webweaver"
+	disallow_random_traits=yes
+	2525.1.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+23900026 = {
+	name = "Guanyu" #
+	dynasty = 3843611 #Chow
+	religion = "ramadi"
+	culture = "hokkien" 
+	trait = "lunatic"
+	trait = "brave"
+	trait = "quick"
+	trait = "unyielding_leader"
+	trait = "aggressive_leader"
+	trait = "brilliant_strategist"
+	disallow_random_traits=yes
+	2535.1.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+23900027 = {
+	name = "Jin-hong" #
+	dynasty = 3843612 #Lim
+	religion = "mahayana"
+	culture = "cina" 
+	trait = "cynical"
+	trait = "craven"
+	trait = "content"
+	trait = "deceitful"
+	trait = "kind"
+	trait = "naive_appeaser"
+	disallow_random_traits=yes
+	2530.1.1 = {
+		birth = yes		
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+23900028 = {
+	name = "Adul" #
+	dynasty = 3843610 #Veerasamy
+	religion = "theravada"
+	culture = "malay" 
+	trait = "zealous"
+	trait = "charitable"
+	trait = "content"
+	trait = "deceitful"
+	trait = "mystic"
+	trait = "naive_appeaser"
+	disallow_random_traits=yes
+	2530.1.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+23900029={
+	name="Intan"
+	dynasty=6015090
+	culture=mantawai
+	religion=baptist
+	diplomacy=3
+	martial=4
+	stewardship=4
+	intrigue=3
+	learning=2
+	trait="naive_appeaser"
+	trait="stubborn"
+	trait="arbitrary"
+	trait="wroth"
+	trait="lisp"
+	disallow_random_traits=yes
+	2525.1.4={
+	birth=yes
+	}
+	2666.1.1={
+	death=yes
+	}
+}
+23900030={
+	name="Soleh"
+	dynasty=6015745
+	culture=bangka
+	religion=pusaka
+	diplomacy=4
+	martial=2
+	stewardship=1
+	intrigue=4
+	learning=3
+	trait="flamboyant_schemer"
+	trait="seducer"
+	trait="lustful"
+	trait="gregarious"
+	trait="cynical"
+	disallow_random_traits=yes
+	2525.11.21={
+	birth=yes
+	}
+	2666.1.1={
+	death=yes
+	}
+}
+23900031={
+	name="Sandokan"
+	culture=punan
+	religion=east_brethren
+	dynasty=3855129
+	diplomacy=9
+	martial=9
+	stewardship=6
+	intrigue=5
+	learning=8
+	trait="skilled_tactician"
+	trait="seducer"
+	trait="brave"
+	trait="gregarious"
+	trait="ambitious"
+	trait="strong"
+	trait="greedy"
+	trait="diligent"
+	trait="proud"
+	2524.8.17={
+	birth=yes
+	}
+	2550.9.30={
+	give_nickname=nick_tiger_malaysia
+	}
+	2666.1.1={
+	death=yes
+	}
+}
+
+23900032={
+	name="Yi-chieng" #A pirate who taunts those who pass by his island
+	culture=cina
+	religion=east_brethren
+	dynasty=3843872
+	trait="tough_soldier"
+	trait="seducer"
+	trait="brave"
+	trait="gregarious"
+	trait="ambitious"
+	trait="drunkard"
+	trait="groomed"
+	trait="stressed"
+	trait="proud"
+	2523.8.1={
+		birth=yes		
+	}
+	2666.1.1={
+	death=yes
+	}
+}
+	

@@ -1,0 +1,16 @@
+# 2006 - Province2006
+
+# County Title
+title = c_province2006
+
+# Settlements
+max_settlements = 4
+b_barony2006` = castle
+b_barony2006a = temple
+b_barony2006b = city
+
+# Misc
+culture = panjabi
+religion = baltic_pagan
+
+# History

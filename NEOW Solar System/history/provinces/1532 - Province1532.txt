@@ -1,0 +1,17 @@
+# 1532 - Province1532
+
+# County Title
+title = c_province1532
+
+# Settlements
+max_settlements = 5
+b_barony1532` = city
+b_barony1532a = temple
+b_barony1532b = castle
+b_barony1532c = city
+
+# Misc
+culture = gaoshan
+religion = bon
+
+# History

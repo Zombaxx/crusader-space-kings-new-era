@@ -1,0 +1,17 @@
+# 1557 - Province1557
+
+# County Title
+title = c_province1557
+
+# Settlements
+max_settlements = 5
+b_barony1557` = city
+b_barony1557a = temple
+b_barony1557b = castle
+b_barony1557c = city
+
+# Misc
+culture = panjabi
+religion = bon
+
+# History

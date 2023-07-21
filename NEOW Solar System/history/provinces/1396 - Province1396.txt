@@ -1,0 +1,14 @@
+# 1396 - Province1396
+
+# County Title
+title = c_province1396
+
+# Settlements
+max_settlements = 2
+b_barony1396` = castle
+
+# Misc
+culture = gaoshan
+religion = taoist
+
+# History

@@ -1,0 +1,15 @@
+# 1320 - Province1320
+
+# County Title
+title = c_province1320
+
+# Settlements
+max_settlements = 5
+b_barony1320` = tribal
+b_barony1320a = temple
+
+# Misc
+culture = punjabi
+religion = taoist
+
+# History

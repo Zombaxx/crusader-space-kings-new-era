@@ -1,0 +1,15 @@
+# 880 - Province0880
+
+# County Title
+title = c_province0880
+
+# Settlements
+max_settlements = 3
+b_barony0880` = castle
+b_barony0880a = temple
+
+# Misc
+culture = kannada
+religion = vajrayana
+
+# History

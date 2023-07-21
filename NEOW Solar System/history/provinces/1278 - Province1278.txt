@@ -1,0 +1,16 @@
+# 1278 - Province1278
+
+# County Title
+title = c_province1278
+
+# Settlements
+max_settlements = 4
+b_barony1278` = castle
+b_barony1278a = temple
+b_barony1278b = city
+
+# Misc
+culture = mongol
+religion = old_hindu
+
+# History

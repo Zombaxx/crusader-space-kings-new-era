@@ -1,0 +1,15 @@
+# 1992 - Province1992
+
+# County Title
+title = c_province1992
+
+# Settlements
+max_settlements = 5
+b_barony1992` = tribal
+b_barony1992a = temple
+
+# Misc
+culture = persian
+religion = sufi
+
+# History

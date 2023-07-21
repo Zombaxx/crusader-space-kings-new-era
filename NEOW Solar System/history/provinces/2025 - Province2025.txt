@@ -1,0 +1,16 @@
+# 2025 - Province2025
+
+# County Title
+title = c_province2025
+
+# Settlements
+max_settlements = 4
+b_barony2025` = castle
+b_barony2025a = temple
+b_barony2025b = city
+
+# Misc
+culture = daju
+religion = baltic_pagan
+
+# History

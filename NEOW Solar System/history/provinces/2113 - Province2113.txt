@@ -1,0 +1,15 @@
+# 2113 - Province2113
+
+# County Title
+title = c_province2113
+
+# Settlements
+max_settlements = 3
+b_barony2113` = castle
+b_barony2113a = temple
+
+# Misc
+culture = frisian
+religion = sufi
+
+# History

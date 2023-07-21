@@ -1,0 +1,15 @@
+# 1042 - Province1042
+
+# County Title
+title = c_province1042
+
+# Settlements
+max_settlements = 3
+b_barony1042` = castle
+b_barony1042a = temple
+
+# Misc
+culture = punjabi
+religion = summer_queen
+
+# History

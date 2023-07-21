@@ -1,0 +1,15 @@
+# 302 - Province0302
+
+# County Title
+title = c_province0302
+
+# Settlements
+max_settlements = 6
+b_barony0302` = tribal
+b_barony0302a = temple
+
+# Misc
+culture = mongol
+religion = jewish
+
+# History

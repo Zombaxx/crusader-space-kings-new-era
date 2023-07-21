@@ -1,0 +1,15 @@
+# 1990 - Province1990
+
+# County Title
+title = c_province1990
+
+# Settlements
+max_settlements = 5
+b_barony1990` = tribal
+b_barony1990a = temple
+
+# Misc
+culture = persian
+religion = fraticelli
+
+# History

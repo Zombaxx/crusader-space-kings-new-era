@@ -1,0 +1,14 @@
+# 472 - Province0472
+
+# County Title
+title = c_province0472
+
+# Settlements
+max_settlements = 2
+b_barony0472` = castle
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

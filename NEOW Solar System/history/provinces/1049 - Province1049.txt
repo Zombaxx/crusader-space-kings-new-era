@@ -1,0 +1,16 @@
+# 1049 - Province1049
+
+# County Title
+title = c_province1049
+
+# Settlements
+max_settlements = 4
+b_barony1049` = castle
+b_barony1049a = temple
+b_barony1049b = city
+
+# Misc
+culture = darwinian
+religion = baptist
+
+# History

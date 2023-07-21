@@ -1,0 +1,17 @@
+# 1513 - Province1513
+
+# County Title
+title = c_province1513
+
+# Settlements
+max_settlements = 6
+b_barony1513` = castle
+b_barony1513a = temple
+b_barony1513b = city
+b_barony1513c = castle
+
+# Misc
+culture = alan
+religion = bon
+
+# History

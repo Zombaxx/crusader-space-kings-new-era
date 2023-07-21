@@ -1,0 +1,15 @@
+# 883 - Province0883
+
+# County Title
+title = c_province0883
+
+# Settlements
+max_settlements = 3
+b_barony0883` = castle
+b_barony0883a = temple
+
+# Misc
+culture = hindustani
+religion = old_hindu
+
+# History

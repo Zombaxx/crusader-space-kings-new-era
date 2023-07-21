@@ -1,0 +1,14 @@
+# 707 - Province0707
+
+# County Title
+title = c_province0707
+
+# Settlements
+max_settlements = 2
+b_barony0707` = castle
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 56 - Province0056
+
+# County Title
+title = c_province0056
+
+# Settlements
+max_settlements = 1
+b_barony0056` = tribal
+b_barony0056a = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

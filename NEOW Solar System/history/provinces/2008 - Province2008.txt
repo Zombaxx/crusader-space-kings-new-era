@@ -1,0 +1,16 @@
+# 2008 - Province2008
+
+# County Title
+title = c_province2008
+
+# Settlements
+max_settlements = 4
+b_barony2008` = castle
+b_barony2008a = temple
+b_barony2008b = city
+
+# Misc
+culture = daju
+religion = baltic_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 1322 - Province1322
+
+# County Title
+title = c_province1322
+
+# Settlements
+max_settlements = 5
+b_barony1322` = castle
+b_barony1322a = temple
+b_barony1322b = city
+b_barony1322c = castle
+
+# Misc
+culture = frisian
+religion = taoist
+
+# History

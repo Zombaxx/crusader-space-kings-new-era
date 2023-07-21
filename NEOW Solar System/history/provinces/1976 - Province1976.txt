@@ -1,0 +1,17 @@
+# 1976 - Province1976
+
+# County Title
+title = c_province1976
+
+# Settlements
+max_settlements = 5
+b_barony1976` = castle
+b_barony1976a = temple
+b_barony1976b = city
+b_barony1976c = castle
+
+# Misc
+culture = panjabi
+religion = baltic_pagan
+
+# History

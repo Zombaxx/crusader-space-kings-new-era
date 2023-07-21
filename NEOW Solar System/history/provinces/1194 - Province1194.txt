@@ -1,0 +1,15 @@
+# 1194 - Province1194
+
+# County Title
+title = c_province1194
+
+# Settlements
+max_settlements = 3
+b_barony1194` = castle
+b_barony1194a = temple
+
+# Misc
+culture = alan
+religion = hellenic_pagan
+
+# History

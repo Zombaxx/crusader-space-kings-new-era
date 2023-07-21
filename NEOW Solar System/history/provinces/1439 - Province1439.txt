@@ -1,0 +1,15 @@
+# 1439 - Province1439
+
+# County Title
+title = c_province1439
+
+# Settlements
+max_settlements = 3
+b_barony1439` = castle
+b_barony1439a = temple
+
+# Misc
+culture = panjabi
+religion = novelist
+
+# History

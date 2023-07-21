@@ -1,0 +1,16 @@
+# 962 - Province0962
+
+# County Title
+title = c_province0962
+
+# Settlements
+max_settlements = 4
+b_barony0962` = castle
+b_barony0962a = temple
+b_barony0962b = city
+
+# Misc
+culture = punjabi
+religion = summer_queen
+
+# History

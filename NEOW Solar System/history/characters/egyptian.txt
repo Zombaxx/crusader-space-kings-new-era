@@ -1,0 +1,2518 @@
+26664235 = {
+    name="Essam" 
+	dynasty=25554219
+	religion="sunni"
+	culture="misri"
+	diplomacy=5
+	martial=2
+	stewardship=5
+	intrigue=4
+	learning=4
+	trait="thrifty_clerk"
+	trait="just"	
+	trait="trusting"	
+	trait="kind"
+	trait="humble"
+	trait="patient"
+	2525.2.14={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664236 = { 	
+    name="Akhom" 
+	dynasty=1937003
+	religion="koptic"
+	culture="coptic"
+	diplomacy=3
+	martial=4
+	stewardship=2
+	intrigue=5
+	learning=6
+	trait="mastermind_theologian"
+	trait="temperate"	
+	trait="shrewd"
+	trait="patient"	
+	trait="ambitious"
+	trait="brave"
+	trait="administrator"
+	trait="just"
+	2527.3.18={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664237 = {
+    name="Ptolomaios" 
+	dynasty=2040200 #Ptolemaic dynasty
+	religion="hellenic_pagan"
+	culture="makedonas"
+	diplomacy=6
+	martial=10
+	stewardship=7
+	intrigue=5
+	learning=9
+	trait="skilled_tactician"
+	trait="brave"	
+	trait="gregarious"
+	trait="strategist"
+	trait="just"
+	trait="adventurer"
+	trait="sympathy_islam" #This way his Sunni overlord doesn't hate him
+	disallow_random_traits = yes
+	2525.1.20={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664238 = {
+    name="Suhaib" 
+	dynasty=25554222
+	religion="sunni"
+	culture="saidi"
+	diplomacy=2
+	martial=5
+	stewardship=6
+	intrigue=5
+	learning=2
+	trait="brilliant_strategist"
+	trait="heavy_infantry_leader"	
+	trait="zealous"	
+	trait="ambitious"
+	trait="gregarious"
+	trait="proud"
+	trait="quick"
+	2521.2.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664239 = {
+    name="Hanri" #Henry, Duke of Cairo 
+	dynasty=1938018 #Yuhnson/Johnson
+	religion="sunni"
+	secret_religion="thelemic_reformed"
+	culture="misri"
+	diplomacy=4
+	martial=7
+	stewardship=7
+	intrigue=0
+	learning=2
+	trait="midas_touched"
+	trait="ambitious"	
+	trait="brave"	
+	trait="paranoid"
+	trait="envious"	
+	2528.8.4={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664240 = {
+    name="Selim" 
+	dynasty=25554224
+	religion="sunni"
+	culture="misri"
+	diplomacy=7
+	martial=5
+	stewardship=8
+	intrigue=0
+	learning=0
+	trait="elusive_shadow"
+	trait="content"	
+	trait="greedy"	
+	trait="zealous"
+	trait="temperate"	
+	trait="sayyid"
+	2518.11.8={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664241 = {
+    name="Youssef" 
+	dynasty=25554225
+	religion="sunni"
+	culture="misri"
+	diplomacy=1
+	martial=2
+	stewardship=6
+	intrigue=2
+	learning=5
+	trait="thrifty_clerk"
+	trait="brave"	
+	trait="paranoid"	
+	trait="envious"
+	trait="slothful"	
+	2525.4.25={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+#Legendary Rulers of Egypt, supposedly...
+29664242 = {
+    name="Muhameti" #Muhammad Ali
+	dynasty=3921107
+	religion="sunni"
+	culture="arberian"
+	trait="midas_touched"
+	trait="legendary"
+	trait="ambitious"
+	trait="just"
+	trait="humble"
+	disallow_random_traits = yes
+	1769.4.3={
+		birth=yes
+	}
+	1849.8.2={
+		death=yes
+	}
+}
+29664243 = {
+    name="Ibrahimis"
+	dynasty=3921107
+	religion="sunni"
+	culture="rumca"
+	trait="legendary"
+	father=29664242
+	1789.1.1={
+		birth=yes
+	}
+	1848.11.10={
+		death=yes
+	}
+}
+
+29664244 = {
+    name="Abbas"
+	dynasty=3921107
+	religion="sunni"
+	culture="hejazi"
+	trait="legendary"
+	father=29664242
+	1812.7.1={
+		birth=yes
+	}
+	1854.7.13={
+		death=yes
+	}
+}
+
+29664245 = {
+    name="Sa'id"
+	dynasty=3921107
+	religion="sunni"
+	culture="misri"
+	trait="legendary"
+	father=29664242
+	1822.3.17={
+		birth=yes
+	}
+	1863.1.17={
+		death=yes
+	}
+}
+
+29664246 = {
+    name="Ismail"
+	dynasty=3921107
+	religion="sunni"
+	culture="misri"
+	trait="legendary"
+	father=29664243
+	1830.12.31={
+		birth=yes
+	}
+	1895.3.2={
+		death=yes
+	}
+}
+
+29664247 = {
+    name="Tewfik"
+	dynasty=3921107
+	religion="sunni"
+	culture="misri"
+	trait="legendary"
+	father=29664246
+	1852.11.15={
+		birth=yes
+	}
+	1892.1.7={
+		death=yes
+	}
+}
+
+29664248 = {
+    name="Abbas"
+	dynasty=3921107
+	religion="sunni"
+	culture="misri"
+	trait="legendary"
+	father=29664247
+	1874.7.14={
+		birth=yes
+	}
+	1944.12.19={
+		death=yes
+	}
+}
+
+29664249 = {
+    name="Hussein Kamel"
+	dynasty=3921107
+	religion="sunni"
+	culture="misri"
+	trait="legendary"
+	father=29664246
+	1853.11.21={
+		birth=yes
+	}
+	1917.10.9={
+		death=yes
+	}
+}
+
+29664250 = {
+    name="Fuad"
+	dynasty=3921107
+	religion="sunni"
+	culture="misri"
+	trait="legendary"
+	father=29664246
+	1869.3.26={
+		birth=yes
+	}
+	1937.4.28={
+		death=yes
+	}
+}
+
+29664251 = {
+    name="Farouk"
+	dynasty=3921107
+	religion="sunni"
+	culture="misri"
+	trait="legendary"
+	father=29664250
+	1920.2.11={
+		birth=yes
+	}
+	1965.3.18={
+		death=yes
+	}
+}
+
+29664252 = {
+    name="Fuad"
+	dynasty=3921107
+	religion="sunni"
+	culture="misri"
+	trait="legendary"
+	father=29664250
+	1932.1.16={
+		birth=yes
+	}
+	1955.6.18={
+		death=yes
+	}
+}
+
+29664253 = {
+    name="Gamal"
+	dynasty=3921106
+	religion="sunni"
+	culture="misri"
+	trait="legendary"
+	trait="midas_touched"
+	trait="ambitious"
+	trait="gregarious"
+	disallow_random_traits = yes
+	1918.1.15={
+		birth=yes
+	}
+	2050.1.1={
+		death=yes
+	}
+}
+
+29664254 = {
+    name="Danyal" #First ruler of a united Egypt, managed through delicate governance
+	dynasty=1938000
+	religion="sunni"
+	culture="misri"
+	trait="grey_eminence"
+	trait="ambitious"
+	trait="just"
+	trait="patient"
+	2100.1.1={
+		birth=yes
+	}
+	2155.1.1={ #Dies without any children, causing a brief succession crisis
+		death=yes
+	}
+}
+
+29664255 = {
+    name="Daoud" #General Daoud, elected by the nobility as an interim ruler to maintain peace
+	dynasty=1938001
+	religion="sunni"
+	culture="misri"
+	trait="just"
+	trait="patient"
+	trait="tough_soldier"
+	2120.1.1={
+		birth=yes
+	}
+	2157.1.1={
+		death=yes
+	}
+}
+
+29664256 = {
+    name="Habil" #General Habil, succeeds Daoud after his unexpected death. The nobility still can't decide on a ruler
+	dynasty=1938006
+	religion="sunni"
+	culture="misri"
+	trait="just"
+	trait="patient"
+	trait="sympathy_christendom"
+	trait="tough_soldier"
+	2124.1.1={
+		birth=yes
+	}
+	2165.1.1={
+		death=yes
+	}
+}
+
+29664257 = {
+    name="Walid" #General Walid, a cunning and ambitious noble. Frustrated with the lackluster pace of the council nobles, Walid and his troops seized the throne with force.
+	dynasty=1939002
+	religion="sunni"
+	culture="misri"
+	trait="ambitious"
+	trait="patient"
+	trait="cynical"
+	trait="tough_soldier"
+	2123.1.1={
+		birth=yes
+	}
+	2190.1.1={
+		death=yes
+	}
+}
+
+29664258 = {
+    name="Nasir" #Nasir I, son of Walid the Usurper. Ruled with confidence and Egypt thrived with his peaceful reign.
+	dynasty=1939002
+	religion="sunni"
+	culture="misri"
+	trait="just"
+	trait="gregarious"
+	trait="zealous"
+	trait="midas_touched"
+	father=29664257
+	2143.1.1={
+		birth=yes
+	}
+	2195.1.1={
+		death=yes
+	}
+}
+
+29664259 = {
+    name="Nasir" #Nasir II, son of Nasir I. Continued his father's policies.
+	dynasty=1939002
+	religion="sunni"
+	culture="misri"
+	trait="sympathy_christendom"
+	father=29664258
+	2160.1.1={
+		birth=yes
+	}
+	2220.1.1={
+		death=yes
+	}
+}
+
+29664260 = {
+    name="Yahya" #Yahya, son of Nasir II. Mainly known for his gambling habit and greed, and the start of troubling times...
+	dynasty=1939002
+	religion="sunni"
+	culture="misri"
+	trait="greedy"
+	trait="arbitrary"
+	trait="indulgent_wastrel"
+	father=29664259
+	2180.1.1={
+		birth=yes
+	}
+	2240.1.1={
+		death=yes
+	}
+}
+
+29664261 = {
+    name="Ezzat" #Ezzat, son of Yahya. Even more out of touch than his father. Killed while putting down a Coptic peasant uprising out in the countryside.
+	dynasty=1939002
+	religion="sunni"
+	culture="misri"
+	trait="craven"
+	trait="arbitrary"
+	trait="indulgent_wastrel"
+	father=29664260
+	2215.1.1={
+		birth=yes
+	}
+	2243.1.1={
+		death=yes
+	}
+}
+
+29664262 = {
+    name="Tadros" #Tardos the peasant leader. After storming the palace in Cairo and killing the remaining royal family, he declared himself king.
+	dynasty=1937000
+	religion="koptic"
+	culture="coptic"
+	trait="brave"
+	trait="cruel"
+	trait="peasant_leader"
+	trait="misguided_warrior"
+	2215.1.1={
+		birth=yes
+	}
+	2250.1.1={
+		death=yes
+	}
+}
+
+29664263 = {
+    name="Krystafer" #Krystafer, son of Tadros the Black. Attempted a more moderate governing policy.
+	dynasty=1937000
+	religion="koptic"
+	culture="coptic"
+	trait="just"
+	trait="kind"
+	trait="sympathy_islam"
+	father=29664262
+	2244.1.1={
+		birth=yes
+	}
+	2290.1.1={
+		death=yes
+	}
+}
+
+29664264 = {
+    name="Marcos" #Marcos, son of Krystafer the Kind. Noted for his eating habits and lack of interest in governing. In his later years, uprisings breakout over numerous issues that divided the kingdom.
+	dynasty=1937000
+	religion="koptic"
+	culture="coptic"
+	trait="gluttonous"
+	trait="arbitrary"
+	father=29664263
+	2270.1.1={
+		birth=yes
+	}
+	2315.1.1={ 
+		death=yes
+	}
+}
+
+29664265 = {
+    name="Ilyas" #Ilyas, son of Marcos the Fat. A young prince thrusted into chaos, as his father's inaction to the kingdom's issues caused uproars all over. His regency council was corrupt, and was later exiled by James the Briton. His true fate is unknown.
+	dynasty=1937000
+	religion="koptic"
+	culture="coptic"
+	father=29664264
+	2310.1.1={
+		birth=yes
+	}
+	2320.1.1={
+		death=yes
+	}
+}
+
+29664266 = {
+    name="Jamys" #James Ainsworth. A wealthy but lunatic noble from lands far away, called "Britanya" according to some merchants that have been there. With his merecenaries, James took advantage of the chaos and proclaimed himself as King of Egypt.
+	dynasty=3833677
+	religion="thelemic" #Notable for introducing Thelema to Egypt, although the Egyptians viewed it as outlandish and thus rarely converted. But a few were convinced however...
+	culture="british"
+	trait="brave"
+	trait="ambitious"
+	trait="zealous"
+	trait="lunatic"
+	trait="proud"
+	trait="thrifty_clerk"
+	disallow_random_traits = yes
+	2280.1.1={
+		birth=yes
+	}
+	2335.1.1={ #Amazingly, James held power for 15 years, although it was never stable. Using his vast fortunes to bribe the various nobles to do his bidding, he held out until his sudden death. 
+		death=yes #With the "foreigner" out of the question, Egypt had not been united since. Factionalism remained high, and trust was nonexistant among the people.
+	}
+}
+
+29664267 = {
+    name="Izzaddin" #Vassal under Aswan
+	dynasty=1939007
+	religion="sunni"
+	culture="misri"
+	2520.1.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+29664268 = {
+    name="Aghlab" #Vassal under Aswan
+	dynasty=1944006
+	religion="sunni"
+	culture="bedouin_arabic"
+	2523.7.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+29664269 = {
+    name="Abdelmadjid" #Vassal under Aswan
+	dynasty=1939140
+	religion="sunni"
+	culture="saidi"
+	2519.4.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+29664270 = {
+    name="Rashad" #Vassal under Sinai
+	dynasty=1946006
+	religion="sunni"
+	culture="levantine_arabic"
+	2528.4.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+29664271 = {
+    name="Muhammad" #Vassal under Sinai
+	dynasty=1944008
+	religion="sunni"
+	culture="bedouin_arabic"
+	2524.12.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+29664272 = {
+    name="Ayub" #Vassal under Alexandria
+	dynasty=1938017
+	religion="koptic"
+	culture="coptic"
+	2525.10.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+#### Coptic Popes, help me #######
+
+29664273 = {
+    name="Marcos"
+	religion="koptic"
+	culture="coptic"
+	dynasty = 31110011
+	occluded = yes
+	trait = "legendary"
+	5.1.1={
+		birth=yes
+		give_nickname=nick_evangelist
+		
+	}
+	68.1.1={
+		death=yes
+	}
+}
+
+29664274 = {
+    name="Anianos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	20.1.1={
+		birth=yes
+	}
+	86.1.1={
+		death=yes
+	}
+}
+
+29664275 = {
+    name="Milieos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	32.1.1={
+		birth=yes
+	}
+	95.1.1={
+		death=yes
+	}
+}
+
+29664276 = {
+    name="Kerdonou"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	40.1.1={
+		birth=yes
+	}
+	106.1.1={
+		death=yes
+	}
+}
+
+29664277 = {
+    name="Epriemou"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	50.1.1={
+		birth=yes
+	}
+	118.1.1={
+		death=yes
+	}
+}
+
+29664278 = {
+    name="Iostos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	65.1.1={
+		birth=yes
+	}
+	129.1.1={
+		death=yes
+	}
+}
+
+29664279 = {
+    name="Oumenios"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	70.1.1={
+		birth=yes
+	}
+	141.1.1={
+		death=yes
+	}
+}
+
+29664280 = {
+    name="Markianos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	80.1.1={
+		birth=yes
+	}
+	152.1.1={
+		death=yes
+	}
+}
+
+29664281 = {
+    name="Kalavtianos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	100.1.1={
+		birth=yes
+	}
+	166.1.1={
+		death=yes
+	}
+}
+
+29664282 = {
+    name="Aghreppinios"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	115.1.1={
+		birth=yes
+	}
+	178.1.1={
+		death=yes
+	}
+}
+
+29664283 = {
+    name="Yulianos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	128.1.1={
+		birth=yes
+	}
+	188.1.1={
+		death=yes
+	}
+}
+
+29664284 = {
+    name="Demetrios"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	160.1.1={
+		birth=yes
+	}
+	230.1.1={
+		death=yes
+	}
+}
+
+29664285 = {
+    name="Yaraklas"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	190.1.1={
+		birth=yes
+	}
+	246.1.1={
+		death=yes
+	}
+}
+
+29664286 = {
+    name="Dionysios"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	200.1.1={
+		birth=yes
+	}
+	264.1.1={
+		death=yes
+	}
+}
+
+29664287 = {
+    name="Maximos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	220.1.1={
+		birth=yes
+	}
+	282.1.1={
+		death=yes
+	}
+}
+
+29664288 = {
+    name="Theona"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	250.1.1={
+		birth=yes
+	}
+	301.1.1={
+		death=yes
+	}
+}
+
+29664289 = {
+    name="Petros"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	250.1.1={
+		birth=yes
+	}
+	311.1.1={
+		death=yes
+	}
+}
+
+29664290 = {
+    name="Archelaos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	255.1.1={
+		birth=yes
+	}
+	312.1.1={
+		death=yes
+	}
+}
+
+29664291 = {
+    name="Alexanderos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	266.1.1={
+		birth=yes
+	}
+	328.1.1={
+		death=yes
+	}
+}
+
+29664292 = {
+    name="Athanasios"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	300.1.1={
+		birth=yes
+	}
+	373.1.1={
+		death=yes
+	}
+}
+
+29664293 = {
+    name="Petros"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	319.1.1={
+		birth=yes
+	}
+	379.1.1={
+		death=yes
+	}
+}
+
+29664294 = {
+    name="Timotheos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	330.1.1={
+		birth=yes
+	}
+	385.1.1={
+		death=yes
+	}
+}
+
+29664295 = {
+    name="Theophilos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	360.1.1={
+		birth=yes
+	}
+	412.1.1={
+		death=yes
+	}
+}
+
+29664296 = {
+    name="Kyrillos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	376.1.1={
+		birth=yes
+	}
+	444.1.1={
+		death=yes
+	}
+}
+
+29664297 = {
+    name="Dioscoros"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	384.1.1={
+		birth=yes
+	}
+	454.1.1={
+		death=yes
+	}
+}
+
+29664298 = {
+    name="Timotheos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	400.1.1={
+		birth=yes
+	}
+	477.1.1={
+		death=yes
+	}
+}
+
+29664299 = {
+    name="Petros"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	420.1.1={
+		birth=yes
+	}
+	489.1.1={
+		death=yes
+	}
+}
+
+29664300 = {
+    name="Athanasios"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	433.1.1={
+		birth=yes
+	}
+	496.1.1={
+		death=yes
+	}
+}
+
+29664301 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	450.1.1={
+		birth=yes
+	}
+	505.1.1={
+		death=yes
+	}
+}
+
+29664302 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	457.1.1={
+		birth=yes
+	}
+	516.1.1={
+		death=yes
+	}
+}
+
+29664303 = {
+    name="Dioscoros"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	464.1.1={
+		birth=yes
+	}
+	518.1.1={
+		death=yes
+	}
+}
+
+29664304 = {
+    name="Timotheos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	469.1.1={
+		birth=yes
+	}
+	536.1.1={
+		death=yes
+	}
+}
+
+29664305 = {
+    name="Theodosios"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	490.1.1={
+		birth=yes
+	}
+	567.1.1={
+		death=yes
+	}
+}
+
+29664306 = {
+    name="Petros"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	501.1.1={
+		birth=yes
+	}
+	569.1.1={
+		death=yes
+	}
+}
+
+29664307 = {
+    name="Damianos"
+	religion="koptic"
+	culture="siryon"
+	trait = "legendary"
+	530.1.1={
+		birth=yes
+	}
+	605.1.1={
+		death=yes
+	}
+}
+
+29664308 = {
+    name="Anastasios"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	550.1.1={
+		birth=yes
+	}
+	616.1.1={
+		death=yes
+	}
+}
+
+29664309 = {
+    name="Andronikos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	565.1.1={
+		birth=yes
+	}
+	623.1.1={
+		death=yes
+	}
+}
+
+29664310 = {
+    name="Binyamin"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	590.1.1={
+		birth=yes
+	}
+	662.1.1={
+		death=yes
+	}
+}
+
+29664311 = {
+    name="Aghathon"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	608.1.1={
+		birth=yes
+	}
+	662.1.1={
+		death=yes
+	}
+}
+
+29664312 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	627.1.1={
+		birth=yes
+	}
+	689.1.1={
+		death=yes
+	}
+}
+
+29664313 = {
+    name="Ishaac"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	633.1.1={
+		birth=yes
+	}
+	692.1.1={
+		death=yes
+	}
+}
+
+29664314 = {
+    name="Simeon"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	635.1.1={
+		birth=yes
+	}
+	700.1.1={
+		death=yes
+	}
+}
+
+29664315 = {
+    name="Alexanderos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	660.1.1={
+		birth=yes
+	}
+	729.1.1={
+		death=yes
+	}
+}
+
+29664316 = {
+    name="Kosma"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	662.1.1={
+		birth=yes
+	}
+	730.1.1={
+		death=yes
+	}
+}
+
+29664317 = {
+    name="Tawadros"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	670.1.1={
+		birth=yes
+	}
+	742.1.1={
+		death=yes
+	}
+}
+
+29664318 = {
+    name="Mikhail"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	700.1.1={
+		birth=yes
+	}
+	767.1.1={
+		death=yes
+	}
+}
+
+29664319 = {
+    name="Mina"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	710.1.1={
+		birth=yes
+	}
+	776.1.1={
+		death=yes
+	}
+}
+
+29664320 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	730.1.1={
+		birth=yes
+	}
+	799.1.1={
+		death=yes
+	}
+}
+
+29664321 = {
+    name="Marcos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	750.1.1={
+		birth=yes
+	}
+	819.1.1={
+		death=yes
+	}
+}
+
+29664322 = {
+    name="Yakobos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	775.1.1={
+		birth=yes
+	}
+	830.1.1={
+		death=yes
+	}
+}
+
+29664323 = {
+    name="Simeon"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	770.1.1={
+		birth=yes
+	}
+	830.10.13={
+		death=yes
+	}
+}
+
+29664324 = {
+    name="Yousab"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	790.1.1={
+		birth=yes
+	}
+	849.1.1={
+		death=yes
+	}
+}
+
+29664325 = {
+    name="Mikhail"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	795.1.1={
+		birth=yes
+	}
+	851.1.1={
+		death=yes
+	}
+}
+
+29664326 = {
+    name="Kosma"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	798.1.1={
+		birth=yes
+	}
+	858.1.1={
+		death=yes
+	}
+}
+
+29664327 = {
+    name="Shenoute"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	817.1.1={
+		birth=yes
+	}
+	880.1.1={
+		death=yes
+	}
+}
+
+29664328 = {
+    name="Mikhail"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	840.1.1={
+		birth=yes
+	}
+	907.1.1={
+		death=yes
+	}
+}
+
+29664329 = {
+    name="Gabriel"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	860.1.1={
+		birth=yes
+	}
+	920.1.1={
+		death=yes
+	}
+}
+
+29664330 = {
+    name="Kosma"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	880.1.1={
+		birth=yes
+	}
+	932.1.1={
+		death=yes
+	}
+}
+
+29664331 = {
+    name="Macarios"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	895.1.1={
+		birth=yes
+	}
+	952.1.1={
+		death=yes
+	}
+}
+
+29664332 = {
+    name="Theophilos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	896.1.1={
+		birth=yes
+	}
+	956.1.1={
+		death=yes
+	}
+}
+
+29664333 = {
+    name="Mina"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	910.1.1={
+		birth=yes
+	}
+	974.1.1={
+		death=yes
+	}
+}
+
+29664334 = {
+    name="Avraam"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	920.1.1={
+		birth=yes
+	}
+	978.1.1={
+		death=yes
+	}
+}
+
+29664335 = {
+    name="Philotheos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	950.1.1={
+		birth=yes
+	}
+	1003.1.1={
+		death=yes
+	}
+}
+
+29664336 = {
+    name="Zacharias"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	970.1.1={
+		birth=yes
+	}
+	1032.1.1={
+		death=yes
+	}
+}
+
+29664337 = {
+    name="Shenoute"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	990.1.1={
+		birth=yes
+	}
+	1046.1.1={
+		death=yes
+	}
+}
+
+29664338 = {
+    name="Khristodoulos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1010.1.1={
+		birth=yes
+	}
+	1077.1.1={
+		death=yes
+	}
+}
+
+29664339 = {
+    name="Kyrillos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1040.1.1={
+		birth=yes
+	}
+	1092.1.1={
+		death=yes
+	}
+}
+
+29664340 = {
+    name="Mikhail"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1050.1.1={
+		birth=yes
+	}
+	1102.1.1={
+		death=yes
+	}
+}
+
+29664341 = {
+    name="Macarios"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1070.1.1={
+		birth=yes
+	}
+	1128.1.1={
+		death=yes
+	}
+}
+
+29664342 = {
+    name="Gabriel"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1090.1.1={
+		birth=yes
+	}
+	1145.1.1={
+		death=yes
+	}
+}
+
+29664343 = {
+    name="Mikhail"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1080.1.1={
+		birth=yes
+	}
+	1146.1.1={
+		death=yes
+	}
+}
+
+29664344 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1098.1.1={
+		birth=yes
+	}
+	1166.1.1={
+		death=yes
+	}
+}
+
+29664345 = {
+    name="Marcos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1120.1.1={
+		birth=yes
+	}
+	1189.1.1={
+		death=yes
+	}
+}
+
+29664346 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1160.1.1={
+		birth=yes
+	}
+	1216.1.1={
+		death=yes
+	}
+}
+
+29664347 = {
+    name="Kyrillos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1090.1.1={
+		birth=yes
+	}
+	1243.1.1={
+		death=yes
+	}
+}
+
+29664348 = {
+    name="Athanasios"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1200.1.1={
+		birth=yes
+	}
+	1261.1.1={
+		death=yes
+	}
+}
+
+29664349 = {
+    name="Gabriel"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1220.1.1={
+		birth=yes
+	}
+	1271.1.1={
+		death=yes
+	}
+}
+
+29664350 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1230.1.1={
+		birth=yes
+	}
+	1293.1.1={
+		death=yes
+	}
+}
+
+29664351 = {
+    name="Theodosios"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1240.1.1={
+		birth=yes
+	}
+	1300.1.1={
+		death=yes
+	}
+}
+
+29664352 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1258.1.1={
+		birth=yes
+	}
+	1320.1.1={
+		death=yes
+	}
+}
+
+29664353 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1265.1.1={
+		birth=yes
+	}
+	1327.1.1={
+		death=yes
+	}
+}
+
+29664354 = {
+    name="Binyamin"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1270.1.1={
+		birth=yes
+	}
+	1339.1.1={
+		death=yes
+	}
+}
+
+29664355 = {
+    name="Petros"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1280.1.1={
+		birth=yes
+	}
+	1348.1.1={
+		death=yes
+	}
+}
+
+29664356 = {
+    name="Marcos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1305.1.1={
+		birth=yes
+	}
+	1363.1.1={
+		death=yes
+	}
+}
+
+29664357 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1308.1.1={
+		birth=yes
+	}
+	1369.1.1={
+		death=yes
+	}
+}
+
+29664358 = {
+    name="Gabriel"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1312.1.1={
+		birth=yes
+	}
+	1378.1.1={
+		death=yes
+	}
+}
+
+29664359 = {
+    name="Matheos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1340.1.1={
+		birth=yes
+	}
+	1408.1.1={
+		death=yes
+	}
+}
+
+29664360 = {
+    name="Gabriel"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1360.1.1={
+		birth=yes
+	}
+	1427.1.1={
+		death=yes
+	}
+}
+
+29664361 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1390.1.1={
+		birth=yes
+	}
+	1452.1.1={
+		death=yes
+	}
+}
+
+29664362 = {
+    name="Matheos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1410.1.1={
+		birth=yes
+	}
+	1465.1.1={
+		death=yes
+	}
+}
+
+29664363 = {
+    name="Gabriel"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1415.1.1={
+		birth=yes
+	}
+	1474.1.1={
+		death=yes
+	}
+}
+
+29664364 = {
+    name="Mikhail"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1416.1.1={
+		birth=yes
+	}
+	1478.1.1={
+		death=yes
+	}
+}
+
+29664365 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1420.1.1={
+		birth=yes
+	}
+	1483.1.1={
+		death=yes
+	}
+}
+
+29664366 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1450.1.1={
+		birth=yes
+	}
+	1524.1.1={
+		death=yes
+	}
+}
+
+29664367 = {
+    name="Gabriel"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1500.1.1={
+		birth=yes
+	}
+	1568.1.1={
+		death=yes
+	}
+}
+
+29664368 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1520.1.1={
+		birth=yes
+	}
+	1586.1.1={
+		death=yes
+	}
+}
+
+29664369 = {
+    name="Gabriel"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1552.1.1={
+		birth=yes
+	}
+	1603.1.1={
+		death=yes
+	}
+}
+
+29664370 = {
+    name="Marcos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1560.1.1={
+		birth=yes
+	}
+	1619.1.1={
+		death=yes
+	}
+}
+
+29664371 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1560.1.1={
+		birth=yes
+	}
+	1629.1.1={
+		death=yes
+	}
+}
+
+29664372 = {
+    name="Matheos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1580.1.1={
+		birth=yes
+	}
+	1646.1.1={
+		death=yes
+	}
+}
+
+29664373 = {
+    name="Marcos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1603.1.1={
+		birth=yes
+	}
+	1656.1.1={
+		death=yes
+	}
+}
+
+29664374 = {
+    name="Matheos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1610.1.1={
+		birth=yes
+	}
+	1675.1.1={
+		death=yes
+	}
+}
+
+29664375 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1640.1.1={
+		birth=yes
+	}
+	1718.1.1={
+		death=yes
+	}
+}
+
+29664376 = {
+    name="Petros"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1665.1.1={
+		birth=yes
+	}
+	1726.1.1={
+		death=yes
+	}
+}
+
+29664377 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1680.1.1={
+		birth=yes
+	}
+	1745.1.1={
+		death=yes
+	}
+}
+
+29664378 = {
+    name="Marcos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1701.1.1={
+		birth=yes
+	}
+	1769.1.1={
+		death=yes
+	}
+}
+
+29664379 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1720.1.1={
+		birth=yes
+	}
+	1796.1.1={
+		death=yes
+	}
+}
+
+29664380 = {
+    name="Marcos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1740.1.1={
+		birth=yes
+	}
+	1809.1.1={
+		death=yes
+	}
+}
+
+29664381 = {
+    name="Petros"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1775.1.1={
+		birth=yes
+	}
+	1852.1.1={
+		death=yes
+	}
+}
+
+29664382 = {
+    name="Kyrillos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1801.1.1={
+		birth=yes
+	}
+	1862.1.1={
+		death=yes
+	}
+}
+
+29664383 = {
+    name="Demetrios"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1810.1.1={
+		birth=yes
+	}
+	1870.1.1={
+		death=yes
+	}
+}
+
+29664384 = {
+    name="Kyrillos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1859.1.1={
+		birth=yes
+	}
+	1927.1.1={
+		death=yes
+	}
+}
+
+29664385 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1855.1.1={
+		birth=yes
+	}
+	1942.1.1={
+		death=yes
+	}
+}
+
+29664386 = {
+    name="Macarios"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1875.1.1={
+		birth=yes
+	}
+	1945.1.1={
+		death=yes
+	}
+}
+
+29664387 = {
+    name="Yousab"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1890.1.1={
+		birth=yes
+	}
+	1956.1.1={
+		death=yes
+	}
+}
+
+29664388 = {
+    name="Kyrillos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1903.1.1={
+		birth=yes
+	}
+	1971.1.1={
+		death=yes
+	}
+}
+
+29664389 = {
+    name="Shenoute"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	1923.1.1={
+		birth=yes
+	}
+	2000.1.1={
+		death=yes
+	}
+}
+
+
+####Event happens here####
+
+29664390 = {
+    name="Marcos"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	2080.1.1={
+		birth=yes
+	}
+	2140.1.1={
+		death=yes
+	}
+}
+
+29664391 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	trait = "legendary"
+	2100.1.1={
+		birth=yes
+	}
+	2165.1.1={
+		death=yes
+	}
+}
+
+29664392 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	2105.1.1={
+		birth=yes
+	}
+	2171.1.1={
+		death=yes
+	}
+}
+
+29664393 = {
+    name="Gabriel"
+	religion="koptic"
+	culture="coptic"
+	2140.1.1={
+		birth=yes
+	}
+	2209.1.1={
+		death=yes
+	}
+}
+
+29664394 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	2170.1.1={
+		birth=yes
+	}
+	2230.1.1={
+		death=yes
+	}
+}
+
+29664395 = {
+    name="Matheos"
+	religion="koptic"
+	culture="coptic"
+	2182.1.1={
+		birth=yes
+	}
+	2252.1.1={
+		death=yes
+	}
+}
+
+29664396 = {
+    name="Tawadros"
+	religion="koptic"
+	culture="coptic"
+	2201.1.1={
+		birth=yes
+	}
+	2270.1.1={
+		death=yes
+	}
+}
+
+29664397 = {
+    name="Petros"
+	religion="koptic"
+	culture="coptic"
+	2220.1.1={
+		birth=yes
+	}
+	2297.1.1={
+		death=yes
+	}
+}
+
+29664398 = {
+    name="Macarios"
+	religion="koptic"
+	culture="coptic"
+	2250.1.1={
+		birth=yes
+	}
+	2308.1.1={
+		death=yes
+	}
+}
+
+29664399 = {
+    name="Shenoute"
+	religion="koptic"
+	culture="coptic"
+	2268.1.1={
+		birth=yes
+	}
+	2325.1.1={
+		death=yes
+	}
+}
+
+29664400 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	2281.1.1={
+		birth=yes
+	}
+	2340.1.1={
+		death=yes
+	}
+}
+
+29664401 = {
+    name="Theophilos"
+	religion="koptic"
+	culture="coptic"
+	2299.1.1={
+		birth=yes
+	}
+	2367.1.1={
+		death=yes
+	}
+}
+
+29664402 = {
+    name="Tawadros"
+	religion="koptic"
+	culture="coptic"
+	2291.1.1={
+		birth=yes
+	}
+	2369.1.1={
+		death=yes
+	}
+}
+
+29664403 = {
+    name="Gabriel"
+	religion="koptic"
+	culture="coptic"
+	2303.1.1={
+		birth=yes
+	}
+	2370.1.1={
+		death=yes
+	}
+}
+
+29664404 = {
+    name="Gabriel"
+	religion="koptic"
+	culture="coptic"
+	2320.1.1={
+		birth=yes
+	}
+	2394.1.1={
+		death=yes
+	}
+}
+
+29664405 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	2365.1.1={
+		birth=yes
+	}
+	2405.1.1={
+		death=yes
+	}
+}
+
+29664406 = {
+    name="Mikhail"
+	religion="koptic"
+	culture="coptic"
+	2370.1.1={
+		birth=yes
+	}
+	2421.1.1={
+		death=yes
+	}
+}
+
+29664407 = {
+    name="Marcos"
+	religion="koptic"
+	culture="coptic"
+	2382.1.1={
+		birth=yes
+	}
+	2440.1.1={
+		death=yes
+	}
+}
+
+29664408 = {
+    name="Shenoute"
+	religion="koptic"
+	culture="coptic"
+	2398.1.1={
+		birth=yes
+	}
+	2467.1.1={
+		death=yes
+	}
+}
+
+29664409 = {
+    name="Yousab"
+	religion="koptic"
+	culture="coptic"
+	2403.1.1={
+		birth=yes
+	}
+	2475.1.1={
+		death=yes
+	}
+}
+
+29664410 = {
+    name="Yakobos"
+	religion="koptic"
+	culture="coptic"
+	2420.1.1={
+		birth=yes
+	}
+	2484.1.1={
+		death=yes
+	}
+}
+
+29664411 = {
+    name="Yakobos"
+	religion="koptic"
+	culture="coptic"
+	2425.1.1={
+		birth=yes
+	}
+	2490.1.1={
+		death=yes
+	}
+}
+
+29664412 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	2429.1.1={
+		birth=yes
+	}
+	2498.1.1={
+		death=yes
+	}
+}
+
+29664413 = {
+    name="Mikhail"
+	religion="koptic"
+	culture="coptic"
+	2435.1.1={
+		birth=yes
+	}
+	2504.1.1={
+		death=yes
+	}
+}
+
+29664414 = {
+    name="Gabriel"
+	religion="koptic"
+	culture="coptic"
+	2440.1.1={
+		birth=yes
+	}
+	2509.1.1={
+		death=yes
+	}
+}
+
+29664415 = {
+    name="Kyrillos"
+	religion="koptic"
+	culture="coptic"
+	2450.1.1={
+		birth=yes
+	}
+	2525.1.1={
+		death=yes
+	}
+}
+
+29664416 = {
+    name="Yoannis"
+	religion="koptic"
+	culture="coptic"
+	2481.1.1={
+		birth=yes
+	}
+	2540.8.3={
+		death=yes
+	}
+}
+# End of Coptic Popes
+
+29664417 = {
+    name="Mubarak" #Vassal under Cairo
+	dynasty=1944018
+	religion="sunni"
+	culture="bedouin_arabic"
+	2530.6.12={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}

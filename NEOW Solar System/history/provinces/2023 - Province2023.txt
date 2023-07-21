@@ -1,0 +1,16 @@
+# 2023 - Province2023
+
+# County Title
+title = c_province2023
+
+# Settlements
+max_settlements = 4
+b_barony2023` = castle
+b_barony2023a = temple
+b_barony2023b = city
+
+# Misc
+culture = daju
+religion = baltic_pagan
+
+# History

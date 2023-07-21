@@ -1,0 +1,17 @@
+# 407 - Province0407
+
+# County Title
+title = c_province0407
+
+# Settlements
+max_settlements = 5
+b_barony0407` = castle
+b_barony0407a = temple
+b_barony0407b = city
+b_barony0407c = castle
+
+# Misc
+culture = turkish
+religion = zoroastrian
+
+# History

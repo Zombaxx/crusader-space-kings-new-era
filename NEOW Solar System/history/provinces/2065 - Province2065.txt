@@ -1,0 +1,18 @@
+# 2065 - Province2065
+
+# County Title
+title = c_province2065
+
+# Settlements
+max_settlements = 7
+b_barony2065` = castle
+b_barony2065a = temple
+b_barony2065b = city
+b_barony2065c = castle
+b_barony2065d = temple
+
+# Misc
+culture = persian
+religion = fraticelli
+
+# History

@@ -1,0 +1,17 @@
+# 2098 - Province2098
+
+# County Title
+title = c_province2098
+
+# Settlements
+max_settlements = 5
+b_barony2098` = castle
+b_barony2098a = temple
+b_barony2098b = city
+b_barony2098c = castle
+
+# Misc
+culture = frisian
+religion = baltic_pagan
+
+# History

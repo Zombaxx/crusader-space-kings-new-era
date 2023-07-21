@@ -1,0 +1,16 @@
+# 974 - Province0974
+
+# County Title
+title = c_province0974
+
+# Settlements
+max_settlements = 4
+b_barony0974` = castle
+b_barony0974a = temple
+b_barony0974b = city
+
+# Misc
+culture = kannada
+religion = vajrayana
+
+# History

@@ -1,0 +1,14 @@
+# 175 - Province0175
+
+# County Title
+title = c_province0175
+
+# Settlements
+max_settlements = 1
+b_barony0175` = castle
+
+# Misc
+culture = turkish
+religion = jacobinist
+
+# History

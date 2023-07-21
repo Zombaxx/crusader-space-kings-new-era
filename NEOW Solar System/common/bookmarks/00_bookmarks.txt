@@ -1,0 +1,138 @@
+bm_wp = {
+	name = "BM_WP"
+	desc = "BM_WP_INFO"
+	date = 1066.9.15
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+	custom_start = yes				## Choosing "Custom Start" will open this bookmark
+
+	selectable_character = {
+		id = 108275 #Venus
+		age = 21
+		name = ERA_CHAR_NAME_108275
+		title = c_province0003
+		title_name = c_province0003		
+		character = {
+			dna = zrxkmsxyvpg
+			properties = h0leld
+			religion="catholic"
+			culture="english"
+			government = feudal_government
+			dynasty=100780
+		}
+	}
+	selectable_character = {
+		id = 121585 # Caliph of Galilean Moons
+		age = 34
+		name = ERA_CHAR_NAME_121585
+		title = c_province0003
+		title_name = c_province0003
+		dlc = "The Sword of Islam"
+		
+		character = {
+			dna = ivlefdjkqen
+			properties = ab00hc
+			religion="kharijite"
+			culture="english"
+			government = feudal_government
+			dynasty=102260
+		}
+	}
+	selectable_character = {
+		id = 112385 # Olympians of Mars
+		age = 35
+		name = ERA_CHAR_NAME_112385
+		title = c_province0003
+		title_name = c_province0003	
+		dlc = "Holy Fury"
+		character = {
+			dna = jkfnfhxnuh
+			properties = cidddd
+			religion="hellenic_pagan"
+			culture="alan"
+			government = feudal_government
+			dynasty=100780
+		}
+	}
+	selectable_character = {
+		id = 113075 # Terraformed of Mars
+		age = 30
+		name = ERA_CHAR_NAME_113075
+		title = c_province0003
+		title_name = c_province0003	
+		dlc = "The Sword of Islam"
+		character = {
+			dna = uodslusymye
+			properties = no0cnd
+			religion="yazidi"
+			culture="turkish"
+			government = feudal_government
+			dynasty=100780
+		}
+	}
+	selectable_character = {
+		id = 101415 #USA
+		age = 23
+		name = ERA_CHAR_NAME_101415
+		title = c_province0003
+		title_name = c_province0003
+		dlc = "The Republic"		
+		character = {
+			dna = lxfmdjoqjay
+			properties = cj0dck
+			religion="catholic"
+			culture="irish"
+			government = merchant_republic
+			dynasty=100780
+		}
+	}
+	selectable_character = {
+		id = 101105 #Brazil
+		age = 29
+		name = ERA_CHAR_NAME_101105
+		title = c_province0003
+		title_name = c_province0003		
+		character = {
+			dna = fnyvbfskhrp
+			properties = casekd
+			religion="catholic"
+			culture="castillan"
+			government = feudal_government
+			dynasty=100780
+		}
+	}
+	selectable_character = {
+		id = 104265 # Kemetics of Mercury
+		age = 27
+		name = ERA_CHAR_NAME_104265
+		title = c_province0003
+		title_name = c_province0003	
+		dlc = "Holy Fury"
+		character = {
+			dna = kbwnbgufhyj
+			properties = nd0ddk
+			religion="zun_pagan"
+			culture="mongol"
+			government = feudal_government
+			dynasty=100780
+		}
+	}
+	selectable_character = {
+		id = 107175 # The Cywizard Khan of Eurasia
+		age = 1065
+		name = ERA_CHAR_NAME_107175
+		title = c_province0003
+		title_name = c_province0003
+		dlc = "Jade Dragon"
+		character = {
+			dna = jsyetkwqpxw
+			properties = ai0lil
+			religion="taoist"
+			culture="han"
+			trait = full_cybernetic_conversion
+			government = nomadic_government
+			dynasty=100780
+		}
+	}
+}

@@ -1,0 +1,15 @@
+# 162 - Province0162
+
+# County Title
+title = c_province0162
+
+# Settlements
+max_settlements = 3
+b_barony0162` = castle
+b_barony0162a = temple
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

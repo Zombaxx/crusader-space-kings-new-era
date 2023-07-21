@@ -1,0 +1,14 @@
+# 451 - Province0451
+
+# County Title
+title = c_province0451
+
+# Settlements
+max_settlements = 2
+b_barony0451` = tribal
+
+# Misc
+culture = mongol
+religion = mesopotamian
+
+# History

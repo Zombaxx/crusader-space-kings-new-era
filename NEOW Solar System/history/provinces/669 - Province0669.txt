@@ -1,0 +1,15 @@
+# 669 - Province0669
+
+# County Title
+title = c_province0669
+
+# Settlements
+max_settlements = 4
+b_barony0669` = tribal
+b_barony0669a = temple
+
+# Misc
+culture = hausa
+religion = baptist
+
+# History

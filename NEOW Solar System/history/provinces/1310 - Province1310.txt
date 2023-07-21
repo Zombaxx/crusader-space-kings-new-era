@@ -1,0 +1,16 @@
+# 1310 - Province1310
+
+# County Title
+title = c_province1310
+
+# Settlements
+max_settlements = 4
+b_barony1310` = castle
+b_barony1310a = temple
+b_barony1310b = city
+
+# Misc
+culture = mongol
+religion = sufi
+
+# History

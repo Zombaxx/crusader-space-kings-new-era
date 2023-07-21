@@ -1,0 +1,14 @@
+# 1801 - Province1801
+
+# County Title
+title = c_province1801
+
+# Settlements
+max_settlements = 4
+b_barony1801` = tribal
+
+# Misc
+culture = panjabi
+religion = sufi
+
+# History

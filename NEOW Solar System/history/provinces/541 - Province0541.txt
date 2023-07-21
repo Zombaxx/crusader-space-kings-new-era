@@ -1,0 +1,14 @@
+# 541 - Province0541
+
+# County Title
+title = c_province0541
+
+# Settlements
+max_settlements = 4
+b_barony0541` = tribal
+
+# Misc
+culture = punjabi
+religion = mesopotamian
+
+# History

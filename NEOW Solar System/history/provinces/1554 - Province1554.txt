@@ -1,0 +1,15 @@
+# 1554 - Province1554
+
+# County Title
+title = c_province1554
+
+# Settlements
+max_settlements = 5
+b_barony1554` = tribal
+b_barony1554a = temple
+
+# Misc
+culture = panjabi
+religion = yazidi
+
+# History

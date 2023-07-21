@@ -1,0 +1,15 @@
+# 1499 - Province1499
+
+# County Title
+title = c_province1499
+
+# Settlements
+max_settlements = 3
+b_barony1499` = castle
+b_barony1499a = temple
+
+# Misc
+culture = frisian
+religion = yazidi
+
+# History

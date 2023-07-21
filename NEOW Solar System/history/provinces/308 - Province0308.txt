@@ -1,0 +1,16 @@
+# 308 - Province0308
+
+# County Title
+title = c_province0308
+
+# Settlements
+max_settlements = 4
+b_barony0308` = castle
+b_barony0308a = temple
+b_barony0308b = city
+
+# Misc
+culture = quebecois
+religion = catholic
+
+# History

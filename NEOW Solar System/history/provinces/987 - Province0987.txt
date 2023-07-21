@@ -1,0 +1,16 @@
+# 987 - Province0987
+
+# County Title
+title = c_province0987
+
+# Settlements
+max_settlements = 4
+b_barony0987` = castle
+b_barony0987a = temple
+b_barony0987b = city
+
+# Misc
+culture = kannada
+religion = old_hindu
+
+# History

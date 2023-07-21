@@ -1,0 +1,15 @@
+# 1473 - Province1473
+
+# County Title
+title = c_province1473
+
+# Settlements
+max_settlements = 3
+b_barony1473` = castle
+b_barony1473a = temple
+
+# Misc
+culture = persian
+religion = sufi
+
+# History

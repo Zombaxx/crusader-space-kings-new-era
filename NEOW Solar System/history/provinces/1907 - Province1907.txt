@@ -1,0 +1,15 @@
+# 1907 - Province1907
+
+# County Title
+title = c_province1907
+
+# Settlements
+max_settlements = 3
+b_barony1907` = tribal
+b_barony1907a = temple
+
+# Misc
+culture = frisian
+religion = shiite
+
+# History

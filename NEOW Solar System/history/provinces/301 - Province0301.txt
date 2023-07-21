@@ -1,0 +1,14 @@
+# 301 - Province0301
+
+# County Title
+title = c_province0301
+
+# Settlements
+max_settlements = 3
+b_barony0301` = tribal
+
+# Misc
+culture = laurentian
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 470 - Province0470
+
+# County Title
+title = c_province0470
+
+# Settlements
+max_settlements = 3
+b_barony0470` = tribal
+
+# Misc
+culture = mongol
+religion = mesopotamian
+
+# History

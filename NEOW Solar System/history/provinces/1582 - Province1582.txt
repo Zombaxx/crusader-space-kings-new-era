@@ -1,0 +1,17 @@
+# 1582 - Province1582
+
+# County Title
+title = c_province1582
+
+# Settlements
+max_settlements = 5
+b_barony1582` = castle
+b_barony1582a = temple
+b_barony1582b = city
+b_barony1582c = castle
+
+# Misc
+culture = persian
+religion = fraticelli
+
+# History

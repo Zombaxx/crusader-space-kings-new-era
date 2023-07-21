@@ -1,0 +1,16 @@
+# 1232 - Province1232
+
+# County Title
+title = c_province1232
+
+# Settlements
+max_settlements = 4
+b_barony1232` = castle
+b_barony1232a = temple
+b_barony1232b = city
+
+# Misc
+culture = mongol
+religion = old_hindu
+
+# History

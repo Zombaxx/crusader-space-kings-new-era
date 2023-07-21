@@ -1,0 +1,14 @@
+# 1044 - Province1044
+
+# County Title
+title = c_province1044
+
+# Settlements
+max_settlements = 1
+b_barony1044` = tribal
+
+# Misc
+culture = punjabi
+religion = summer_queen
+
+# History

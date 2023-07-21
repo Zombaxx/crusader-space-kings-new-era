@@ -1,0 +1,16 @@
+# 1579 - Province1579
+
+# County Title
+title = c_province1579
+
+# Settlements
+max_settlements = 4
+b_barony1579` = castle
+b_barony1579a = temple
+b_barony1579b = city
+
+# Misc
+culture = panjabi
+religion = vajrayana
+
+# History

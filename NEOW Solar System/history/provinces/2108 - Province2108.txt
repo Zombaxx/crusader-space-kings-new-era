@@ -1,0 +1,16 @@
+# 2108 - Province2108
+
+# County Title
+title = c_province2108
+
+# Settlements
+max_settlements = 4
+b_barony2108` = castle
+b_barony2108a = temple
+b_barony2108b = city
+
+# Misc
+culture = panjabi
+religion = fraticelli
+
+# History

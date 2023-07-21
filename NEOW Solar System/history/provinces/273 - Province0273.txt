@@ -1,0 +1,15 @@
+# 273 - Province0273
+
+# County Title
+title = c_province0273
+
+# Settlements
+max_settlements = 3
+b_barony0273` = castle
+b_barony0273a = temple
+
+# Misc
+culture = castilian
+religion = catholic
+
+# History

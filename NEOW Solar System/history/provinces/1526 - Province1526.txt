@@ -1,0 +1,16 @@
+# 1526 - Province1526
+
+# County Title
+title = c_province1526
+
+# Settlements
+max_settlements = 4
+b_barony1526` = castle
+b_barony1526a = temple
+b_barony1526b = city
+
+# Misc
+culture = panjabi
+religion = yazidi
+
+# History

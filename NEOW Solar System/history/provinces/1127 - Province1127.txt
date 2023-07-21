@@ -1,0 +1,15 @@
+# 1127 - Province1127
+
+# County Title
+title = c_province1127
+
+# Settlements
+max_settlements = 5
+b_barony1127` = tribal
+b_barony1127a = temple
+
+# Misc
+culture = gaoshan
+religion = novelist
+
+# History

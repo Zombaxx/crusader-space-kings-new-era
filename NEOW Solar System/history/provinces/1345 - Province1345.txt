@@ -1,0 +1,15 @@
+# 1345 - Province1345
+
+# County Title
+title = c_province1345
+
+# Settlements
+max_settlements = 5
+b_barony1345` = tribal
+b_barony1345a = temple
+
+# Misc
+culture = punjabi
+religion = taoist
+
+# History

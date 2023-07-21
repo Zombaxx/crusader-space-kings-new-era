@@ -1,0 +1,15 @@
+# 1702 - Province1702
+
+# County Title
+title = c_province1702
+
+# Settlements
+max_settlements = 4
+b_barony1702` = tribal
+b_barony1702a = temple
+
+# Misc
+culture = panjabi
+religion = tengri_pagan
+
+# History

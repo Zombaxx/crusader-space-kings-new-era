@@ -1,0 +1,15 @@
+# 2170 - Province2170
+
+# County Title
+title = c_province2170
+
+# Settlements
+max_settlements = 3
+b_barony2170` = castle
+b_barony2170a = temple
+
+# Misc
+culture = frisian
+religion = sufi
+
+# History

@@ -1,0 +1,16 @@
+# 1002 - Province1002
+
+# County Title
+title = c_province1002
+
+# Settlements
+max_settlements = 4
+b_barony1002` = castle
+b_barony1002a = temple
+b_barony1002b = city
+
+# Misc
+culture = punjabi
+religion = summer_queen
+
+# History

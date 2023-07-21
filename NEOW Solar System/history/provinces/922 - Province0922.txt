@@ -1,0 +1,16 @@
+# 922 - Province0922
+
+# County Title
+title = c_province0922
+
+# Settlements
+max_settlements = 4
+b_barony0922` = castle
+b_barony0922a = temple
+b_barony0922b = city
+
+# Misc
+culture = alan
+religion = jain
+
+# History

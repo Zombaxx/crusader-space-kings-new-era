@@ -1,0 +1,17 @@
+# 2047 - Province2047
+
+# County Title
+title = c_province2047
+
+# Settlements
+max_settlements = 5
+b_barony2047` = castle
+b_barony2047a = temple
+b_barony2047b = city
+b_barony2047c = castle
+
+# Misc
+culture = daju
+religion = jewish
+
+# History

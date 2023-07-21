@@ -1,0 +1,15 @@
+# 1695 - Province1695
+
+# County Title
+title = c_province1695
+
+# Settlements
+max_settlements = 5
+b_barony1695` = tribal
+b_barony1695a = temple
+
+# Misc
+culture = daju
+religion = fraticelli
+
+# History

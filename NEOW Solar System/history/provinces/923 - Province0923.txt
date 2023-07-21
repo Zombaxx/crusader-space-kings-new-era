@@ -1,0 +1,15 @@
+# 923 - Province0923
+
+# County Title
+title = c_province0923
+
+# Settlements
+max_settlements = 6
+b_barony0923` = tribal
+b_barony0923a = temple
+
+# Misc
+culture = turkish
+religion = summer_queen
+
+# History

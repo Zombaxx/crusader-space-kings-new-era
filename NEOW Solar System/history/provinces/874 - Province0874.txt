@@ -1,0 +1,14 @@
+# 874 - Province0874
+
+# County Title
+title = c_province0874
+
+# Settlements
+max_settlements = 2
+b_barony0874` = castle
+
+# Misc
+culture = tamil
+religion = old_hindu
+
+# History

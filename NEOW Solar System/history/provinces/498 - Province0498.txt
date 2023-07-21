@@ -1,0 +1,15 @@
+# 498 - Province0498
+
+# County Title
+title = c_province0498
+
+# Settlements
+max_settlements = 3
+b_barony0498` = castle
+b_barony0498a = temple
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

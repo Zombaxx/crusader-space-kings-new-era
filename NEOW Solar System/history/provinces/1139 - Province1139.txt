@@ -1,0 +1,17 @@
+# 1139 - Province1139
+
+# County Title
+title = c_province1139
+
+# Settlements
+max_settlements = 6
+b_barony1139` = city
+b_barony1139a = temple
+b_barony1139b = castle
+b_barony1139c = city
+
+# Misc
+culture = alan
+religion = brethren
+
+# History

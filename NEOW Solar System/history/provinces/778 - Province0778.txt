@@ -1,0 +1,17 @@
+# 778 - Province0778
+
+# County Title
+title = c_province0778
+
+# Settlements
+max_settlements = 5
+b_barony0778` = castle
+b_barony0778a = temple
+b_barony0778b = city
+b_barony0778c = castle
+
+# Misc
+culture = hausa
+religion = baptist
+
+# History

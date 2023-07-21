@@ -1,0 +1,17 @@
+# 1357 - Province1357
+
+# County Title
+title = c_province1357
+
+# Settlements
+max_settlements = 6
+b_barony1357` = castle
+b_barony1357a = temple
+b_barony1357b = city
+b_barony1357c = castle
+
+# Misc
+culture = frisian
+religion = yazidi
+
+# History

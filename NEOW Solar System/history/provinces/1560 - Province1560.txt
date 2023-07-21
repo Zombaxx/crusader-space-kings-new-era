@@ -1,0 +1,16 @@
+# 1560 - Province1560
+
+# County Title
+title = c_province1560
+
+# Settlements
+max_settlements = 4
+b_barony1560` = city
+b_barony1560a = temple
+b_barony1560b = castle
+
+# Misc
+culture = panjabi
+religion = fraticelli
+
+# History

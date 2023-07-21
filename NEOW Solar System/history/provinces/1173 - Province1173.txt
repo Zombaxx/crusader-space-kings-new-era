@@ -1,0 +1,15 @@
+# 1173 - Province1173
+
+# County Title
+title = c_province1173
+
+# Settlements
+max_settlements = 3
+b_barony1173` = castle
+b_barony1173a = temple
+
+# Misc
+culture = alan
+religion = hellenic_pagan
+
+# History

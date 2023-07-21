@@ -1,0 +1,14 @@
+# 452 - Province0452
+
+# County Title
+title = c_province0452
+
+# Settlements
+max_settlements = 2
+b_barony0452` = city
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

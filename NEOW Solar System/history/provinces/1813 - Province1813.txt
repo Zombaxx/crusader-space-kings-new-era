@@ -1,0 +1,15 @@
+# 1813 - Province1813
+
+# County Title
+title = c_province1813
+
+# Settlements
+max_settlements = 5
+b_barony1813` = tribal
+b_barony1813a = temple
+
+# Misc
+culture = gaoshan
+religion = vajrayana
+
+# History

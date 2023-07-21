@@ -1,0 +1,15 @@
+# 1178 - Province1178
+
+# County Title
+title = c_province1178
+
+# Settlements
+max_settlements = 3
+b_barony1178` = castle
+b_barony1178a = temple
+
+# Misc
+culture = alan
+religion = hellenic_pagan
+
+# History

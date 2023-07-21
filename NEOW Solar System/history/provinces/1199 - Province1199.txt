@@ -1,0 +1,17 @@
+# 1199 - Province1199
+
+# County Title
+title = c_province1199
+
+# Settlements
+max_settlements = 5
+b_barony1199` = castle
+b_barony1199a = temple
+b_barony1199b = city
+b_barony1199c = castle
+
+# Misc
+culture = punjabi
+religion = novelist
+
+# History

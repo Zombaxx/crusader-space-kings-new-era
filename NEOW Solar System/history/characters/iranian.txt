@@ -1,0 +1,464 @@
+26671000 = {
+	name="Ahmad Shah"
+	dynasty=25560006
+	religion="deobandi"
+	culture="afghan" 
+	trait="ambitious"
+	trait="erudite"
+	trait="skilled_tactician"
+	trait="envious"
+
+	2531.1.26={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}#26671000-2000 reserved for Persian characters
+
+26671001 = {
+	name="Faridun"
+	dynasty=25560007
+	religion="deobandi"
+	culture="afghan" 
+	trait="patient"
+	trait="duelist"
+	trait="fortune_builder"
+	trait="deceitful"
+
+	2527.6.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+
+26664288 = {
+    name="Asad" 
+	dynasty=25554271
+	religion="barelvi"
+	culture="afghan" 
+	diplomacy=9
+	martial=2
+	stewardship=2
+	intrigue=5
+	learning=3
+	trait="fortune_builder"
+	trait="arbitrary"
+	trait="charitable"	
+	trait="erudite"	
+	trait="brave"	
+	2517.4.14={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26671002 = {
+	name="Zahak"
+	dynasty=25560008
+	religion="shiite"
+	culture="hazar" 
+	trait="quick"
+	trait="humble"
+	trait="tough_soldier"
+	trait="scarred"
+
+	2519.6.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+26671003 = {
+	name="Mirwais"
+	dynasty=25560009
+	religion="sunni"
+	culture="afghan" 
+	trait="strong"
+	trait="proud"
+	trait="tough_soldier"
+	trait="fair"
+
+	2523.12.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+26671004 = {#The last Zoroastrian
+	name="Bahram"
+	dynasty=25560012
+	religion="zoroastrian"
+	culture="persian" 
+	trait="strong"
+	trait="proud"
+	trait="skilled_tactician"
+	trait="fair"
+	trait="zealous"
+	trait="adventurer"
+
+	2534.1.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+
+26671005 = {
+	name="Mahmud"
+	dynasty=25560013
+	religion="shiite"
+	culture="khorasani" 
+	trait="skilled_tactician"
+	trait="zealous"
+
+	2511.12.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+26671006 = {#
+	name="Shu'ayb"
+	dynasty=25560015
+	religion="shiite"
+	culture="mazanish" 
+	trait="strong"
+	trait="skilled_tactician"
+	trait="wroth"
+	trait="shrewd"
+	trait="envious"
+
+	2517.3.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+26671007 = {#
+	name="Vahram"
+	dynasty=25560014
+	religion="bahai"
+	culture="persian" 
+	trait="erudite"
+	trait="fortune_builder"
+	trait="just"
+	trait="genius"
+
+	2520.6.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+26671008 = {#
+	name="Jahreen"
+	dynasty=25560016
+	religion="shiite"
+	culture="lurish" 
+	trait="underhanded_rogue"
+	trait="cynical"
+	trait="gamer"
+	trait="kind"
+
+	2534.6.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+26671009 = {#
+	name="Siavash"
+	dynasty=25560017
+	religion="shiite"
+	culture="persian" 
+	trait="tough_soldier"
+	trait="zealous"
+	trait="gardener"
+	trait="charitable"
+
+	2516.6.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+26671010 = {#
+	name="Siavash"
+	dynasty=25560018
+	religion="shiite"
+	culture="lurish" 
+	trait="tough_soldier"
+	trait="zealous"
+	trait="administrator"
+	trait="chaste"
+
+	2516.6.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+26671011 = {#
+	name="Bijan"
+	dynasty=25560019
+	religion="mesopotamian"
+	culture="iraqi" 
+	trait="tough_soldier"
+	trait="zealous"
+	trait="duelist"
+	trait="humble"
+
+	2516.6.13={
+		birth=yes
+	}
+	2547.5.17={
+	effect = {
+		add_rival = 26662634
+		}
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+26671012 = {#
+	name="Farhad"
+	dynasty=25560020
+	religion="shiite"
+	culture="persian" 
+	trait="tough_soldier"
+	trait="content"
+	trait="poet"
+	trait="fair"
+
+	2516.6.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+26671013 = {#
+	name="Jafar"
+	dynasty=25560021
+	religion="barelvi"
+	culture="baloch" 
+	trait="tough_soldier"
+	trait="zealous"
+	trait="poet"
+	trait="fair"
+	trait="sayyid"
+
+	2516.6.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+
+26671014 = {#
+	name="Samir"
+	dynasty=3921030
+	religion="sunni"
+	culture="khaliji" 
+	trait="zealous"
+	trait="poet"
+	trait="fair"
+
+	2516.6.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+
+26671015 = {
+	name="Oljaitu"
+	dynasty=3924097 #Hulagu
+	religion="shiite"
+	culture="moghol" 
+	trait="brave"
+	trait="poet"
+	trait="erudite"
+	trait="strategist"
+	trait="just"
+	trait="ambitious"
+	trait="sympathy_christendom"
+	trait="sympathy_buddhism"
+	trait="skilled_tactician"
+	disallow_random_traits = yes
+	2526.11.5={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+
+16674400 = {#leader of birjand
+	name="Hossein"
+	dynasty=1975037
+	religion="bahai"
+	culture="persian" 
+	trait="elusive_shadow"
+	trait="shy"
+	trait="eccentric"
+	trait="deceitful"
+	trait="cynical"
+	trait="arbitrary"
+
+	2526.12.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+
+16674401 = {#leader of qaen
+	name="Siamak"
+	dynasty=25559541
+	religion="bahai"
+	culture="persian" 
+	trait="tough_soldier"
+	trait="zealous"
+	trait="arbitrary"
+	trait="deceitful"
+	trait="brave"
+
+	2534.5.15={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+
+16674402 = {#leader of zabol
+	name="Fariborz"
+	dynasty=1978029
+	religion="bahai"
+	culture="afghan" 
+	trait="charismatic_negotiator"
+	trait="brave"
+	trait="deceitful"
+	trait="shy"
+	trait="proud"
+
+	2514.4.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+
+16674403 = {#leader of iranshahr
+	name="Payam"
+	dynasty=1977003
+	religion="deobandi"
+	culture="baloch" 
+	trait="intricate_webweaver"
+	trait="diligent"
+	trait="zealous"
+	trait="humble"
+	trait="paranoid"
+
+	2524.9.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+
+16674404 = {#
+	name="Nasir"
+	dynasty=25560021
+	religion="barelvi"
+	culture="baloch" 
+	father=26671013
+	trait="sayyid"
+	2549.1.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	} 
+
+}
+
+16674405 = {
+	name="Hafez"
+	dynasty=1975001
+	religion="shiite"
+	culture="mazanish" 
+	2530.1.10={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	} 
+
+}
+
+16674406 = {
+	name="Mahmud"
+	dynasty=1975000
+	religion="shiite"
+	culture="persian" 
+	2520.11.1={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	} 
+}
+
+16674407 = {
+	name="Ruhollah"
+	dynasty=1975002
+	religion="shiite"
+	culture="persian" 
+	2519.3.1={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	} 
+}

@@ -1,0 +1,17 @@
+# 812 - Province0812
+
+# County Title
+title = c_province0812
+
+# Settlements
+max_settlements = 5
+b_barony0812` = castle
+b_barony0812a = temple
+b_barony0812b = city
+b_barony0812c = castle
+
+# Misc
+culture = alan
+religion = jain
+
+# History

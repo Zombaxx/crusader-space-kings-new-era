@@ -1,0 +1,15 @@
+# 1710 - Province1710
+
+# County Title
+title = c_province1710
+
+# Settlements
+max_settlements = 5
+b_barony1710` = tribal
+b_barony1710a = temple
+
+# Misc
+culture = persian
+religion = vajrayana
+
+# History

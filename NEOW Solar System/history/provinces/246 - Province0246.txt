@@ -1,0 +1,16 @@
+# 246 - Province0246
+
+# County Title
+title = c_province0246
+
+# Settlements
+max_settlements = 4
+b_barony0246` = castle
+b_barony0246a = temple
+b_barony0246b = city
+
+# Misc
+culture = irish
+religion = baptist
+
+# History

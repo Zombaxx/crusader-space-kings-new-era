@@ -1,0 +1,16 @@
+# 526 - Province0526
+
+# County Title
+title = c_province0526
+
+# Settlements
+max_settlements = 4
+b_barony0526` = castle
+b_barony0526a = temple
+b_barony0526b = city
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

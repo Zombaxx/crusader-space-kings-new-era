@@ -1,0 +1,21 @@
+# 554 - Province0554
+
+# County Title
+title = c_province0554
+
+# Settlements
+max_settlements = 7
+b_barony0554` = castle
+b_barony0554a = temple
+b_barony0554b = city
+b_barony0554c = castle
+b_barony0554d = temple
+b_barony0554e = city
+b_barony0554f = castle
+
+
+# Misc
+culture = greek
+religion = catholic
+
+# History

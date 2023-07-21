@@ -1,0 +1,15 @@
+# 2074 - Province2074
+
+# County Title
+title = c_province2074
+
+# Settlements
+max_settlements = 6
+b_barony2074` = tribal
+b_barony2074a = temple
+
+# Misc
+culture = frisian
+religion = sufi
+
+# History

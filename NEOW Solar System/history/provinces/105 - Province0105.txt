@@ -1,0 +1,16 @@
+# 105 - Province0105
+
+# County Title
+title = c_province0105
+
+# Settlements
+max_settlements = 4
+b_barony0105` = castle
+b_barony0105a = temple
+b_barony0105b = city
+
+# Misc
+culture = castilian
+religion = catholic
+
+# History

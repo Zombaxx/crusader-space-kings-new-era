@@ -1,0 +1,14 @@
+# 2084 - Province2084
+
+# County Title
+title = c_province2084
+
+# Settlements
+max_settlements = 4
+b_barony2084` = tribal
+
+# Misc
+culture = frisian
+religion = sufi
+
+# History

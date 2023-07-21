@@ -1,0 +1,15 @@
+# 1621 - Province1621
+
+# County Title
+title = c_province1621
+
+# Settlements
+max_settlements = 3
+b_barony1621` = castle
+b_barony1621a = temple
+
+# Misc
+culture = panjabi
+religion = vajrayana
+
+# History

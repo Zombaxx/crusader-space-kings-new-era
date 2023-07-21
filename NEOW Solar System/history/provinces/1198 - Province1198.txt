@@ -1,0 +1,16 @@
+# 1198 - Province1198
+
+# County Title
+title = c_province1198
+
+# Settlements
+max_settlements = 4
+b_barony1198` = castle
+b_barony1198a = temple
+b_barony1198b = city
+
+# Misc
+culture = mongol
+religion = old_hindu
+
+# History

@@ -1,0 +1,7338 @@
+30000012 ={	
+    name="Ingel" 
+	dynasty=1954005
+	religion="lutheran"
+	culture="frisian"
+	trait="midas_touched"
+	trait="chaste"
+	trait="honest"
+	trait="brave"
+	trait="proud"
+	trait="peasant_noble"
+	2521.2.6={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000002 ={	
+    name="Irn" 
+	dynasty=1930000
+	religion="thelemic_reformed"
+	culture="oglallan"
+	trait="drunkard"
+	trait="ambitious"
+	trait="brave"
+	trait="lustful"
+	trait="adventurer"
+	trait="tough_soldier"	
+	2523.3.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30010001 = {
+	name="Adalhard"
+	dynasty=24550247
+	religion="catholic"
+	culture="swabian"
+	2520.2.14={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010002 = {
+	name="Szilárd"
+	dynasty=36503022
+	religion="calvinist"
+	culture="hungarian"
+	trait="fortune_builder"
+	trait="greedy"
+	trait="is_fat"
+	trait="gluttonous"
+	trait="calvinist_damned"
+	2497.2.14={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+
+30021108 = {
+	name="Caspar"
+	dynasty=24550076
+	religion="vagarna"
+	culture="norwegian"
+	2522.7.16={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+
+30021109 = {
+	name="Joel"
+	dynasty=24550137
+	religion="vagarna"
+	culture="swedish"
+	2523.9.11={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021110 = {
+	name="Niklas"
+	dynasty=24550139
+	religion="vagarna"
+	culture="swedish"
+	trait="androgynous"
+	2520.8.16={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021111 = {
+	name="Brahim"
+	dynasty=3840178
+	religion="sufi"
+	culture="tedaga"
+	2522.8.16={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021116 = {
+	name="Bashir"
+	dynasty=6677012
+	religion="sunni"
+	culture="nobii"
+	2522.1.11={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021115 = {
+	name="Kadré"
+	dynasty=3841007
+	religion="sunni"
+	culture="nuba"
+	2520.8.16={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021114 = {
+	name="Salva"
+	dynasty=4104067
+	religion="sunni"
+	culture="masalit"
+	2520.8.16={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021113 = {
+	name="Deng"
+	dynasty=4204032
+	religion="highchurch"
+	culture="shilluk"
+	2520.8.16={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021112 = {
+	name="Dolo"
+	dynasty=1959013
+	religion="sufi"
+	culture="toubu"
+	2520.8.16={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010003 = {
+	name="Daler"
+	dynasty=8981002
+	religion="ismaili"
+	culture="pamiri"
+	2523.4.14={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010004 = {
+	name="Taimur"
+	dynasty=8981003
+	religion="ismaili"
+	culture="pamiri"
+	2522.2.23={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010005 = {
+	name="Hedayat"
+	dynasty=1975014
+	religion="zoroastrian"
+	culture="persian"
+	2525.4.24={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010006 = {
+	name="Eskander"
+	dynasty=3732103
+	religion="zoroastrian"
+	culture="persian"
+	2519.6.20={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010007 = {
+	name="Keyghobad"
+	dynasty=1981208
+	religion="zoroastrian"
+	culture="mazanish"
+	2521.6.17={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010008 = {
+	name="Aguchu"
+	dynasty=1941223
+	religion="khanist"
+	culture="mongol"
+	2523.6.15={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010009 = {#liege
+	name="Guyug"
+	dynasty=1941225
+	religion="khanist"
+	culture="mongol"
+	2520.2.19={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010010 = {#vassal
+	name="Temuge"
+	dynasty=1941226
+	religion="khanist"
+	culture="mongol"
+	2521.6.17={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010011 = {#vassal
+	name="Usun"
+	dynasty=1941227
+	religion="khanist"
+	culture="mongol"
+	2521.6.17={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010012 = {#liege
+	name="Khal"
+	dynasty=6666234
+	religion="tengri_pagan"
+	culture="buryat"
+	2521.6.17={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010013 = {#vassal
+	name="Inancha"
+	dynasty=6666236
+	religion="tengri_pagan"
+	culture="buryat"
+	2521.6.17={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010014 = {#vassal
+	name="Jochi"
+	dynasty=6666237
+	religion="tengri_pagan"
+	culture="buryat"
+	2521.6.17={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010015 = {#liege
+	name="Dayir"
+	dynasty=6667213
+	religion="tengri_pagan"
+	culture="dagur"
+	2521.6.17={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010016 = {#vassal
+	name="Eljigedei"
+	dynasty=6667208
+	religion="tengri_pagan"
+	culture="dagur"
+	2521.6.17={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010017 = {#cossack march
+	name="Iasip"
+	dynasty=4012022
+	religion="nousthreskeia"
+	culture="kosak"
+	2520.9.19={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010018 = {#cossack march
+	name="Semyon"
+	dynasty=4012024
+	religion="nousthreskeia"
+	culture="kosak"
+	2522.6.10={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010019 = {#cossack march
+	name="Aleg"
+	dynasty=4012026
+	religion="nousthreskeia"
+	culture="kosak"
+	trait="tough_soldier"
+	trait="proud"
+	trait="brave"
+	trait="gamer"
+	trait="chaste"
+	2523.4.14={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010020 = {#cossack march
+	name="Mitrofan"
+	dynasty=4012029
+	religion="nousthreskeia"
+	culture="kosak"
+	2519.8.21={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010021 = {#cossack march
+	name="Demid"
+	dynasty=4012035
+	religion="nousthreskeia"
+	culture="kosak"
+	2520.9.19={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010022 = {#cossack march
+	name="Fedor"
+	dynasty=4012036
+	religion="nousthreskeia"
+	culture="kosak"
+	2522.6.10={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010023 = {#cossack march
+	name="Daniil"
+	dynasty=4012037
+	religion="nousthreskeia"
+	culture="kosak"
+	2523.4.14={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010024 = {#cossack march
+	name="Emil"
+	dynasty=4012038
+	religion="nousthreskeia"
+	culture="kosak"
+	2519.8.21={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010025 = {#ulaskun march
+	name="Benson"
+	dynasty=4099460
+	religion="nousthreskeia"
+	culture="alaskhan"
+	2522.3.17={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010026 = {#moar hindus
+	name="Bambang"
+	dynasty=6015714
+	religion="agamatirta"
+	culture="madura"
+	2523.4.13={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30010027 = {#moar hindus
+	name="Intan"
+	dynasty=6115706
+	religion="agamatirta"
+	culture="java"
+	2522.5.19={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+
+
+30000004 ={	
+    name="Ilay" 
+	dynasty=1957000
+	religion="mikraist"
+	culture="israeli"	
+	2523.3.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000005 ={	
+    name="Gilad" 
+	dynasty=1958018
+	religion="mikraist"
+	culture="israeli"	
+	2521.4.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000006 ={	
+    name="Bentzion" 
+	dynasty=1957002
+	religion="mikraist"
+	culture="israeli"
+	diplomacy=6
+	martial=5
+	stewardship=14
+	intrigue=10
+	learning=5
+	2520.2.9={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000007 ={	
+    name="Elazar" 
+	dynasty=1957003 #Levi
+	religion="mikraist"
+	culture="israeli"
+	2522.5.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30200007 ={	
+    name="Behrouz" 
+	dynasty=1982507 
+	religion="yazidi"
+	culture="ezidi"
+	2522.5.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000008 ={	
+    name="Agibuti" 
+	dynasty=3834230
+	religion="theravada"
+	culture="sinhala"
+	2522.5.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000009 ={	
+    name="Oisin" 
+	dynasty=1001051
+	religion="celtic_pagan"
+	culture="high_irish"
+	trait="grey_eminence"
+	trait="patient"
+	trait="ambitious"
+	trait="humble"
+	trait="temperate"
+	2528.5.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000010 ={	
+    name="Adoyre" 
+	dynasty=25553107
+	religion="catholic"
+	culture="breton"
+	trait="zealous"
+	trait="honest"
+	trait="ambitious"
+	trait="brave"
+	trait="tough_soldier"	
+	2523.3.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000011 ={	#Ambrosius Aurelianus aka King Arthur
+	name="Ambrose" #Ambrosius
+	dynasty=1955037 #Aurelian
+	religion="summer_queen"
+	secret_religion = "anglican"
+	culture="cornish"
+	trait="brilliant_strategist"
+	trait="ambitious"
+	trait="brave"
+	trait="gregarious"
+	trait="quick"
+	trait="patient"
+	trait="summer_queen_2_honour"
+	2522.3.9={
+		birth=yes
+		effect = {
+			add_artifact = excalibur
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000013 ={	
+    name="Elchanan" 
+	dynasty=1957012
+	religion="jewish"
+	culture="israeli"
+	diplomacy=10
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=17	
+	trait="mastermind_theologian"
+	trait="chaste"
+	trait="trusting"	
+	trait="kind"
+	trait="patient"	
+	father = 26662911
+	2516.3.11={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+	}
+	2552.4.13={
+		effect = {add_artifact = ark_of_the_covenant}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000014 ={
+    name="Yitzhak" 
+	dynasty=1957039
+	religion="jewish"
+	culture="israeli"
+	martial = 20
+	2528.9.2={
+		birth=yes
+	}
+	2564.10.12={
+		death=yes
+	}
+}
+
+30000017 ={
+    name="Dmitry" 
+	dynasty=1948042
+	religion="stalinist"
+	culture="georgian"
+	diplomacy=6
+	martial=4
+	stewardship=6
+	intrigue=3
+	learning=3
+	trait="tough_soldier"
+	trait="ambitious"
+	trait="zealous"
+	trait="arbitrary"
+	2532.5.21={
+		birth=yes
+		create_bloodline = {
+			type = bagratid
+			has_dlc = "Holy Fury"
+		}	
+	}
+	2564.10.12={
+		death=yes
+	}
+}
+30000018 ={	
+    name="Edvard" 
+	dynasty=1947027 
+	religion="armenianapostolic"
+	culture="armenian"
+	trait="cynical"
+	trait="honest"
+	trait="ambitious"
+	trait="brave"
+	trait="tough_soldier"	
+	2527.3.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30020008 = {
+	name="Alberto"
+	dynasty=255516706
+	religion="catholic"
+	culture="lazian"
+	trait="skilled_tactician"
+	trait="zealous"
+	trait="content"
+	trait="chaste"
+	2519.6.17={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30020009 = {
+	name="Damian"
+	dynasty=3954043 #Glavina
+	religion="jugoslavist"
+	secret_religion="catholic"
+	culture="istromanian"
+	trait="scholarly_theologian"
+	trait="ambitious"
+	trait="erudite"
+	trait="kind"
+	trait="just"
+	trait="gregarious"
+	trait="peasant_noble"
+	2519.7.11={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30020010 = {
+	name="Landric"
+	dynasty=2550003
+	religion="novelist"
+	culture="toccitan"
+	trait="tough_soldier"
+	trait="brave"
+	trait="honest"
+	trait="content"
+	2520.9.11={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021010 = {
+	name="Breandán"
+	dynasty=1997678
+	religion="celtic_pagan"
+	culture="high_irish"
+	2520.9.11={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021011 = {
+	name="Sancho"
+	dynasty=2552009
+	religion="catholic"
+	culture="algueresos"
+	2522.2.7={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021012 = {
+	name="Emanuele"
+	dynasty=255516923
+	religion="catholic"
+	culture="sicilian"
+	2518.4.15={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021013 = {
+	name="Markos"
+	dynasty=1951036
+	culture="aigionoi"
+	religion="hellenic_pagan"
+	2519.7.11={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021014 = {
+	name="Farid"
+	dynasty=3960029
+	religion="koptic"
+	culture="dahlaki"
+	2520.7.11={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021015 = {
+	name="Hafiz"
+	dynasty=3920029
+	religion="sunni"
+	culture="hejazi"
+	2522.7.11={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021016 = {
+	name="Tommaso"
+	dynasty=255516921
+	religion="catholic"
+	culture="sicilian"
+	2519.4.15={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021017 = {
+	name="Chatri"
+	dynasty=2170305
+	religion="donyipolo"
+	culture="adi"
+	2520.4.15={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30021018 = {
+	name="Hesen"
+	dynasty=1981116
+	religion="shiite"
+	culture="lurish"
+	2521.2.11={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30020011 = {
+	name="Daniel"
+	dynasty=50000915
+	religion="catholic"
+	culture="provencal"
+	trait="fortune_builder"
+	trait="temperate"
+	trait="honest"
+	trait="shy"
+	trait="content"
+	trait="charitable"
+	disallow_random_traits=yes
+	2523.7.18={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30020012 = {
+	name="Olivièr"
+	dynasty=2550005
+	religion="catholic"
+	culture="toccitan"
+	trait="skilled_tactician"
+	trait="temperate"
+	trait="honest"
+	trait="chaste"
+	trait="content"
+	trait="charitable"
+	trait="hunter"
+	2519.3.4={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30020013 = {
+	name="Carol"
+	dynasty=6000015
+	religion="orthodox"
+	culture="gagauz"
+	2521.3.24={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30020014 = {
+	name="Frederick"
+	dynasty=25550292
+	religion="neovedantic"
+	culture="hindustani"
+	trait="kshatriya"
+	trait="proud"
+	trait="gregarious"
+	trait="thrifty_clerk"
+	trait="bhagavanist_akbar"
+	trait="fair"
+	trait="charitable"
+	trait="ambitious"
+	2526.2.22={
+		birth=yes
+		create_bloodline = {
+			type = bourbon_bloodline
+			has_dlc = "Holy Fury"
+		}
+	}
+	2550.12.25={
+		add_spouse=12361122
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000019 ={	
+    name="Vardas" #Leader of Holy Sepulchre
+	dynasty=2081000
+	religion="orthodox"
+	culture="greek"
+	trait="zealous"
+	trait="honest"
+	trait="ambitious"
+	trait="brave"
+	trait="tough_soldier"
+	trait="chaste"
+	2503.3.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000020 ={	
+    name="Mats" 
+	dynasty=24550124
+	religion="lutheran"
+	culture="swedish"
+	trait="tough_soldier"
+	trait="trusting"
+	trait="zealous"
+	trait="arbitrary"
+	trait="brave"
+	trait="celibate"
+	2506.3.9={
+		birth=yes
+	}
+	2540.10.2={
+		effect = {
+			add_artifact = ate_firearm 
+			add_artifact = ate_compass 
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000021 ={	
+    name="Iain" 
+	dynasty=85511166
+	religion="catholic"
+	culture="scottish"
+	2506.3.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000022 ={	
+    name="Daniel" 
+	dynasty=85511130
+	religion="catholic"
+	culture="scottish"
+	2506.3.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30030001 = {
+	name="Gulusa"
+	dynasty=4000007
+	religion="malikite"
+	culture="tacelhit"
+	2521.2.22={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30030002 = {
+	name="Latif"
+	dynasty=1931028
+	religion="malikite"
+	culture="moroccan"
+	2521.2.22={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000023 ={	
+    name="Luthais" 
+	dynasty=85511152
+	religion="catholic"
+	culture="scottish"
+	2506.3.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000024 ={	
+    name="Sadiq" 
+	dynasty=1942001
+	religion="ibadi"
+	culture="omani"
+	trait="mastermind_theologian"
+	trait="chaste"
+	trait="trusting"	
+	trait="kind"
+	trait="patient"	
+	2520.3.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000025 ={	
+    name="Nahir" 
+	dynasty=1974040 #Rassam
+	religion="chaldean"
+	culture="assyrian"
+	trait="peasant_noble"
+	2530.3.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000026 ={	
+    name="Palamedes" 
+	dynasty=4031011
+	religion="summer_queen"
+	secret_religion="ibadi"
+	culture="omani"
+	trait="proud"
+	trait="diligent"
+	trait="brave"
+	trait="scarred"
+	trait="sympathy_esoteric"
+	trait="martial_cleric"
+	trait="summer_queen_1_honour"
+	
+	father=30000029
+	mother=30000062
+	
+	2527.9.16={
+		birth=yes
+		culture=southener
+	}
+	2543.9.16={
+		effect = {add_artifact = sword_of_zanzibar }
+	}
+	2549.9.11={
+		add_spouse=30000063
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000027 ={	
+    name="Segwarides" 
+	dynasty=4031011
+	religion="summer_queen"
+	secret_religion="ibadi"
+	culture="omani"
+	trait="wroth"
+	trait="just"
+	trait="brave"
+	trait="strong"
+	trait="hunter"
+	trait="sympathy_esoteric"
+	
+	father=30000029
+	mother=30000062
+	
+	2529.3.26={
+		birth=yes
+		culture=southener
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+33000018 ={	
+    name="Emericu" 
+	dynasty=75013147 
+	religion="catholic"
+	culture="csangok"
+	trait="cynical"
+	trait="honest"
+	trait="ambitious"
+	trait="brave"
+	trait="tough_soldier"	
+	2527.3.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000028 ={	
+    name="Safir" 
+	dynasty=4031011
+	religion="summer_queen"
+	secret_religion="ibadi"
+	culture="omani"
+	trait="wroth"
+	trait="gregarious"
+	trait="brave"
+	trait="duelist"
+	trait="sympathy_esoteric"
+	
+	father=30000029
+	mother=30000062
+	
+	2532.11.6={
+		birth=yes
+		culture=southener
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000029 ={	
+    name="Esclabor" 
+	dynasty=4031011
+	religion="thelemic_reformed"
+	secret_religion="ibadi"
+	culture="omani"
+	trait="robust"
+	trait="gregarious"
+	trait="brave"
+	trait="strong"
+	trait="sympathy_esoteric"
+	trait="brilliant_strategist"
+	
+	father=30000030
+	
+	2462.8.19={
+		birth=yes
+		culture=southener
+	}
+	2480.4.27={
+		add_spouse=30000062
+	}
+	2536.1.14={
+		death=yes
+	}
+}
+30000030 ={	
+    name="Ahmed" 
+	dynasty=4031011
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000031
+	
+	2392.8.19={
+		birth=yes
+	}
+	2466.1.14={
+		death=yes
+	}
+}
+30000031 ={	
+    name="Mahmoud" 
+	dynasty=4031011
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000032
+	
+	2361.8.19={
+		birth=yes
+	}
+	2436.1.14={
+		death=yes
+	}
+}
+30000032 ={	
+    name="Abdullah Azd Escalbor" 
+	dynasty=4031011
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000033
+	
+	2140.8.19={
+		birth=yes
+	}
+	2388.1.14={
+		death=yes
+	}
+}
+30000033 ={	
+    name="Khalid" 
+	dynasty=4031011
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000034
+	
+	1992.6.29={
+		birth=yes
+	}
+	2176.1.14={
+		death=yes
+	}
+}
+30000034 ={	
+    name="Ali" 
+	dynasty=4031011
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000035
+	
+	1956.5.9={
+		birth=yes
+	}
+	2106.1.14={
+		death=yes
+	}
+}
+30000035 ={	#bloodline here
+    name="Jamshid" 
+	dynasty=4031011
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000036
+	
+	1929.9.16={
+		birth=yes	
+	}
+	1964.1.12={
+		create_bloodline = {
+			type = esclabor
+			has_dlc = "Holy Fury"
+		}
+	}
+	2000.1.1={
+		death=yes
+	}
+}
+30000036 ={	#zanzibar
+    name="Abdullah" 
+	dynasty=4031011
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000037
+	
+	1910.2.12={
+		birth=yes
+	}
+	1963.7.1={
+		death=yes
+	}
+}
+30000037 ={	#zanzibar
+    name="Khalifa" 
+	dynasty=4031011
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000038
+	
+	1879.2.16={
+		birth=yes
+	}
+	1960.9.9={
+		death=yes
+	}
+}
+30000038 ={	#zanzibar
+    name="Harub" 
+	dynasty=4031011
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000039
+	
+	1843.2.16={
+		birth=yes
+	}
+	1893.9.9={
+		death=yes
+	}
+}
+30000039 ={	#zanzibar
+    name="Thuwaini" 
+	dynasty=4031011
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000040
+	
+	1821.2.16={
+		birth=yes
+	}
+	1866.2.11={
+		death=yes
+	}
+}
+30000040 ={	#zanzibar LAST COMMON ANCESTOR
+    name="Said" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	
+	1791.6.5={
+		birth=yes
+	}
+	1856.10.19={
+		death=yes
+	}
+}
+30000041 ={	#omani
+    name="Turki" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000040
+	
+	1832.6.5={
+		birth=yes
+	}
+	1888.6.4={
+		death=yes
+	}
+}
+30000043 ={	#omani
+    name="Taimur" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000041
+	
+	1886.6.5={
+		birth=yes
+	}
+	1965.1.28={
+		death=yes
+	}
+}
+30000044 ={	#omani
+    name="Tariq" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000043
+	
+	1920.6.5={
+		birth=yes
+	}
+	1980.6.4={
+		death=yes
+	}
+}
+30000045 ={	#omani
+    name="Haitham" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000044
+	
+	1954.10.13={
+		birth=yes
+	}
+	2034.1.1={
+		death=yes
+	}
+}
+30000047 ={	#omani
+    name="Theyazin" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000045
+	
+	1994.10.13={
+		birth=yes
+	}
+	2081.1.1={
+		death=yes
+	}
+}
+30000048 ={	#omani
+    name="Mubarak Azd Sadiq Said" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000047
+	
+	2047.10.13={
+		birth=yes
+	}
+	2385.1.1={
+		death=yes
+	}
+}
+32000001 ={	
+    name="Baytimer" 
+	dynasty=1944149
+	religion="jadidist"
+	culture="crimean_tatar"
+	
+	2511.10.13={
+		birth=yes
+	}
+	2599.1.1={
+		death=yes
+	}
+}
+30000049 ={	#omani
+    name="Ali" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000048
+	
+	2357.10.13={
+		birth=yes
+	}
+	2419.1.1={
+		death=yes
+	}
+}
+30000050 ={	#omani
+    name="Khalid" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000049
+	
+	2382.10.13={
+		birth=yes
+	}
+	2453.1.1={
+		death=yes
+	}
+}
+30000051 ={	#omani
+    name="Husayn" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000050
+	
+	2416.10.13={
+		birth=yes
+	}
+	2478.1.1={
+		death=yes
+	}
+}
+30000052 ={	#omani
+    name="Mahmoud" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000051
+	
+	2442.10.13={
+		birth=yes
+	}
+	2508.1.1={
+		death=yes
+	}
+}
+30000053 ={	#omani
+    name="Isibb" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	
+	father=30000052
+	
+	2477.10.13={
+		birth=yes
+	}
+	2501.3.5={
+		add_spouse=30000090
+	}
+	2552.1.1={
+		death=yes
+	}
+}
+30000054 ={
+    name="Eudóxios" 
+	dynasty=2040005
+	religion="orthodox"
+	culture="pontian"
+	trait="robust"
+	trait="gregarious"
+	trait="brave"
+	trait="strong"
+	trait="brilliant_strategist"
+	trait="orthodox_andrian"
+	2534.10.13={
+		birth=yes
+	}
+	2550.7.12={
+		add_spouse=26662665
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000055 ={
+    name="Demyan" 
+	dynasty=1952004
+	religion="orthodox"
+	culture="cossack"
+
+	2535.9.16={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000056 ={
+    name="Fedir" 
+	dynasty=1952007
+	religion="orthodox"
+	culture="cossack"
+
+	2536.11.13={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000057 ={
+    name="Nazariy" 
+	dynasty=1952012
+	religion="orthodox"
+	secret_religion="easternprotestant"
+	culture="cossack"
+
+	2531.8.11={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000058 ={
+    name="Shenoute" 
+	dynasty=1937019
+	religion="koptic"
+	culture="coptic"
+	trait="diligent"
+	trait="patient"
+	trait="zealous"
+	trait="charismatic_negotiator"
+
+	2509.6.11={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000062 ={	#Escalbor's wife and mother of the 3 starting lads
+    name="Emma" 
+	religion="summer_queen"
+	culture="westlander"
+	trait="shy"
+	trait="groomed"
+	trait="charitable"
+	trait="gardener"
+	
+	female = yes
+	
+	2464.4.23={
+		birth=yes
+	}
+	2480.4.27={
+		add_spouse=30000029
+	}
+	2540.7.21={
+		death=yes
+	}
+}
+30000063 ={	#Palamedes' wife and mother of a cyoot baby BOI 
+    name="Esyllt" 
+	dynasty=85511259 #sleeping with cloud's family
+	religion="summer_queen"
+	culture="irish"
+	trait="fair"
+	trait="proud"
+	trait="kind"
+	trait="sympathy_islam"
+	trait="stubborn"
+	trait="erudite"
+	trait= "fortune_builder"
+	
+	female = yes
+	father=266511281
+	mother=266511282
+	
+	2533.4.12={
+		birth=yes
+	}
+	2549.9.11={
+		add_spouse=30000026
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000064 = {#son of Palamedes
+	name="Taristan"
+	dynasty=4031011 
+	religion="summer_queen"
+	secret_religion="ibadi"
+	culture="omani"
+	trait="fair"
+	trait="strong"
+	trait="conscientious"
+	father=30000026
+	mother=30000063
+	2552.3.3={
+		birth=yes
+		culture=southener
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = omani
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000065 = {
+	name="Baraduli"
+	dynasty=1997427 
+	religion="sunni"
+	culture="amriqi"
+	trait="fair"
+	trait="strong"
+	occluded = yes
+	disallow_random_traits=yes
+	1979.5.7={
+		birth=yes
+	}
+	1991.2.26={
+		create_bloodline = {
+			type = arambiz
+			has_dlc = "Holy Fury"
+		}
+		give_nickname = nick_storm_of_arabia	
+	}
+	2037.1.1={
+		death=yes
+	}
+}
+30000066 = {
+	name="Anbazuk"
+	dynasty=1029065 
+	religion="stalinist"
+	culture="alan"
+	trait="fair"
+	trait="proud"
+	trait="groomed"
+	trait="diligent"
+	trait="patient"
+	2532.1.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000067 = {
+	name="Toktu"
+	dynasty=1022369 
+	religion="ironist"
+	culture="avar"
+	trait="groomed"
+	trait="diligent"
+	trait="patient"
+	trait= "fortune_builder"
+	2528.1.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+31000067 = {
+	name="Jayananda"
+	dynasty=3837349 
+	religion="theravada"
+	culture="tharu"
+	2526.1.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000068 = {
+	name="Hamdan"
+	dynasty=5556007
+	religion="druze"
+	culture="durzi"
+	trait="elusive_shadow"
+	trait="ambitious"
+	trait="falconer"
+	trait="honest"
+	trait="charitable"
+	trait="proud"
+	2532.1.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000069 = {
+	name="Abdul-Azeem"
+	dynasty=5556005
+	religion="druze"
+	culture="durzi"
+	trait="grey_eminence"
+	trait="brave"
+	trait="scholar"
+	trait="patient"
+	trait="temperate"
+	trait="greedy"
+	2528.1.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000070 = {
+	name="Khalid"
+	dynasty=1946008
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	2528.1.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+#Family of Xia Kingdom's ruler
+30000071 = {
+	name="Biyu"
+	dynasty=2000105 
+	religion="maoist"
+	culture="lan_yin"
+	female= yes
+	2503.3.5={
+		birth=yes
+	}
+	2521.9.11={
+		add_spouse=30000001
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000072 = {
+	name="Zhihong"
+	dynasty=26560158 
+	religion="maoist"
+	culture="lan_yin"
+	father=30000001
+	mother=30000071
+	2522.5.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000073 = {
+	name="Chen"
+	dynasty=26560158 
+	religion="maoist"
+	culture="lan_yin"
+	female=yes
+	father=30000001
+	mother=30000071
+	2524.2.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000074 = {
+	name="Jiangguo"
+	dynasty=26560158 
+	religion="maoist"
+	culture="lan_yin"
+	trait=sparrow
+	father=30000001
+	mother=30000071
+	2527.7.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000075 = {
+	name="Meihui"
+	dynasty=26560158 
+	religion="maoist"
+	culture="lan_yin"
+	female=yes
+	trait=sparrow
+	father=30000001
+	mother=30000071
+	2532.7.23={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000076 = {
+	name="Gennadiya"
+	dynasty=2040116 
+	religion="neovedantic"
+	culture="mumbaikar"
+	2530.5.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000077 = {
+	name="Jai"
+	dynasty=2040113 
+	religion="neovedantic"
+	culture="mumbaikar"
+	2532.7.23={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000078 ={	
+    name="Ragnvald" 
+	dynasty=1930004
+	religion="vagarna"
+	culture="faroyingar"
+	trait="eunuch"
+	trait="content"
+	trait="paranoid"
+	trait="stubborn"
+	trait="arbitrary"
+	trait="charitable"
+	trait="flamboyant_schemer"
+	2525.3.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000079 ={	
+	name="Faxikondi" 
+	dynasty=1930019
+	religion="vagarna"
+	culture="faroyingar"
+	female=yes
+	trait="fair"
+	trait="shrewd"
+	trait="envious"
+	trait="underhanded_rogue"
+	trait="administrator"
+	2532.7.3={
+		birth=yes
+		create_bloodline = {
+			type = glucksburg_bloodline
+			has_dlc = "Holy Fury"
+		}
+	}
+	2549.3.4={
+		add_matrilineal_spouse=30000083
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000080 ={	
+    name="Eilif" 
+	dynasty=1930014
+	religion="prussianist"
+	culture="faroyingar"
+	trait="skilled_tactician"
+	trait="lustful"
+	trait="homosexual"
+	trait="crowned_by_myself"
+	trait="trickster"
+	trait="zealous"
+	2538.4.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000081 ={	
+    name="Gudmund" 
+	dynasty=1930018
+	religion="vagarna"
+	culture="faroyingar"
+	trait="content"
+	trait="cynical"
+	trait="honest"
+	trait="stubborn"
+	trait="naive_appeaser"
+	2499.2.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000082 ={	
+    name="Olav" 
+	dynasty=1930011
+	religion="vagarna"
+	culture="faroyingar"
+	trait="depressed"
+	trait="stressed"
+	trait="cynical"
+	trait="shy"
+	trait="martial_cleric"
+	2532.5.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000083 ={	
+    name="Karl" 
+	dynasty=1930017
+	religion="vagarna"
+	culture="faroyingar"
+	trait="fair"
+	trait="strong"
+	trait="groomed"
+	trait="seducer"
+	trait="duelist"
+	trait="falconer"
+	trait="diligent"
+	trait="patient"
+	trait="kind"
+	trait="brave"
+	trait="tough_soldier"
+	2529.5.11={
+		birth=yes
+	}
+	2548.4.13={
+		effect = {add_artifact = axe_tier_3_cleaver}
+		give_nickname= nick_axe_of_feroes
+	}
+	2549.3.4={
+		add_matrilineal_spouse=30000079
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000084 ={	
+    name="Thaddeus" 
+	dynasty=1930019
+	religion="lutheran"
+	culture="faroyingar"
+	trait="fair"
+	trait="strong"
+	father=30000083
+	mother=30000079
+	2552.4.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000085 ={	
+    name="Da-Wei" 
+	dynasty=1842152
+	religion="east_brethren"
+	culture="hongkonger"
+	trait="fair"
+	trait="adventurer"
+	trait="brave"
+	trait="arbitrary"
+	trait="ambitious"
+	trait="pirate"
+	trait="sympathy_shinto"
+	2521.9.14={
+		birth=yes
+	}
+	2544.7.19={
+		effect={add_friend=30000087}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+50000086 ={	
+    name="Tofik" 
+	dynasty=2000432
+	religion="druze"
+	culture="durzi"
+	martial=10
+	learning=8
+	trait="genius"
+	trait="skilled_tactician"	
+	trait="desert_terrain_leader"
+	2515.7.17={
+		birth=yes
+	}
+	2540.7.14={
+		employer= 26662801
+		effect={give_job_title = job_marshal
+			add_friend=26662801}
+	}
+	2544.4.6={
+		effect={add_friend=21150005}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+50000087 ={	
+    name="Danilo" 
+	dynasty=6668002
+	religion="catholic"
+	culture="bunjevci"
+	2515.4.21={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+34200000 ={	
+    name="Salman" 
+	dynasty=31110000
+	religion="sunni"
+	culture="bedouin_arabic"
+	martial=5
+	learning=7
+	stewardship=7
+	diplomacy=6
+	trait="shrewd"
+	trait="charismatic_negotiator"	
+	trait="administrator"
+	trait="sympathy_judaism"
+	2525.4.25={
+		birth=yes
+	}
+	2540.7.14={
+		employer= 26662821
+		effect={give_job_title = job_treasurer
+			add_friend=26662821}
+	}
+	2600.1.1={
+		death=yes
+	}
+}
+
+34200001 ={	
+    name="Mas'ud" 
+	dynasty=31110000
+	religion="sunni"
+	culture="bedouin_arabic"
+	martial=3
+	learning=3
+	stewardship=4
+	diplomacy=3
+	father=34200000	
+	trait="quick"
+	2547.6.28={
+		birth=yes
+	}
+	2620.1.1={
+		death=yes
+	}
+}
+
+34200002 ={	
+    name="Layla" 
+	dynasty=1944021
+	religion="sunni"
+	culture="bedouin_arabic"
+	diplomacy=8
+	female = yes	
+	2527.3.15={
+		birth=yes
+	}
+	2546.9.10={
+		add_spouse=34200000
+	}
+	2600.1.1={
+		death=yes
+	}
+}
+34300000 ={	
+    name="Avichai"
+	religion="jewish"
+	culture="israeli"
+	martial=7
+	learning=5
+	stewardship=6
+	diplomacy=5
+	2523.1.15={
+		birth=yes
+	}
+	2600.1.1={
+		death=yes
+	}
+}
+
+30000087 ={	
+    name="Dagurasu"
+	dynasty=2000501
+	religion="shinko"
+	culture="weeb"
+	trait="quick"
+	trait="skilled_tactician"
+	trait="adventurer"
+	trait="jungle_terrain_leader"
+	trait="stubborn"
+	trait="brave"
+	trait="strategist"
+	trait="sympathy_oceanic"
+	trait="proud"
+	2522.7.17={
+		birth=yes
+	}
+	2544.7.19={
+		effect={add_friend=30000085}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000088 ={	
+    name="Jahaira" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	female=yes
+	father=30000053
+	mother=30000090
+	2510.6.7={
+		birth=yes
+	}
+	2530.3.4={
+		add_matrilineal_spouse=30000097
+	}
+	2554.1.1={
+		employer= 26670001
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000089 ={	
+    name="Maryam" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	female=yes
+	father=30000053
+	mother=30000090
+	2521.8.13={
+		birth=yes
+	}
+	2539.3.4={
+		add_matrilineal_spouse=30000093
+	}
+	2554.1.1={
+		employer= 26670001
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000090 ={	
+    name="Tanaz" 
+	dynasty=1942024
+	religion="ibadi"
+	culture="omani"
+	female=yes
+	2479.1.13={
+		birth=yes
+	}
+	2501.3.5={
+		add_spouse=30000053
+	}
+	2558.1.1={
+		death=yes
+	}
+}
+30000091 ={	
+    name="Sahba" 
+	dynasty=1942037
+	religion="ibadi"
+	culture="omani"
+	female=yes
+	2534.1.13={
+		birth=yes
+	}
+	2554.3.6={
+		add_spouse=26670001
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000092 ={	
+    name="Halil" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	father=26670001
+	mother=30000091
+	2554.7.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000093 ={	
+    name="Halil" 
+	dynasty=1942016
+	religion="ibadi"
+	culture="omani"
+	2517.7.19={
+		birth=yes
+	}
+	2539.3.4={
+		add_matrilineal_spouse=30000089
+	}
+	2554.1.1={
+		employer= 26670001
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000094 ={	
+    name="Faruk" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	father=30000093
+	mother=30000089
+	2542.5.29={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000095 ={	
+    name="Qamara" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	female=yes
+	father=30000093
+	mother=30000089
+	2545.9.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000096 ={	
+    name="Rasa" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	female=yes
+	father=30000093
+	mother=30000089
+	2549.7.21={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000097 ={	
+    name="Yakta" 
+	dynasty=1942010
+	religion="ibadi"
+	culture="omani"
+	2500.7.19={
+		birth=yes
+	}
+	2530.3.4={
+		add_matrilineal_spouse=30000088
+	}
+	2554.1.1={
+		employer= 26670001
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000098 ={	
+    name="Sa'daddin" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	father=30000097
+	mother=30000088
+	2532.10.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000099 ={	
+    name="Talib" 
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani"
+	father=30000097
+	mother=30000088
+	2535.11.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30010100 ={	
+    name="Acharya" #
+	dynasty=2010601
+	religion="sanamahist"
+	culture="meitei"
+	trait= "skilled_tactician"
+	trait= "tall"
+	trait= "shrewd"
+	trait= "hedonist"
+	trait= "falconer"
+	trait= "peasant_noble"
+	2532.1.14={
+		birth=yes
+	}
+	2550.1.1={
+		effect = {
+			spawn_unit = {
+				province = 2168
+				owner = ROOT
+				troops = {
+					light_infantry = { 500 500 }
+					archers = { 350 350 }
+				}
+				attrition = 1
+			}
+			spawn_unit = {
+				province = 2168
+				owner = ROOT
+				troops = {
+					light_cavalry = { 150 150 }
+				}
+				attrition = 1
+			}
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000100 ={	
+    name="Wangay" 
+	
+	religion="bon"
+	culture="bhutanese"
+	trait="red_druk"
+	2516.6.20={
+		birth=yes
+	}
+	2540.7.14={
+		effect = {prestige = 50 
+		give_minor_title = title_red_druk}
+		employer= 4000000
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000101 ={	
+    name="Tenpa" 
+	
+	religion="gelugpa"
+	culture="bhutanese"
+	trait="blue_druk"
+	2514.8.19={
+		birth=yes
+	}
+	2540.7.14={
+		employer= 4000000
+		effect = {prestige = 50 
+			give_minor_title = title_blue_druk}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000102 ={	
+    name="Wangay" 
+	
+	religion="gelugpa"
+	culture="bhutanese"
+	trait="yellow_druk"
+	2517.5.18={
+		birth=yes
+	}
+	2540.7.14={
+		employer= 4000000
+		effect = {prestige = 50 
+			give_minor_title = title_yellow_druk}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000103 ={	
+    name="Wangay" 
+	
+	religion="gelugpa"
+	culture="bhutanese"
+	trait="green_druk"
+	2513.6.17={
+		birth=yes
+	}
+	2540.7.14={
+		employer= 4000000
+		effect = {prestige = 50 
+			give_minor_title = title_green_druk}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000104 ={	
+    name="Yoser" 
+	
+	religion="gelugpa"
+	culture="bhutanese"
+	trait=red_druk
+	2517.2.7={
+		birth=yes
+	}
+	2540.7.14={
+		effect = {prestige = 25
+		give_minor_title = title_member_parliament}
+		employer= 4000000
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000105 ={	
+    name="Dorjee" 
+	
+	religion="gelugpa"
+	culture="bhutanese"
+	trait=red_druk
+	2520.4.13={
+		birth=yes
+	}
+	2540.7.14={
+		effect = {prestige = 25 
+		give_minor_title = title_member_parliament}
+		employer= 4000000
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000106 ={	
+    name="Jigyel" 
+	
+	religion="gelugpa"
+	culture="bhutanese"
+	trait=blue_druk
+	2518.9.18={
+		birth=yes
+	}
+	2540.7.14={
+		effect = {prestige = 25 
+		give_minor_title = title_member_parliament}
+		employer= 4000000
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000107 ={	
+    name="Khandu" 
+	
+	religion="gelugpa"
+	culture="bhutanese"
+	trait=blue_druk
+	2513.7.24={
+		birth=yes
+	}
+	2540.7.14={
+		effect = {prestige = 25 
+		give_minor_title = title_member_parliament}
+		employer= 4000000
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000108 ={	
+    name="Loday" 
+	
+	religion="gelugpa"
+	culture="bhutanese"
+	trait=yellow_druk
+	2511.4.25={
+		birth=yes
+	}
+	2540.7.14={
+		effect = {prestige = 25 
+		give_minor_title = title_member_parliament}
+		employer= 4000000
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000109 ={	
+    name="Puspalal" 
+	
+	religion="gelugpa"
+	culture="bhutanese"
+	trait=red_druk
+	2516.7.14={
+		birth=yes
+	}
+	2540.7.14={
+		effect = {prestige = 25 
+		give_minor_title = title_member_parliament}
+		employer= 4000000
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000110 ={	
+    name="Chokey" 
+	
+	religion="gelugpa"
+	culture="bhutanese"
+	trait=green_druk
+	2522.8.16={
+		birth=yes
+	}
+	2540.7.14={
+		effect = {prestige = 25 
+		give_minor_title = title_member_parliament_1}
+		employer= 4000000
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000111 ={	
+    name="Khandu" 
+	
+	religion="gelugpa"
+	culture="bhutanese"
+	trait=green_druk
+	2512.9.23={
+		birth=yes
+	}
+	2540.7.14={
+		effect = {prestige = 25 
+		give_minor_title = title_member_parliament_1}
+		employer= 4000000
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000112 ={	
+    name="Roxanne" 
+	dynasty=2050002
+	religion="catholic"
+	culture="kuhjungs"
+	trait=patient
+	trait=diligent
+	trait=physician
+	female=yes
+	2522.4.12={
+		birth=yes
+	}
+	2534.11.20={
+		add_spouse=26664162
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000113 ={	
+    name="Dieter" 
+	dynasty=24550381
+	religion="lutheran"
+	culture="prussian"
+	trait="fortune_builder"
+	trait="duelist"
+	trait="just"
+	trait="temperate"
+	trait="greedy"
+	trait="kind"
+	2522.7.15={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000116 ={	
+    name="Muaddam" 
+	dynasty=1946007
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="noahide"
+	2521.2.13={
+		birth=yes
+	}
+	2550.6.14={
+		effect={add_friend=26662801}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000117 ={	
+    name="Pashus" 
+	dynasty=25559310
+	religion="sunni"
+	culture="moldavian"
+	2531.4.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000118 = {
+	name="Oskar" 
+	dynasty=255164011
+	religion="catholic"
+	culture="maltese"
+	trait="celibate"
+	trait="true_christian_knight_hospitaller"
+	2512.7.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000119 = {
+	name="Lars" # Grand Master of the Knights of St John(lutheran edition)
+	dynasty=24550229
+	religion="lutheran"
+	culture="brandenburger"
+	trait="skilled_tactician"
+	trait="brave"
+	trait="duelist"
+	trait="true_christian_knight_hospitaller"
+	2506.7.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000120 = {
+	name="Klaas" # Grand Master of the Knights of St John(Calvinist edition)
+	dynasty=2000727
+	religion="calvinist"
+	culture="dutch"
+	trait="skilled_tactician"
+	trait="just"
+	trait="duelist"
+	trait="true_christian_knight_hospitaller"
+	trait="calvinist_blessed"
+	trait="zealous"
+	trait="patient"
+	2517.4.13={
+		birth=yes
+		add_claim = k_holland
+	}
+	2538.9.20={
+		add_spouse=30000122
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000121 = {
+	name="Landcalyn" # Grand Master of the Knights of St John(Anglican edition)
+	dynasty=1812071
+	religion="anglican"
+	culture="northlander"
+	trait="skilled_tactician"
+	trait="brave"
+	trait="duelist"
+	trait="true_christian_knight_hospitaller"
+	2511.9.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000122 = {
+	name="Elizabétta" # Grand Master Wife of the Knights of St John(Calvinist edition)
+	dynasty=36503206
+	religion="calvinist"
+	culture="swiss"
+	female=yes
+	2521.4.11={
+		birth=yes
+	}
+	2538.9.20={
+		add_spouse=30000120
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000123 = {
+	name="Olivier"
+	dynasty=2000727
+	religion="calvinist"
+	culture="dutch"
+	trait="true_christian_knight_hospitaller"
+	father=30000120
+	mother=30000122
+	2538.5.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000124 = {
+	name="Reinoud"
+	dynasty=2000727
+	religion="calvinist"
+	culture="dutch"
+	father=30000120
+	mother=30000122
+	2544.7.14={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000125 = {
+	name="Emma"
+	dynasty=2000727
+	religion="calvinist"
+	culture="dutch"
+	father=30000120
+	mother=30000122
+	female=yes
+	2549.2.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000126 = {
+	name="Mikael"
+	dynasty=2000728
+	religion="vagarna"
+	culture="icelander"
+	trait=slow
+	trait=chaste
+	trait=strong
+	trait=wroth
+	trait=honest
+	trait=uncouth
+	trait=stubborn
+	trait=arbitrary
+	2530.2.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000127 = {
+	name="Njáll"
+	dynasty=2000920
+	religion="vagarna"
+	culture="icelander"
+	2509.8.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000128 = {
+	name="Vilhjálmur"
+	dynasty=2000917
+	religion="vagarna"
+	culture="icelander"
+	2535.3.4={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000129 = {
+	name="Chinor"
+	dynasty=1980005
+	religion="ismaili"
+	culture="tajik"
+	2530.1.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000130 = {
+	name="Mari"
+	dynasty=2001503
+	religion="mikraist"
+	culture="menashe"
+	2528.3.9={
+		birth=yes
+		effect={add_friend=19480059}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000131 = {
+	name="Awgust"
+	dynasty=1989001
+	religion="catholic"
+	culture="wendish"
+	trait="strong"
+	2536.3.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000132 = {
+	name="Arthur" #Black Arthur
+	dynasty=1812038 #Solomonid
+	religion="summer_queen"
+	culture="ethiopian"
+	trait="poet"
+	trait="gregarious"
+	trait="duelist"
+	trait="strong"
+	trait="grey_eminence"
+	trait="summer_queen_1_honour"
+	2500.2.19={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = ethiopian
+			add_artifact = excalibur
+		}
+		culture = southener
+		create_bloodline = {
+			type = solomon
+			has_dlc = "Holy Fury"
+		}
+	}
+	2545.5.10={
+		add_spouse=30000135
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000133 = {
+	name="Manxome"
+	dynasty=1812042
+	religion="thelemic_reformed"
+	culture="british"
+	2523.3.9={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = british
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000134 = {
+	name="Kublay" #Benedict Wong's character in Marco Polo
+	dynasty=1842120 #Wong
+	religion="thelemic_reformed"
+	culture="hongkonger"
+	trait="poet"
+	trait="gregarious"
+	trait="just"
+	trait="grey_eminence"
+	trait="ambitious"
+	trait="sympathy_chinese"
+	father=3910084
+	2510.7.3={
+		birth=yes
+		culture = southener
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = hongkonger
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000135 = {
+	name="Gwyn" 
+	dynasty=3921041
+	religion="summer_queen"
+	culture="southener"
+	female=yes
+	trait="ambitious"
+	trait="groomed"
+	trait="gregarious"
+	trait="midas_touched"
+	2510.6.1={
+		birth=yes
+	}
+	2545.5.10={
+		add_spouse=30000132
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000136 = {
+	name="Jyngym" #Jingim, song of Kublai
+	dynasty=1842120 #Wong
+	religion="thelemic_reformed"
+	culture="hongkonger"
+	trait="ambitious"
+	trait="gregarious"
+	trait="sympathy_chinese"
+	father=30000134
+	mother=30000141
+	2542.6.1={
+		birth=yes
+		culture = southener
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = hongkonger
+		}
+	}	
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000137 = {
+	name="Jacob" 
+	dynasty=1812038 
+	religion="summer_queen"
+	culture="ethiopian"
+	father=30000132
+	mother=30000135
+	2542.9.12={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = ethiopian
+		}
+		culture = southener
+	}	
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000138 = {
+	name="Paul" 
+	dynasty=1812038 
+	religion="summer_queen"
+	culture="ethiopian"
+	father=30000132
+	mother=30000135
+	2543.11.22={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = ethiopian
+		}
+		culture = southener
+	}	
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000139 = {
+	name="Genghis" #The legend himself
+	dynasty=1842120 #Wong
+	religion="khanist"
+	culture="mongol"
+	occluded=yes
+	trait="legendary"
+	trait="ambitious"
+	trait="wroth"
+	trait="brave"
+	trait="proud"
+	trait="diligent"
+	trait="sympathy_chinese"	
+	1155.1.1={
+		birth=yes
+		create_bloodline = {
+			type = genghis_wong
+			has_dlc = "Holy Fury"
+		}		
+	}
+	1227.8.18={
+		death=yes
+	}
+}
+
+30000140 = {
+	name="Line of Genghis" #The supposed ancestry
+	dynasty=1842120 #Wong
+	religion="khanist"
+	culture="mongol"
+	occluded=yes
+	trait="legendary"
+	father=30000139
+	1185.1.1={
+		birth=yes		
+	}	
+	2000.1.1={
+		death=yes
+	}
+}
+
+30000141 = {
+	name="Chaby" #Chabi, wife of Kublai
+	dynasty=3921042 #Khongirad
+	religion="thelemic_reformed"
+	culture="hongkonger"
+	female=yes
+	trait="ambitious"
+	trait="groomed"
+	trait="gregarious"
+	trait="sympathy_chinese"
+	2520.1.1={
+		birth=yes	
+		culture = southener
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = hongkonger
+		}
+	}
+	2545.5.10={
+		add_spouse=30000134
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000142 ={	
+    name="Hary" 
+	dynasty=4031011
+	religion="summer_queen"
+	secret_religion="ibadi"
+	culture="omani"
+	trait="patient"
+	trait="gregarious"
+	trait="brave"
+	trait="sympathy_esoteric"
+	
+	father=30000029
+	mother=30000062
+	
+	2534.1.6={
+		birth=yes
+		culture=southener
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000143 ={	
+    name="Frydryk" 
+	dynasty=4031011
+	religion="summer_queen"
+	secret_religion="ibadi"
+	culture="omani"
+	trait="patient"
+	trait="brave"
+	trait="sympathy_esoteric"
+	
+	father=30000029
+	mother=30000062
+	
+	2536.10.1={
+		birth=yes
+		culture=southener
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000144 = {#son of Palamedes
+	name="Ga'allahid"
+	dynasty=4031011 
+	religion="summer_queen"
+	secret_religion="ibadi"
+	culture="omani"
+	trait="fair"
+	trait="quick"
+	father=30000026
+	mother=30000063
+	2553.1.1={
+		birth=yes
+		culture=southener
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = omani
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000145 = {#son of Palamedes
+	name="Bahdivr"
+	dynasty=4031011 
+	religion="summer_queen"
+	secret_religion="ibadi"
+	culture="omani"
+	trait="fair"
+	trait="gregarious"
+	father=30000026
+	mother=30000063
+	2554.1.1={
+		birth=yes
+		culture=southener
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = omani
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000148 ={	
+    name="Laurenz" 
+	dynasty=24550240
+	religion="prussianist"
+	culture="low_german"
+	2535.7.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000149 ={	
+    name="Daniél" 
+	dynasty=2001604
+	religion="catholic"
+	culture="kashubian"
+	2532.7.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000150 ={	
+    name="Jadóm" 
+	dynasty=2001608
+	religion="catholic"
+	culture="kashubian"
+	2530.5.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000151 ={	
+    name="Dietmar" 
+	dynasty=3833641
+	religion="lutheran"
+	culture="danzigian"
+	2531.2.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000152 ={	
+    name="Timón" 
+	dynasty=2001612
+	religion="catholic"
+	culture="kashubian"
+	2535.4.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000153 ={	
+    name="Érik" 
+	dynasty=2001610 #Gryf
+	religion="catholic"
+	culture="kashubian"
+	trait="charismatic_negotiator"
+	trait="gregarious"
+	trait="ambitious"
+	trait="cynical"
+	trait="temperate"
+	trait="groomed"
+	disallow_random_traits=yes
+	2533.8.21={
+		birth=yes
+	}
+	2553.8.21={
+		add_claim = k_sweden		
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000154 ={	
+    name="Babur"
+	dynasty=3924071
+	religion="bahai"
+	secret_religion="khanist"
+	culture="moghol"
+	diplomacy=7
+	martial=13
+	stewardship=8
+	intrigue=5
+	learning=5
+	trait="ambitious"
+	trait="brave"
+	trait="patient"
+	trait="proud"
+	trait="cruel"
+	trait="strategist"
+	trait="skilled_tactician"
+	trait="sympathy_old_world_cultist"	
+	disallow_random_traits = yes
+	2533.8.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000155 ={	
+    name="Nasr" 
+	dynasty=1942001
+	religion="ibadi"
+	culture="omani"
+	father=30000024
+	trait="trusting"	
+	trait="kind"
+	trait="patient"	
+	2540.3.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000156 ={	
+    name="Ramadan" 
+	dynasty=1942001
+	religion="ibadi"
+	culture="omani"
+	father=30000024
+	trait="patient"	
+	2542.1.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000157 ={	
+    name="Hafiz" 
+	dynasty=1942001
+	religion="ibadi"
+	culture="omani"
+	father=30000024
+	trait="patient"	
+	2545.1.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000158 ={	
+    name="Uways" 
+	dynasty=1942001
+	religion="ibadi"
+	culture="omani"
+	father=30000024
+	trait="patient"	
+	2548.2.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000159 ={
+    name="Adam" 
+	dynasty=50000148
+	religion="catholic"
+	culture="rusyn"
+	learning=9
+	trait="tough_soldier"
+	trait="temperate"
+	trait="brave"
+	trait="arbitrary"
+	trait="proud"
+	trait="scholar"
+	2516.4.3={
+		birth=yes
+	}
+	2550.5.26={#A collector of antideluvian relics
+		effect = {
+			add_artifact = pottery
+			add_artifact = ate_calculator
+			add_artifact = ate_watch
+			add_artifact = ate_euro
+			add_artifact = ate_euro
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000160 ={
+    name="Zinoviy" 
+	dynasty=50000138
+	religion="catholic"
+	culture="rusyn"
+	2522.6.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000161 ={
+    name="Konrad" 
+	dynasty=4031012
+	religion="catholic"
+	culture="austrian"
+	diplomacy=8
+	trait="strong"
+	trait="lustful"
+	trait="fecund"
+	fertility=2.5
+	2533.2.3={
+		birth=yes
+	}
+	2551.10.11={
+		add_spouse=30000162
+		wealth=120
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000162 ={
+    name="Klara" 
+	religion="catholic"
+	culture="austrian"
+	female= yes
+	trait="fair"
+	trait="lustful"
+	trait="fecund"
+	fertility=1.2
+	2534.7.1={
+		birth=yes
+	}
+	2551.10.11={
+		add_spouse=30000161
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000163 ={
+    name="Karoline" 
+	dynasty=4031012
+	religion="catholic"
+	culture="austrian"
+	female=yes
+	trait="twin"
+	trait="fair"
+	trait="strong"
+	trait="fecund"
+	father=30000161
+	mother=30000162
+	2552.6.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000164 ={
+    name="Otto" 
+	dynasty=4031012
+	religion="catholic"
+	culture="austrian"
+	trait="twin"
+	trait="fair"
+	trait="strong"
+	trait="fecund"
+	father=30000161
+	mother=30000162
+	2552.6.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000165 ={
+    name="Frazier" 
+	dynasty=4022093#Drummond
+	religion="calvinist"
+	culture="scots"
+	trait="calvinist_blessed"
+	trait="kind"
+	trait="charitable"
+	trait="gregarious"
+	trait="content"
+	2529.2.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000166 ={
+    name="Ramsey" 
+	dynasty=4022086#Carnegie
+	religion="calvinist"
+	culture="scots"
+	trait="calvinist_damned"
+	trait="wroth"
+	trait="greedy"
+	trait="gregarious"
+	trait="ambitious"
+	2534.2.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000167 ={
+    name="Malcolm" 
+	dynasty=4022081#Keith
+	religion="calvinist"
+	culture="scots"
+	trait="calvinist_blessed"
+	trait="kind"
+	trait="charitable"
+	trait="gregarious"
+	trait="ambitious"
+	2530.2.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000168 ={
+    name="Stephen" # Steve Jobs' character 
+	dynasty=4022078# Mackintosh
+	religion="calvinist"
+	culture="scots"
+	trait="scholarly_theologian"
+	trait="genius"
+	trait="ambitious"
+	trait="patient"
+	trait="gregarious"
+	trait="calvinist_blessed"
+	disallow_random_traits = yes
+	2534.2.24={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000169 ={
+    name="Dennis" 
+	dynasty=4022099#Sinclair
+	religion="calvinist"
+	culture="scots"
+	trait="calvinist_blessed"
+	trait="zealous"
+	trait="content"
+	trait="humble"
+	trait="shrewd"
+	trait="gregarious"
+	father=30000269
+	2535.2.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000170 ={
+    name="Danyl" 
+	religion="thelemic_reformed"
+	culture="southener"
+	2516.2.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000171 ={
+    name="Giorno Giovanna" 
+	religion="catholic"
+	secret_religion="thelemic_reformed"
+	dynasty=255516934
+	culture="sicilian"
+	2532.3.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000172 = {
+	name="Raúl" 
+	dynasty=25551235 # Lupin
+	religion="sevillian"
+	secret_religion="novelist"
+	culture="castilian"
+	father=30000173
+	trait="brave"
+	trait="gregarious"
+	trait="just"
+	trait="skilled_tactician"
+	trait="duelist"
+	trait="gentleman_thief"
+	2526.7.8={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000173 = {
+	name="Maurits" 
+	dynasty=25551235 # Lupin
+	religion="novelist"
+	culture="belgian"
+	2506.7.8={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000174 = {
+	name="Peter" 
+	dynasty=1987018 # Popper
+	religion="congregationist"
+	culture="ashkenazi"
+	2525.8.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000175 = {
+	name="Yaakov" 
+	dynasty=1987008 # Barron
+	religion="congregationist"
+	culture="ashkenazi"
+	2542.6.8={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000176 = {
+	name="Alexander" 
+	dynasty=1987006 # Auerbach
+	religion="federationist"
+	culture="ashkenazi"
+	2521.9.8={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000177 = {
+	name="Albert" 
+	dynasty=4031013 # Wake
+	religion="thelemic_reformed"
+	secret_religion="anglican" 
+	culture="eastlander"
+	intrigue=8
+	trait="cruel"
+	trait="deceitful"
+	trait="wroth"
+	trait="impaler"
+	trait="envious"
+	trait="ambitious"
+	trait="quick"
+	trait="legit_bastard"
+	2538.6.2={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = british
+		}
+		give_nickname = nick_hereward
+		create_bloodline = {
+			type = hereward
+			has_dlc = "Holy Fury"
+		}
+	}
+	2554.10.4={
+		effect = {add_artifact = ate_firearm }
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000178 = {
+	name="Ya'qob" 
+	dynasty=1974122
+	religion="chaldean"
+	culture="aramaic"
+	trait="ambitious"
+	trait="quick"
+	2532.6.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000179 = {
+	name="Greger" 
+	dynasty=24550159
+	religion="vagarna"
+	culture="swedish"
+	2534.7.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000180 = {
+	name="Liam" 
+	dynasty=1970023
+	religion="lutheran"
+	culture="gothic"
+	trait="erudite"
+	trait="eccentric"
+	trait="shrewd"
+	trait="administrator"
+	trait="patient"
+	trait="diligent"
+	trait="fortune_builder"
+	disallow_random_traits=yes
+	2533.5.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000181 = {
+	name="Rolf" 
+	dynasty=1970014
+	religion="vagarna"
+	culture="gothic"
+	trait="fecund"
+	2532.6.8={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000182 = {
+	name="Farhan" 
+	dynasty=1938019
+	religion="sunni"
+	culture="misri"
+	2536.4.8={
+		birth=yes
+		create_bloodline = {
+			type = windsor_bloodline
+			has_dlc = "Holy Fury"
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000183 = {
+	name="Haroun" 
+	dynasty=1938020
+	religion="sunni"
+	culture="misri"
+	2538.7.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000184 = {
+	name="Nasir" 
+	dynasty=1938041
+	religion="sunni"
+	culture="misri"
+	2533.9.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000185 ={	
+    name="Demetrio" 
+	religion="cadaverist"
+	culture="venetian"
+	diplomacy=10
+	martial=5
+	stewardship=5
+	intrigue=5
+	learning=17	
+	trait="mastermind_theologian"
+	trait="chaste"
+	trait="trusting"	
+	trait="kind"
+	trait="patient"	
+	2516.3.11={
+		birth=yes
+	}
+	2550.4.13={
+		effect = {add_artifact = skeleton_pope}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000186 ={	
+    name="Adamer" 
+	religion="orthodox"
+	secret_religion="sunni"
+	dynasty=3854005
+	culture="abkhazian"
+	trait="patient"
+	trait="content"
+	trait="just"
+	trait="gregarious"
+	trait="grey_eminence"
+	trait="sympathy_islam"
+	2527.3.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+#Canarian Characters
+30000187 = {
+	name="Rafael"
+	dynasty=25650323 #Arozarena
+	religion="catholic"
+	culture="canarian"
+	trait="scholarly_theologian"
+	trait="poet"
+	trait="erudite"
+	trait="content"
+	trait="patient"
+	trait="kind"
+	trait="temperate"
+	disallow_random_traits=yes
+	2523.4.4={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000188 = {
+	name="Felipe"
+	dynasty=25650315
+	religion="catholic"
+	culture="canarian"
+	2539.2.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000189 = {
+	name="Jorge"
+	dynasty=25650316
+	religion="catholic"
+	culture="canarian"
+	2540.1.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000190 = {
+	name="Óscar"
+	dynasty=25650317
+	religion="catholic"
+	culture="canarian"
+	2534.5.8={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000191 = {
+	name="Elazar"
+	dynasty=1958026
+	religion="haymanot"
+	culture="beta_israeli"
+	2536.5.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000192 = {
+	name="Yohannan"
+	dynasty=1974036
+	religion="mandaeanism"
+	culture="mandaeans"
+	trait="shaykh"
+	2538.5.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000193 = {
+	name="Hedayat"
+	dynasty=1981141
+	religion="shiite"
+	culture="qashqai"
+	2536.3.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000194 = {
+	name="Karan"
+	dynasty=1981175
+	religion="deobandi"
+	culture="brahui"
+	2537.8.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000195 = {
+	name="Tahir"
+	dynasty=1981178
+	religion="deobandi"
+	culture="brahui"
+	2534.8.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000196 = {
+	name="Shahabuddin"
+	dynasty=1981189
+	religion="deobandi"
+	culture="brahui"
+	2537.8.17={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000197 = {
+	name="Jaipal"
+	dynasty=1981241
+	religion="sarna_pagan"
+	culture="munda"
+	2537.8.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000198 = {
+	name="Sayid Hanif"
+	dynasty=3834323
+	religion="shiite"
+	culture="telugu"
+	2534.8.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000199 = {
+	name="Zartosht"
+	dynasty=1975021
+	religion="zoroastrian"
+	culture="persian"
+	trait="content"
+	2538.8.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000200 = {
+	name="Olayinka"
+	dynasty=25654119
+	religion="islamity"
+	culture="nigerian"
+	2529.9.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000201 = {
+	name="G'az"
+	dynasty=2040025
+	religion="ironist"
+	culture="pontian"
+	trait="brilliant_strategist"
+	trait="shrewd"
+	trait="ambitious"
+	trait="greedy"
+	trait="honest"
+	trait="gregarious"
+	2532.11.1={
+		birth=yes
+		culture = grekter
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = pontian
+			add_friend=30000203
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000202 = {
+	name="Muhammad"
+	dynasty=1939037 #El-Zafir
+	religion="shiite"
+	culture="misri"
+	trait="scholarly_theologian"
+	trait="zealous"
+	trait="erudite"
+	trait="kind"
+	trait="patient"
+	2534.9.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000203 = {
+	name="Ivan"
+	dynasty=1947113
+	religion="armenianapostolic"
+	culture="armyan"
+	trait="elusive_shadow"
+	trait="temperate"
+	2534.9.1={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = armyan
+			add_friend=30000201
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000204 = {
+	name="Dmitri"
+	dynasty=4031015
+	religion="folklorist"
+	culture="pomoran"
+	trait="eunuch"
+	trait="strong"
+	trait="fair"
+	2528.5.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000205 = {
+	name="Ibrahimis"
+	dynasty=3833489
+	religion="orthodox"
+	culture="rumca"
+	trait="strong"
+	trait="celibate"
+	2528.5.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000206 = {
+	name="Corrado"
+	dynasty=255516907
+	religion="catholic"
+	culture="sard"
+	2530.3.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000207 = {
+	name="Elías"
+	dynasty=2081058
+	religion="orthodox"
+	culture="griko"
+	2529.6.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000208 = {
+	name="Baris"
+	dynasty=2081067
+	religion="brethren"
+	secret_religion = "stalinist"
+	culture="muscovite"
+	martial=9
+	2530.10.23={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000209 = {
+	name="Musa"
+	dynasty=4031017
+	religion="wahhabi"
+	secret_religion = "sunni"
+	culture="hejazi"
+	trait = genius
+	trait = administrator
+	trait = grey_eminence
+	martial = 8
+	father=30000220
+	2531.2.15={
+		birth=yes
+	}
+	2549.4.15={
+		add_spouse=30000211
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000210 = {
+	name="Ibrahim"
+	dynasty=4031017
+	religion="wahhabi"
+	secret_religion = "sunni"
+	culture="hejazi"
+	
+	father=30000209
+	mother=30000211
+
+	2550.3.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000211 = {
+	name="Samira"
+	dynasty=3920018
+	religion="wahhabi"
+	secret_religion = "sunni"
+	culture="hejazi"
+	
+	female = yes
+
+	2533.1.15={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000212 = {
+	name="Chekes"
+	dynasty=3940371
+	religion="orthodox"
+	culture="chuvash"
+	trait = fair
+
+	2533.1.15={
+		birth=yes
+	}
+	2551.6.20={
+		add_spouse=30000211
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000213 = {
+	name="Tany"
+	dynasty=3940372
+	religion="orthodox"
+	culture="chuvash"
+	trait = fair
+	
+	female = yes
+
+	2534.5.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000214 = {
+	name="Daniil"
+	dynasty=3940371
+	religion="orthodox"
+	culture="chuvash"
+	
+	father=30000212
+	mother=30000213
+
+	2552.1.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000215 = {
+	name="Hafiz" #Second High King of Saudi Arabia. Continued his father's legacy. Known for his dedication to theology.
+	dynasty=4031016
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000216
+	trait ="mastermind_theologian"
+	trait ="hafiz"
+	trait ="erudite"
+	trait ="zealous"
+	trait ="patient"
+	disallow_random_traits=yes
+	2419.1.14={
+		birth=yes
+	}
+	2456.1.1={
+		give_nickname=nick_the_holy
+	}
+	2500.8.14={
+		death=yes
+	}
+}
+
+30000216 = {
+	name="Ramadan" #First High King of Saudi Arabia and Fifth King of Najd. The latter title became obsolete after his bold conquest to unite Arabia succeeded.
+	dynasty=25560002
+	religion="wahhabi"
+	culture="bedouin_arabic"
+	father=30000241
+	trait ="brilliant_strategist"
+	trait ="brave"
+	trait ="ambitious"
+	trait ="zealous"
+	trait ="administrator"
+	disallow_random_traits=yes
+	2388.1.4={
+		birth=yes
+	}
+	2425.1.1={
+		give_nickname=nick_the_glorious
+	}
+	2455.8.1={
+		death=yes
+	}
+}
+
+30000217 = {
+	name="Fadil" #Second son of King Ramadan, started the Fadil branch of the family
+	dynasty=4031017
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000216
+	2421.1.1={
+		birth=yes
+	}
+	2450.8.1={
+		death=yes
+	}
+}
+
+30000218 = {
+	name="Jalil" #First son of Fadil, Fadil branch
+	dynasty=4031017
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000217
+	2440.1.1={
+		birth=yes
+	}
+	2470.8.1={
+		death=yes
+	}
+}
+
+30000219 = {
+	name="Hussayn" #Son of Jalil, Fadil branch. Granted Jeddah.
+	dynasty=4031017
+	religion="wahhabi"
+	culture="hejazi"	
+	father=30000218
+	2460.1.1={
+		birth=yes
+	}
+	2499.8.1={
+		death=yes
+	}
+}
+
+30000220 = {
+	name="Yusuf" #Son of Hussayn, Fadil branch. Current Sheikh of Jeddah
+	dynasty=4031017
+	religion="wahhabi"
+	culture="hejazi"	
+	father=30000219
+	2485.1.1={
+		birth=yes
+	}
+	2542.8.1={
+		death=yes
+	}
+}
+
+30000221 = {
+	name="Mahmud" #Second son of Fadil, Fadil branch
+	dynasty=4031017
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000217
+	2443.10.1={
+		birth=yes
+	}
+	2478.8.1={
+		death=yes
+	}
+}
+
+30000222 = {
+	name="Zayn" #Son of Mahmud, Fadil branch
+	dynasty=4031017
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000221
+	2463.11.1={
+		birth=yes
+	}
+	2500.8.1={
+		death=yes
+	}
+}
+
+30000223 = {
+	name="Najib" #First son of Zayn, Fadil branch. Granted Khaybar.
+	dynasty=4031017
+	religion="wahhabi"
+	culture="hejazi"	
+	father=30000222
+	2505.1.5={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000224 = {
+	name="Sadiq" #Second son of Zayn, Fadil branch. Granted Asir.
+	dynasty=4031017
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000222
+	2513.5.5={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000225 = {
+	name="Jabir" #Third son of High King Ramadan, started the Jabir branch of the family
+	dynasty=4031018
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000216
+	2423.7.1={
+		birth=yes
+	}
+	2467.8.1={
+		death=yes
+	}
+}
+
+30000226 = {
+	name="Shujah" #Son of Jabir, Jabir branch
+	dynasty=4031018
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000225
+	2445.5.1={
+		birth=yes
+	}
+	2487.2.1={
+		death=yes
+	}
+}
+
+30000227 = {
+	name="Mansur" #Son of Shujah, Jabir branch
+	dynasty=4031018
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000226
+	2475.2.1={
+		birth=yes
+	}
+	2525.2.1={
+		death=yes
+	}
+}
+
+30000228 = {
+	name="Ya'qub" #First son of Mansur, Jabir branch
+	dynasty=4031018
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000227
+	2515.1.1={
+		birth=yes
+	}
+	2554.2.1={
+		death=yes
+	}
+}
+
+30000229 = {
+	name="Ilyas" #First son of Ya'qub, Jabir branch. Granted Hail and Halaban
+	dynasty=4031018
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000228
+	2536.1.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+
+30000230 = {
+	name="Hasan" #Second son of Ya'qub, Jabir branch. Granted Rafha
+	dynasty=4031018
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000228
+	2537.6.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+
+30000231 = {
+	name="Mirza" #Third son of Ya'qub, Jabir branch. Granted Hajr
+	dynasty=4031018
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000228
+	2539.3.11={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+
+30000232 = {
+	name="Samir" #Second son of Mansur, Jabir branch. Granted Dariya
+	dynasty=4031018
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000227
+	2517.11.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+
+30000233 = {
+	name="Uthman" #Fourth son of High King Ramadan, started the Uthman branch of the family
+	dynasty=4031019
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000216
+	2427.7.8={
+		birth=yes
+	}
+	2467.8.1={
+		death=yes
+	}
+}
+31000233 = {
+	name="Tiernan" 
+	dynasty=1999029
+	religion="catholic"
+	culture="yola"	
+	2522.7.8={
+		birth=yes
+	}
+	2666.8.1={
+		death=yes
+	}
+}
+
+30000234 = {
+	name="Rashid" #Son of Uthman, Uthman branch
+	dynasty=4031019
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000233
+	2457.2.18={
+		birth=yes
+	}
+	2527.12.1={
+		death=yes
+	}
+}
+
+30000235 = {
+	name="Nizam" #Son of Rashid, Uthman branch
+	dynasty=4031019
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000234
+	2479.1.20={
+		birth=yes
+	}
+	2529.3.3={
+		death=yes
+	}
+}
+
+30000236 = {
+	name="Abdul-Gafur" #Son of Nizam, Uthman branch. Granted Kuwait
+	dynasty=4031019
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000235
+	2512.9.2={
+		birth=yes
+	}
+	2590.3.3={
+		death=yes
+	}
+}
+
+30000237 = {
+	name="Hussayn" #Son of Abdul-Gafur, Uthman branch. Next in line to inherit Kuwait
+	dynasty=4031019
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000236
+	2535.4.20={
+		birth=yes
+	}
+	2590.3.3={
+		death=yes
+	}
+}
+
+30000238 = {
+	name="Abdul-Qadir" #First King of Najd and patriarch of the Saudis. Sources say he united the family after decades of chaos in the family's Najd home region.
+	dynasty=25560002
+	religion="wahhabi"
+	culture="bedouin_arabic"
+	trait ="grey_eminence"
+	trait ="zealous"
+	trait ="kind"
+	trait ="humble"
+	trait ="patient"
+	disallow_random_traits=yes
+	2270.1.4={
+		birth=yes
+		create_bloodline = {
+			type = saud
+			has_dlc = "Holy Fury"
+		}
+	}
+	2353.1.1={
+		give_nickname=nick_the_grand_patriarch
+	}
+	2355.3.11={
+		death=yes
+	}
+}
+
+30000239 = {
+	name="Idris" #Second King of Najd and son of Abdul-Qadir. Known for his short reign due to passing away to an unknown disease.
+	dynasty=25560002
+	religion="wahhabi"
+	culture="bedouin_arabic"
+	father=30000238
+	trait ="charismatic_negotiator"
+	trait ="humble"
+	trait ="patient"
+	disallow_random_traits=yes
+	2289.4.14={
+		birth=yes
+	}
+	2356.1.1={
+		give_nickname=nick_the_simple
+	}
+	2356.7.11={
+		death=yes
+	}
+}
+
+30000240 = {
+	name="Salih" #Third King of Najd and son of Idris. Known for his shyness as he was rarely seen outside the palace.
+	dynasty=25560002
+	religion="wahhabi"
+	culture="bedouin_arabic"
+	father=30000239
+	trait ="fortune_builder"
+	trait ="shy"
+	trait ="erudite"
+	disallow_random_traits=yes
+	2319.6.16={
+		birth=yes
+	}
+	2359.1.1={
+		give_nickname=nick_the_silent
+	}
+	2370.3.1={
+		death=yes
+	}
+}
+
+30000241 = {
+	name="Muzaffar" #Fourth King of Najd and son of Salih. Known for his studious nature and gardening hobby, which consumed much of his time away from his administrative duties.
+	dynasty=25560002
+	religion="wahhabi"
+	culture="bedouin_arabic"
+	father=30000240
+	trait ="scholarly_theologian"
+	trait ="gardener"
+	trait ="erudite"
+	trait ="arbitrary"
+	trait ="diligent"
+	disallow_random_traits=yes
+	2342.12.16={
+		birth=yes
+	}
+	2390.1.1={
+		give_nickname=nick_the_unready
+	}
+	2392.4.2={
+		death=yes
+	}
+}
+
+30000242 = {
+	name="Jibril" 
+	dynasty=1944017
+	religion="shiite"
+	culture="bedouin_arabic"
+	2536.12.16={
+		birth=yes
+	}
+	2600.4.2={
+		death=yes
+	}
+}
+30000243 = {
+	name="Isa" 
+	dynasty=1944004
+	religion="sunni"
+	culture="bedouin_arabic"
+	2537.8.18={
+		birth=yes
+	}
+	2600.4.2={
+		death=yes
+	}
+}
+30000244 = {
+	name="Yunus" 
+	dynasty=1944001
+	religion="wahhabi"
+	culture="bedouin_arabic"
+	2538.2.12={
+		birth=yes
+	}
+	2600.4.2={
+		death=yes
+	}
+}
+
+30000245 = {
+	name="Abdul" #Son of Najib, Fadil branch. In Khaybar.
+	dynasty=4031017
+	religion="wahhabi"
+	culture="hejazi"	
+	father=30000223
+	2535.12.20={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000246 = {
+	name="Malik" #Son of Sadiq, Fadil branch. In Asir.
+	dynasty=4031017
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000224
+	2543.2.5={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000247 = {
+	name="Said" #Son of Samir, Jabir branch. In Dariya
+	dynasty=4031018
+	religion="wahhabi"
+	culture="bedouin_arabic"	
+	father=30000232
+	2539.10.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+30000248 = {
+	name="Nizam" 
+	dynasty=1972000
+	religion="sunni"
+	culture="domari"
+	2536.9.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+30000249 = {
+	name="Períandros" 
+	dynasty=25552625 #Popotas
+	religion="hellenic_pagan"
+	culture="greek"
+	father=26662662
+	trait="mastermind_theologian"
+	trait="proud"
+	trait="zealous"
+	trait="stubborn"
+	trait="erudite"
+	2517.5.23={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+
+30000250 = {
+	name="Eugénios" 
+	dynasty=1951020
+	religion="hellenic_pagan"
+	culture="aigionoi"
+	2532.7.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+
+30000251 = {
+	name="Daidalos" 
+	dynasty=1951054
+	religion="hellenic_pagan"
+	culture="aigionoi"
+	trait="architect"
+	trait="erudite"
+	trait="quick"
+	trait="diligent"
+	trait="fortune_builder"
+	2520.10.1={
+		birth=yes
+		create_bloodline = {
+			type = daedalus_bloodline
+			has_dlc = "Holy Fury"
+		}
+		give_nickname=nick_the_architect
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+30000252 = {
+	name="Minos" 
+	dynasty=1951055
+	religion="hellenic_pagan"
+	culture="aigionoi"
+	trait="charismatic_negotiator"
+	trait="greedy"
+	trait="wroth"
+	trait="craven"
+	trait="ambitious"
+	2514.7.1={
+		birth=yes
+		create_bloodline = {
+			type = minoan_bloodline
+			has_dlc = "Holy Fury"
+		}
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+30000253 = {
+	name="Ikaros" 
+	dynasty=1951054
+	religion="hellenic_pagan"
+	culture="aigionoi"
+	father=30000251
+	trait="brave"
+	2538.10.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+30000254 = {
+	name="Pasiphae" 
+	religion="hellenic_pagan"
+	culture="aigionoi"
+	female=yes
+	trait="mystic"
+	2518.7.1={
+		birth=yes
+	}
+	2530.2.2={
+		add_spouse=30000252
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+30000255 = {
+	name="Androgeos" 
+	dynasty=1951055
+	religion="hellenic_pagan"
+	culture="aigionoi"
+	father=30000252
+	mother=30000254
+	trait="strong"
+	2536.7.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+30000256 = {
+	name="Ariadni" 
+	dynasty=1951055
+	religion="hellenic_pagan"
+	culture="aigionoi"
+	trait="mystic"
+	female=yes
+	father=30000252
+	mother=30000254
+
+	2534.7.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+30000257 = {
+	name="Defkalion" 
+	dynasty=1951055
+	religion="hellenic_pagan"
+	culture="aigionoi"
+	father=30000252
+	mother=30000254
+	
+	2535.7.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+30000258 = {
+	name="Phaedra" 
+	dynasty=1951055
+	religion="hellenic_pagan"
+	culture="aigionoi"
+	female=yes
+	trait="lustful"
+	father=30000252
+	mother=30000254
+	
+	2537.7.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+30000259 = {
+	name="Katreus" 
+	dynasty=1951055
+	religion="hellenic_pagan"
+	culture="aigionoi"
+	father=30000252
+	mother=30000254
+	
+	2534.7.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+30000260 = {
+	name="Acacallis" 
+	dynasty=1951055
+	religion="hellenic_pagan"
+	culture="aigionoi"
+	female=yes
+	father=30000252
+	mother=30000254
+	
+	2539.7.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+30000261 = {
+	name="Xenodike"
+	dynasty=1951055
+	religion="hellenic_pagan"
+	culture="aigionoi"
+	female=yes
+	father=30000252
+	mother=30000254
+	
+	2540.7.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+30000262 = {
+	name="Asterios" #Minotaur
+	dynasty=1951056
+	religion="hellenic_pagan"
+	culture="aigionoi"
+	mother=30000254
+	trait="bastard"
+	trait="strong"
+	trait="giant"
+	trait="cannibal_trait"
+	trait="dull"
+	trait="ugly"
+	trait="cruel"
+	trait="robust"
+	2538.5.1={
+		birth=yes
+	}
+	2550.7.12={
+		employer=30000252
+		give_job_title=job_marshal
+		create_bloodline = {
+			type = minotaur
+			has_dlc = "Holy Fury"
+		}
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+#30000263 = { Moved to the "Visitors from the heavens" submod
+#	name="Talos" 
+#	religion="hellenic_pagan"
+#	culture="aigionoi"
+#	trait="android"
+#	trait="just"
+#	2538.10.1={
+#		birth=yes
+#		effect = {
+#			set_graphical_culture = android
+#		}
+#	}
+#	2550.7.12={
+#		employer=30000251
+#		give_job_title=job_marshal
+#	}
+#	2595.2.1={
+#		death=yes
+#	}
+#}
+30000264 = {
+	name="Glafkos"
+	dynasty=1951055
+	religion="hellenic_pagan"
+	culture="aigionoi"
+	father=30000252
+	mother=30000254
+	trait="playful"
+	2543.7.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+
+30000265 = {
+	name="Joachim"
+	dynasty=3833061
+	religion="catholic"
+	culture="austrian"
+	2530.7.1={
+		birth=yes
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+
+30000266 = {
+	name="Jalal"
+	dynasty=1939141
+	religion="sunni"
+	culture="saidi"
+	2530.5.1={
+		birth=yes
+		effect = {
+			set_graphical_culture = hungarian
+		}
+	}
+	2548.8.30={
+		add_spouse=30000267
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+
+30000267 = {
+	name="Majida"
+	dynasty=1939138
+	religion="sunni"
+	culture="saidi"
+	female = yes
+	2532.7.1={
+		birth=yes
+		effect = {
+			set_graphical_culture = hungarian
+		}
+	}
+	2548.8.30={
+		add_spouse=30000266
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+
+30000268 = {
+	name="Malik"
+	dynasty=1939141
+	religion="sunni"
+	culture="saidi"
+
+	father=30000266
+	mother=30000267
+	2549.9.3={
+		birth=yes
+		effect = {
+			set_graphical_culture = hungarian
+		}
+	}
+	2595.2.1={
+		death=yes
+	}
+}
+30000269 ={
+    name="Dennis"
+	dynasty=4022099#Sinclair
+	religion="calvinist"
+	culture="scots"
+	2489.5.5={
+		birth=yes
+	}
+	2551.2.7={
+		death=yes
+	}
+}
+
+30000370 ={
+    name="Ali"
+	dynasty=1997139#Tepelena
+	religion="novelist"
+	culture="arberian"
+	trait="thrifty_clerk"
+	trait="cruel"
+	trait="proud"
+	trait="shrewd"
+	trait="deceitful"
+	trait="sympathy_islam"
+	2490.5.5={
+		birth=yes
+	}
+	2551.2.7={
+		death=yes
+	}
+}
+
+30000371 ={
+    name="Veli"
+	dynasty=1997139#Tepelena
+	religion="novelist"
+	culture="arberian"
+	father=30000370
+	trait="tough_soldier"
+	trait="brave"
+	trait="just"
+	trait="patient"
+	trait="sympathy_islam"
+	2535.1.5={
+		birth=yes
+	}
+	2590.2.7={
+		death=yes
+	}
+}
+
+30000372 ={
+    name="Haydée"
+	dynasty=1997139#Tepelena
+	religion="novelist"
+	culture="arberian"
+	father=30000370
+	female=yes
+	trait="underhanded_rogue"
+	trait="kind"
+	trait="fair"
+	trait="humble"
+	trait="content"
+	trait="honest"
+	disallow_random_traits=yes
+	2536.3.1={
+		birth=yes
+	}
+	2554.12.20={
+		add_spouse=26661238 #Edmond Dantes
+	}
+	2590.2.7={
+		death=yes
+	}
+}
+30000373 = {
+	name="Lutuveras" 
+	dynasty=2081280
+	religion="catholic"
+	secret_religion="baltic_pagan"
+	culture="lithuanian"
+	trait ="fortune_builder"
+	trait ="shy"
+	trait ="erudite"
+	2532.6.16={
+		birth=yes
+	}
+	2600.3.1={
+		death=yes
+	}
+}
+30000374 = {
+	name="Petr" 
+	religion="osvicenism"
+	culture="czech"
+	trait="osvicenism_tolerations"
+	2525.6.11={
+		birth=yes
+	}
+	2600.3.1={
+		death=yes
+	}
+}
+30000375 = {
+	name="Gustav" 
+	religion="osvicenism"
+	culture="czech"
+	trait="osvicenism_tolerations"
+	2530.2.16={
+		birth=yes
+	}
+	2600.3.1={
+		death=yes
+	}
+}
+30000376 = {
+	name="Castolov" 
+	religion="osvicenism"
+	culture="czech"
+	trait="osvicenism_tolerations"
+	2529.7.19={
+		birth=yes
+	}
+	2600.3.1={
+		death=yes
+	}
+}
+
+30000377 = {
+	name="Kezhay"
+	dynasty=3940424
+	religion="folklorist"
+	secret_religion = "orthodox"
+	culture="mordvin"
+
+	2531.6.17={
+		birth=yes
+	}
+	2551.3.20={
+		add_spouse=30000378
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000378 = {
+	name="Mazava"
+	dynasty=3940425
+	religion="folklorist"
+	secret_religion = "orthodox"
+	culture="mordvin"
+	
+	female = yes
+
+	2533.1.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000379 = {
+	name="Vechkas"
+	dynasty=3940424
+	religion="folklorist"
+	secret_religion = "orthodox"
+	culture="mordvin"
+	
+	father=30000377
+	mother=30000378
+
+	2551.8.30={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+#Nigerian settlers under the Protectorate
+30000380 = {
+	name="Nicolas"
+	dynasty=25654107
+	religion="islamity"
+	culture="nigerian"
+	
+	2520.1.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000381 = {
+	name="Omar"
+	dynasty=25654109
+	religion="islamity"
+	culture="nigerian"
+	
+	2519.3.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000382 = {
+	name="Muhammed"
+	dynasty=25654118
+	religion="islamity"
+	culture="nigerian"
+	
+	2524.11.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+#End of settler characters
+
+30000383 = {
+	name="Bashir"
+	dynasty=25654176
+	religion="islamity"
+	culture="hausa"
+	
+	2525.10.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000384 = {
+	name="Nasiru"
+	dynasty=25654183
+	religion="islamity"
+	culture="hausa"
+	
+	2524.4.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000385 ={	
+    name="Temyr" 
+	religion="orthodox"
+	secret_religion="sunni"
+	dynasty=3854005
+	culture="abkhazian"
+	father=30000186
+	2553.8.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+#Beginning of Mughal rulers
+
+30000386 ={	
+    name="Babur" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="uzbek"
+	trait ="skilled_tactician"
+	trait ="legendary"
+	1483.2.14={
+		birth=yes
+	}
+	1530.12.26={
+		death=yes
+	}
+}
+
+30000387 ={	
+    name="Humayun" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="afghan"
+	father=30000386
+	trait ="legendary"
+	1508.3.6={
+		birth=yes
+	}
+	1556.1.27={
+		death=yes
+	}
+}
+
+30000388 ={	
+    name="Akbar" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="sindhi"
+	father=30000387
+	trait ="legendary"
+	trait ="just"
+	trait ="ambitious"
+	trait ="grey_eminence"
+	trait ="gregarious"
+	trait ="sympathy_christendom"
+	trait ="sympathy_indian"
+	trait ="kind"
+	trait ="patient"
+	disallow_random_traits=yes
+	1542.10.15={
+		birth=yes
+	}
+	1600.10.27={
+		give_nickname=nick_the_great
+	}
+	1605.10.27={
+		death=yes
+	}
+}
+
+30000389 ={	
+    name="Jahangir" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="hindustani"
+	father=30000388
+	trait ="legendary"
+	1569.8.31={
+		birth=yes
+	}
+	1627.10.28={
+		death=yes
+	}
+}
+
+30000390 ={	
+    name="Shah-Jahan" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="panjabi"
+	father=30000389
+	trait ="legendary"
+	trait ="just"
+	trait ="ambitious"
+	trait ="midas_touched"
+	trait ="proud"
+	trait ="architect"
+	trait ="strategist"
+	trait ="administrator"
+	trait ="shrewd"
+	disallow_random_traits=yes
+	1592.1.5={
+		birth=yes
+	}
+	1666.1.22={
+		death=yes
+	}
+}
+
+30000391 ={	
+    name="Alamgir Aurangzeb" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="gujurati"
+	father=30000390
+	trait ="legendary"
+	trait ="scholarly_theologian"
+	trait ="faqih"
+	trait ="zealous"
+	trait ="diligent"
+	trait ="administrator"
+	disallow_random_traits=yes
+	1618.11.4={
+		birth=yes
+	}
+	1800.3.3={
+		death=yes
+	}
+}
+
+30000392 ={	
+    name="Muhammad Azam Shah" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="rajput"
+	father=30000391
+	trait ="legendary"
+	1653.6.28={
+		birth=yes
+	}
+	1707.6.8={
+		death=yes
+	}
+}
+
+30000393 ={	
+    name="Bahadur Shah" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="rajput"
+	father=30000391
+	trait ="legendary"
+	1643.10.14={
+		birth=yes
+	}
+	1800.2.27={
+		death=yes
+	}
+}
+
+30000394 ={	
+    name="Jahandar Shah" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="hindustani"
+	father=30000393
+	trait ="legendary"
+	1661.5.9={
+		birth=yes
+	}
+	1713.2.12={
+		death=yes
+	}
+}
+
+30000395 ={	
+    name="Farrukhsiyar" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="hindustani"
+	father=30000393
+	trait ="legendary"
+	1685.8.20={
+		birth=yes
+	}
+	1719.4.19={
+		death=yes
+	}
+}
+
+30000396 ={	
+    name="Rafi ud-Darajat" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="hindustani"
+	father=30000393
+	trait ="legendary"
+	1699.12.1={
+		birth=yes
+	}
+	1719.6.6={
+		death=yes
+	}
+}
+
+30000397 ={	
+    name="Shah-Jahan" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="hindustani"
+	father=30000393
+	trait ="legendary"
+	1696.6.1={
+		birth=yes
+	}
+	1719.9.18={
+		death=yes
+	}
+}
+
+30000398 ={	
+    name="Mohammed Shah" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="afghan"
+	father=30000393
+	trait ="legendary"
+	1702.8.7={
+		birth=yes
+	}
+	1748.4.26={
+		death=yes
+	}
+}
+
+30000399 ={	
+    name="Ahmad Shah Bahadur" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="hindustani"
+	father=30000393
+	trait ="legendary"
+	1725.12.23={
+		birth=yes
+	}
+	1775.1.1={
+		death=yes
+	}
+}
+
+30000400 ={	
+    name="Alamgir" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="rajput"
+	father=30000394
+	trait ="legendary"
+	1699.6.6={
+		birth=yes
+	}
+	1759.11.29={
+		death=yes
+	}
+}
+
+30000401 ={	
+    name="Shah-Jahan" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="hindustani"
+	father=30000391
+	trait ="legendary"
+	1711.1.1={
+		birth=yes
+	}
+	1772.1.1={
+		death=yes
+	}
+}
+
+30000402 ={	
+    name="Shah-Alam" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="hindustani"
+	father=30000400
+	trait ="legendary"
+	1728.6.28={
+		birth=yes
+	}
+	1806.11.19={
+		death=yes
+	}
+}
+
+30000403 ={	
+    name="Mahmud Shah Bahadur" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="hindustani"
+	father=30000399
+	trait ="legendary"
+	1749.1.1={
+		birth=yes
+	}
+	1790.1.1={
+		death=yes
+	}
+}
+
+30000404 ={	
+    name="Akbar" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="hindustani"
+	father=30000402
+	trait ="legendary"
+	1760.4.22={
+		birth=yes
+	}
+	1837.9.28={
+		death=yes
+	}
+}
+
+30000405 ={	
+    name="Bahadur Shah" 
+	religion="sunni"
+	dynasty=3821137 #Gurkaniyan
+	culture="hindustani"
+	father=30000404
+	trait ="legendary"
+	1775.10.24={
+		birth=yes
+	}
+	1862.11.7={
+		death=yes
+	}
+}
+
+#End of Mughal rulers
+
+30000406 ={	
+    name="Zafarullah" #Vassal under Pakistan
+	religion="barelvi"
+	dynasty=1977013
+	culture="baloch"
+	2525.6.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+30000407 ={	
+    name="Muhammad Ali" #Founder and legendary ruler of ancient Pakistan
+	religion="ismaili"
+	dynasty=3821138 #Jinnah
+	culture="sindhi"
+	occluded=yes
+	trait ="legendary"
+	trait ="grey_eminence"
+	trait ="just"
+	trait ="ambitious"
+	trait ="kind"
+	trait ="diligent"
+	trait ="administrator"
+	trait ="charitable"
+	disallow_random_traits=yes
+	1876.12.25={
+		birth=yes
+	}
+	1948.9.11={
+		death=yes
+	}
+}
+30000408 = {
+	name="Robert" # Signeur Robert of Sark
+	dynasty=3970041 # Beaumont
+	religion="thelemic"
+	culture="old_norman"
+	martial=5
+	stewardship=6
+	trait="brave"
+	trait="diligent"
+	2537.11.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+	
+}
+30000409 = {
+	name="Yusif"
+	dynasty=3840191
+	religion="sufi"
+	culture="baggara"
+	diplomacy=4
+	martial=3
+	stewardship=2
+	intrigue=5
+	learning=6
+	trait="misguided_warrior"
+	trait="deceitful"
+	trait="just"
+	trait="brave"
+	trait="lustful"
+	2525.12.4={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+
+
+30000412 = {
+	name="Seyfullah"
+	dynasty=1946023 #Sinan
+	religion="ismaili"
+	culture="levantine_arabic"
+	trait="intricate_webweaver"
+	trait="poet"
+	trait="diligent"
+	trait="shrewd"
+	trait="mystic"
+	trait="shy"
+	trait="patient"
+	trait="brave"
+	trait="paranoid"
+	disallow_random_traits=yes
+	2534.9.1={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes  
+	}
+}
+30000413 = {
+	name="Yaqub"
+	dynasty=1946031 
+	religion="sunni"
+	culture="levantine_arabic"
+	2530.1.4={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+30000414 = {
+	name="Tolik"
+	dynasty=1952030 
+	religion="orthodox"
+	culture="rus_cossack"
+	2535.4.26={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+30000415 = {
+	name="Kasim"
+	dynasty=1983027 
+	religion="sunni"
+	culture="kumyk"
+	2534.1.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+30000416 = {
+	name="Tulpar"
+	dynasty=1983112 
+	religion="sunni"
+	culture="balkar"
+	2537.2.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+31000416 = {
+	name="Ilyas"
+	dynasty=8982018 
+	religion="ovlatii"
+	culture="yaghnobit"
+	trait="charismatic_negotiator"
+	trait="poet"
+	trait="diligent"
+	trait="wroth"
+	trait="gregarious"
+	trait="shrewd"
+	2537.2.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+30000417 = {
+	name="Rezuan"
+	dynasty=1949104 
+	religion="sunni"
+	culture="circassian"
+	trait="skilled_tactician"
+	trait="zealous"
+	trait="brave"
+	trait="just"
+	trait="proud"
+	trait="shrewd"
+	disallow_random_traits=yes
+	2531.7.8={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes  
+	}
+}
+30000418 ={
+    name="Fedir" 
+	dynasty=3970042
+	religion="stalinist"
+	secret_religion="leninist"
+	culture="cossack"
+
+	2534.9.11={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000419 ={
+    name="Lexis" 
+	dynasty=3833996
+	religion="thelemic"
+	culture="old_norman"
+
+	2530.7.11={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000420 ={
+    name="Napoliyoun" 
+	dynasty=3834007
+	religion="thelemic"
+	culture="old_norman"
+
+	2532.9.15={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000421 ={
+    name="Qozidavlat" 
+	dynasty=8980017
+	religion="neo_zorvanite"
+	culture="sarikoli"
+	trait="neo_zorvanite_tolerations"
+
+	2533.4.21={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000422 ={
+    name="Said" 
+	dynasty=3834156
+	religion="wahhabi"
+	culture="uyghur"
+
+	2531.6.15={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000423 ={
+    name="Yehya" 
+	dynasty=3834166
+	religion="wahhabi"
+	culture="uyghur"
+
+	2530.3.12={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000424 ={
+    name="Ilyas" 
+	dynasty=3834169
+	religion="sunni"
+	culture="uyghur"
+
+	2528.9.18={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+
+30000425 ={
+    name="Piérro" #The Elder of the Calvinist faith
+	dynasty=36503209
+	religion="calvinist"
+	culture="swiss"
+	trait="mastermind_theologian"
+	trait="calvinist_blessed"
+	trait="shrewd"
+	trait="patient"
+	trait="humble"
+	trait="erudite"
+	trait="zealous"
+	trait="kind"
+	trait="celibate"
+	disallow_random_traits=yes
+	2520.9.18={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000426 ={
+    name="Ranatitta" 
+	dynasty=3834285
+	religion="nasrini"
+	culture="malayalam"
+
+	2529.7.18={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000427 ={
+    name="Uravâkkinân" 
+	dynasty=3834297
+	religion="shaivasiddhanta"
+	culture="malayalam"
+	trait= "brahmin"
+
+	2531.9.19={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000428 ={
+    name="Gopâl" 
+	dynasty=3834253
+	religion="shaivasiddhanta"
+	culture="tamil"
+	trait= "brahmin"
+
+	2532.6.19={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000429 ={
+    name="Jayarâj" 
+	dynasty=3834262
+	religion="shaivasiddhanta"
+	culture="tamil"
+	trait= "brahmin"
+
+	2530.4.24={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+31000429 ={
+    name="Sadiq" #Ruler of Hedjaz, who rose up against the Saudis after High King Abdullah was killed
+	dynasty=55
+	religion="sunni"
+	culture="hejazi"
+	trait="brilliant_strategist"
+	trait="scarred"
+	trait="duelist"
+	trait="poet"
+	trait="charitable"
+	trait="humble"
+	trait="lustful"
+	trait="zealous"
+	trait="cavalry_leader"
+	trait="quick"
+	2528.4.22={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000430 ={
+    name="Sayajirao" 
+	dynasty=3834176
+	religion="neovedantic"
+	culture="mumbaikar"
+
+	2531.10.11={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000431 ={
+    name="Chandraditya" 
+	dynasty=3834188
+	religion="neovedantic"
+	culture="mumbaikar"
+
+	2533.2.11={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000432 ={
+    name="Nanasaheb" 
+	dynasty=3834127
+	religion="navayana"
+	culture="marathi"
+
+	2530.2.16={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000433 ={
+    name="Bhim-Singh" 
+	dynasty=3834022
+	religion="neovedantic"
+	culture="gujurati"
+
+	2527.5.16={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000434 ={
+    name="Jayasimha" 
+	dynasty=3834519
+	religion="koyapunem"
+	culture="gondi"
+
+	2528.9.16={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000435 ={
+    name="Ilyas" 
+	dynasty=3834063
+	religion="ahmadiyya"
+	culture="panjabi"
+
+	2529.1.23={
+		birth=yes
+	}
+	2660.1.1={
+		death=yes
+	}
+}
+30000436 ={
+    name="Hirapala" 
+	dynasty=6013372
+	religion="jain"
+	culture="bhili"
+
+	2531.1.23={
+		birth=yes
+	}
+	2660.1.1={
+		death=yes
+	}
+}
+
+30000437 ={
+    name="Alchidai" 
+	dynasty=1941201
+	religion="maoist"
+	culture="mongol"
+
+	2525.2.2={
+		birth=yes
+	}
+	2660.1.1={
+		death=yes
+	}
+}
+
+30000438 ={
+    name="Da" 
+	dynasty=2000103
+	religion="maoist"
+	culture="lan_yin"
+
+	2527.2.2={
+		birth=yes
+	}
+	2660.1.1={
+		death=yes
+	}
+}
+30000439 ={
+    name="Dathappabhuti" 
+	religion="theravada"
+	culture="sinhala"
+	trait="mastermind_theologian"
+	trait="shrewd"
+	trait="patient"
+	trait="humble"
+	trait="erudite"
+	trait="zealous"
+	trait="kind"
+
+	2522.2.2={
+		birth=yes
+	}
+	2552.7.19={
+		employer= 30000441
+		effect={add_friend=30000441}#A buddhist priest is captured in a raid and befriends the flotilla leader
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000440 ={
+    name="Hujata" 
+	religion="theravada"
+	culture="sinhala"
+	trait="poet"
+	trait="gregarious"
+	trait="strong"
+	trait="scholarly_theologian"
+
+	2529.2.2={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+30000441 = {
+    name="Avirada" 
+	dynasty=36503151
+	religion="brethren"
+	culture="somali"
+	diplomacy=2
+	martial=9
+	stewardship=5
+	intrigue=6
+	learning=3
+	trait="tough_soldier"
+	trait="brave"	
+	trait="deceitful"	
+	trait="ambitious"
+	trait="gluttonous"
+	trait="lustful"	
+	trait="greedy"
+	trait="wroth"
+	trait="pirate"
+	2530.9.20={
+		birth=yes
+	}
+	2552.7.19={
+		effect={add_friend=30000439}#A buddhist priest is captured in a raid and befriends the flotilla leader
+	}
+	2553.6.2 = {#Buddhists from Sri-Lanka arrive among pirates and change their ways
+		effect = {
+			remove_trait = greedy
+			remove_trait = gluttonous
+			add_trait = sympathy_oceanic
+			add_trait = patient
+			add_trait = humble
+		}
+		religion = theravada
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000442 ={
+    name="Idriss" 
+	dynasty=4002004
+	religion="muwahidunna"
+	culture="tunddungiyya"
+
+	2534.2.21={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+
+30000443 ={
+    name="Mohamed"
+	dynasty=3843529
+	religion="sunni"
+	culture="dinka"
+	trait="grey_eminence"
+	trait="content"
+	trait="patient"
+	trait="erudite"
+	trait="just"
+	2525.3.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+30000444 = {
+	name="Isaac" 
+	dynasty=1987041 # Primrose
+	religion="congregationist"
+	culture="ashkenazi"
+	father=21000294
+	trait="grey_eminence"
+	trait="content"
+	trait="patient"
+	trait="kind"
+	trait="charitable"
+	trait="sympathy_esoteric"
+	trait="jew_unitarian"
+	2520.10.24={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000445 = {
+	name="Simon" 
+	religion="congregationist"
+	culture="ashkenazi"
+	2520.2.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000446 = {
+	name="Hadj" #Hadj Brahimi, a somewhat simple minded prince. His views on issues may or may not change immediately after speaking to one of his many advisors. This results in contradictory policies, but somehow the realm has not fallen to anarchy just yet...
+	dynasty=1933012
+	religion="malikite"
+	culture="algerian"
+	trait="naive_appeaser"
+	trait="slow"	
+	trait="gardener"
+	trait="kind"	
+	trait="arbitrary"
+	trait="gregarious"
+	trait="sympathy_christendom"
+	trait="trusting"
+	disallow_random_traits=yes
+	2521.3.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000447 = {
+	name="Kaddour" #Kaddour Madjer, a robust and physically mighty prince who would rather spend his time at his palace gym than administering the realm... 
+	dynasty=1933034
+	religion="malikite"
+	culture="algerian"
+	trait="skilled_tactician"
+	trait="robust"	
+	trait="hunter"
+	trait="diligent"	
+	trait="proud"
+	trait="ambitious"
+	trait="brave"
+	trait="trusting"
+	disallow_random_traits=yes
+	2520.7.6={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000448 = {
+	name="Driss" #Driss Menouar, a shy and quiet prince who could be best described as a man who wishes to be left alone from the politics of the world around him. 
+	dynasty=1933029
+	religion="malikite"
+	culture="algerian"
+	trait="scholarly_theologian"
+	trait="stutter"	
+	trait="scholar"
+	trait="chaste"	
+	trait="temperate"
+	trait="content"
+	trait="shy"
+	trait="erudite"
+	disallow_random_traits=yes
+	2522.11.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000449 = {
+	name="Lahcène" #Lahcène Belkacem, a prolific gambler and well know for hosting bets on camel races. Many flock to his domain simply to see the spectacle! 
+	dynasty=1933038
+	religion="malikite"
+	culture="tacawit"
+	trait="fortune_builder"
+	trait="shrewd"	
+	trait="gamer"
+	trait="falconer"	
+	trait="greedy"
+	trait="proud"
+	trait="deceitful"
+	trait="paranoid"
+	disallow_random_traits=yes
+	2517.9.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000450 = {
+	name="Chafik" #Chafik Yazami, a prince rumored to have many skeletons in his closet, in the most literal sense possible... 
+	dynasty=1931007
+	religion="malikite"
+	culture="moroccan"
+	trait="elusive_shadow"
+	trait="shrewd"	
+	trait="stressed"
+	trait="scarred"	
+	trait="impaler"
+	trait="patient"
+	trait="deceitful"
+	trait="cruel"
+	disallow_random_traits=yes
+	2519.9.20={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000451 = {
+	name="Madani" #Madani Bachtarzi, a prince who has delusions of grandeur. While being ambitious certainly is not a bad thing, perhaps there is something more to this man... 
+	dynasty=1933040
+	religion="malikite"
+	culture="algerian"
+	trait="misguided_warrior"
+	trait="lunatic"	
+	trait="diligent"
+	trait="ambitious"	
+	trait="wroth"
+	trait="groomed"
+	trait="envious"
+	trait="stubborn"
+	disallow_random_traits=yes
+	2526.5.4={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000452 = {
+	name="Luarsab" 
+	dynasty=4007010
+	religion="sunni"
+	culture="laz"
+	2522.9.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000454 = {
+	name="Augustine" 
+	dynasty=25654147
+	religion="koptic"
+	culture="igbo"
+	trait="tough_soldier"
+	trait="ambitious"
+	2525.9.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000455 = {
+	name="Yulian" 
+	dynasty=4011011
+	religion="leninist"
+	culture="volgagerman"
+	trait="tough_soldier"
+	trait="robust"
+	martial=6
+	stewardship=6
+	2527.9.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000456 = {
+	name="Twdd"
+	dynasty=3999998
+	dna=c0bci0cabf0
+	properties=0m0k0k
+	religion="thelemic_reformed"
+	culture="british"
+	trait="grey_eminence"
+	trait="midas_touched"
+	trait="deceitful"
+	trait="greedy"
+	trait="gamer"
+	2535.4.25={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = british
+		}
+		give_nickname = nick_snake_oil_todd
+		culture="old_welsh"
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000457 = {
+	name="Seán"
+	dynasty=3999995
+	religion="catholic"
+	culture="irish"
+	trait="skilled_tactician"
+	2530.1.17={
+		birth=yes
+	}
+	2554.1.17={
+		employer=266611231
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000458 = {
+	name="Éamonn"
+	dynasty=3999996
+	religion="catholic"
+	culture="high_irish"
+	trait="skilled_tactician"
+	2531.2.23={
+		birth=yes
+	}
+	2554.1.17={
+		employer=266611231
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000459 = {
+	name="William"
+	dynasty=3999997
+	religion="catholic"
+	culture="irish"
+	trait="brilliant_strategist"
+	2529.4.20={
+		birth=yes
+	}
+	2554.1.17={
+		employer=266611231
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000460 = {
+	name="Jean"
+	dynasty=3999994
+	religion="novelist"
+	culture="belgian"
+	trait="brilliant_strategist"
+	2526.4.21={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000461 = {
+	name="Maximilian"
+	dynasty=3999993
+	religion="catholic"
+	culture="austrian"
+	trait="brilliant_strategist"
+	2527.8.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+30000462 = {
+	name="Qian"
+	dynasty=4010041
+	religion="gelugpa"
+	culture="xibe"
+	trait="thrifty_clerk"
+	trait="strong"
+	trait="erudite"
+	trait="kind"
+	trait="patient"
+	trait="proud"
+	trait="groomed"
+	trait="cynical"
+	disallow_random_traits=yes
+	2529.8.12={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000463 = {
+	name="Viacheslav"
+	dynasty=25559528
+	religion="zarist"
+	culture="pietrovan"
+	father=16674391
+	2523.8.19={
+		birth=yes
+	}
+	2554.9.1={
+		effect = {
+			add_artifact= crown_russia
+		}
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000464 = {
+	name="Gavriil"
+	dynasty=25559528
+	religion="zarist"
+	culture="pietrovan"
+	father=16674391
+	2521.7.21={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000465 = {
+	name="Oleg"
+	dynasty=25559528
+	religion="zarist"
+	culture="pietrovan"
+	father=16674391
+	2522.2.14={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30500466 = {
+	name="Arthur"
+	dynasty=85511234
+	religion="sevillian"
+	culture="irish"
+	trait="skilled_tactician"
+	trait="strategist"
+	trait="erudite"
+	trait="ambitious"
+	trait="diligent"
+	trait="proud"
+	trait="groomed"
+	trait="organizer"
+	disallow_random_traits=yes
+	2520.1.8={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000466 = {
+	name="Bala"
+	dynasty=1941211
+	religion="khanist"
+	culture="mongol"
+	2521.3.11={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000467 = {
+	name="Husun"
+	dynasty=1941213
+	religion="khanist"
+	culture="mongol"
+	2518.2.14={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000468 = {
+	name="Jochi"
+	dynasty=1941214
+	religion="khanist"
+	culture="mongol"
+	2522.5.19={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000469 = {
+	name="Nayaga"
+	dynasty=1941215
+	religion="khanist"
+	culture="mongol"
+	2519.4.16={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000470 = {
+	name="Subetei"
+	dynasty=1941216
+	religion="tengri_pagan"
+	culture="buryat"
+	2523.4.16={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000471 = {
+	name="Oljaitu"
+	dynasty=1941217
+	religion="tengri_pagan"
+	culture="buryat"
+	2524.5.16={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000472 = {
+	name="Tamachi"
+	dynasty=1941218
+	religion="tengri_pagan"
+	culture="buryat"
+	2525.4.15={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000473 = {
+	name="Afanasi"
+	dynasty=1721003
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	2524.5.17={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000474 = {
+	name="Firippu"
+	dynasty=1721011
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	2522.7.19={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000475 = {
+	name="Hrihori"
+	dynasty=1721012
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	trait="honest"
+	trait="charitable"
+	trait="content"
+	trait="slothful"
+	trait="charismatic_negotiator"
+	2530.6.11={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+###
+
+30000476 = {
+	name="Maruku"
+	dynasty=1721014
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	2520.6.11={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000477 = {
+	name="Nikita"
+	dynasty=1721015
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	2520.6.11={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000478 = {
+	name="Osipu"
+	dynasty=1721023
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	2520.6.11={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000479 = {
+	name="Griffon"
+	dynasty=4099463
+	religion="nousthreskeia"
+	culture="alaskhan"
+	2526.6.11={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000480 = {#Duke
+	name="Olegu"
+	dynasty=1721029
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	2509.2.10={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000481 = {#count 1
+	name="Semionu"
+	dynasty=1721030
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	2522.8.8={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000482 = {#count 2
+	name="Timuru"
+	dynasty=1721032
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	2523.3.15={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000483 = {#count 3
+	name="Timofei"
+	dynasty=1721033
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	2528.11.2={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000484 = {#count 4
+	name="Tarasu"
+	dynasty=1721034
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	2526.9.24={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000485 = {#count 5
+	name="Nikanoru"
+	dynasty=1721035
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	2524.7.9={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000486 = {#count 6
+	name="Kyriru"
+	dynasty=1721037
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	2526.8.16={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000487 = {#tribal count 1 Rudnaya + Preobrazheniye
+	name="Romanu"
+	dynasty=25559761
+	religion="nousthreskeia"
+	culture="klynian"
+	2524.8.2={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000488 = {#tribal count 2 Amgu + Bogolyubovka
+	name="Havrylu"
+	dynasty=25559762
+	religion="nousthreskeia"
+	culture="klynian"
+	2523.8.8={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000489 = {#tribal count 3 Vostok + Dalnerechensk
+	name="Pavlo"
+	dynasty=25559763
+	religion="nousthreskeia"
+	culture="klynian"
+	2522.3.8={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000490 = {#tribal count 4 Sevtlaya
+	name="Sasha"
+	dynasty=25559764
+	religion="nousthreskeia"
+	culture="klynian"
+	2525.9.6={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000491 = {#tribal count 5 Agzu + Lermontovskoye
+	name="Taras"
+	dynasty=25559765
+	religion="nousthreskeia"
+	culture="klynian"
+	2513.4.8={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000492 = {#tribal count 6 Kunashir
+	name="Vasyl"
+	dynasty=25559766
+	religion="nousthreskeia"
+	culture="klynian"
+	2520.8.10={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000493 = {#tribal count 7 Sakhalinsk
+	name="Sypartaku"
+	dynasty=25559767
+	religion="nousthreskeia"
+	culture="klynian"
+	2519.1.18={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000494={ # Ulaskun count
+	name="Adam"
+	dynasty=4099464
+	culture="alaskhan"
+	religion="nousthreskeia"
+	diplomacy=4
+	martial=3
+	stewardship=2
+	intrigue=3
+	learning=3
+	trait="martial_cleric"
+	trait="gregarious"
+	trait="adventurer"
+	trait="proud"
+	trait="brave"
+	disallow_random_traits=yes
+	2536.10.7={
+		birth=yes
+	}
+	2666.1.1={
+		death=yes
+	}
+}
+30000495={ # Udege count
+	name="Usun"
+	dynasty=6055684
+	culture="udege"
+	religion="nousthreskeia"
+	diplomacy=3
+	martial=4
+	stewardship=3
+	intrigue=2
+	learning=3
+	trait="tough_soldier"
+	trait="hunter"
+	trait="humble"
+	trait="kind"
+	trait="shy"
+	disallow_random_traits=yes
+	2532.4.11={
+		birth=yes
+	}
+	2666.1.1={
+		death=yes
+	}
+}
+30000496 = {
+	name="Arthur"
+	dynasty=85511234
+	religion="sevillian"
+	culture="irish"
+	trait="skilled_tactician"
+	trait="strategist"
+	trait="erudite"
+	trait="ambitious"
+	trait="diligent"
+	trait="proud"
+	trait="groomed"
+	trait="organizer"
+	disallow_random_traits=yes
+	2520.1.8={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000497 = {
+	name="Ilsong"
+	dynasty=20000266 #Lee, aka house of Samsung
+	religion="gidoggyo"
+	culture="gyeonggi"
+	trait="midas_touched"
+	trait="shrewd"
+	trait="temperate"
+	trait="ambitious"
+	trait="erudite"
+	trait="shy"
+	trait="mystic"
+	disallow_random_traits = yes
+	2520.5.8={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000498 = {
+	name="Potul"
+	dynasty=20000269 #Chung, aka house of Hyundai
+	religion="gidoggyo"
+	culture="gyeonggi"
+	trait="midas_touched"
+	trait="shrewd"
+	trait="charitable"
+	trait="ambitious"
+	trait="zealous"
+	trait="kind"
+	trait="gamer"
+	disallow_random_traits = yes
+	2523.1.7={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000499 = {
+	name="Kyongmo"
+	dynasty=6015245 #Chong, aka house of Kia
+	religion="mahayana"
+	culture="jeolla"
+	trait="midas_touched"
+	trait="shrewd"
+	trait="patient"
+	trait="ambitious"
+	trait="just"
+	trait="gregarious"
+	disallow_random_traits = yes
+	2522.3.6={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000500 = {
+	name="Hyonsung"
+	dynasty=6015238 #Koo, aka house of LG
+	religion="mahayana"
+	culture="jeolla"
+	trait="midas_touched"
+	trait="shrewd"
+	trait="gardener"
+	trait="ambitious"
+	trait="honest"
+	trait="diligent"
+	disallow_random_traits = yes
+	2524.2.21={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000501 = {
+	name="Glenlyon"
+	religion="nousthreskeia"
+	culture="alaskhan"
+	2520.5.8={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000502 = {
+	name="Fedor"
+	religion="nousthreskeia"
+	culture="kosak"
+	2523.1.7={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000503 = {
+	name="Palmer"
+	religion="gidoggyo"
+	culture="kuhjungs"
+	2522.3.6={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+30000504 = {
+	name="Dabiddo"
+	religion="shinko"
+	culture="weeb"
+	2524.2.21={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}

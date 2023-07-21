@@ -1,0 +1,15 @@
+# 990 - Province0990
+
+# County Title
+title = c_province0990
+
+# Settlements
+max_settlements = 4
+b_barony0990` = tribal
+b_barony0990a = temple
+
+# Misc
+culture = punjabi
+religion = summer_queen
+
+# History

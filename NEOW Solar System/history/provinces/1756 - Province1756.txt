@@ -1,0 +1,17 @@
+# 1756 - Province1756
+
+# County Title
+title = c_province1756
+
+# Settlements
+max_settlements = 5
+b_barony1756` = castle
+b_barony1756a = temple
+b_barony1756b = city
+b_barony1756c = castle
+
+# Misc
+culture = mongol
+religion = sufi
+
+# History

@@ -1,0 +1,14 @@
+# 1608 - Province1608
+
+# County Title
+title = c_province1608
+
+# Settlements
+max_settlements = 1
+b_barony1608` = castle
+
+# Misc
+culture = panjabi
+religion = vajrayana
+
+# History

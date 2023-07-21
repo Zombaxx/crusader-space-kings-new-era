@@ -1,0 +1,15 @@
+# 1366 - Province1366
+
+# County Title
+title = c_province1366
+
+# Settlements
+max_settlements = 5
+b_barony1366` = tribal
+b_barony1366a = temple
+
+# Misc
+culture = punjabi
+religion = taoist
+
+# History

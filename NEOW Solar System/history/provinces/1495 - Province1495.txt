@@ -1,0 +1,15 @@
+# 1495 - Province1495
+
+# County Title
+title = c_province1495
+
+# Settlements
+max_settlements = 3
+b_barony1495` = castle
+b_barony1495a = temple
+
+# Misc
+culture = persian
+religion = sufi
+
+# History

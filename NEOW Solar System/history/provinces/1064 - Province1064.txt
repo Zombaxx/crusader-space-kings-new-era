@@ -1,0 +1,16 @@
+# 1064 - Province1064
+
+# County Title
+title = c_province1064
+
+# Settlements
+max_settlements = 4
+b_barony1064` = castle
+b_barony1064a = temple
+b_barony1064b = city
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

@@ -1,0 +1,16 @@
+# 1248 - Province1248
+
+# County Title
+title = c_province1248
+
+# Settlements
+max_settlements = 4
+b_barony1248` = castle
+b_barony1248a = temple
+b_barony1248b = city
+
+# Misc
+culture = alan
+religion = catholic
+
+# History

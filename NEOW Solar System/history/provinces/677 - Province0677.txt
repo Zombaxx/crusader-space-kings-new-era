@@ -1,0 +1,16 @@
+# 677 - Province0677
+
+# County Title
+title = c_province0677
+
+# Settlements
+max_settlements = 4
+b_barony0677` = castle
+b_barony0677a = temple
+b_barony0677b = city
+
+# Misc
+culture = hausa
+religion = catholic
+
+# History

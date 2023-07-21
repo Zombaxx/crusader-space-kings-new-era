@@ -1,0 +1,16 @@
+# 1753 - Province1753
+
+# County Title
+title = c_province1753
+
+# Settlements
+max_settlements = 4
+b_barony1753` = castle
+b_barony1753a = temple
+b_barony1753b = city
+
+# Misc
+culture = panjabi
+religion = tengri_pagan
+
+# History

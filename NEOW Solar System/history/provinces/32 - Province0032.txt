@@ -1,0 +1,14 @@
+# 32 - Province0032
+
+# County Title
+title = c_province0032
+
+# Settlements
+max_settlements = 2
+b_barony0032` = castle
+
+# Misc
+culture = alan
+religion = shiite
+
+# History

@@ -1,0 +1,16 @@
+# 807 - Province0807
+
+# County Title
+title = c_province0807
+
+# Settlements
+max_settlements = 4
+b_barony0807` = city
+b_barony0807a = temple
+b_barony0807b = castle
+
+# Misc
+culture = hausa
+religion = catholic
+
+# History

@@ -1,0 +1,19 @@
+# 1083 - Province1083
+
+# County Title
+title = c_province1083
+
+# Settlements
+max_settlements = 4
+b_barony1083` = city
+b_barony1083a = temple
+b_barony1083b = castle
+
+# Misc
+culture = darwinian
+religion = baptist
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_110830
+}

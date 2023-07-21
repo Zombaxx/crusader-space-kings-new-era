@@ -1,0 +1,14 @@
+# 2002 - Province2002
+
+# County Title
+title = c_province2002
+
+# Settlements
+max_settlements = 3
+b_barony2002` = tribal
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

@@ -1,0 +1,15 @@
+# 1456 - Province1456
+
+# County Title
+title = c_province1456
+
+# Settlements
+max_settlements = 3
+b_barony1456` = city
+b_barony1456a = temple
+
+# Misc
+culture = frisian
+religion = taoist
+
+# History

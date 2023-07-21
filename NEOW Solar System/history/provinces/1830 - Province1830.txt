@@ -1,0 +1,14 @@
+# 1830 - Province1830
+
+# County Title
+title = c_province1830
+
+# Settlements
+max_settlements = 1
+b_barony1830` = castle
+
+# Misc
+culture = persian
+religion = brethren
+
+# History

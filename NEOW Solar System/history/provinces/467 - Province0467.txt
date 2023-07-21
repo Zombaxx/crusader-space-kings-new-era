@@ -1,0 +1,16 @@
+# 467 - Province0467
+
+# County Title
+title = c_province0467
+
+# Settlements
+max_settlements = 4
+b_barony0467` = castle
+b_barony0467a = temple
+b_barony0467b = city
+
+# Misc
+culture = mongol
+religion = mesopotamian
+
+# History

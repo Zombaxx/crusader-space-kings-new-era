@@ -1,0 +1,15 @@
+# 221 - Province0221
+
+# County Title
+title = c_province0221
+
+# Settlements
+max_settlements = 3
+b_barony0221` = castle
+b_barony0221a = temple
+
+# Misc
+culture = castilian
+religion = catholic
+
+# History

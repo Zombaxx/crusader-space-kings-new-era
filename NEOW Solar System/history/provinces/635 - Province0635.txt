@@ -1,0 +1,16 @@
+# 635 - Province0635
+
+# County Title
+title = c_province0635
+
+# Settlements
+max_settlements = 4
+b_barony0635` = castle
+b_barony0635a = temple
+b_barony0635b = city
+
+# Misc
+culture = crimean
+religion = orthodox
+
+# History

@@ -1,0 +1,16 @@
+# 1782 - Province1782
+
+# County Title
+title = c_province1782
+
+# Settlements
+max_settlements = 4
+b_barony1782` = castle
+b_barony1782a = temple
+b_barony1782b = city
+
+# Misc
+culture = mongol
+religion = sufi
+
+# History

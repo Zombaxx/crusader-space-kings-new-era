@@ -1,0 +1,17 @@
+# 411 - Province0411
+
+# County Title
+title = c_province0411
+
+# Settlements
+max_settlements = 6
+b_barony0411` = castle
+b_barony0411a = temple
+b_barony0411b = city
+b_barony0411c = castle
+
+# Misc
+culture = mongol
+religion = mesopotamian
+
+# History

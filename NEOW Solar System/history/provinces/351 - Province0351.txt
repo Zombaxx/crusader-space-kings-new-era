@@ -1,0 +1,18 @@
+# 351 - Province0351
+
+# County Title
+title = c_province0351
+
+# Settlements
+max_settlements = 7
+b_barony0351` = castle
+b_barony0351a = temple
+b_barony0351b = city
+b_barony0351c = castle
+b_barony0351d = temple
+
+# Misc
+culture = turkish
+religion = jewish
+
+# History

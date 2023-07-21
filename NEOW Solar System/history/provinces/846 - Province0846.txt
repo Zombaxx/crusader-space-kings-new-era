@@ -1,0 +1,15 @@
+# 846 - Province0846
+
+# County Title
+title = c_province0846
+
+# Settlements
+max_settlements = 3
+b_barony0846` = castle
+b_barony0846a = temple
+
+# Misc
+culture = hindustani
+religion = old_hindu
+
+# History

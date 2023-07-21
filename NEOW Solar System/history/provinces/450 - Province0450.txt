@@ -1,0 +1,17 @@
+# 450 - Province0450
+
+# County Title
+title = c_province0450
+
+# Settlements
+max_settlements = 5
+b_barony0450` = castle
+b_barony0450a = temple
+b_barony0450b = city
+b_barony0450c = castle
+
+# Misc
+culture = mongol
+religion = mesopotamian
+
+# History

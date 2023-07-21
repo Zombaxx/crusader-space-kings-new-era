@@ -1,0 +1,17 @@
+# 803 - Province0803
+
+# County Title
+title = c_province0803
+
+# Settlements
+max_settlements = 5
+b_barony0803` = castle
+b_barony0803a = temple
+b_barony0803b = city
+b_barony0803c = castle
+
+# Misc
+culture = hausa
+religion = catholic
+
+# History

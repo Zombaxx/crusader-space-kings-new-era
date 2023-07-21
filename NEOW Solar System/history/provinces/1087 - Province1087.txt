@@ -1,0 +1,14 @@
+# 1087 - Province1087
+
+# County Title
+title = c_province1087
+
+# Settlements
+max_settlements = 3
+b_barony1087` = tribal
+
+# Misc
+culture = persian
+religion = sunni
+
+# History

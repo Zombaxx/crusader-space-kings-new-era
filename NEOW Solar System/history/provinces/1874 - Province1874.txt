@@ -1,0 +1,14 @@
+# 1874 - Province1874
+
+# County Title
+title = c_province1874
+
+# Settlements
+max_settlements = 3
+b_barony1874` = tribal
+
+# Misc
+culture = frisian
+religion = shiite
+
+# History

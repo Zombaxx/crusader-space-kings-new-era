@@ -1,0 +1,14 @@
+# 1337 - Province1337
+
+# County Title
+title = c_province1337
+
+# Settlements
+max_settlements = 2
+b_barony1337` = castle
+
+# Misc
+culture = turkish
+religion = yazidi
+
+# History

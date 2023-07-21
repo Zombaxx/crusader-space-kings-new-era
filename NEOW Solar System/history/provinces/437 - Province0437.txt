@@ -1,0 +1,14 @@
+# 437 - Province0437
+
+# County Title
+title = c_province0437
+
+# Settlements
+max_settlements = 1
+b_barony0437` = tribal
+
+# Misc
+culture = daju
+religion = sunni
+
+# History

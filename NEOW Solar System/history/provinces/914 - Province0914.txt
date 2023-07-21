@@ -1,0 +1,16 @@
+# 914 - Province0914
+
+# County Title
+title = c_province0914
+
+# Settlements
+max_settlements = 4
+b_barony0914` = city
+b_barony0914a = temple
+b_barony0914b = castle
+
+# Misc
+culture = alan
+religion = summer_queen
+
+# History

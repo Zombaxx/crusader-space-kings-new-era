@@ -1,0 +1,15 @@
+# 1326 - Province1326
+
+# County Title
+title = c_province1326
+
+# Settlements
+max_settlements = 5
+b_barony1326` = tribal
+b_barony1326a = temple
+
+# Misc
+culture = punjabi
+religion = hellenic_pagan
+
+# History

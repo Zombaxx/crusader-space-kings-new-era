@@ -1,0 +1,14 @@
+# 1111 - Province1111
+
+# County Title
+title = c_province1111
+
+# Settlements
+max_settlements = 4
+b_barony1111` = tribal
+
+# Misc
+culture = gaoshan
+religion = novelist
+
+# History

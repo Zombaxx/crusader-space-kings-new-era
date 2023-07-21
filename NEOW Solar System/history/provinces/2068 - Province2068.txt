@@ -1,0 +1,16 @@
+# 2068 - Province2068
+
+# County Title
+title = c_province2068
+
+# Settlements
+max_settlements = 4
+b_barony2068` = castle
+b_barony2068a = temple
+b_barony2068b = city
+
+# Misc
+culture = daju
+religion = baltic_pagan
+
+# History

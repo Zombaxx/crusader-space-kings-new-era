@@ -1,0 +1,16 @@
+# 1323 - Province1323
+
+# County Title
+title = c_province1323
+
+# Settlements
+max_settlements = 4
+b_barony1323` = castle
+b_barony1323a = temple
+b_barony1323b = city
+
+# Misc
+culture = persian
+religion = hellenic_pagan
+
+# History

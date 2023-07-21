@@ -1,0 +1,16 @@
+# 142 - Province0142
+
+# County Title
+title = c_province0142
+
+# Settlements
+max_settlements = 4
+b_barony0142` = castle
+b_barony0142a = temple
+b_barony0142b = city
+
+# Misc
+culture = mongol
+religion = jacobinist
+
+# History

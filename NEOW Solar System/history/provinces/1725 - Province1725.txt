@@ -1,0 +1,17 @@
+# 1725 - Province1725
+
+# County Title
+title = c_province1725
+
+# Settlements
+max_settlements = 5
+b_barony1725` = castle
+b_barony1725a = temple
+b_barony1725b = city
+b_barony1725c = castle
+
+# Misc
+culture = panjabi
+religion = fraticelli
+
+# History

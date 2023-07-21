@@ -1,0 +1,16 @@
+# 864 - Province0864
+
+# County Title
+title = c_province0864
+
+# Settlements
+max_settlements = 4
+b_barony0864` = castle
+b_barony0864a = temple
+b_barony0864b = city
+
+# Misc
+culture = hindustani
+religion = old_hindu
+
+# History

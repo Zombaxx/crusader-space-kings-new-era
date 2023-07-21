@@ -1,0 +1,15 @@
+# 416 - Province0416
+
+# County Title
+title = c_province0416
+
+# Settlements
+max_settlements = 3
+b_barony0416` = castle
+b_barony0416a = temple
+
+# Misc
+culture = turkish
+religion = zoroastrian
+
+# History

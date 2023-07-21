@@ -1,0 +1,15 @@
+# 1624 - Province1624
+
+# County Title
+title = c_province1624
+
+# Settlements
+max_settlements = 4
+b_barony1624` = tribal
+b_barony1624a = temple
+
+# Misc
+culture = persian
+religion = vajrayana
+
+# History

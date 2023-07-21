@@ -1,0 +1,17 @@
+# 871 - Province0871
+
+# County Title
+title = c_province0871
+
+# Settlements
+max_settlements = 5
+b_barony0871` = city
+b_barony0871a = temple
+b_barony0871b = castle
+b_barony0871c = city
+
+# Misc
+culture = turkish
+religion = summer_queen
+
+# History

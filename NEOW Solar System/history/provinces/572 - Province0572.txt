@@ -1,0 +1,14 @@
+# 572 - Province0572
+
+# County Title
+title = c_province0572
+
+# Settlements
+max_settlements = 4
+b_barony0572` = tribal
+
+# Misc
+culture = daju
+religion = baptist
+
+# History

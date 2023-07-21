@@ -1,0 +1,15 @@
+# 1520 - Province1520
+
+# County Title
+title = c_province1520
+
+# Settlements
+max_settlements = 3
+b_barony1520` = castle
+b_barony1520a = temple
+
+# Misc
+culture = panjabi
+religion = yazidi
+
+# History

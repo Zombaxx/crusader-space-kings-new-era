@@ -1,0 +1,16 @@
+# 1220 - Province1220
+
+# County Title
+title = c_province1220
+
+# Settlements
+max_settlements = 4
+b_barony1220` = castle
+b_barony1220a = temple
+b_barony1220b = city
+
+# Misc
+culture = mongol
+religion = old_hindu
+
+# History

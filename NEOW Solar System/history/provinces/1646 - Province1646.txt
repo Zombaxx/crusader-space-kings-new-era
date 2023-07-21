@@ -1,0 +1,16 @@
+# 1646 - Province1646
+
+# County Title
+title = c_province1646
+
+# Settlements
+max_settlements = 4
+b_barony1646` = castle
+b_barony1646a = temple
+b_barony1646b = city
+
+# Misc
+culture = panjabi
+religion = vajrayana
+
+# History

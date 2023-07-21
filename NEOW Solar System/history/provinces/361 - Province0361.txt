@@ -1,0 +1,15 @@
+# 361 - Province0361
+
+# County Title
+title = c_province0361
+
+# Settlements
+max_settlements = 3
+b_barony0361` = castle
+b_barony0361a = temple
+
+# Misc
+culture = laurentian
+religion = baptist
+
+# History

@@ -1,0 +1,15 @@
+# 1806 - Province1806
+
+# County Title
+title = c_province1806
+
+# Settlements
+max_settlements = 5
+b_barony1806` = tribal
+b_barony1806a = temple
+
+# Misc
+culture = panjabi
+religion = sufi
+
+# History

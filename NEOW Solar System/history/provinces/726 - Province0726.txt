@@ -1,0 +1,15 @@
+# 726 - Province0726
+
+# County Title
+title = c_province0726
+
+# Settlements
+max_settlements = 3
+b_barony0726` = castle
+b_barony0726a = temple
+
+# Misc
+culture = hausa
+religion = baptist
+
+# History

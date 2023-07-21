@@ -1,0 +1,16 @@
+# 1234 - Province1234
+
+# County Title
+title = c_province1234
+
+# Settlements
+max_settlements = 4
+b_barony1234` = castle
+b_barony1234a = temple
+b_barony1234b = city
+
+# Misc
+culture = alan
+religion = catholic
+
+# History

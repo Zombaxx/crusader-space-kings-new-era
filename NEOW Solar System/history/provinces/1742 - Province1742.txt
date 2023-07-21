@@ -1,0 +1,15 @@
+# 1742 - Province1742
+
+# County Title
+title = c_province1742
+
+# Settlements
+max_settlements = 3
+b_barony1742` = tribal
+b_barony1742a = temple
+
+# Misc
+culture = panjabi
+religion = sufi
+
+# History

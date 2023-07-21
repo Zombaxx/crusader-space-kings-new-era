@@ -1,0 +1,1155 @@
+e_phillipines = {
+	color={ 65 105 225 }
+	color2={ 255 255 20 }
+	
+	capital = 3032 # c_manila
+	culture = tagalog
+	
+	short_name = yes
+	
+	k_luzon = {
+		color={ 229 29 43 }
+		color2={ 255 255 255 }
+		
+		capital = 3032 # c_manila
+		culture = tagalog
+		
+		katoliko = 5000 # Crusade target weight
+		
+		d_bicol = {
+			color={ 219 21 28 }
+			color2={ 255 255 255 }
+			
+			capital = 3037 # c_daet
+			
+			c_daet = { # 3037
+				color={ 90 24 31 }
+				color2={ 255 255 255 }
+				
+				b_daet = {
+				}
+				b_paracale = {
+				}
+				b_paracale_2 = {
+				}
+				b_labo = {
+				}
+				b_santa_elena = {
+				}
+				b_capalonga = {
+				}
+				b_calauag = {
+				}
+			}
+			c_catanduanes = { # 3039
+				color={ 234 25 32 }
+				color2={ 255 255 255 }
+				holy_site = el_shaddai
+				
+				b_catanduanes = {
+				}
+				b_bato = {
+				}
+				b_gigmoto = {
+				}
+				b_viga = {
+				}
+				b_pandan = {
+				}
+				b_caramoran = {
+				}
+				b_andres = {
+				}
+			}
+			c_legazpi = { # 3041
+				color={ 226 38 44 }
+				color2={ 255 255 255 }
+				
+				b_legazpi = {
+				}
+				b_daraga = {
+				}
+				b_guinobatan = {
+				}
+				b_ligao = {
+				}
+				b_pantao = {
+				}
+				b_rawis = {
+				}
+				b_nabua = {
+				}
+			}
+			c_sorsogon = { # 3040
+				color={ 229 50 65 }
+				color2={ 255 255 255 }
+				holy_site = katoliko
+				
+				b_luzon = {
+				}
+				b_matnog = {
+				}
+				b_bulan = {
+				}
+				b_gubat = {
+				}
+				b_prieto_diaz = {
+				}
+				b_magallanes = {
+				}
+				b_castilla = {
+				}
+			}
+			c_masbate = { # 3042
+				color={ 244 44 44 }
+				color2={ 255 255 255 }
+				
+				b_masbate = {
+				}
+				b_palanas = {
+				}
+				b_cawayan = {
+				}
+				b_baleno = {
+				}
+				b_mobo = {
+				}
+				b_milagros = {
+				}
+				b_gapus = {
+				}
+			}
+			c_paranas = { # 3038
+				color={ 237 59 59 }
+				color2={ 255 255 255 }
+				
+				b_paranas = {
+				}
+				b_catarman = {
+				}
+				b_san_joaquin = {
+				}
+				b_san_joaquin_2 = {
+				}
+				b_cagmanipis_norte = {
+				}
+				b_allen = {
+				}
+				b_mondragon1 = {
+				}
+			}
+		}
+		d_calabarzon = {
+			color={ 237 71 71 }
+			color2={ 255 255 255 }
+			
+			capital = 3032 # c_manila
+			
+			c_burdeos = { # 3029
+				color={ 252 20 20 }
+				color2={ 255 255 255 }
+				
+				b_burdeos = {
+				}
+				b_calabarzon = {
+				}
+				b_panukulan = {
+				}
+				b_poblacion = {
+				}
+				b_katakian = {
+				}
+				b_talisoy = {
+				}
+				b_gango = {
+				}
+			}
+			c_manila = { # 3032
+				color={ 219 59 59 }
+				color2={ 255 255 255 }
+				holy_site = katoliko
+				holy_site = aglipayan
+				holy_site = el_shaddai
+				
+				b_manila = {
+				}
+				b_paranaque = {
+				}
+				b_las_pinas = {
+				pentarchy = katoliko
+				}
+				b_muntinlupa = {
+				}
+				b_san_pedro = {
+				}
+				b_valenzuela = {
+				}
+				b_caloocan = {
+				}
+			}
+			c_batangas = { # 3036
+				color={ 219 48 48 }
+				color2={ 255 255 255 }
+				holy_site = aglipayan
+				
+				b_batangas = {
+				}
+				b_san_juan = {
+				}
+				b_taysan = {
+				}
+				b_lobo = {
+				}
+				b_mabini = {
+				}
+				b_bauan = {
+				}
+				b_san_luis = {
+				}
+			}
+			c_catanauan = { # 3034
+				color={ 221 33 33 }
+				color2={ 255 255 255 }
+				
+				b_catanauan = {
+				}
+				b_mulanay = {
+				}
+				b_san_francisco = {
+				}
+				b_san_andres = {
+				}
+				b_buenavista1 = {
+				}
+				b_general_luna = {
+				}
+				b_macalelon = {
+				}
+			}
+			c_marinduque = { # 3035
+				color={ 226 20 44 }
+				color2={ 255 255 255 }
+				
+				b_marinduque = {
+				}
+				b_santa_cruz1 = {
+				}
+				b_mogpog = {
+				}
+				b_boac = {
+				}
+				b_gasan = {
+				}
+				b_poctoy  = {
+				}
+				b_salomagui = {
+				}
+			}
+		}
+		d_central_luzon = {
+			color={ 50 67 0 }
+			color2={ 255 255 255 }
+			
+			capital = 4057 # c_bulacan
+			
+			c_bulacan = { # 4057
+				color={ 218 62 44 }
+				color2={ 255 255 255 }
+				holy_site = aglipayan
+				
+				b_bulacan = {
+				}
+				b_norzagaray = {
+				}
+				b_pandi = {
+				}
+				b_real = {
+				}
+				b_santa_maria = {
+				}
+				b_infanta = {
+				}
+				b_general_nakar = {
+				}
+			}
+			c_nueva_ecija = { # 3030
+				color={ 157 13 231 }
+				color2={ 255 255 255 }
+				
+				b_san_jose_2 = {
+				}
+				b_san_miguel1 = {
+				}
+				b_gapan = {
+				}
+				b_laur = {
+				}
+				b_lupao = {
+				}
+				b_munoz = {
+				}
+				b_aliaga = {
+				}
+			}
+			c_olongapo = { # 3033
+				color={ 211 33 51 }
+				color2={ 255 255 255 }
+				
+				b_olongapo = {
+				}
+				b_orion = {
+				}
+				b_limay = {
+				}
+				b_mariveles = {
+				}
+				b_bagac = {
+				}
+				b_hermosa = {
+				}
+				b_morong2 = {
+				}
+			}
+			c_pampanga = { # 4058
+				color={ 219 51 54 }
+				color2={ 255 255 255 }
+				
+				b_botolan = {
+				}
+				b_iba = {
+				}
+				b_san_felipe = {
+				}
+				b_palauig = {
+				}
+				b_masinloc = {
+				}
+				b_candelaria1 = {
+				}
+				b_potipot = {
+				}
+			}	
+		}
+	}
+		k_ilocos = {
+		color={ 0 43 21 }
+		color2={ 255 255 255 }
+		
+		capital = 3028 # c_san_fernando
+		culture = ilocano
+		
+		katoliko = 4500 # Crusade target weight
+		
+		d_cordillera = {
+			color={ 209 33 45 }
+			color2={ 255 255 255 }
+			
+			capital = 3027 # c_santiago_2
+			
+			c_san_mariano = { # 4053
+				color={ 237 14 14 }
+				color2={ 255 255 255 }
+				holy_site = aglipayan
+				
+				b_san_mariano = {
+				}
+				b_aglipay = {
+				}
+				b_saguday = {
+				}
+				b_la_trinidad = {
+				}
+				b_echague = {
+				}
+				b_jones = {
+				}
+				b_san_agustin = {
+				}
+			}		
+			c_santiago_2 = { # 3027
+				color={ 237 40 50 }
+				color2={ 255 255 255 }
+				
+				b_santiago_2 = {
+				}
+				b_san_isidro1 = {
+				}
+				b_ramon = {
+				}
+				b_san_mateo = {
+				}
+				b_aguinaldo = {
+				}
+				b_tanza = {
+				}
+				b_tanudan = {
+				}
+			}
+			c_ifugao = { # 4056
+			color={ 209 50 58 }
+			color2={ 255 255 255 }
+			holy_site = el_shaddai
+				
+				b_kabugao = {
+				}
+				b_pudtol = {
+				}
+				b_tineg = {
+				}
+				b_conner = {
+				}
+				b_tineg_2 = {
+				}
+				b_lacub = {
+				}
+				b_malibcong = {
+				}
+			}			
+		}
+		d_ilocos = {
+			color={ 237 14 14 }
+			color2={ 255 255 255 }
+			
+			capital = 3028 # c_san_fernando
+			
+			c_laoag = { # 3025
+				color={ 216 34 40 }
+				color2={ 255 255 255 }
+				
+				b_laoag = {
+				}
+				b_pagudpud = {
+				}
+				b_bangui = {
+				}
+				b_burgos1 = {
+				}
+				b_dumalneg = {
+				}
+				b_pasuquin = {
+				}
+				b_pasuquin_2 = {
+				}
+			}
+			c_san_fernando = { # 3028
+				color={ 226 52 63 }
+				color2={ 255 255 255 }
+				holy_site = aglipayan 
+				
+				b_san_fernando = {
+				}
+				b_bacnotan = {
+				}
+				b_balaoan = {
+				}
+				b_bangar1 = {
+				}
+				b_baguio = {
+				}
+				b_trinidad = {
+				}
+				b_atok = {
+				}
+			}
+			c_pangasinan = { # 3031
+				color={ 140 158 89 }
+				color2={ 255 255 255 }
+				
+				b_alaminos = {
+				}
+				b_dasol = {
+				}
+				b_burgos_2 = {
+				}
+				b_bani1 = {
+				}
+				b_bolinao = {
+				}
+				b_sual = {
+				}
+				b_agno = {
+				}
+			}
+		}
+		d_cagayan = {
+			color={ 247 42 48 }
+			color2={ 255 255 255 }
+			
+			capital = 3023 # c_tuguegarao
+			
+			c_tuguegarao = { # 3023
+				color={ 237 47 50 }
+				color2={ 255 255 255 }
+				
+				b_tuguegarao = {
+				}
+				b_baggao = {
+				}
+				b_amulung = {
+				}
+				b_gonzaga1 = {
+				}
+				b_santa_teresita = {
+				}
+				b_santa_ana = {
+				}
+				b_camalaniugan = {
+				}
+			}
+			c_maria_aurora = { # 4054
+				color={ 40 96 191 }
+				color2={ 255 255 255 }
+				
+				b_maria_aurora = {
+				}
+				b_baler = {
+				}
+				b_dicasalarin = {
+				}
+				b_balud = {
+				}
+				b_lesirene = {
+				}
+				b_dipaculao = {
+				}
+				b_kadayakan = {
+				}
+			}	
+			c_dilasag = { # 3026
+				color={ 219 24 37 }
+				color2={ 255 255 255 }
+				
+				b_dilasag = {
+				}
+				b_casiguran = {
+				}				
+				b_dinalungan = {
+				}
+				b_maddela = {
+				}
+				b_palanan = {
+				}
+				b_dinapigue = {
+				}
+				b_dibulo = {
+				}
+			}
+			c_calayan = { # 3895
+				color={ 244 58 80 }
+				color2={ 255 255 255 }
+				
+				b_calayan = {
+				}
+				b_magsidel = {
+				}
+				b_dibay = {
+				}
+				b_dilam = {
+				}
+				b_cabudadan = {
+				}
+				b_dadao = {
+				}
+				b_fuga = {
+				}
+			}	
+			c_aparri = { # 3024
+				color={ 219 35 35 }
+				color2={ 255 255 255 }
+				
+				b_aparri = {
+				}
+				b_allacapan = {
+				}
+				b_flora1 = {
+				}
+				b_pudtol1 = {
+				}
+				b_luna1 = {
+				}
+				b_linao = {
+				}
+				b_pamplona1 = {
+				}
+			}
+		}
+		d_batanes = {
+		
+			color = { 131 2 6}
+			color2 = {255 255 255}
+			
+			capital = 3896 # c_basco
+			
+			c_basco = { # 3896
+				color={ 234 23 26 }
+				color2={ 255 255 255 }
+				
+				b_basco = {
+				}
+				b_ihubok = {
+				}
+				b_kaumbakan = {
+				}
+				b_mahatao = {
+				}
+				b_ivana = {
+				}
+				b_uyugan = {
+				}
+				b_itbud = {
+				}
+			}
+		}
+	}
+		
+	k_visayas = {
+		color={ 107 99 146 }
+		color2={ 255 255 255 }
+		
+		capital = 3043 # c_san_fernando_2
+		culture = hiligaynon
+		
+		katoliko = 4500 # Crusade target weight
+		
+		d_mindoro = {
+			color={ 82 81 116 }
+			color2={ 255 255 255 }
+			
+			capital = 3043 # c_san_fernando_2
+			
+			c_looc = { # 3043
+				color={ 92 84 131 }
+				color2={ 255 255 255 }
+				
+				b_looc = {
+				}
+				b_magdiwang = {
+				}
+				b_cajidiocan = {
+				}
+				b_tambac = {
+				}
+				b_calabogo = {
+				}
+				b_macalas = {
+				}
+				b_agbaluto = {
+				}
+			}
+			c_paluan = { # 3046
+				color={ 106 102 159 }
+				color2={ 255 255 255 }
+				
+				b_paluan = {
+				}
+				b_mamburao = {
+				}
+				b_santa_cruz_2 = {
+				}
+				b_agbalala = {
+				}
+				b_maslud  = {
+				}
+				b_calawagan = {
+				}
+				b_abra_de_ilog = {
+				}
+			}
+			c_roxas = { # 3044
+				color={ 75 68 96 }
+				color2={ 255 255 255 }
+				
+				b_roxas = {
+				}
+				b_pinamalayan = {
+				}
+				b_bongabong = {
+				}
+				b_bongabong_2 = {
+				}
+				b_gloria = {
+				}
+				b_socorro = {
+				}
+				b_pola = {
+				}
+			}
+			c_tinogboc = { # 3897
+				color={ 62 52 71 }
+				color2={ 255 255 255 }
+				holy_site = el_shaddai 
+				
+				b_tinogboc = {
+				}
+				b_barangay_alegria = {
+				}
+				b_alegria = {
+				}
+				b_caluya = {
+				}
+				b_semirara = {
+				}
+				b_batacal = {
+				}
+				b_sibay = {
+				}
+			}			
+			c_victoria = { # 3045
+				color={ 73 69 101 }
+				color2={ 255 255 255 }
+				
+				b_victoria = {
+				}
+				b_naujan = {
+				}
+				b_calapan = {
+				}
+				b_calintaan = {
+				}
+				b_central = {
+				}
+				b_magsaysay = {
+				}
+				b_bulalacao = {
+				}
+			}
+		}
+		d_visayas = {
+			color={ 90 83 128 }
+			color2={ 255 255 255 }
+			
+			capital = 3047 # c_estancia
+			
+			c_estancia = { # 3047
+				color={ 101 104 167 }
+				color2={ 255 255 255 }
+				
+				b_estancia = {
+				}
+				b_pilar = {
+				}
+				b_sara = {
+				}
+				b_lemery = {
+				}
+				b_barotac_viejo = {
+				}
+				b_san_enrique = {
+				}
+				b_dumarao = {
+				}
+			}
+			c_iloilo = { # 3049
+				color={ 94 91 130 }
+				color2={ 255 255 255 }
+				
+				b_iloilo = {
+				}
+				b_san_miguel_2 = {
+				}
+				b_oton = {
+				}
+				b_tigbauan = {
+				}
+				b_mina = {
+				}
+				b_mina_2 = {
+				}
+				b_sibalom = {
+				}
+			}
+			c_kalibo = { # 3048
+				color={ 77 71 107 }
+				color2={ 255 255 255 }
+				
+				b_kalibo = {
+				}
+				b_ibajay = {
+				}
+				b_buruanga = {
+				}
+				b_tibiao = {
+				}
+				b_barbaza = {
+				}
+				b_libacao = {
+				}
+				b_santa_barbara1 = {
+				}
+			}
+			c_san_jose = { # 3050
+				color={ 127 131 183 }
+				color2={ 255 255 255 }
+				
+				b_san_jose = {
+				}
+				b_hamtic = {
+				}
+				b_tobias_fornier = {
+				}
+				b_anini2 = {
+				}
+				b_belison = {
+				}
+				b_sibalom_2 = {
+				}
+				b_salvacion = {
+				}
+			}
+		}
+		d_negros = {
+			color={ 90 20 40 }
+			color2={ 255 255 255 }
+			
+			capital = 4075 # Bacolod
+			
+			c_bacolod = { # 4075
+				color={ 90 20 40 }
+				color2={ 255 255 255 }
+				
+				b_bacolod = {}
+				b_bago_city = {}
+				b_silay_city = {}
+				b_manapla = {}
+				b_pulupandan = {}
+				b_valladolid1 = {}
+				b_hinigaran = {}
+			}
+			c_kanbankalan = { # 4074
+				color={ 90 40 40 }
+				color2={ 255 255 255 }
+				
+				b_kabankalan = {}
+				b_ilog = {}
+				b_cauayan = {}
+				b_candoni = {}
+				b_sipalay = {}
+				b_aguisan = {}
+				b_hinoba_an = {}
+			}
+			c_guimaras = { # 4076
+				color={ 90 0 40 }
+				color2={ 255 255 255 }
+				
+				b_jordan = {}
+				b_buenavista = {}
+				b_san_lorenzo = {}
+				b_sibunag = {}
+				b_nueva_valencia = {}
+				b_suclaran = {}
+				b_avila1 = {}
+			}
+			c_cebu = { # 4077
+				color={ 90 0 60 }
+				color2={ 255 255 255 }
+				
+				b_cebu_city = {}
+				b_bogo_city = {}
+				b_catmon = {}
+
+				b_medellin1 = {}
+				b_tabuelan = {}
+				b_carmen = {}
+				b_san_remigio = {}
+			}
+		}
+	}
+		k_palawan = {
+		color={ 190 82 28 }
+		color2={ 255 255 255 }
+		
+		capital = 3054 # c_puerto_princesa
+		culture = cuyanyo
+		
+		katoliko = 4500 # Crusade target weight
+			
+			d_mimaropa = {
+			color={ 100 114 169 }
+			color2={ 255 255 255 }
+			
+			capital = 3054 # c_puerto_princesa
+			
+			c_coron = { # 3051
+				color={ 70 80 111 }
+				color2={ 255 255 255 }
+				holy_site = el_shaddai
+				
+				b_coron = {
+				}
+				b_kalitang = {
+				}
+				b_san_rafael = {
+				}
+				b_new_busuanga = {
+				}
+				b_buluang = {
+				}
+				b_calauit = {
+				}
+				b_tambon = {
+				}
+			}			
+			c_balabac = { # 3057
+				color={ 95 92 132 }
+				color2={ 255 255 255 }
+				
+				b_balabac = {
+				}
+				b_agutayan = {
+				}
+				b_melville = {
+				}
+				b_salang = {
+				}
+				b_catagupan = {
+				}
+				b_ramos = {
+				}
+				b_san_pedro_2 = {
+				}
+			}
+			c_bataraza = { # 3056
+				color={ 84 82 119 }
+				color2={ 255 255 255 }
+				
+				b_bataraza = {
+				}
+				b_igang = {
+				}
+				b_ocayan = {
+				}
+				b_sumbiling = {
+				}
+				b_iwahig = {
+				}
+				b_buliluyan = {
+				}
+				b_san_paulo = {
+				}
+			}
+			c_el_nido = { # 3052
+				color={ 92 88 128 }
+				color2={ 255 255 255 }
+				
+				b_el_nido = {
+				}
+				b_ketong = {
+				}
+				b_mabini_2 = {
+				}
+				b_manlag = {
+				}
+				b_pancol = {
+				}
+				b_pamantolon = {
+				}
+				b_iiman = {
+				}
+			}
+			c_narra = { # 3055
+				color={ 87 100 132 }
+				color2={ 255 255 255 }
+				
+				b_narra = {
+				}
+				b_quezon = {
+				}
+				b_pulot = {
+				}
+				b_punang = {
+				}
+				b_panitian = {
+				}
+				b_isumbo = {
+				}
+				b_san_domingo = {
+				}
+			}
+			c_puerto_princesa = { # 3054
+				color={ 91 88 125 }
+				color2={ 255 255 255 }
+				
+				b_puerto_princesa = {
+				}
+				b_sicsican = {
+				}
+				b_honda = {
+				}
+				b_tagkawayan = {
+				}
+				b_simpocan = {
+				}
+				b_bagong_bayan = {
+				}
+				b_aborlan = {
+				}
+			}
+			c_san_vicente = { # 3053
+				color={ 62 56 79 }
+				color2={ 255 255 255 }
+				
+				b_san_vicente = {
+				}
+				b_malcampo = {
+				}
+				b_new_cuyo = {
+				}
+				b_magara = {
+				}
+				b_caruray = {
+				}
+				b_barangay_san_jose = {
+				}
+				b_roxas_2 = {
+				}
+			}		
+		}
+	}
+	k_sulu= { 
+		color={91 40 91 }
+		color2={ 255 255 255 }
+		
+		capital = 3870 # c_jolo
+		culture = tausug
+		
+		katoliko = 500 # Crusade target weight
+			
+		d_sulu = {
+		color={ 12 120 45 }
+		color2={255 255 255}
+			
+		capital = 3870 # c_jolo
+				
+		c_jolo = { # 3870
+		
+		holy_site = syafi
+		
+		color={ 131 140 196 }
+		color2={ 255 255 255 }
+				
+				b_jolo = {
+				}
+				b_indanan = {
+				}
+				b_maimbung = {
+				}
+				b_talipao = {
+				}
+				b_panglima_estino = {
+				}
+				b_kalingalan_caluang = {
+				}
+				b_luuk = {
+				}
+		}
+		c_mapun = { # 3058
+		color={ 88 82 123 }
+		color2={ 255 255 255 }
+				
+			b_mapun = {
+			}
+			b_sikub = {
+			}
+				b_tanduan = {
+			}
+				b_duhul_batu = {
+				}
+				b_umus_mataha = {
+				}
+				b_guppah = {
+				}
+				b_san_marine = {
+				}
+			}
+			c_bongao = { # 3863
+			color={ 79 34 3 }
+			color2={ 255 255 255 }
+				
+				b_bongao = {
+				}
+				b_batu_5 = {
+				}
+				b_kulape = {
+				}
+					b_parangan = {
+				}
+				b_balimbing = {
+				}
+				b_buan = {
+				}
+				b_maraning = {
+				}
+			}
+			c_pandami = { # 3864
+			color={ 143 129 190 }
+			color2={ 255 255 255 }
+				
+				b_pandami = {
+				}
+				b_pagatpat = {
+				}
+				b_manta = {
+				}
+				b_siburi = {
+				}
+				b_duggo = {
+				}
+				b_sipanding = {
+				}
+				b_latung = {
+				}
+			}		
+		}
+	}
+	k_zamboanga = {
+		color = { 0 85 14 }
+		color2 = { 255 255 255}
+		
+		capital = 4072 # c_zamboanga
+		
+		katoliko = 4500 # Crusade target weight
+	
+		d_zamboanga = {
+		color={ 12 120 96 }
+		color2={255 255 255}
+			
+		capital = 4072 # c_zamboanga
+				
+		c_zamboanga = { # 4072
+			color={ 12 120 96 }
+			color2={ 255 255 255 }
+				
+			b_zamboanga = {}
+			b_tungawan = {}
+			b_tinuba = {}
+			b_manicahan = {}
+			b_palupalo = {}
+			b_limaong = {}
+			b_casipitan = {}
+		}
+		c_basilan = { # 4071
+			color={ 22 100 96 }
+			color2={ 255 255 255 }
+			b_isabela_city = {}
+			b_lamitan_city = {}
+			b_tipo_tipo = {}
+			b_maluso = {}
+			b_lantawan = {}
+			b_tuburan = {}
+			b_al_barka = {}
+		}
+		c_baliguian = { # 4073
+			color={ 12 140 96 }
+			color2={ 255 255 255 }
+				
+				b_baliguian = {}
+				b_sirawai = {}
+				b_siocon = {}
+				b_labason = {}
+				b_mongamol = {}
+				b_panauran = {}
+				b_kanapun = {}
+			}		
+		}
+	}	
+}

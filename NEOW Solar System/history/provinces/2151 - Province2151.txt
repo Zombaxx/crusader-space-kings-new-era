@@ -1,0 +1,17 @@
+# 2151 - Province2151
+
+# County Title
+title = c_province2151
+
+# Settlements
+max_settlements = 6
+b_barony2151` = castle
+b_barony2151a = temple
+b_barony2151b = city
+b_barony2151c = castle
+
+# Misc
+culture = panjabi
+religion = sufi
+
+# History

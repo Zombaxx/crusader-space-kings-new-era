@@ -1,0 +1,15 @@
+# 1519 - Province1519
+
+# County Title
+title = c_province1519
+
+# Settlements
+max_settlements = 3
+b_barony1519` = city
+b_barony1519a = temple
+
+# Misc
+culture = gaoshan
+religion = bon
+
+# History

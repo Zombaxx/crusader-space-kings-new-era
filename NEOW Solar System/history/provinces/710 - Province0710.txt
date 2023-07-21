@@ -1,0 +1,14 @@
+# 710 - Province0710
+
+# County Title
+title = c_province0710
+
+# Settlements
+max_settlements = 4
+b_barony0710` = tribal
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

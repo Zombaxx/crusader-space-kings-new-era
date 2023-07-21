@@ -1,0 +1,1447 @@
+26662800 ={
+    name="Shlomo" 
+	dynasty=25552800
+	religion="jewish"
+	culture="israeli"
+	diplomacy=6
+	martial=7
+	stewardship=4
+	intrigue=5
+	learning=3
+	trait="brave"
+	trait="falconer"
+	trait="hunter"
+	trait="cynical"
+	trait="sympathy_pagans" #so he doesnt get yeeted
+	trait="sympathy_christendom" #so he doesnt get yeeted
+	trait="sympathy_islam" #so he doesnt get yeeted
+	trait="robust"
+	trait="kind"
+	trait="skilled_tactician"
+	disallow_random_traits = yes
+	2510.6.14={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26662829 ={
+    name="Mashiach" #the supposed Messiah and the first king of the restored Kingdom of Israel
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=9
+	martial=20
+	stewardship=8
+	intrigue=8
+	learning=15
+	trait="brave"
+	trait="zealous"
+	trait="diligent"
+	trait="temperate"
+	trait="legendary"
+	trait="skilled_tactician"	
+	trait="israeli_messiah"
+	occluded=yes
+	2205.7.27={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+			give_nickname=nick_ben_david
+	}
+	2250.1.1={
+		death=yes
+	}
+}
+
+26662830 ={
+    name="Yonatan" #Son of Mashiach, second King of Israel, united Israel's city states under his banner
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=19
+	martial=17
+	stewardship=10
+	intrigue=8
+	learning=9
+	trait="charismatic_negotiator"
+	trait="kind"
+	trait="gregarious"
+	trait="skilled_tactician"	
+	trait="israeli_messiah"
+	father=26662829
+	2231.5.3={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2274.1.1={
+		death=yes
+	}
+}
+
+26662831 ={
+    name="Shimon" #Son of Boaz, stabilized the realm
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=12
+	martial=8
+	stewardship=16
+	intrigue=8
+	learning=9
+	trait="administrator"
+	trait="kind"
+	trait="gregarious"
+	trait="israeli_messiah"
+	father=26662830
+	2254.1.1={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2309.1.1={
+		death=yes
+	}
+}
+
+26662832 ={
+    name="Amnon" #Firstborn son of Shimon, did some bad stuff and pissed off the Sanhedrin, who then supported his brother Gideon
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=9
+	martial=8
+	stewardship=9
+	intrigue=15
+	learning=9
+	trait="underhanded_rogue"
+	trait="cruel"
+	trait="cynical"
+	trait="paranoid"
+	trait="israeli_messiah"
+	father=26662831
+	2278.1.1={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2313.1.1={
+	death = {
+		death_reason=death_murder_unknown
+		}
+	}
+}
+
+26662833 ={
+    name="Gid'on" #Brother of Amnon and second child of Shimon, after Gideon's murder was proclaimed King
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=12
+	martial=8
+	stewardship=9
+	intrigue=9
+	learning=15
+	trait="zealous"
+	trait="temperate"
+	trait="gregarious"
+	trait="stressed"
+	trait="israeli_messiah"
+	father=26662831
+	2284.1.1={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2340.1.1={
+		death=yes
+	}
+}
+
+26662834 ={
+    name="David" #Defended Israel from an invasion
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=8
+	martial=16
+	stewardship=9
+	intrigue=9
+	learning=10
+	trait="zealous"
+	trait="skilled_tactician"
+	trait="desert_terrain_leader"
+	trait="israeli_messiah"
+	father=26662833
+	2307.1.1={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2352.1.1={
+		death=yes
+	}
+}
+
+26662835 ={
+    name="Amnon" #kind of a 'meh' ruler
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=8
+	martial=9
+	stewardship=9
+	intrigue=12
+	learning=10
+	trait="is_fat"
+	trait="arbitrary"
+	trait="israeli_messiah"
+	father=26662834
+	2328.1.1={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2360.1.1={
+		death=yes
+	}
+}
+
+26662836 ={
+    name="David" #another 'stability' king
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=15
+	martial=9
+	stewardship=9
+	intrigue=12
+	learning=10
+	trait="administrator"
+	trait="midas_touched"
+	trait="israeli_messiah"
+	father=26662835
+	2349.1.1={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2389.1.1={
+		death=yes
+	}
+}
+
+26662837 ={
+    name="Shaul" #Started the Third Temple project
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=15
+	martial=9
+	stewardship=9
+	intrigue=12
+	learning=17
+	trait="administrator"
+	trait="zealous"
+	trait="israeli_messiah"
+	father=26662836
+	2368.1.1={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2412.1.1={
+		death=yes
+	}
+}
+
+26662838 ={
+    name="Shmuel" #Continued building the temple
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=12
+	martial=9
+	stewardship=9
+	intrigue=12
+	learning=17
+	trait="mastermind_theologian"
+	trait="zealous"
+	trait="israeli_messiah"
+	father=26662837
+	2387.1.1={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2435.1.1={
+		death=yes
+	}
+}
+
+26662839 ={
+    name="David" #Continued building the temple
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=14
+	martial=10
+	stewardship=9
+	intrigue=12
+	learning=12
+	trait="midas_touched"
+	trait="gregarious"
+	trait="israeli_messiah"
+	father=26662838
+	2407.1.1={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2450.1.1={
+		death=yes
+	}
+}
+
+26662840 ={
+    name="Yonatan" #Kingdom starts going downhill under him
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=12
+	martial=10
+	stewardship=9
+	intrigue=12
+	learning=12
+	trait="underhanded_rogue"
+	trait="cynical"
+	trait="israeli_messiah"
+	father=26662839
+	2432.1.1={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2462.1.1={
+	death = {
+		death_reason=death_murder_unknown
+		}
+	}
+}
+
+26662841 ={
+    name="Yochanan" #ascended to the throne at age 10, most of the governance was done by the corrupt Chechniks
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=7
+	martial=8
+	stewardship=9
+	intrigue=5
+	learning=9
+	trait="naive_appeaser"
+	trait="kind"
+	trait="israeli_messiah"
+	father=26662840
+	2452.1.1={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2513.1.1={
+		death=yes
+	}
+}
+
+26662842 ={
+    name="Shmuel" #Killed by Lebanese at the Battle of Acre in 2533
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=7
+	martial=10
+	stewardship=9
+	intrigue=5
+	learning=9
+	trait="zealous"
+	trait="misguided_warrior"
+	trait="israeli_messiah"
+	father=26662841
+	2480.1.1={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2533.1.1={
+	death = {
+		death_reason = death_rabble
+		}
+	}
+}
+
+26662801 ={
+    name="David" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=8
+	martial=8
+	stewardship=3
+	intrigue=2
+	learning=2
+	trait="brave"
+	trait="quick"
+	trait="lustful"
+	trait="just"
+	trait="diligent"
+	trait="temperate"
+	trait="skilled_tactician"	
+	trait="desert_terrain_leader"
+	trait="scarred"
+	trait="israeli_messiah"
+	father=26662842
+	2512.10.12={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2530.3.15={
+		add_spouse=26662912
+		effect={add_artifact = stone_mercy }
+	}
+	2540.7.14={
+		effect={add_friend=50000086}
+	}
+	2550.6.14={
+		effect={add_friend=30000116}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+####Sons of David######
+
+26662802 ={
+    name="Amnon" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=4
+	martial=2
+	stewardship=2
+	intrigue=8
+	learning=1
+	trait="cruel"
+	trait="greedy"
+	trait="lustful"
+	trait="intricate_webweaver"
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	2531.1.19={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662803 ={
+    name="Chilead" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=4
+	martial=4
+	stewardship=4
+	intrigue=4
+	learning=4
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	2532.9.2={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2534.10.12={
+		death=yes
+	}
+}
+26662804 ={
+    name="Avshalom" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=4
+	martial=6
+	stewardship=4
+	intrigue=8
+	learning=4
+	trait="fair"
+	trait="greedy"
+	trait="ambitious"
+	trait="deceitful"
+	trait="proud"
+	trait="gregarious"
+	trait="skilled_tactician"
+	trait="experimenter"
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	2533.10.6={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662805 ={
+    name="Adoniyah" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=3
+	martial=1
+	stewardship=2
+	intrigue=8
+	learning=7
+	trait="proud"
+	trait="ambitious"
+	trait="deceitful"
+	trait="schemer"
+	trait="intricate_webweaver"
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	2534.9.13={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662806 ={
+    name="Shephatia" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=1
+	martial=1
+	stewardship=1
+	intrigue=1
+	learning=1
+	trait="shy"
+	trait="twin"
+	trait="misguided_warrior"
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	2535.10.6={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662807 ={
+    name="Shammua" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=1
+	martial=1
+	stewardship=1
+	intrigue=1
+	learning=1
+	trait="shy"
+	trait="twin"
+	trait="misguided_warrior"
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	2535.10.6={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662808 ={
+    name="Shobab" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=1
+	martial=2
+	stewardship=1
+	intrigue=2
+	learning=1
+	trait="craven"
+	trait="naive_appeaser"
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	2536.7.8={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662809 ={
+    name="Natan" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=3
+	martial=2
+	stewardship=2
+	intrigue=1
+	learning=3
+	trait="trusting"
+	trait="twin"
+	trait="flamboyant_schemer"
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	2537.8.11={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662810 ={
+    name="Shlomo" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=9
+	martial=6
+	stewardship=5
+	intrigue=5
+	learning=8
+	trait="diligent"
+	trait="lustful"
+	trait="twin"
+	trait="cynical"
+	trait="architect"
+	trait="grey_eminence"
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	2537.8.11={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662811 ={
+    name="Ibhar" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=2
+	martial=1
+	stewardship=2
+	intrigue=2
+	learning=8
+	trait="zealous"
+	trait="martial_cleric"
+	trait="trusting"
+	trait="kind"
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	2538.10.16={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662812 ={
+    name="Elishua" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=1
+	martial=2
+	stewardship=1
+	intrigue=1
+	learning=1
+	trait="weak"
+	trait="twin"
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	2539.6.8={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2541.1.1={
+		death=yes
+	}
+}
+26662813 ={
+    name="Nepheg" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=1
+	martial=2
+	stewardship=1
+	intrigue=1
+	learning=1
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	trait="weak"
+	trait="twin"
+	2539.6.8={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662814 ={
+    name="Yaphia" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=2
+	martial=4
+	stewardship=1
+	intrigue=2
+	learning=1
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	2540.5.27={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662816 ={
+    name="Elishama" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=1
+	martial=2
+	stewardship=2
+	intrigue=4
+	learning=1
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	trait="twin"
+	2541.7.30={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662817 ={
+    name="Eliada" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=1
+	martial=4
+	stewardship=2
+	intrigue=1
+	learning=2
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	trait="twin"
+	2541.7.30={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662818 ={
+    name="Eliphalet" 
+	dynasty=1957041
+	religion="jewish"
+	culture="israeli"
+	diplomacy=4
+	martial=2
+	stewardship=1
+	intrigue=2
+	learning=1
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	trait="twin"
+	2541.7.30={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662819 ={
+    name="Tamar" 
+	dynasty=1957041
+	female=yes
+	religion="jewish"
+	culture="israeli"
+	diplomacy=8
+	martial=1
+	stewardship=2
+	intrigue=2
+	learning=6
+	father=26662801
+	mother=26662912
+	trait="israeli_messiah"
+	2542.12.30={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662820 ={
+    name="Chayim" 
+	dynasty=25552802
+	religion="jewish"
+	culture="israeli"
+	diplomacy=6
+	martial=3
+	stewardship=14
+	intrigue=10
+	learning=8
+	trait="gregarious"
+	trait="kind"
+	trait="greedy"
+	trait="proud"
+	trait="honest"
+	trait="fortune_builder"
+	father=221526
+	2509.7.20={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = ashkenazi
+		}
+	}
+	2538.10.3={
+		add_spouse=211506
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662821 ={
+    name="Dawit" 
+	dynasty=1958029
+	religion="jewish"
+	culture="israeli"
+	diplomacy=2
+	martial=3
+	stewardship=1
+	intrigue=2
+	learning=2
+	trait="paranoid"
+	trait="lunatic"
+	trait="cynical"
+	trait="slothful"
+	trait="misguided_warrior"
+	2538.2.6={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = beta_israeli
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662822 ={
+    name="Ze'ev" 
+	dynasty=25552804
+	religion="jewish"
+	culture="israeli"
+	diplomacy=1
+	martial=6
+	stewardship=1
+	intrigue=3
+	learning=5
+	trait="strong"
+	trait="duelist"
+	trait="lustful"
+	trait="wroth"
+	trait="tough_soldier"
+	2510.5.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664210 = {
+    name="Ramadan" 
+	dynasty=6005017
+	religion="malikite"
+	culture="haqbaylit"
+	diplomacy=0
+	martial=3
+	stewardship=4
+	intrigue=6
+	learning=2
+	trait="tough_soldier"
+	trait="brave"
+	trait="gregarious"
+	trait="wroth"
+	trait="kind"
+	2516.12.24={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664211 = {
+    name="Cecil" 
+	dynasty=25554195
+	religion="mikraist"
+	culture="israeli"
+	diplomacy=1
+	martial=3
+	stewardship=8
+	intrigue=5
+	learning=7
+	trait="intricate_webweaver"
+	trait="content"
+	trait="honest"
+	trait="slothful"
+	trait="arbitrary"
+	2529.6.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664212 = {
+    name="Hakim" 
+	dynasty=6007005
+	religion="malikite"
+	culture="tmazight"
+	diplomacy=4
+	martial=7
+	stewardship=1
+	intrigue=3
+	learning=1
+	trait="misguided_warrior"
+	trait="stubborn"
+	trait="temperate"
+	trait="slothful"
+	trait="deceitful"
+	2506.3.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664213 = {
+    name="Chayim" 
+	dynasty=25554197
+	religion="mikraist"
+	culture="israeli"
+	diplomacy=8
+	martial=2
+	stewardship=5
+	intrigue=2
+	learning=6
+	trait="naive_appeaser"
+	trait="hunchback"	
+	trait="patient"
+	trait="zealous"
+	trait="envious"
+	trait="craven"
+	2521.1.21={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662823 = {
+    name="Omar" 
+	dynasty=36503152
+	religion="mikraist"
+	culture="israeli"
+	diplomacy=3
+	martial=3
+	stewardship=7
+	intrigue=6
+	learning=8
+	trait="quick"
+	trait="brave"	
+	trait="gregarious"
+	trait="cynical"
+	trait="adventurer"
+	trait="honest"
+	trait="martial_cleric"
+	2525.7.4={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662824 = {
+    name="Pinchas" 
+	dynasty=1957021
+	religion="jewish"
+	culture="israeli"
+	diplomacy=6
+	martial=3
+	stewardship=4
+	intrigue=4
+	learning=4
+	trait="sympathy_islam"
+	trait="sympathy_christendom"
+	trait="gregarious"
+	trait="kind"
+	trait="charismatic_negotiator"
+	2518.9.30={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662825 = {
+    name="Batiah" 
+	dynasty=1957024
+	female=yes
+	religion="jewish"
+	culture="israeli"
+	diplomacy=5
+	martial=3
+	stewardship=6
+	intrigue=7
+	learning=7
+	trait="sympathy_islam"
+	trait="sympathy_christendom"
+	2520.11.3={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+	}
+	2540.3.5={
+		add_spouse=26662824
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662826 = {
+    name="Tzachi" 
+	dynasty=1957021
+	religion="jewish"
+	culture="israeli"
+	diplomacy=6
+	martial=3
+	stewardship=5
+	intrigue=6
+	learning=5
+	trait="sympathy_islam"
+	trait="sympathy_christendom"
+	father=26662824
+	mother=26662825
+	2541.1.29={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26662827 = {
+    name="Motti" 
+	dynasty=1957034
+	religion="jewish"
+	culture="israeli"
+	diplomacy=4
+	martial=5
+	stewardship=4
+	intrigue=4
+	learning=5
+	trait="brilliant_strategist"
+	trait="robust"
+	trait="brave"
+	2531.6.13={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = russim
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26662828 = {
+    name="Hadassah" 
+	dynasty=1957043
+	female=yes
+	religion="jewish"
+	culture="israeli"
+	diplomacy=6
+	martial=3
+	stewardship=5
+	intrigue=7
+	learning=7
+	trait="charismatic_negotiator"
+	2532.10.8={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = russim
+		}
+	}
+	2549.5.6={
+		add_spouse=26662827
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26662900 = {
+    name="Menashe" 
+	dynasty=1957034
+	religion="jewish"
+	culture="israeli"
+	father=26662827
+	mother=26662828
+	2550.8.15={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = russim
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26662901 = {
+    name="Eliyahu" 
+	dynasty=1957012
+	religion="jewish"
+	culture="israeli"
+	occluded=yes
+	trait="mastermind_theologian"
+	trait="legendary"
+	2180.6.30={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+			give_nickname=nick_halevi
+	}
+	2252.3.13={
+		death=yes
+	}
+}
+
+26662902 = {
+    name="Elchanan"
+	dynasty=1957012
+	religion="jewish"
+	culture="israeli"
+	father = 26662901
+	trait="mastermind_theologian"
+	trait="legendary"
+	2221.7.15={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+			give_nickname=nick_ayit_hagadol
+	}
+	2293.10.19={
+		death=yes
+	}
+}
+
+26662903 = {
+    name="Chanan" 
+	dynasty=1957012
+	religion="jewish"
+	culture="israeli"
+	father = 26662902
+	2255.9.29={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+	}
+	2321.3.9={
+		death=yes
+	}
+}
+
+26662904 = {
+    name="Levi" 
+	dynasty=1957012
+	religion="jewish"
+	culture="israeli"
+	father = 26662903
+	2290.11.30={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+	}
+	2356.8.10={
+		death=yes
+	}
+}
+
+26662905 = {
+    name="Yaakov" 
+	dynasty=1957012
+	religion="jewish"
+	culture="israeli"
+	father = 26662904
+	2320.5.31={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+	}
+	2379.4.25={
+		death=yes
+	}
+}
+
+26662906 = {
+    name="Chayim" 
+	dynasty=1957012
+	religion="jewish"
+	culture="israeli"
+	father = 26662905
+	2350.12.2={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+	}
+	2419.6.20={
+		death=yes
+	}
+}
+
+26662907 = {
+    name="Elchanan"
+	dynasty=1957012
+	religion="jewish"
+	culture="israeli"
+	father = 26662906
+	2379.2.20={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+	}
+	2450.1.31={
+		death=yes
+	}
+}
+
+26662908 = {
+    name="Rachamim" 
+	dynasty=1957012
+	religion="jewish"
+	culture="israeli"
+	father = 26662907
+	2410.6.14={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+	}
+	2480.7.8={
+		death=yes
+	}
+}
+
+26662909 = {
+    name="Gavriel" 
+	dynasty=1957012
+	religion="jewish"
+	culture="israeli"
+	father = 26662908
+	2442.8.19={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+	}
+	2501.10.3={
+		death=yes
+	}
+}
+
+26662910 = {
+    name="Yaakov" 
+	dynasty=1957012
+	religion="jewish"
+	culture="israeli"
+	father = 26662909
+	2471.4.30={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+	}
+	2534.7.11={
+		death=yes
+	}
+}
+
+26662911 = {
+    name="Levi" 
+	dynasty=1957012
+	religion="jewish"
+	culture="israeli"
+	2495.11.16={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+	}
+	2554.5.1={
+		death=yes
+	}
+}
+
+26662912 = {
+    name="Gal" 
+	dynasty=1957042
+	female=yes
+	religion="jewish"
+	culture="israeli"
+	trait = strong
+	trait = fair
+	trait = shrewd
+	trait = lustful
+	2512.1.20={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = israeli
+		}
+	}
+	2530.3.15={
+		add_spouse=26662801
+	}
+	2600.1.1={
+		death=yes
+	}
+}

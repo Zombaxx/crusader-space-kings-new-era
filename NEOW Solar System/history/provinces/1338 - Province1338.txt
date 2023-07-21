@@ -1,0 +1,16 @@
+# 1338 - Province1338
+
+# County Title
+title = c_province1338
+
+# Settlements
+max_settlements = 4
+b_barony1338` = castle
+b_barony1338a = temple
+b_barony1338b = city
+
+# Misc
+culture = frisian
+religion = taoist
+
+# History

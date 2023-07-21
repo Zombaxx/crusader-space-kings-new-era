@@ -1,0 +1,16 @@
+# 1571 - Province1571
+
+# County Title
+title = c_province1571
+
+# Settlements
+max_settlements = 4
+b_barony1571` = castle
+b_barony1571a = temple
+b_barony1571b = city
+
+# Misc
+culture = persian
+religion = fraticelli
+
+# History

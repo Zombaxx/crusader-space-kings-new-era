@@ -1,0 +1,15 @@
+# 424 - Province0424
+
+# County Title
+title = c_province0424
+
+# Settlements
+max_settlements = 3
+b_barony0424` = castle
+b_barony0424a = temple
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

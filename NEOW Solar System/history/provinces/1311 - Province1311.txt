@@ -1,0 +1,16 @@
+# 1311 - Province1311
+
+# County Title
+title = c_province1311
+
+# Settlements
+max_settlements = 4
+b_barony1311` = castle
+b_barony1311a = temple
+b_barony1311b = city
+
+# Misc
+culture = alan
+religion = hellenic_pagan
+
+# History

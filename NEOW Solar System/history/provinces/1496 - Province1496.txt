@@ -1,0 +1,18 @@
+# 1496 - Province1496
+
+# County Title
+title = c_province1496
+
+# Settlements
+max_settlements = 7
+b_barony1496` = castle
+b_barony1496a = temple
+b_barony1496b = city
+b_barony1496c = castle
+b_barony1496d = temple
+
+# Misc
+culture = mongol
+religion = fraticelli
+
+# History

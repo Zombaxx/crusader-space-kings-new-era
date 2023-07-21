@@ -1,0 +1,16 @@
+# 1181 - Province1181
+
+# County Title
+title = c_province1181
+
+# Settlements
+max_settlements = 4
+b_barony1181` = castle
+b_barony1181a = temple
+b_barony1181b = city
+
+# Misc
+culture = alan
+religion = catholic
+
+# History

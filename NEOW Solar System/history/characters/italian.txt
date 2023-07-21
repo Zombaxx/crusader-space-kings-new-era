@@ -1,0 +1,2132 @@
+26661600 = {
+	name="Vittorio-Amedeo" # Duke Vittorio Amedeo of Piemonte
+	dynasty=25551600 # Savoia
+	religion="catholic"
+	culture="piemontese"
+	trait="tough_soldier"
+	trait="proud"
+	trait="deceitful"
+	trait="ambitious"
+	2499.2.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661601 = {
+	name="Antonio" # Count Antonio of Ivrea
+	dynasty=25551601 # Cavour
+	religion="catholic"
+	culture="piemontese"
+	trait="grey_eminence"
+	trait="deceitful"
+	trait="ambitious"
+	trait="gluttonous"
+	2498.7.21={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661602 = {
+	name="Andrea" # Count Andrea of Noli
+	dynasty=25551602 # Pertini
+	religion="catholic"
+	culture="piemontese"
+	trait="charismatic_negotiator"
+	trait="quick"
+	trait="erudite"
+	trait="stubborn"
+	trait="zealous"
+	trait="gregarious"
+	2510.9.25={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661603 = {
+	name="Francesco" # Count Francesco of Genova
+	dynasty=25551603 # Togliatti
+	religion="catholic"
+	culture="piemontese"
+	trait="ambitious"
+	trait="honest"
+	trait="kind"
+	trait="zealous"
+	trait="gregarious"
+	2512.3.26={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661604 = {
+	name="Abbondio" # Count Abbondio of Como
+	dynasty=25551604 # Odescalchi
+	religion="catholic"
+	secret_religion="novelist"
+	culture="lombard"
+	trait="scholarly_theologian"
+	trait="humble"
+	trait="erudite"
+	trait="kind"
+	trait="sympathy_pagans"
+	2497.2.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661605 = {
+	name="Hasper" # Count Hasper of Bellinzona
+	dynasty=1993005 # Wyrsch
+	religion="calvinist"
+	culture="romansch"
+	trait="strong"
+	trait="ambitious"
+	trait="brave"
+	trait="tough_soldier"
+	2500.6.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661606 = {
+	name="Mario" # Count Mario of Milano
+	dynasty=25551606 # Berlusconi
+	religion="catholic"
+	culture="lombard"
+	trait="genius"
+	trait="deceitful"
+	trait="greedy"
+	trait="midas_touched"
+	2510.6.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661607 = {
+	name="Arlecchino" # Count Arlecchino of Brescia
+	dynasty=25551607 # Zanardelli
+	religion="catholic"
+	culture="lombard"
+	trait="trusting"
+	trait="honest"
+	trait="kind"
+	trait="misguided_warrior"
+	2513.10.29={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26667003 = {#Son of Arlecchino
+	name="Vittorio" #
+	dynasty=25551607 # Zanardelli
+	father = 26661607
+	religion="catholic"
+	culture="lombard"
+	trait="fortune_builder"
+	trait="temperate"
+	trait="just"
+	trait="cruel"
+	trait="strong"
+	2537.5.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661608 = {
+	name="Cesare" # Duke Cesare of Tyrol
+	dynasty=25551608 # de Gasperi
+	religion="catholic"
+	culture="venetian"
+	trait="brave"
+	trait="honest"
+	trait="zealous"
+	trait="charismatic_negotiator"
+	2511.4.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661609 = {
+	name="Lissandri" # Count Lissandri of Bolzano
+	dynasty=25551609 # Mayr-Nusser
+	religion="catholic"
+	culture="ladin"
+	trait="brave"
+	trait="proud"
+	trait="wroth"
+	trait="tough_soldier"
+	2498.12.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661610 = {
+	name="Romeo" # Duke Romeo of Veneto
+	father=22660011
+	dynasty=25551610 # Salgari
+	religion="catholic"
+	secret_religion="cadaverist"
+	culture="venetian"
+	trait="wroth"
+	trait="proud"
+	trait="gregarious"
+	trait="tough_soldier"
+	2531.1.29={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661611 = {
+	name="Marco" # Doge Marco of Venezia
+	dynasty=25551611 # Mose
+	religion="catholic"
+	culture="venetian"
+	trait="brave"
+	trait="quick"
+	trait="thrifty_clerk"
+	trait="shrewd"
+	trait="greedy"
+	2501.7.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661612 = {
+	name="Niculau" # Count Nicolo of Udine
+	dynasty=1993200 # Bertoli
+	religion="catholic"
+	culture="furlan"
+	trait="shy"
+	trait="gluttonous"
+	trait="misguided_warrior"
+	trait="ambitious"
+	trait="deceitful"
+	2530.12.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661613 = {
+	name="Giovanni" #Count of Aquilia
+	dynasty=1993215 # Grimani family
+	religion="catholic"
+	culture="furlan"
+	trait="erudite"
+	trait="brave"
+	trait="chaste"
+	trait="just"
+	trait="architect"
+	trait="gregarious"
+	trait="honest"
+	trait="scholarly_theologian"
+	2524.7.6={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661614 = {
+	name="Enzo" # Duke Enzo of Emilia
+	dynasty=25551614 # Ferrari
+	religion="catholic"
+	culture="emilian"
+	trait="midas_touched"
+	trait="greedy"
+	trait="diligent"
+	trait="proud"
+	trait="arbitrary"
+	trait="ambitious"
+	2510.3.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661615 = {
+	name="Vincenzo" # King Vincenzo of San Marino
+	dynasty=25551615 # Guidi
+	religion="catholic"
+	culture="sanmarinese"
+	trait="fortune_builder"
+	trait="temperate"
+	trait="brave"
+	trait="ambitious"
+	trait="honest"
+	2509.5.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26667001 = {#Son of Vincenzo
+	name="Vincenzo" #
+	dynasty=25551615 # Guidi
+	father = 26661615
+	religion="catholic"
+	culture="sanmarinese"
+	trait="charismatic_negotiator"
+	trait="temperate"
+	trait="brave"
+	trait="ambitious"
+	trait="honest"
+	2537.5.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661616 = {
+	name="Antonio" # Duke Antonio of Romagna
+	dynasty=25551616 # Casadei
+	religion="catholic"
+	culture="emilian"
+	trait="zealous"
+	trait="kind"
+	trait="patient"
+	trait="diligent"
+	trait="charitable"
+	trait="scholarly_theologian"
+	2497.2.27={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661617 = {
+	name="Alessandro" # Count Alessandro of Bologna
+	dynasty=25551617 # Morandi
+	religion="catholic"
+	culture="emilian"
+	trait="tough_soldier"
+	trait="brave"
+	trait="gluttonous"
+	trait="poet"
+	trait="patient"
+	trait="kind"
+	2529.4.18={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661618 = {
+	name="Niccolò" # Grand Duke Niccolò of Toscana
+	dynasty=25551618 # Innocenti
+	religion="catholic"
+	culture="tuscanian"
+	trait="cruel"
+	trait="wroth"
+	trait="deceitful"
+	trait="strong"
+	trait="intricate_webweaver"
+	2521.8.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26667002 = {#Son of Niccolò
+	name="Alessandro" #
+	dynasty=25551618 # Guidi
+	father = 26661618
+	religion="catholic"
+	culture="tuscanian"
+	trait="fortune_builder"
+	trait="temperate"
+	trait="brave"
+	trait="ambitious"
+	trait="honest"
+	2539.12.29={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661619 = {
+	name="Giacomo" # Count Giacomo of Pisa
+	dynasty=25551619 # Gronchi
+	religion="catholic"
+	culture="tuscanian"
+	trait="patient"
+	trait="diligent"
+	trait="deceitful"
+	trait="grey_eminence"
+	2511.1.30={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661620 = {
+	name="Valentino" # Count Valentino of Spoleto
+	dynasty=25551620 # Proietti
+	religion="catholic"
+	culture="lazian"
+	trait="kind"
+	trait="just"
+	trait="honest"
+	trait="naive_appeaser"
+	2537.6.22={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661621 = {
+	name="Rodrigo" # Count Rodrigo of Perugia
+	dynasty=255516731 # Borgia
+	religion="catholic"
+	secret_religion="sevillian"
+	culture="lazian"
+	trait="wroth"
+	trait="diligent"
+	trait="cynical"
+	trait="scholarly_theologian"
+	trait="ambitious"
+	trait="gregarious"
+	trait="schemer"
+	trait="envious"
+	trait="deceitful"
+	2501.10.9={
+		birth=yes
+	}
+	2530.4.1={
+		add_claim = d_latium
+		add_claim = c_roma
+		add_claim = c_orvieto
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661622 = {
+	name="Andrea" # Pope Remigius II
+	dynasty=25551622 # De Angelis
+	religion="catholic"
+	culture="lazian"
+	trait="kind"
+	trait="charitable"
+	trait="chaste"
+	trait="gluttonous"
+	trait="slothful"
+	trait="mastermind_theologian"
+	2520.1.2={
+		birth=yes
+	}
+	2554.10.31={
+		name="Remigius"
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661623 = {
+	name="Massimo" # Count Massimo of Orvieto
+	dynasty=25551623 # Angelucci
+	religion="catholic"
+	culture="lazian"
+	trait="strong"
+	trait="brave"
+	trait="zealous"
+	trait="tough_soldier"
+	trait="diligent"
+	2538.12.31={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661624 = {
+	name="Gianluca" # Count Gianluca of Orbetello
+	dynasty=25551624 # Dalle Monache
+	religion="catholic"
+	culture="lazian"
+	trait="curious"
+	trait="giant"
+	2544.7.6={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661625 = {
+	name="Stefano" # Count Stefano of Chieti
+	dynasty=25551625 # Iezzi
+	religion="catholic"
+	culture="lazian"
+	trait="fair"
+	trait="honest"
+	2515.11.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661626 = {
+	name="Simone" # Duke Simone of Abruzzo
+	dynasty=25551626 # Giuliani
+	religion="catholic"
+	culture="pugliese"
+	trait="genius"
+	trait="robust"
+	trait="intricate_webweaver"
+	trait="ambitious"
+	trait="honest"
+	2530.7.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661627 = {
+	name="Pietro" # Duke Pietro of Campania
+	dynasty=25551627 # Napolitano
+	religion="catholic"
+	culture="neapolitan"
+	trait="intricate_webweaver"
+	trait="erudite"
+	trait="paranoid"
+	2519.10.23={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661628 = {
+	name="Giorgio" # Count Giorgio of Salerno
+	dynasty=25551628 # de Luca
+	religion="catholic"
+	culture="neapolitan"
+	trait="flamboyant_schemer"
+	2506.8.28={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661629 = {
+	name="Gennaro" # Count Gennaro of Caserta
+	dynasty=25551629 # Natale
+	religion="catholic"
+	culture="neapolitan"
+	trait="honest"
+	trait="misguided_warrior"
+	2537.7.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661630 = {
+	name="Maria" # Duchess Maria of Puglia
+	dynasty=25551630 # Lorusso
+	female=yes
+	religion="catholic"
+	culture="pugliese"
+	trait="honest"
+	trait="kind"
+	trait="zealous"
+	trait="skilled_tactician"
+	2535.9.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661631 = {
+	name="Giuseppe" # Count Giuseppe of Foggia
+	dynasty=25551631 # Giordano
+	religion="catholic"
+	culture="pugliese"
+	trait="deceitful"
+	trait="wroth"
+	trait="slothful"
+	trait="misguided_warrior"
+	2502.1.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661632 = {
+	name="Enrico" # Duke Enrico of Calabria
+	dynasty=25551632 # Spadafora
+	religion="catholic"
+	culture="neapolitan"
+	trait="diligent"
+	trait="naive_appeaser"
+	2521.12.21={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+26661633 = {
+	name="Domenico" # Count Domenico of Reggio
+	dynasty=25551633 # Morabito
+	religion="catholic"
+	culture="sicilian"
+	trait="honest"
+	trait="arbitrary"
+	trait="zealous"
+	trait="grey_eminence"
+	2519.9.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661634 = {
+	name="Leopoldo" # Duke Leopoldo of Sicilia, a masterful statesman in Sicily
+	dynasty=25551634 # De Gregorio
+	religion="catholic"
+	culture="sicilian"
+	trait="quick"
+	trait="proud"
+	trait="ambitious"
+	trait="brave"
+	trait="thrifty_clerk"
+	2530.6.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661635 = {
+	name="Carmelo" # Count Carmelo of Trapani
+	dynasty=25551635 # Messina
+	religion="catholic"
+	culture="sicilian"
+	trait="just"
+	trait="honest"
+	trait="naive_appeaser"
+	2520.5.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661636 = {
+	name="Angelo" # Count Angelo of Palermo
+	dynasty=25551636 # Mattarella
+	religion="catholic"
+	culture="sicilian"
+	trait="just"
+	trait="honest"
+	trait="naive_appeaser"
+	2533.7.29={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661637 = {
+	name="Ugo" # Count Ugo of Pavia
+	dynasty=25551637 # Trecorti
+	religion="catholic"
+	culture="lombard"
+	trait="kind"
+	trait="ambitious"
+	trait="brave"
+	trait="naive_appeaser"
+	2529.6.18={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661638 = {
+	name="Gorg" # Grand Master of the Kngihts of St John
+	dynasty=25551638 # Vella
+	religion="catholic"
+	culture="maltese"
+	trait="skilled_tactician"
+	trait="brave"
+	trait="duelist"
+	trait="patient"
+	trait="humble"
+	trait="chaste"
+	trait="true_christian_knight_hospitaller"
+	2501.7.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+# Families (Piemontese)
+26661639 = {
+	name="Bernardo" # Son of the Duke of Piemonte
+	dynasty=25551600 # Savoia
+	religion="catholic"
+	culture="piemontese"
+	trait="skilled_tactician"
+	trait="brave"
+	trait="proud"
+	trait="charitable"
+	trait="honest"
+	trait="shrewd"
+	father=26661600
+	2523.8.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661640 = {
+	name="Severino" # First son and heir of the Count of Ivrea
+	dynasty=25551601 # Cavour
+	religion="catholic"
+	culture="piemontese"
+	trait="brilliant_strategist"
+	trait="heavy_infantry_leader"
+	trait="wroth"
+	trait="kind"
+	trait="ugly"
+	father=26661601
+	2521.4.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661641 = {
+	name="Samuele" # Second son of the Count of Ivrea
+	dynasty=25551601 # Cavour
+	religion="catholic"
+	culture="piemontese"
+	trait="indulgent_wastrel"
+	trait="hedonist"
+	trait="gluttonous"
+	trait="cynical"
+	trait="deceitful"
+	father=26661601
+	2523.12.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661642 = {
+	name="Alfonso" # Third son of the Count of Ivrea
+	dynasty=25551601 # Cavour
+	religion="catholic"
+	culture="piemontese"
+	trait="detached_priest"
+	trait="zealous"
+	trait="envious"
+	trait="charitable"
+	trait="ambitious"
+	father=26661601
+	2525.10.26={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661643 = {
+	name="Benedetta" # Daughter and heiress of the Count of Noli
+	dynasty=25551602 # Pertini
+	religion="catholic"
+	culture="piemontese"
+	female=yes
+	trait="tough_soldier"
+	trait="quick"
+	trait="brave"
+	trait="envious"
+	trait="humble"
+	trait="just"
+	father=26661602
+	2531.8.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661644 = {
+	name="Cristiano" # Son and heir of the Count of Genova
+	dynasty=25551603 # Togliatti
+	religion="catholic"
+	culture="piemontese"
+	trait="grey_eminence"
+	trait="wroth"
+	trait="charitable"
+	trait="cynical"
+	trait="gregarious"
+	father=26661603
+	2530.8.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661645 = {
+	name="Emanuele" # Son and heir of the Count of Como
+	dynasty=25551604 # Odescalchi
+	religion="catholic"
+	secret_religion="novelist"
+	culture="lombard"
+	trait="midas_touched"
+	trait="diligent"
+	trait="groomed"
+	trait="administrator"
+	trait="gregarious"
+	trait="sympathy_pagans"
+	father=26661604
+	2530.6.9={
+		birth=yes
+	}
+	2554.12.20={
+		add_spouse=26673101
+		employer= 26661604
+		add_lover = 26673101
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661646 = {
+	name="Aden" # First son and heir of the Count of Bellinzona
+	dynasty=1993005 # Wyrsch
+	religion="calvinist"
+	culture="romansch"
+	trait="strong"
+	trait="honest"
+	trait="amateurish_plotter"
+	trait="envious"
+	trait="humble"
+	father=26661605
+	2521.8.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661647 = {
+	name="Italo" # Second son of the Count of Bellinzona
+	dynasty=1993005 # Wyrsch
+	religion="calvinist"
+	secret_religion="catholic"
+	culture="romansch"
+	trait="strong"
+	trait="charismatic_negotiator"
+	trait="gluttonous"
+	trait="patient"
+	trait="stubborn"
+	father=26661605
+	2523.9.6={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661648 = {
+	name="Corsina" # First daughter of the Count of Bellinzona
+	dynasty=1993005 # Wyrsch
+	religion="calvinist"
+	culture="romansch"
+	female=yes
+	trait="strong"
+	trait="lustful"
+	trait="indulgent_wastrel"
+	trait="patient"
+	trait="ambitious"
+	father=26661605
+	2526.11.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661649 = {
+	name="Atschel" # Third son of the Count of Bellinzona
+	dynasty=1993005 # Wyrsch
+	religion="calvinist"
+	culture="romansch"
+	trait="gamer"
+	trait="flamboyant_schemer"
+	trait="wroth"
+	trait="humble"
+	trait="gregarious"
+	father=26661605
+	2528.1.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661650 = {
+	name="Gertrude" # Daughter and heir of the Count of Milano
+	dynasty=25551606 # Berlusconi
+	religion="catholic"
+	culture="lombard"
+	female=yes
+	trait="intricate_webweaver"
+	trait="lustful"
+	trait="ambitious"
+	trait="schemer"
+	trait="paranoid"
+	father=26661606
+	2529.11.6={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661651 = {
+	name="Luciano" # Son and heir of the Count of Brescia
+	dynasty=25551607 # Zanardelli
+	religion="catholic"
+	culture="lombard"
+	trait="quick"
+	trait="brave"
+	trait="envious"
+	trait="temperate"
+	trait="misguided_warrior"
+	father=26661607
+	2530.10.29={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661652 = {
+	name="Leonardo" # Son and heir of the Duke of Tyrol
+	dynasty=25551608 # de Gasperi
+	religion="catholic"
+	culture="venetian"
+	trait="fair"
+	trait="misguided_warrior"
+	trait="diligent"
+	trait="gluttonous"
+	trait="content"
+	father=26661608
+	2531.5.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661653 = {
+	name="Giulietta" # Wife of Duke Romeo of Veneto
+	religion="catholic"
+	culture="venetian"
+	female=yes
+	trait="kind"
+	trait="chaste"
+	trait="honest"
+	trait="fair"
+	trait="amateurish_plotter"
+	2535.8.11={
+		birth=yes
+	}
+	2554.12.30={
+		add_spouse=26661610
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661654 = {
+	name="Castore" # Son and heir of the Doge of Venezia
+	dynasty=25551611 # Mose
+	religion="catholic"
+	culture="venetian"
+	trait="quick"
+	trait="brilliant_strategist"
+	trait="flanker"
+	trait="lustful"
+	trait="humble"
+	trait="falconer"
+	father=26661611
+	2521.8.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661655 = {
+	name="Stefano" # Son and heir of the Count of Udine
+	dynasty=1993200 # Bartoli
+	religion="catholic"
+	culture="furlan"
+	father=26661612
+	2552.1.6={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661656 = {
+	name="Tancredi" # Son and heir of the Duke of Emilia
+	dynasty=25551614 # Ferrari
+	religion="catholic"
+	culture="emilian"
+	trait="scholarly_theologian"
+	trait="chaste"
+	trait="wroth"
+	trait="brave"
+	trait="zealous"
+	trait="duelist"
+	father=26661614
+	2528.6.5={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661657 = {
+	name="Nilla" # First daughter of the Duke of Emilia
+	dynasty=25551614 # Ferrari
+	religion="catholic"
+	culture="emilian"
+	female=yes
+	trait="fortune_builder"
+	trait="humble"
+	trait="wroth"
+	trait="deceitful"
+	trait="poet"
+	father=26661614
+	2530.3.21={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661658 = {
+	name="Doralice" # Second daughter of the Duke of Emilia
+	dynasty=25551614 # Ferrari
+	religion="catholic"
+	culture="emilian"
+	female=yes
+	trait="underhanded_rogue"
+	trait="proud"
+	trait="diligent"
+	trait="ambitious"
+	trait="gregarious"
+	trait="deceitful"
+	father=26661614
+	2531.9.30={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661659 = {
+	name="Ercole" # First son and heir of the Duke of Romagna (first of 5 children)
+	dynasty=25551616 # Casadei
+	religion="catholic"
+	culture="emilian"
+	trait="flamboyant_schemer"
+	trait="lustful"
+	trait="kind"
+	trait="cynical"
+	trait="gregarious"
+	trait="paranoid"
+	trait="honest"
+	father=26661616
+	2519.3.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661660 = {
+	name="Flavia" # First daughter of the Duke of Romagna
+	dynasty=25551616 # Casadei
+	religion="catholic"
+	culture="emilian"
+	female=yes
+	trait="naive_appeaser"
+	trait="quick"
+	trait="gregarious"
+	trait="ambitious"
+	trait="deceitful"
+	trait="brave"
+	trait="greedy"
+	father=26661616
+	2521.7.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661661 = {
+	name="Orlando" # Second son of the Duke of Romagna
+	dynasty=25551616 # Casadei
+	religion="catholic"
+	culture="emilian"
+	trait="tough_soldier"
+	trait="wroth"
+	trait="brave"
+	trait="ambitious"
+	trait="duelist"
+	trait="strong"
+	father=26661616
+	2522.12.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661662 = {
+	name="Teodoro" # Third son of the Duke of Romagna
+	dynasty=25551616 # Casadei
+	religion="catholic"
+	culture="emilian"
+	trait="charismatic_negotiator"
+	trait="slothful"
+	trait="patient"
+	trait="craven"
+	trait="zealous"
+	trait="gardener"
+	father=26661616
+	2523.11.6={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661663 = {
+	name="Agnese" # Second daughter of the Duke of Romagna
+	dynasty=25551616 # Casadei
+	religion="catholic"
+	culture="emilian"
+	female=yes
+	trait="scholarly_theologian"
+	trait="zealous"
+	trait="greedy"
+	trait="temperate"
+	trait="patient"
+	trait="honest"
+	father=26661616
+	2526.8.10={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661664 = {
+	name="Isabella" # Daughter and heir of the Grand Duke of Toscana
+	dynasty=25551618 # Innocenti
+	religion="catholic"
+	culture="tuscanian"
+	female=yes
+	trait="strong"
+	trait="midas_touched"
+	trait="greedy"
+	trait="humble"
+	trait="trusting"
+	father=26661618
+	2538.2.10={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661665 = {
+	name="Nicola" # Son and heir of the Count of Pisa
+	dynasty=25551619 # Gronchi
+	religion="catholic"
+	culture="tuscanian"
+	trait="underhanded_rogue"
+	trait="kind"
+	trait="gluttonous"
+	trait="honest"
+	trait="content"
+	father=26661619
+	2530.10.25={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661666 = {
+	name="Renata" # Daughter of the Count of Pisa
+	dynasty=25551619 # Gronchi
+	female=yes
+	religion="catholic"
+	culture="tuscanian"
+	trait="intricate_webweaver"
+	trait="slothful"
+	trait="charitable"
+	trait="craven"
+	trait="deceitful"
+	father=26661619
+	2533.6.8={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661667 = {
+	name="Cesare" # Son and heir of Rodrigo Borgia
+	dynasty=255516731 # Borgia
+	religion="catholic"
+	secret_religion="sevillian"
+	culture="lazian"
+	trait="amateurish_plotter"
+	trait="envious"
+	trait="charitable"
+	trait="cynical"
+	trait="stubborn"
+	trait="proud"
+	trait="fair"
+	trait="ambitious"
+	disallow_random_traits=yes
+	father=26661621
+	2517.8.6={
+		birth=yes
+	}
+	2530.4.1={
+		add_claim = d_campania
+		add_claim = c_napoli
+		add_claim = c_capua
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661668 = {
+	name="Gabrino" # Son and heir of the Count of Chieti
+	dynasty=25551625 # Iezzi
+	religion="catholic"
+	culture="lazian"
+	trait="thrifty_clerk"
+	trait="dull"
+	trait="shy"
+	trait="poet"
+	father=26661625
+	2536.4.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661669 = {
+	name="Amelia" # Daughter and heir of the Duke of Abruzzo
+	dynasty=25551626 # Giuliani
+	female=yes
+	religion="catholic"
+	culture="pugliese"
+	trait="lisp"
+	father=26661626
+	2550.7.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661670 = {
+	name="Laura" #  First daughter and heir of the Duke of Campania
+	dynasty=25551627 # Napolitano
+	religion="catholic"
+	culture="neapolitan"
+	female=yes
+	trait="misguided_warrior"
+	trait="kind"
+	trait="gluttonous"
+	trait="deceitful"
+	trait="falconer"
+	father=26661627
+	2538.7.20={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661671 = {
+	name="Domenica" #  Second daughter of the Duke of Campania
+	dynasty=25551627 # Napolitano
+	religion="catholic"
+	culture="neapolitan"
+	female=yes
+	trait="brooding"
+	trait="lustful"
+	father=26661627
+	2540.11.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661672 = {
+	name="Michela" #  Third daughter of the Duke of Campania
+	dynasty=25551627 # Napolitano
+	religion="catholic"
+	culture="neapolitan"
+	female=yes
+	trait="curious"
+	trait="envious"
+	trait="temperate"
+	father=26661627
+	2542.3.21={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661673 = {
+	name="Gabriele" # Son and heir of the Count of Salerno
+	dynasty=25551628 # de Luca
+	religion="catholic"
+	culture="neapolitan"
+	trait="grey_eminence"
+	trait="ambitious"
+	trait="honest"
+	trait="charitable"
+	trait="wroth"
+	father=26661628
+	2525.3.27={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661674 = {
+	name="Stefania" # First daughter of the Count of Foggia
+	dynasty=25551631 # Giordano
+	religion="catholic"
+	culture="pugliese"
+	female=yes
+	trait="trusting"
+	trait="greedy"
+	trait="patient"
+	trait="lefthanded"
+	trait="thrifty_clerk"
+	father=26661631
+	2520.7.18={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661675 = {
+	name="Vittore" # First son and heir of the Count of Foggia
+	dynasty=25551631 # Giordano
+	religion="catholic"
+	culture="pugliese"
+	trait="tough_soldier"
+	trait="temperate"
+	trait="honest"
+	trait="stubborn"
+	trait="content"
+	father=26661631
+	2522.2.21={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661676 = {
+	name="Silvana" # Second daughter of the Count of Foggia
+	dynasty=25551631 # Giordano
+	religion="catholic"
+	culture="pugliese"
+	female=yes
+	trait="scholarly_theologian"
+	trait="gluttonous"
+	trait="humble"
+	trait="shy"
+	trait="poet"
+	trait="stubborn"
+	father=26661631
+	2524.1.20={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661677 = {
+	name="Aloisio" # Second son of the Count of Foggia
+	dynasty=25551631 # Giordano
+	religion="catholic"
+	culture="pugliese"
+	trait="underhanded_rogue"
+	trait="robust"
+	trait="deceitful"
+	trait="ambitious"
+	trait="gregarious"
+	father=26661631
+	2526.11.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661678 = {
+	name="Giovanna" # Third daughter of the Count of Foggia
+	dynasty=25551631 # Giordano
+	religion="catholic"
+	culture="pugliese"
+	female=yes
+	trait="chaste"
+	trait="envious"
+	trait="cruel"
+	trait="deceitful"
+	trait="midas_touched"
+	father=26661631
+	2527.11.4={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661679 = {
+	name="Urbano" # First son and heir of the Duke of Calabria
+	dynasty=25551632 # Spadafora
+	religion="catholic"
+	culture="neapolitan"
+	trait="uncouth"
+	trait="wroth"
+	trait="kind"
+	trait="stubborn"
+	trait="flamboyant_schemer"
+	father=26661632
+	2538.11.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661680 = {
+	name="Jacopo" # Second son of the Duke of Calabria
+	dynasty=25551632 # Spadafora
+	religion="catholic"
+	culture="neapolitan"
+	trait="fair"
+	trait="idolizer"
+	father=26661632
+	2541.10.8={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661681 = {
+	name="Zaccaria" # Third son of the Duke of Calabria
+	dynasty=25551632 # Spadafora
+	religion="catholic"
+	culture="neapolitan"
+	trait="dwarf"
+	trait="affectionate"
+	father=26661632
+	2544.5.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661682 = {
+	name="Ottavio" # Son and heir of the Count of Reggio
+	dynasty=25551633 # Morabito
+	religion="catholic"
+	culture="sicilian"
+	trait="chaste"
+	trait="proud"
+	trait="brave"
+	trait="zealous"
+	trait="detached_priest"
+	father=26661633
+	2537.11.6={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661683 = {
+	name="Rosa" # Daughter of the Count of Reggio
+	dynasty=25551633 # Morabito
+	female=yes
+	religion="catholic"
+	culture="sicilian"
+	trait="chaste"
+	trait="proud"
+	trait="brave"
+	trait="zealous"
+	trait="detached_priest"
+	father=26661633
+	2541.4.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26661684 = {
+	name="Stefania" # Daughter and heir of the Count of Palermo
+	dynasty=25551636 # Mattarella
+	female=yes
+	religion="catholic"
+	culture="sicilian"
+	trait="idolizer"
+	father=26661636
+	2551.8.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26661685 = {
+	name="Ivanoe" # Son and heir of the Count of Pavia
+	dynasty=25551637 # Trecorti
+	religion="catholic"
+	culture="lombard"
+	trait="willful"
+	trait="deceitful"
+	father=26661637
+	2549.10.31={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+22660010 = {
+	name="Letizia" # Sister of Duke Romeo of Veneto
+	father=22660011
+	female=yes
+	dynasty=25551610 # Salgari
+	religion="catholic"
+	culture="venetian"
+	trait="content"
+	trait="kind"
+	trait="flamboyant_schemer"
+	2486.7.29={
+		birth=yes
+	}
+	2510.5.29={
+		add_spouse=22660001
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+22660011 = {
+	name="Truffaldino" # Father of Duke Romeo of Veneto
+	dynasty=25551610 # Salgari
+	religion="catholic"
+	culture="venetian"
+	trait="just"
+	trait="slothful"
+	trait="envious"
+	trait="detached_priest"
+	2467.5.5={
+		birth=yes
+	}
+	2540.3.17={
+		death=yes
+	}
+}
+20000012 = {
+	name="Riccardo" # 
+	dynasty=255516392 # Manzoli
+	religion="catholic"
+	culture="emilian"
+	trait="stressed"
+	trait="kind"
+	trait="deceitful"
+	trait="ambitious"
+	trait="grey_eminence"
+	2533.12.6={
+		birth=yes
+		effect = {
+			set_character_flag = is_developer_character
+		}
+	}
+	2666.1.9={
+		death=yes
+	}
+}
+
+20000013 = {
+	name="Giovanni Aladro" #Pretender to the throne of Albania, based on Juan Pedro Aladro Kastriota 
+	dynasty=1997501 # Castriota
+	religion="catholic"
+	culture="arbereshe"
+	trait="just"
+	trait="proud"
+	trait="patient"
+	trait="groomed"
+	trait="thrifty_clerk"
+	2530.8.5={
+		birth=yes
+		add_claim = d_dyrrachion	
+	}
+	2666.1.9={
+		death=yes
+	}
+}
+
+20000014 = {
+	name="Will"
+	dynasty=265516108 # Zeppeli
+	religion="catholic"
+	culture="neapolitan"
+	trait="just"
+	trait="sympathy_esoteric"
+	trait="patient"
+	trait="brave"
+	trait="robust"
+	trait="scholarly_theologian"
+	2505.1.19={
+		birth=yes
+	}
+	2550.7.12={
+		employer=26661121
+	}
+	2666.1.9={
+		death=yes
+	}
+}
+20000015 = {
+	name="Mario"
+	dynasty=265516108 # Zeppeli
+	religion="catholic"
+	culture="neapolitan"
+	father=20000014
+	trait="kind"
+	trait="patient"
+	trait="brave"
+	trait="robust"
+	trait="fortune_builder"
+	2535.1.19={
+		birth=yes
+	}
+	2666.1.9={
+		death=yes
+	}
+}
+
+#History of Two Sicilies pre Event
+20050000 = {
+	name="Ferdinando"
+	dynasty=255516927 # Two Sicilies
+	religion="catholic"
+	culture="neapolitan"
+	1751.1.12={
+		birth=yes
+	}
+	1825.1.4={
+		death=yes
+	}
+}
+
+20050001 = {
+	name="Francesco"
+	dynasty=255516927 # Two Sicilies
+	religion="catholic"
+	culture="neapolitan"
+	father=20050000
+	1777.8.19={
+		birth=yes
+	}
+	1830.11.8={
+		death=yes
+	}
+}
+
+20050002 = {
+	name="Ferdinando"
+	dynasty=255516927 # Two Sicilies
+	religion="catholic"
+	culture="neapolitan"
+	father=20050001
+	1810.1.12={
+		birth=yes
+	}
+	1859.5.22={
+		death=yes
+	}
+}
+
+20050003 = {
+	name="Francesco"
+	dynasty=255516927 # Two Sicilies
+	religion="catholic"
+	culture="neapolitan"
+	father=20050002
+	1836.1.16={
+		birth=yes
+	}
+	1894.12.27={
+		death=yes
+	}
+}
+
+#Character ID 20050004 to 20050016 are used for Nilgaardian emperors in the Novelist emperors file
+#Start with ID 20050017 if adding more here
+
+#Italian Kingdom ruler history
+20050017 = {
+	name="Odovakar" #Odoacer
+	dynasty=3821154 # Sciri
+	religion="catholic"
+	culture="gothic"
+	occluded=yes
+	trait="legendary"
+	431.1.1={
+		birth=yes
+	}
+	493.3.15={
+		death=yes
+	}
+}
+
+20050018 = {
+	name="Theoderik" #Theodoric
+	dynasty=3821155 # Amali
+	religion="catholic"
+	culture="gothic"
+	occluded=yes
+	trait="legendary"
+	454.1.1={
+		birth=yes
+	}
+	526.8.30={
+		death=yes
+	}
+}
+
+20050019 = {
+	name="Alboino" #Alboin
+	dynasty=3821156 # Gausi
+	religion="catholic"
+	culture="lombard"
+	occluded=yes
+	trait="legendary"
+	530.1.1={
+		birth=yes
+	}
+	572.6.28={
+		death=yes
+	}
+}
+
+20050020 = { #Pepin of Italy
+	name="Pepin" 
+	dynasty=3832073 #Carolingian
+	religion="catholic"
+	culture="french"
+	father=21000800
+	777.1.1={
+		birth=yes		
+	}
+	810.7.8={
+		death=yes
+	}
+}
+
+20050021 = { #Bernard of Italy
+	name="Bernard" 
+	dynasty=3832073 #Carolingian
+	religion="catholic"
+	culture="french"
+	father=20050020
+	797.1.1={
+		birth=yes		
+	}
+	818.4.17={
+		death=yes
+	}
+}
+
+20050022 = { #Lothair
+	name="Lothaire"
+	dynasty=3832073 #Carolingian
+	religion="catholic"
+	culture="french"
+	father=90095
+	795.1.1 = {
+		birth=yes		
+	}
+	855.9.29 = {
+		death=yes
+	}
+}
+
+20050023 = { #Louis the Younger
+	name="Louis"
+	dynasty=3832073 #Carolingian
+	religion="catholic"
+	culture="french"
+	father=20050022
+	825.1.1 = {
+		birth=yes		
+	}
+	875.8.12 = {
+		death=yes
+	}
+}
+
+20050024 = { #Carloman
+	name="Karlmann"
+	dynasty=3832073 #Carolingian
+	religion="catholic"
+	culture="bavarian"
+	father=90107
+	830.1.1 = {
+		birth=yes		
+	}
+	880.3.20 = {
+		death=yes
+	}
+}
+
+#Added for family
+20050025 = {
+	name="Carlo" # Napoleon and Joseph's dad
+	dynasty=3921102 # Buonaparte
+	religion="catholic"
+	culture="corsu"
+	1746.3.27={
+		birth=yes
+	}
+	1785.2.24={
+		death=yes
+	}
+}
+
+20050026 = {
+	name="Napulione" # Napoleon
+	dynasty=3921102 # Buonaparte
+	religion="catholic"
+	culture="corsu"
+	father=20050025
+	trait=brilliant_strategist
+	trait=groomed
+	trait=ambitious
+	trait=brave
+	trait=shrewd
+	trait=strategist
+	trait=proud
+	trait=just
+	trait=cynical
+	trait=stubborn
+	trait=temperate
+	trait=erudite
+	disallow_random_traits=yes
+	1769.8.15={
+		birth=yes
+	}
+	1821.5.5={
+		death=yes
+	}
+}
+
+20050027 = {
+	name="Vittorio-Emanuele" # Victor Emmanuel
+	dynasty=3821157 # Savoia
+	religion="catholic"
+	culture="piemontese"
+	1820.3.14={
+		birth=yes
+	}
+	1878.1.9={
+		death=yes
+	}
+}
+
+20050028 = {
+	name="Umberto" # Umberto
+	dynasty=3821157 # Savoia
+	religion="catholic"
+	culture="piemontese"
+	father=20050027
+	1844.3.14={
+		birth=yes
+	}
+	1900.7.29={
+		death=yes
+	}
+}
+
+20050029 = {
+	name="Vittorio-Emanuele" # Victor Emmanuel
+	dynasty=3821157 # Savoia
+	religion="catholic"
+	culture="piemontese"
+	father=20050028
+	1869.11.11={
+		birth=yes
+	}
+	1947.12.28={
+		death=yes
+	}
+}
+
+20050030 = {
+	name="Umberto" # Umberto
+	dynasty=3821157 # Savoia
+	religion="catholic"
+	culture="piemontese"
+	father=20050029
+	1904.9.15={
+		birth=yes
+	}
+	1983.3.18={
+		death=yes
+	}
+}
+
+#Back to normal living characters
+20050031 = {
+	name="Giovanni" # Oldest son of Rodrigo Borgia, died of unknown circumstances
+	dynasty=255516731 # Borgia
+	religion="catholic"
+	secret_religion="sevillian"
+	culture="lazian"
+	father=26661621
+	2517.1.6={
+		birth=yes
+	}
+	2540.1.10={
+		death={
+			death_reason = death_murder_unknown
+		}
+	}
+}
+
+20050032 = {
+	name="Goffredo" # Youngest son of Rodrigo Borgia
+	dynasty=255516731 # Borgia
+	religion="catholic"
+	secret_religion="sevillian"
+	culture="lazian"
+	father=26661621
+	trait=naive_appeaser
+	trait=legit_bastard
+	trait=content
+	trait=temperate
+	trait=gamer
+	trait=poet
+	trait=humble
+	trait=chaste
+	trait=slothful
+	trait=trusting
+	disallow_random_traits=yes
+	2524.4.1={
+		birth=yes
+	}
+	2530.4.1={
+		add_claim = d_campania
+		add_claim = c_napoli
+		add_claim = c_capua
+	}
+	2666.1.10={
+		death=yes
+	}
+}
+
+20050033 = {
+	name="Lucrezia" # Daughter of Rodrigo Borgia
+	dynasty=255516731 # Borgia
+	religion="catholic"
+	secret_religion="sevillian"
+	culture="lazian"
+	female=yes
+	father=26661621
+	trait=midas_touched
+	trait=fair
+	trait=ambitious
+	trait=erudite
+	trait=quick
+	trait=poet
+	trait=proud
+	trait=cynical
+	trait=gregarious
+	trait=lustful
+	disallow_random_traits=yes
+	2522.4.18={
+		birth=yes
+	}
+	2666.1.10={
+		death=yes
+	}
+}
+20050034 = {
+	name="Pietro" # Cadaverist Patrician
+	dynasty=255516543 # Vianello
+	religion="cadaverist"
+	culture="venetian"
+	trait=mastermind_theologian
+	trait=fair
+	trait=ambitious
+	trait=erudite
+	trait=paranoid
+	trait=mystic
+	trait=shy
+	trait=patient
+	disallow_random_traits=yes
+	2532.4.18={
+		birth=yes
+	}
+	2666.1.10={
+		death=yes
+	}
+}
+
+20050035 = {
+	name="Matia" # Archbishop of Nice under Provence
+	dynasty=255516892 # Romanu
+	religion="catholic"
+	culture="sard"
+	trait=mastermind_theologian
+	trait=erudite
+	trait=patient
+	trait=just
+	trait=shy
+	trait=mystic
+	trait=gardener
+	trait=zealous
+	trait=chaste
+	disallow_random_traits=yes
+	2512.2.11={
+		birth=yes
+	}
+	2666.1.10={
+		death=yes
+	}
+}
+
+20050036 = {
+	name="Ferruccio" # Ruler of Parma
+	dynasty=255516320 # Lamborghini
+	religion="catholic"
+	culture="emilian"
+	trait=midas_touched
+	trait=erudite
+	trait=ambitious
+	trait=proud
+	trait=architect
+	trait=diligent
+	trait=zealous	
+	disallow_random_traits=yes
+	2529.4.28={
+		birth=yes
+	}
+	2666.1.10={
+		death=yes
+	}
+}

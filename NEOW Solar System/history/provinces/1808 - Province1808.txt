@@ -1,0 +1,16 @@
+# 1808 - Province1808
+
+# County Title
+title = c_province1808
+
+# Settlements
+max_settlements = 4
+b_barony1808` = castle
+b_barony1808a = temple
+b_barony1808b = city
+
+# Misc
+culture = frisian
+religion = sufi
+
+# History

@@ -1,0 +1,16 @@
+# 1123 - Province1123
+
+# County Title
+title = c_province1123
+
+# Settlements
+max_settlements = 4
+b_barony1123` = castle
+b_barony1123a = temple
+b_barony1123b = city
+
+# Misc
+culture = punjabi
+religion = novelist
+
+# History

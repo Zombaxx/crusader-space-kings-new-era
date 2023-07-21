@@ -1,0 +1,14 @@
+# 1956 - Eastern Callisto
+
+# County Title
+title = c_eastern_callisto
+
+# Settlements
+max_settlements = 3
+b_eastern_callisto = tribal
+
+# Misc
+culture = gaoshan
+religion = old_hindu
+
+# History

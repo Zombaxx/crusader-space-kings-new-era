@@ -1,0 +1,15 @@
+# 1957 - Province1957
+
+# County Title
+title = c_province1957
+
+# Settlements
+max_settlements = 5
+b_barony1957` = tribal
+b_barony1957a = temple
+
+# Misc
+culture = persian
+religion = brethren
+
+# History

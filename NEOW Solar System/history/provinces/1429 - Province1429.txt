@@ -1,0 +1,15 @@
+# 1429 - Province1429
+
+# County Title
+title = c_province1429
+
+# Settlements
+max_settlements = 5
+b_barony1429` = tribal
+b_barony1429a = temple
+
+# Misc
+culture = gaoshan
+religion = novelist
+
+# History

@@ -1,0 +1,15 @@
+# 1228 - Province1228
+
+# County Title
+title = c_province1228
+
+# Settlements
+max_settlements = 3
+b_barony1228` = castle
+b_barony1228a = temple
+
+# Misc
+culture = alan
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 2079 - Province2079
+
+# County Title
+title = c_province2079
+
+# Settlements
+max_settlements = 3
+b_barony2079` = tribal
+
+# Misc
+culture = panjabi
+religion = brethren
+
+# History

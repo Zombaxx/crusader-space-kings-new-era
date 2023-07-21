@@ -1,0 +1,17 @@
+# 2045 - Province2045
+
+# County Title
+title = c_province2045
+
+# Settlements
+max_settlements = 5
+b_barony2045` = castle
+b_barony2045a = temple
+b_barony2045b = city
+b_barony2045c = castle
+
+# Misc
+culture = daju
+religion = baltic_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 1959 - Province1959
+
+# County Title
+title = c_province1959
+
+# Settlements
+max_settlements = 4
+b_barony1959` = tribal
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

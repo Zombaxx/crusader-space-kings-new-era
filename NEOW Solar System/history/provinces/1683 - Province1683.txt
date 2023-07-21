@@ -1,0 +1,14 @@
+# 1683 - Province1683
+
+# County Title
+title = c_province1683
+
+# Settlements
+max_settlements = 3
+b_barony1683` = tribal
+
+# Misc
+culture = daju
+religion = fraticelli
+
+# History

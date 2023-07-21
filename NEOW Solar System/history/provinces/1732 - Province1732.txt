@@ -1,0 +1,14 @@
+# 1732 - Province1732
+
+# County Title
+title = c_province1732
+
+# Settlements
+max_settlements = 4
+b_barony1732` = tribal
+
+# Misc
+culture = panjabi
+religion = sufi
+
+# History

@@ -1,0 +1,15 @@
+# 1750 - Province1750
+
+# County Title
+title = c_province1750
+
+# Settlements
+max_settlements = 3
+b_barony1750` = castle
+b_barony1750a = temple
+
+# Misc
+culture = persian
+religion = fraticelli
+
+# History

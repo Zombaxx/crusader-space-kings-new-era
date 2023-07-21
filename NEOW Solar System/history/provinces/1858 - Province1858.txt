@@ -1,0 +1,15 @@
+# 1858 - Province1858
+
+# County Title
+title = c_province1858
+
+# Settlements
+max_settlements = 1
+b_barony1858` = tribal
+b_barony1858a = temple
+
+# Misc
+culture = persian
+religion = brethren
+
+# History

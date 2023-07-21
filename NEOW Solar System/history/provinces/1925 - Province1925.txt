@@ -1,0 +1,18 @@
+# 1925 - Province1925
+
+# County Title
+title = c_province1925
+
+# Settlements
+max_settlements = 7
+b_barony1925` = castle
+b_barony1925a = temple
+b_barony1925b = city
+b_barony1925c = castle
+b_barony1925d = temple
+
+# Misc
+culture = persian
+religion = brethren
+
+# History

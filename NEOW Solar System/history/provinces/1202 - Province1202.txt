@@ -1,0 +1,17 @@
+# 1202 - Province1202
+
+# County Title
+title = c_province1202
+
+# Settlements
+max_settlements = 6
+b_barony1202` = castle
+b_barony1202a = temple
+b_barony1202b = city
+b_barony1202c = castle
+
+# Misc
+culture = mongol
+religion = novelist
+
+# History

@@ -1,0 +1,17 @@
+# 1534 - Province1534
+
+# County Title
+title = c_province1534
+
+# Settlements
+max_settlements = 6
+b_barony1534` = castle
+b_barony1534a = temple
+b_barony1534b = city
+b_barony1534c = castle
+
+# Misc
+culture = persian
+religion = fraticelli
+
+# History

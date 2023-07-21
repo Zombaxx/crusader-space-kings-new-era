@@ -1,0 +1,14 @@
+# 1987 - Province1987
+
+# County Title
+title = c_province1987
+
+# Settlements
+max_settlements = 3
+b_barony1987` = tribal
+
+# Misc
+culture = gaoshan
+religion = jewish
+
+# History

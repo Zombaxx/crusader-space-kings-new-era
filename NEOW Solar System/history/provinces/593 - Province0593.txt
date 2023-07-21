@@ -1,0 +1,15 @@
+# 593 - Province0593
+
+# County Title
+title = c_province0593
+
+# Settlements
+max_settlements = 3
+b_barony0593` = castle
+b_barony0593a = temple
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

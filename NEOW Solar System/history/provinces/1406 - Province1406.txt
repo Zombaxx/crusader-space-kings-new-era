@@ -1,0 +1,14 @@
+# 1406 - Province1406
+
+# County Title
+title = c_province1406
+
+# Settlements
+max_settlements = 1
+b_barony1406` = castle
+
+# Misc
+culture = persian
+religion = taoist
+
+# History

@@ -1,0 +1,15 @@
+# 2176 - Province2176
+
+# County Title
+title = c_province2176
+
+# Settlements
+max_settlements = 2
+b_barony2176` = castle
+b_barony2176a = temple
+
+# Misc
+culture = frisian
+religion = sufi
+
+# History

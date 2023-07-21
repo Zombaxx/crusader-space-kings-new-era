@@ -1,0 +1,15 @@
+# 671 - Province0671
+
+# County Title
+title = c_province0671
+
+# Settlements
+max_settlements = 3
+b_barony0671` = castle
+b_barony0671a = temple
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

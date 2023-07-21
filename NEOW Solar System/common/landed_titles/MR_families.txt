@@ -1,0 +1,551 @@
+######################################
+# Historical Merchant Republic Palaces
+######################################
+
+# VENICE:
+
+b_dandolo = {
+	culture = venetian
+	religion = catholic
+}
+
+b_contarini = {
+	culture = venetian
+	religion = catholic
+}
+
+b_faliero = {
+	culture = venetian
+	religion = catholic
+}
+
+b_morosini = {
+	culture = venetian
+	religion = catholic
+}
+
+b_ziani = {
+	culture = venetian
+	religion = catholic
+}
+
+b_candiano = {
+	culture = venetian
+	religion = catholic
+}
+
+b_orsoleo = {
+	culture = venetian
+	religion = catholic
+}
+
+b_participazio = {
+	culture = venetian
+	religion = catholic
+}
+
+b_tribuno = {
+	culture = venetian
+	religion = catholic
+}
+
+b_tradonico = {
+	culture = venetian
+	religion = catholic
+}
+
+b_antenoreo = {
+	culture = venetian
+	religion = catholic
+}
+
+b_galbaio = {
+	culture = venetian
+	religion = catholic
+}
+
+b_monegario = {
+	culture = venetian
+	religion = catholic
+}
+
+b_gaulo = {
+	culture = venetian
+	religion = catholic
+}
+
+b_silvio = {
+	culture = venetian
+	religion = catholic
+}
+
+b_mastropiero = {
+	culture = venetian
+	religion = catholic
+}
+
+b_tiepolo = {
+	culture = venetian
+	religion = catholic
+}
+
+# GENOA:
+
+b_doria = {
+	culture = lombard
+	religion = catholic
+}
+
+b_spinola = {
+	culture = lombard
+	religion = catholic
+}
+
+b_grimaldi = {
+	culture = lombard
+	religion = catholic
+}
+
+b_fieschi = {
+	culture = lombard
+	religion = catholic
+}
+
+b_embriaco = {
+	culture = lombard
+	religion = catholic
+}
+
+# PISA:
+
+b_dappiano = {
+	culture = tuscanian
+	religion = catholic
+}
+
+b_della_gherardesca = {
+	culture = tuscanian
+	religion = catholic
+}
+
+b_visconti = {
+	culture = tuscanian
+	religion = catholic
+}
+
+b_alliata = {
+	culture = tuscanian
+	religion = catholic
+}
+
+b_caetani = {
+	culture = tuscanian
+	religion = catholic
+}
+
+# LÜBECK:
+
+b_bardewik = {
+	culture = low_german
+	religion = catholic
+}
+
+b_vorrade = {
+	culture = low_german
+	religion = catholic
+}
+
+b_warendorp = {
+	culture = low_german
+	religion = catholic
+}
+
+b_pat_luneburg = {
+	culture = low_german
+	religion = catholic
+}
+
+b_wittenborg = {
+	culture = low_german
+	religion = catholic
+}
+
+# GOTLAND:
+
+b_stenkyrka = {
+	culture = swedish
+	religion = catholic
+}
+
+b_guldsmed = {
+	culture = swedish
+	religion = catholic
+}
+
+b_hejnum = {
+	culture = swedish
+	religion = catholic
+}
+
+b_gildehusen = {
+	culture = swedish
+	religion = catholic
+}
+
+b_strabain = {
+	culture = swedish
+	religion = catholic
+}
+
+#South Aegean Islands
+
+b_yannakakis = {
+	religion = hellenic_pagan
+	culture = aigionoi
+}
+
+b_amorgis = {
+	religion = marblists
+	culture = aigionoi
+}
+
+#Current Venice
+
+b_mose = {
+	religion = catholic
+	culture = venetian
+}
+
+b_vianello = {
+	religion = cadaverist
+	culture = venetian
+}
+
+#Other
+
+b_ginesta = {
+	religion = sevillian
+	culture = catalan
+}
+
+b_fogt = {
+	religion = catholic
+	culture = danzigian
+}
+
+b_andersson = {
+	religion = lutheran
+	culture = swedish
+}
+
+#UAE
+b_al_nahyan = {
+	religion = sunni
+	culture = khaliji
+}
+
+b_al_taksas = {
+	religion = sunni
+	culture = amriqi
+}
+
+b_zayed = {
+	religion = sunni
+	culture = khaliji
+}
+
+b_macey = {
+	religion = thelemic_reformed
+	culture = british
+}
+
+b_jarwar = {
+	religion = sunni
+	culture = sindhi
+}
+
+
+b_assefa = {
+	religion = sunni
+	culture = ethiopian
+}
+b_vairamuthu = {
+	religion = neovedantic
+	culture = tamil
+}
+b_almoli = {}
+b_bettman = {}
+#Piter
+b_bezukhov = {
+	religion = zarist
+	culture = pietrovan
+}
+b_puchkov = {
+	religion = stalinist
+	culture= pietrovan 
+}
+b_pushkin = {
+	religion= petrist 
+	culture= pietrovan 
+}
+b_romanov = {
+	religion= zarist 
+	culture= pietrovan 
+}
+b_eltzin = {
+	religion= zarist 
+	culture= pietrovan 
+}
+
+#Crimea
+b_akhmetov = {
+	religion = orthodox
+	culture = crimean
+}
+b_krasnobay = {
+	religion= jadidist 
+	culture= kumyk 
+}
+b_poklonskiy = {
+	religion= zarist 
+	culture= adessite 
+}
+b_bogolyubov = {
+	religion= mikraist 
+	culture= crimean 
+}
+
+#Ragusa
+b_andrijasevic = {
+   religion= jugoslavist 
+   culture= montenegrin 
+}
+b_molla = {
+   religion= jewish 
+   culture= israeli
+}
+b_habsburg_dubrovnik = {
+	religion = catholic
+	culture = montenegrin
+}
+
+#Mumbai
+b_angelapula = {
+   religion = orthodox 
+   culture = yoonaanee
+}
+b_selinofoto = {
+   religion = orthodox 
+   culture = yoonaanee
+}
+
+# Habsburg's bizzare adventure
+
+b_habsburg_aegean = {
+	religion = catholic
+	culture = aigionoi
+}
+b_habsburg_aland = {
+	religion = catholic
+	culture = swedish
+}
+b_habsburg_danzig = {
+	religion = catholic
+	culture = danzigian
+}
+b_habsburg_mallorca = {
+	religion = catholic
+	culture = catalan
+}
+b_habsburg_tel_aviv = {
+	religion = catholic
+	culture = israeli
+}
+b_habsburg_tetouan = {
+	religion = catholic
+	culture = moroccan
+}
+b_habsburg_venice = {
+	religion = catholic
+	culture = venetian
+}
+b_habsburg_crimean = {
+	religion = catholic
+	culture = moldavian
+}
+#Vladivostok
+b_makusimow = {
+	religion = nousthreskeia
+	culture = novorusskiy
+}
+b_lewis = {
+	religion = nousthreskeia
+	culture = alaskhan
+}
+b_kyziliov = {
+	religion = nousthreskeia
+	culture = klynian
+}
+b_kurepinu = {
+	religion = nousthreskeia
+	culture = novorusskiy
+}
+b_shirokow = {
+	religion = nousthreskeia
+	culture = novorusskiy
+}
+#Singapore
+b_lee = {
+   religion= mahayana
+   culture= singapura
+}
+b_sao = {
+   religion= east_brethren
+   culture= singapura 
+}
+b_syaifuddin = {
+   religion= pusaka
+   culture= singapura 
+}
+b_rajaratnam= {
+   religion= theravada
+   culture= singapura 
+}
+b_rizalman1 = {
+   religion= katoliko
+   culture= singapura 
+}
+#Hakodate
+b_kamui = {
+	religion = ainushinto
+	culture = ainu
+}
+b_kumagai = {
+	religion = ainushinto
+	culture = tohoku
+}
+b_obara = {
+	religion = ainushinto
+	culture = hokkaido
+}
+b_ponkotan = {
+	religion = ainushinto
+	culture = ainu
+}
+b_umemura = {
+	religion = ainushinto
+	culture = hokkaido
+}
+#Various
+b_winkler = {
+   religion= lutheran 
+   culture= prussian 
+}
+b_dizengoff = {
+   religion= jewish 
+   culture= israeli 
+}
+b_chuldai = {
+   religion= jewish 
+   culture= israeli 
+}
+b_lewnis = {
+   religion= malikite 
+   culture= algerian 
+}
+b_montefiore = {
+   religion= jewish 
+   culture= israeli 
+}
+b_bojan = {
+   religion= catholic 
+   culture= kashubian 
+}
+b_cisewski = {
+   religion= catholic 
+   culture= kashubian 
+}
+b_letzkau = {
+   religion= lutheran 
+   culture= danzigian 
+}
+b_dieng = {
+   religion= muwahidunna 
+   culture= hassaniya 
+}
+b_kumuyi = {
+   religion= islamity 
+   culture= nigerian 
+}
+b_saetan = {
+   religion= thaislam
+   culture= siamese 
+}
+b_egorovid = {
+   religion= nousthreskeia
+   culture= novorusskiy 
+}
+b_bansuea = {
+   religion= thaislam
+   culture= weeb 
+}
+b_bansingh = {
+   religion= thaislam
+   culture= siamese 
+}
+b_sriracha = {
+   religion= thaislam
+   culture= siamese 
+}
+b_pham = {
+   religion= theravada
+   culture= south_vietnamese 
+}
+b_vo = {
+   religion= caodai
+   culture= south_vietnamese 
+}
+b_hunyh = {
+   religion= maoist
+   culture= south_vietnamese 
+}
+b_tsui = {
+	religion = taoist
+	culture = hongkonger
+}
+b_leung = {
+	religion = mahayana
+	culture = hongkonger
+}
+b_wen = {
+	religion = taoist
+	culture = hongkonger
+}
+b_qian = {
+	religion = neoncult
+	culture = wu
+}
+b_sy = {
+	religion= katoliko
+	culture= taglish
+}
+b_mahawangsa = {
+	religion = pusaka
+	culture = malay
+}
+b_razak = {
+	religion = pusaka
+	culture = malay
+}
+b_chow = {
+	religion = ramadi
+	culture = hokkien
+}
+b_lim = {
+	religion = mahayana
+	culture = cina
+}
+b_veerasamy = {
+	religion = theravada
+	culture = malay
+}

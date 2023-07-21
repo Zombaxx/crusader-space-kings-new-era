@@ -1,0 +1,15 @@
+# 1770 - Province1770
+
+# County Title
+title = c_province1770
+
+# Settlements
+max_settlements = 3
+b_barony1770` = tribal
+b_barony1770a = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

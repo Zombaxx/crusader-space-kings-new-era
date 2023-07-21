@@ -1,0 +1,17 @@
+# 993 - Province0993
+
+# County Title
+title = c_province0993
+
+# Settlements
+max_settlements = 5
+b_barony0993` = castle
+b_barony0993a = temple
+b_barony0993b = city
+b_barony0993c = castle
+
+# Misc
+culture = kannada
+religion = sunni
+
+# History

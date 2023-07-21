@@ -1,0 +1,15 @@
+# 1896 - Province1896
+
+# County Title
+title = c_province1896
+
+# Settlements
+max_settlements = 5
+b_barony1896` = tribal
+b_barony1896a = temple
+
+# Misc
+culture = gaoshan
+religion = finnish_pagan
+
+# History

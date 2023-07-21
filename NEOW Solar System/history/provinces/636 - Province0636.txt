@@ -1,0 +1,15 @@
+# 636 - Province0636
+
+# County Title
+title = c_province0636
+
+# Settlements
+max_settlements = 3
+b_barony0636` = castle
+b_barony0636a = temple
+
+# Misc
+culture = bedouin_arabic
+religion = jewish
+
+# History

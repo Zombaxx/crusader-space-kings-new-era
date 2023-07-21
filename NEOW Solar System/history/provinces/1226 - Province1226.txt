@@ -1,0 +1,15 @@
+# 1226 - Province1226
+
+# County Title
+title = c_province1226
+
+# Settlements
+max_settlements = 3
+b_barony1226` = castle
+b_barony1226a = temple
+
+# Misc
+culture = mongol
+religion = catholic
+
+# History

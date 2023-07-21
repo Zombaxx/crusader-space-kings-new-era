@@ -1,0 +1,16 @@
+# 291 - Province0291
+
+# County Title
+title = c_province0291
+
+# Settlements
+max_settlements = 4
+b_barony0291` = castle
+b_barony0291a = temple
+b_barony0291b = city
+
+# Misc
+culture = irish
+religion = baptist
+
+# History

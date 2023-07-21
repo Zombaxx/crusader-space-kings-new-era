@@ -1,0 +1,17 @@
+# 904 - Province0904
+
+# County Title
+title = c_province0904
+
+# Settlements
+max_settlements = 5
+b_barony0904` = city
+b_barony0904a = temple
+b_barony0904b = castle
+b_barony0904c = city
+
+# Misc
+culture = alan
+religion = jain
+
+# History

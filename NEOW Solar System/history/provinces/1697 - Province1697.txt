@@ -1,0 +1,15 @@
+# 1697 - Province1697
+
+# County Title
+title = c_province1697
+
+# Settlements
+max_settlements = 7
+b_barony1697` = tribal
+b_barony1697a = temple
+
+# Misc
+culture = persian
+religion = vajrayana
+
+# History

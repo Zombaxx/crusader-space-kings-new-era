@@ -1,0 +1,15 @@
+# 1416 - Province1416
+
+# County Title
+title = c_province1416
+
+# Settlements
+max_settlements = 3
+b_barony1416` = castle
+b_barony1416a = temple
+
+# Misc
+culture = panjabi
+religion = novelist
+
+# History

@@ -1,0 +1,15 @@
+# 2134 - Province2134
+
+# County Title
+title = c_province2134
+
+# Settlements
+max_settlements = 3
+b_barony2134` = castle
+b_barony2134a = temple
+
+# Misc
+culture = frisian
+religion = sufi
+
+# History

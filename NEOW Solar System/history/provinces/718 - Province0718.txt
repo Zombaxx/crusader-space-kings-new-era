@@ -1,0 +1,16 @@
+# 718 - Province0718
+
+# County Title
+title = c_province0718
+
+# Settlements
+max_settlements = 4
+b_barony0718` = castle
+b_barony0718a = temple
+b_barony0718b = city
+
+# Misc
+culture = panjabi
+religion = catholic
+
+# History

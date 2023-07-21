@@ -1,0 +1,14 @@
+# 1887 - Province1887
+
+# County Title
+title = c_province1887
+
+# Settlements
+max_settlements = 4
+b_barony1887` = tribal
+
+# Misc
+culture = panjabi
+religion = sufi
+
+# History

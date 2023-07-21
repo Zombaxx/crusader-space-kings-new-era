@@ -1,0 +1,16 @@
+# 965 - Province0965
+
+# County Title
+title = c_province0965
+
+# Settlements
+max_settlements = 4
+b_barony0965` = castle
+b_barony0965a = temple
+b_barony0965b = city
+
+# Misc
+culture = kannada
+religion = catholic
+
+# History

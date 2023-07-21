@@ -1,0 +1,17 @@
+# 399 - Province0399
+
+# County Title
+title = c_province0399
+
+# Settlements
+max_settlements = 6
+b_barony0399` = castle
+b_barony0399a = temple
+b_barony0399b = city
+b_barony0399c = castle
+
+# Misc
+culture = turkish
+religion = zoroastrian
+
+# History

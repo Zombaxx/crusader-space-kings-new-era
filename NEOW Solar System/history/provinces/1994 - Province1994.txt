@@ -1,0 +1,15 @@
+# 1994 - Province1994
+
+# County Title
+title = c_province1994
+
+# Settlements
+max_settlements = 7
+b_barony1994` = tribal
+b_barony1994a = temple
+
+# Misc
+culture = frisian
+religion = shiite
+
+# History

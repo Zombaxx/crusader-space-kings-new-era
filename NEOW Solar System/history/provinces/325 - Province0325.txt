@@ -1,0 +1,14 @@
+# 325 - Province0325
+
+# County Title
+title = c_province0325
+
+# Settlements
+max_settlements = 1
+b_barony0325` = tribal
+
+# Misc
+culture = kazakh
+religion = catholic
+
+# History

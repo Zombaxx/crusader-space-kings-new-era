@@ -1,0 +1,14 @@
+# 1890 - Province1890
+
+# County Title
+title = c_province1890
+
+# Settlements
+max_settlements = 2
+b_barony1890` = tribal
+
+# Misc
+culture = daju
+religion = finnish_pagan
+
+# History

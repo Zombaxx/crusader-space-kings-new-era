@@ -1,0 +1,15 @@
+# 2004 - Province2004
+
+# County Title
+title = c_province2004
+
+# Settlements
+max_settlements = 6
+b_barony2004` = tribal
+b_barony2004a = temple
+
+# Misc
+culture = frisian
+religion = shiite
+
+# History

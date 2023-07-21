@@ -1,0 +1,1140 @@
+e_numenor  = {
+	color = { 83 150 216 }
+	color2={ 220 220 20 }
+	
+	#tribe = yes
+	
+	allow = {
+		always = no
+	}
+	title = "HIGH_KING"
+	title_female = "HIGH_QUEEN"
+	foa = "HIGH_KING_FOA"
+	title_prefix = "HIGH_KINGDOM_OF"	
+	capital = 112	
+}
+e_france_history  = {
+	color = { 0 0 153 }
+	color2 = { 255 204 0 }
+	
+	#tribe = yes
+	
+	allow = {
+		always = no
+	}	
+	capital = 112	
+}
+e_middle_earth  = {
+	color = { 0 0 153 }
+	color2 = { 255 204 0 }
+	
+	#tribe = yes
+	
+	allow = {
+		always = no
+	}
+	title = "EUROPEAN_PRESIDENT_TITLE"
+	title_female = "EUROPEAN_PRESIDENT_TITLE"	
+	capital = 115	
+}
+e_european_union_history  = {
+	color = { 83 150 216 }
+	color2={ 220 220 20 }
+	
+	title = "EUROPEAN_PRESIDENT_TITLE"
+	title_female = "EUROPEAN_PRESIDENT_TITLE"
+	allow = {
+		always = no
+	}	
+	capital = 115	
+}
+k_beleriand = {
+		color = { 21 176 239 }
+		color2 = { 255 110 48 }
+		capital = 2020
+	allow = {
+		always = no
+	}		
+}
+k_doggerland_history = {
+		color = { 21 176 239 }
+		color2 = { 255 110 48 }
+		capital = 2020
+	allow = {
+		always = no
+	}		
+}	
+e_nilfgaard= {
+	color={ 234 217 110 }
+	color2={ 255 255 255 }
+	
+	uyghur = "Milfgaard"
+	capital = 333 # Roma
+	culture = lazian
+		
+	allow = {
+		always = no
+	}
+	
+}
+e_italy_history= {
+	color={ 234 217 110 }
+	color2={ 255 255 255 }
+
+	capital = 333 # Roma
+	culture = lazian
+	
+	allow = {
+		always = no
+	}
+	
+}
+
+e_the_north= {
+	color={ 62 122 189 }
+	color2={ 255 255 0 }
+	capital = 290 # Uppland
+		
+	allow = {
+		always = no
+	}
+	
+}
+e_scandinavia_history= {
+	color={ 62 122 189 }
+	color2={ 255 255 0 }
+	capital = 290 # Uppland
+	culture = swedish
+	
+	short_name = yes
+	
+	allow = {
+		always = no
+	}
+	
+}
+e_agatean_empire= {
+	color={ 210 115 35 }
+	color2={ 255 255 255 }
+	capital = 522 # Uppland
+		
+	allow = {
+		always = no
+	}
+	
+}
+e_carpathia_history= {
+	color={ 210 115 35 }
+	color2={ 255 255 255 }
+	capital = 522 # Uppland
+	
+	allow = {
+		always = no
+	}
+	
+}
+k_harad  = {
+	color = { 222 92 92 }
+	color2={ 1 1 1 }
+	allow = {
+		always = no
+	}
+	capital = 831
+}
+k_algeria_history  = {
+	color = { 222 92 92 }
+	color2={ 1 1 1 }
+	allow = {
+		always = no
+	}
+	capital = 831
+}
+k_ghis  = {
+	color = { 222 92 92 }
+	color2={ 1 1 1 }
+	allow = {
+		always = no
+	}
+	capital = 831
+}
+k_morocco_history  = {
+	color = { 222 92 92 }
+	color2={ 1 1 1 }
+	allow = {
+		always = no
+	}
+	capital = 831
+}
+k_yunkai  = {
+	color = { 222 92 92 }
+	color2={ 1 1 1 }
+	allow = {
+		always = no
+	}
+	capital = 831
+}
+k_libya_history  = {
+	color = { 222 92 92 }
+	color2={ 1 1 1 }
+	allow = {
+		always = no
+	}
+	capital = 831
+}
+k_astapor  = {
+	color = { 222 92 92 }
+	color2={ 1 1 1 }
+	allow = {
+		always = no
+	}
+	capital = 831
+}
+k_africa_history  = {
+	color = { 222 92 92 }
+	color2={ 1 1 1 }
+	allow = {
+		always = no
+	}
+	capital = 831
+}
+k_valyria  = {
+	color = { 222 92 92 }
+	color2={ 1 1 1 }
+	allow = {
+		always = no
+	}
+	capital = 831
+}
+k_byzantium_history  = {
+	color = { 222 92 92 }
+	color2={ 1 1 1 }
+	allow = {
+		always = no
+	}
+	capital = 831
+}
+e_ghiscar  = {
+	color = { 222 92 92 }
+	color2={ 1 1 1 }
+	allow = {
+		always = no
+	}
+	capital = 831
+}
+e_maghreb_history  = {
+	color = { 222 92 92 }
+	color2={ 1 1 1 }
+	allow = {
+		always = no
+	}
+	capital = 831
+}
+k_umbar  = {
+	color={ 182 88 5 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 160
+}
+k_portugal_history  = {
+	color={ 182 88 5 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 160
+}
+k_rohan  = {
+	color={ 250 120 90 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 522
+}
+k_hungary_history  = {
+	color={ 250 120 90 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 522
+}
+k_fantastica  = {
+    color={ 176 110 32 }
+    color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	title = "EMPEROR_FANTASTICA"
+	title_female = "EMPRESS_FANTASTICA"
+	foa = "EMPEROR_FOA_FANTASTICA"
+	title_prefix = "EMPIRE_OF_FANTASTICA"
+	capital = 437
+}
+k_bohemia_history  = {
+    color={ 176 110 32 }
+    color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 437
+}
+k_toussaint  = {
+	color={ 244 227 160 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 236
+}
+k_italy_history  = {
+	color={ 244 227 160 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 236
+}
+k_kovir_povis  = {
+	color = { 54 167 156 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 319
+}
+k_lombardo-veneto_history  = {
+	color = { 54 167 156 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 319
+}
+k_redania  = {
+	color = { 238 41 58 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 328
+}
+k_tuscany_history  = {
+	color = { 238 41 58 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 328
+}
+k_kaedwen  = {
+	color = { 144 108 135 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 329
+}
+k_san_marino_history  = {
+	color = { 144 108 135 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 329
+}
+k_nilfgaardia  = {
+	color={ 0 117 208 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 333
+}
+k_latium_history  = {
+	color={ 0 117 208 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 333
+}
+k_etolia  = {
+	color = { 180 160 80 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 334
+}
+k_two_siciles_history  = {
+	color = { 180 160 80 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 334
+}
+k_ofir  = {
+	color={ 210 165 255 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 326
+}
+k_sardinia_history  = {
+	color={ 210 165 255 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 326
+}
+k_breeland  = {
+	color={ 0 146 63 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 117
+}
+k_belgium_history  = {
+	color={ 207 216 57 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 117
+}
+k_pelargir  = {
+	color={ 253 251 236 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 80
+}
+k_holland_history  = {
+	color={ 234 176 38 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 80
+}
+k_esgaroth  = {
+	color={ 0 38 155 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 115
+}
+k_luxemburg_history  = {
+	color={ 57 222 246 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 115
+}
+e_enedwaith  = {
+	color={ 246 162 57 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 115
+}
+e_benelux_history  = {
+	color={ 246 162 57 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 115
+}
+e_misty_mountains  = {
+	color={ 255 80 80 }
+	color2={ 200 50 50 }
+	allow = {
+		always = no
+	}
+		
+	capital = 244
+}
+e_alps_history  = {
+	color={ 255 80 80 }
+	color2={ 200 50 50 }
+	allow = {
+		always = no
+	}
+	
+	short_name = yes
+	
+	capital = 244
+}
+k_aedirn  = {
+	color={ 234 212 82 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 197
+}
+k_castille_history  = {
+	color={ 243 209 23 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 197
+}
+k_cintra  = {
+	color={ 0 127 255 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 180
+}
+k_andalusia_history  = {
+	color={ 31 138 40 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 180
+}
+k_minas_ithil  = {
+	color={ 48 56 133 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 206
+}
+k_andorra_history  = {
+	color={ 48 56 133 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 206
+}
+k_underland  = {
+	color = { 150 120 5 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 152
+}
+k_basque_history  = {
+	color = { 150 120 5 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 152
+}
+k_harondor  = {
+	color = { 166 98 22 }
+	color2={ 230 0 0 }
+	allow = {
+		always = no
+	}
+	capital = 204
+}
+k_catalunia_history  = {
+	color = { 166 98 22 }
+	color2={ 230 0 0 }
+	allow = {
+		always = no
+	}
+	capital = 204
+}
+k_ered_liun  = {
+	color = { 150 120 5 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 156
+}
+k_galicia_y_asturias_history  = {
+	color = { 150 120 5 }
+	color2={ 255 255 255 }
+	allow = {
+		always = no
+	}
+	capital = 156
+}
+e_archenland= {
+	color={ 233 200 20 }
+	color2={ 255 255 255 }
+	
+	capital = 197 # Toledo
+	culture = basque
+		
+	allow = {
+		always = no
+	}
+	
+}
+e_spain_history= {
+	color={ 233 200 20 }
+	color2={ 255 255 255 }
+	
+	capital = 197 # Toledo
+	culture = basque
+		
+	allow = {
+		always = no
+	}
+	
+}
+e_calormen = {
+	color={ 172 22 22 }
+	color2={ 255 255 255 }
+	capital = 32 # Middlesex
+	allow = {
+		always = no
+	}
+}
+e_britannia_history = {
+	color={ 172 22 22 }
+	color2={ 255 255 255 }
+	capital = 32 # Middlesex
+	allow = {
+		always = no
+	}
+}
+k_gondor  = {
+	color = { 192 192 192 }
+	color2={ 220 220 20 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 112
+}
+k_france_history = { # Just needed to store history
+	color={ 15 27 187 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 112
+}
+
+k_gorgoroth  = {
+	color = { 192 192 192 }
+	color2={ 220 220 20 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 365
+}
+
+k_prussia_history = { # Just needed to store history
+	color={ 15 27 187 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 365
+}
+
+k_gundabad  = {
+	color = { 192 192 192 }
+	color2={ 220 220 20 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 1700
+}
+
+k_bavarja_history = { # Just needed to store history
+	color={ 15 27 187 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 1700
+}
+
+k_rhun  = {
+	color = { 192 192 192 }
+	color2={ 220 220 20 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 123
+}
+
+k_rhineland_history = { # Just needed to store history
+	color={ 15 27 187 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 123
+}
+
+k_rhonvanion  = {
+	color = { 192 192 192 }
+	color2={ 220 220 20 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 257
+}
+
+k_saxon_history = { # Just needed to store history
+	color={ 15 27 187 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 257
+}
+
+k_gerolstein  = {
+	color = { 192 192 192 }
+	color2={ 220 220 20 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 1987
+}
+
+k_hessia_history = { # Just needed to store history
+	color={ 15 27 187 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 1987
+}
+
+k_dale  = {
+	color = { 192 192 192 }
+	color2={ 220 220 20 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 312
+}
+
+k_saxony_history = { # Just needed to store history
+	color={ 15 27 187 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 312
+}
+
+k_belegost  = {
+	color = { 192 192 192 }
+	color2={ 220 220 20 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 449
+}
+
+k_austria_history = { # Just needed to store history
+	color={ 15 27 187 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 449
+}
+
+k_arnor  = {
+	color = { 37 148 59 }
+	color2={ 220 220 20 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 221
+}
+k_aquitaine_history = { # Just needed to store history
+	color={ 150 80 170 }
+	
+	allow = {
+		always = no
+	}
+	
+	capital = 221
+}
+k_gallia = {
+	color={ 254 2 1 }
+	
+	allow = {
+		always = no
+	}
+	capital = 96
+}
+k_normandy_history = {
+	color={ 254 10 10 }
+	
+	allow = {
+		always = no
+	}
+	capital = 96
+}
+k_broceliande = {
+		color={ 217 23 26 }
+		color2={ 255 255 255 }
+		capital = 136
+	allow = {
+		always = no
+	}
+}
+k_burgundy_history = {
+		color={ 217 23 26 }
+		color2={ 255 255 255 }
+		capital = 136
+	allow = {
+		always = no
+	}
+}
+k_narnia = {
+	color={ 6 127 2 }
+	color2={ 255 255 255 }
+	
+	capital = 11 # Dublin
+
+	allow = {
+		always = no
+	}
+}
+k_ireland_history = {
+	color={ 6 127 2 }
+	color2={ 255 255 255 }
+	
+	capital = 11 # Dublin
+	allow = {
+		always = no
+	}
+}
+k_ireland_true = {
+	color={ 6 127 2 }
+	color2={ 255 255 255 }
+	
+	capital = 11 # Dublin
+	allow = {
+		always = no
+	}
+}
+k_angband = {
+	color={ 202 26 26 }
+	color2={ 255 255 255 }
+	capital = 32 # Middlesex
+	allow = {
+		always = no
+	}
+}
+k_britannia_history = {
+	color={ 202 26 26 }
+	color2={ 255 255 255 }
+	capital = 32 # Middlesex
+	allow = {
+		always = no
+	}
+}
+k_camelot = {
+	color={ 135 25 3 }
+	color2={ 255 255 255 }
+	
+	capital = 64 # Gwynedd
+	allow = {
+		always = no
+	}
+}
+k_wales_history = {
+	color={ 135 25 3 }
+	color2={ 255 255 255 }
+	
+	capital = 64 # Gwynedd
+	allow = {
+		always = no
+	}
+}
+k_wales_true = {
+	color={ 135 25 3 }
+	color2={ 255 255 255 }
+	
+	capital = 64 # Gwynedd
+	allow = {
+		always = no
+	}
+}
+k_shire = {
+		color={ 245 16 36 }
+		color2={ 255 255 255 }
+		capital = 32 # Middlesex
+	allow = {
+		always = no
+	}
+}
+k_england_history = {
+		color={ 245 16 36 }
+		color2={ 255 255 255 }
+		capital = 32 # Middlesex
+	allow = {
+		always = no
+	}
+}
+k_england_true = {
+		color={ 245 16 36 }
+		color2={ 255 255 255 }
+		capital = 32 # Middlesex
+	allow = {
+		always = no
+	}
+}
+k_telmarine = {
+		color={ 20 80 162 }
+		color2={ 255 255 255 }
+		
+		capital = 48 # Lothian
+	allow = {
+		always = no
+	}
+}
+k_scotland_true = {
+		color={ 20 80 162 }
+		color2={ 255 255 255 }
+		
+		capital = 48 # Lothian
+	allow = {
+		always = no
+	}
+}
+k_scotland_history = {
+		color={ 20 80 162 }
+		color2={ 255 255 255 }
+		
+		capital = 48 # Lothian
+	allow = {
+		always = no
+	}
+}
+e_mordor = {
+	color={ 172 22 22 }
+	color2={ 255 255 255 }
+	capital = 254 # Würburg
+	allow = {
+		always = no
+	}
+}
+e_germany_history = {
+	color={ 172 22 22 }
+	color2={ 255 255 255 }
+	capital = 254 # Würburg
+	allow = {
+		always = no
+	}
+}
+k_charn = {
+		color={ 255 216 0 }
+		color2={ 0 0 0 }
+		capital = 31 # Cornwall
+	allow = {
+		always = no
+	}
+}
+k_cornwall_history = {
+		color={ 255 216 0 }
+		color2={ 0 0 0 }
+		capital = 31 # Cornwall
+	allow = {
+		always = no
+	}
+}
+k_erebor = {
+		color={ 255 80 80 }
+		color2={ 200 50 50 }
+
+		capital = 244 #Bern
+	allow = {
+		always = no
+	}
+}
+k_switzerland_history = {
+		color={ 255 80 80 }
+		color2={ 200 50 50 }
+
+		capital = 244 #Bern
+	allow = {
+		always = no
+	}
+}
+k_moria = {
+		color={ 11 8 111 }
+		color2={ 255 255 255 }
+
+		capital = 246 # Schwyz
+	allow = {
+		always = no
+	}
+}
+k_lichtenstein_history = {
+		color={ 11 8 111 }
+		color2={ 255 255 255 }
+
+		capital = 246 # Schwyz
+	allow = {
+		always = no
+	}
+}
+k_grey_havens = {
+		color={ 165 49 16 }
+		color2={ 255 255 255 }
+		
+		capital = 105 # Vannes
+		
+	allow = {
+		always = no
+	}
+}
+k_brittany_history = {
+		color={ 165 49 16 }
+		color2={ 255 255 255 }
+		
+		capital = 105 # Vannes
+	allow = {
+		always = no
+	}
+}
+k_transylvania = {
+		color={ 220 132 40 }
+		color2={ 255 255 255 }
+		
+		capital = 515 # Tirgoviste
+	allow = {
+		always = no
+	}
+}
+k_romania_history = {
+		color={ 220 132 40 }
+		color2={ 255 255 255 }
+		
+		capital = 515 # Tirgoviste
+	allow = {
+		always = no
+	}
+}
+k_dorwinion = {
+		color={ 5 72 140 }
+		color2={ 255 255 255 }
+		
+		capital = 221 #Provance
+	allow = {
+		always = no
+	}
+}
+k_provance_history = {
+		color={ 5 72 140 }
+		color2={ 255 255 255 }
+		
+		capital = 221 #Provance
+	allow = {
+		always = no
+	}
+}
+	k_israel_history = {
+		color = { 180 180 180 }
+		
+		capital = 774 # Jerusalem
+
+		roman = "Judea"
+
+	
+		allow = {
+			always = no
+		}
+		christian = 500 # Crusade target weight
+		muslim = 250 # Crusade target weight
+		zoroastrian_group = 200 # Crusade target weight
+		jewish_group = 5000 # Crusade target weight
+	}
+
+	k_palestine_history  = {
+		color = { 180 180 180 }
+		
+		capital = 774 # Jerusalem
+
+		roman = "Philistia"
+		armenian = "Philistia"
+		greek = "Philistia"
+		alan = "Philistia"
+		georgian = "Philistia"
+		assyrian = "Philistia"
+
+		culture = levantine_arabic
+	
+		allow = {
+			always = no
+		}
+		christian = 500 # Crusade target weight
+		muslim = 250 # Crusade target weight
+		zoroastrian_group = 200 # Crusade target weight
+		jewish_group = 5000 # Crusade target weight
+	}
+	k_jerusalem_history = {
+		color={ 180 180 180 }
+		color2={ 255 255 255 }
+		
+		capital = 774 # Jerusalem
+		
+		ashkenazi = "Yehuda"
+		israeli = "Yehuda"
+		sephardi = "Yehuda"
+		armenian = "Philistia"
+		greek = "Philistia"
+		alan = "Philistia"
+		georgian = "Philistia"
+		assyrian = "Philistia"
+		roman = "Judea"
+		
+		culture = levantine_arabic
+		
+		allow = {
+			always = no
+		}
+	}
+

@@ -1,0 +1,14 @@
+# 654 - Province0654
+
+# County Title
+title = c_province0654
+
+# Settlements
+max_settlements = 2
+b_barony0654` = castle
+
+# Misc
+culture = bedouin_arabic
+religion = shiite
+
+# History

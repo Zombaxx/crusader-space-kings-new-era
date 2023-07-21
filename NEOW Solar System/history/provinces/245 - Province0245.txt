@@ -1,0 +1,16 @@
+# 245 - Province0245
+
+# County Title
+title = c_province0245
+
+# Settlements
+max_settlements = 4
+b_barony0245` = castle
+b_barony0245a = temple
+b_barony0245b = city
+
+# Misc
+culture = federalist
+religion = baptist
+
+# History

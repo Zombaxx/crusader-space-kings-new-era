@@ -1,0 +1,14 @@
+# 940 - Province0940
+
+# County Title
+title = c_province0940
+
+# Settlements
+max_settlements = 3
+b_barony0940` = tribal
+
+# Misc
+culture = turkish
+religion = old_hindu
+
+# History

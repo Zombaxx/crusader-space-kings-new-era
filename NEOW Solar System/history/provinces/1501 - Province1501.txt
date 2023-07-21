@@ -1,0 +1,16 @@
+# 1501 - Province1501
+
+# County Title
+title = c_province1501
+
+# Settlements
+max_settlements = 4
+b_barony1501` = castle
+b_barony1501a = temple
+b_barony1501b = city
+
+# Misc
+culture = persian
+religion = sufi
+
+# History

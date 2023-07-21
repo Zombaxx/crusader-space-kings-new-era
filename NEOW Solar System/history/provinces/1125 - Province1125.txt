@@ -1,0 +1,15 @@
+# 1125 - Province1125
+
+# County Title
+title = c_province1125
+
+# Settlements
+max_settlements = 5
+b_barony1125` = tribal
+b_barony1125a = temple
+
+# Misc
+culture = punjabi
+religion = novelist
+
+# History

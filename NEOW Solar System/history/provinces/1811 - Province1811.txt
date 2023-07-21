@@ -1,0 +1,14 @@
+# 1811 - Province1811
+
+# County Title
+title = c_province1811
+
+# Settlements
+max_settlements = 2
+b_barony1811` = castle
+
+# Misc
+culture = persian
+religion = sufi
+
+# History

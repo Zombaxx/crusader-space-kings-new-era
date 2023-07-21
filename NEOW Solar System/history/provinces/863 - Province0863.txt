@@ -1,0 +1,14 @@
+# 863 - Province0863
+
+# County Title
+title = c_province0863
+
+# Settlements
+max_settlements = 1
+b_barony0863` = castle
+
+# Misc
+culture = kannada
+religion = old_hindu
+
+# History

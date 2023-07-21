@@ -1,0 +1,16 @@
+# 1217 - Province1217
+
+# County Title
+title = c_province1217
+
+# Settlements
+max_settlements = 4
+b_barony1217` = castle
+b_barony1217a = temple
+b_barony1217b = city
+
+# Misc
+culture = alan
+religion = hellenic_pagan
+
+# History

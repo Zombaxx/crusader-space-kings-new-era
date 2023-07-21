@@ -1,0 +1,14 @@
+# 801 - Province0801
+
+# County Title
+title = c_province0801
+
+# Settlements
+max_settlements = 3
+b_barony0801` = tribal
+
+# Misc
+culture = hindustani
+religion = sunni
+
+# History

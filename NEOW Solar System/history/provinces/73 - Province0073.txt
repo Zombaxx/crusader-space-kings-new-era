@@ -1,0 +1,14 @@
+# 73 - Province0073
+
+# County Title
+title = c_province0073
+
+# Settlements
+max_settlements = 1
+b_barony0073` = tribal
+
+# Misc
+culture = alan
+religion = tengri_pagan
+
+# History

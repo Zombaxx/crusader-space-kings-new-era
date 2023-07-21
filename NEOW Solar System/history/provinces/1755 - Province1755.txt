@@ -1,0 +1,15 @@
+# 1755 - Province1755
+
+# County Title
+title = c_province1755
+
+# Settlements
+max_settlements = 5
+b_barony1755` = tribal
+b_barony1755a = temple
+
+# Misc
+culture = persian
+religion = bon
+
+# History

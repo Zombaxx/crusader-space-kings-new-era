@@ -1,0 +1,16 @@
+# 1201 - Province1201
+
+# County Title
+title = c_province1201
+
+# Settlements
+max_settlements = 4
+b_barony1201` = castle
+b_barony1201a = temple
+b_barony1201b = city
+
+# Misc
+culture = alan
+religion = hellenic_pagan
+
+# History

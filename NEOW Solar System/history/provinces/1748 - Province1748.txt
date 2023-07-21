@@ -1,0 +1,14 @@
+# 1748 - Province1748
+
+# County Title
+title = c_province1748
+
+# Settlements
+max_settlements = 4
+b_barony1748` = tribal
+
+# Misc
+culture = panjabi
+religion = tengri_pagan
+
+# History

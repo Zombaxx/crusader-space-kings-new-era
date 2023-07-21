@@ -1,0 +1,2299 @@
+26629999 = {
+	name="Ali" # Ali Baba
+	dynasty=25660000 
+	religion="brethren"
+	culture="socotri" 
+	trait="cruel"
+	trait="tough_soldier"
+	trait="wroth"
+	trait="strong"
+	trait="lustful"
+	2531.4.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670000 = {
+	name="Ali" # Ali Abbas
+	dynasty=1941027 
+	religion="sunni"
+	culture="yemeni" 
+	trait="erudite"
+	trait="zealous"
+	trait="grey_eminence"
+	trait="strong"
+	trait="lustful"
+	2480.4.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670001 = {
+	name="Husayn" # Sultan of Oman
+	dynasty=25560001
+	religion="ibadi"
+	culture="omani" 
+	trait="poet"
+	trait="cynical"
+	trait="tough_soldier"
+	trait="wroth"
+	trait="temperate"
+	
+	father=30000053
+	mother=30000090
+	2535.6.3={
+		birth=yes
+	}
+	2554.3.6={
+		add_spouse=30000091
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670002 = {
+	name="Abdullah" # Last High King of all Saudi Arabia, whose deaths starts the bitter civil war between the Saudis
+	dynasty=4031016
+	religion="wahhabi"
+	culture="bedouin_arabic" 
+	trait="just"
+	trait="brave"
+	trait="proud"
+	trait="thrifty_clerk"
+	trait="chaste"
+	trait="temperate"
+	disallow_random_traits=yes
+	father=30000215
+	2494.8.14={
+		birth=yes
+	}
+	2524.1.1={
+		give_nickname=nick_the_brave
+	}
+	2554.3.30={
+		death = {
+			death_reason=death_battle_duel
+			killer=26662801
+		}
+	}
+}
+26670003 = {
+	name="Muhammad" # Eldest son, medium power, most zealous
+	dynasty=4031016
+	father=26670002
+	religion="wahhabi"
+	culture="hejazi" 
+	trait="zealous"
+	trait="wroth"
+	trait="proud"
+	trait="tough_soldier"
+
+	2523.12.3={
+		birth=yes
+		add_claim = d_amman
+		add_claim = d_nefoud
+		add_claim = k_najd
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670004 = {
+	name="Umar" # Second son, most land, impious
+	dynasty=4031016
+	father=26670002
+	religion="wahhabi"
+	culture="bedouin_arabic" 
+	trait="cynical"
+	trait="drunkard"
+	trait="proud"
+	trait="skilled_tactician"
+	trait="strategist"
+	trait="fecund"
+	trait="androgynous"
+
+	2526.3.12={
+		birth=yes
+		add_claim = d_amman
+		add_claim = d_nefoud
+		add_claim = k_najd
+		add_claim = d_medina
+		add_claim = d_arabia_petrae
+		add_claim = k_hijaz
+	}
+	2550.2.27={
+		effect = {
+			add_artifact = silver_bar
+			add_artifact = silver_bar
+			add_artifact = silver_bar
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670005 = {
+	name="Nasr" # Third son, east coast
+	religion="wahhabi"
+	dynasty=4031016
+	father=26670002
+	culture="bedouin_arabic" 
+	trait="just"
+	trait="humble"
+	trait="thrifty_clerk"
+	trait="shy"
+
+	2530.1.23={
+		birth=yes
+		add_claim = d_nefoud
+		add_claim = d_medina
+		add_claim = d_arabia_petrae
+		add_claim = k_hijaz
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670006 = {
+	name="Mubarak" # Mesopotamian Prophet-ish-ish guy and Founder
+	dynasty=25560003
+	religion="mesopotamian"
+	culture="iraqi" 
+	diplomacy=5
+	martial=3
+	stewardship=6
+	intrigue=6
+	learning=15
+	trait="mastermind_theologian"
+	trait="faqih"
+	trait="erudite"
+	trait="scarred"
+	trait="proud"
+	trait="zealous"
+	trait="ambitious"
+	2520.7.16={
+		birth=yes
+	}
+	2542.11.11={
+		create_bloodline = {
+			type = mubarak
+			has_dlc = "Holy Fury"
+		}	
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670007 = {
+	name="Ihsan" # Ruler of Shia clergy state in south Iraq
+	dynasty=25560004
+	religion="shiite"
+	culture="iraqi" 
+	trait="zealous"
+	trait="erudite"
+	trait="scholarly_theologian"
+	trait="just"
+	trait="charitable"
+	trait="sayyid"
+	disallow_random_traits=yes
+	2520.7.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26671038 = {#The Barzanids after Mihimed's Bizarre Adventure
+	name="Babek" 
+	dynasty=25560005
+	religion="yersenism"
+	culture="kurdish"
+	trait="scholarly_theologian"
+	trait="scholar"
+	trait="shrewd"
+	trait="gregarious"
+	trait="shaykh"
+	learning = 10
+	father=26671034
+	2385.6.2={
+		birth=yes
+		give_nickname = nick_the_scholar
+	}
+	2447.3.3={
+		death=yes
+	}
+}
+26671039 = {#
+	name="Ardelan" 
+	dynasty=25560005
+	religion="yersenism"
+	culture="kurdish"
+	trait="flamboyant_schemer"
+	trait="poet"
+	trait="zealous"
+	trait="chaste"
+	trait="shy"
+	trait="shaykh"
+
+	father=26671038
+	
+	2407.2.6={
+		birth=yes
+	}
+	2465.7.17={
+		death=yes
+	}
+}
+26671040 = {#
+	name="Mihemed" 
+	dynasty=25560005
+	religion="yersenism"
+	culture="kurdish"
+	trait="tough_soldier"
+	trait="wroth"
+	trait="drunkard"
+	trait="duelist"
+	trait="gamer"
+	trait="shaykh"
+
+	father=26671039
+	
+	2440.2.6={
+		birth=yes
+	}
+	2489.12.4={
+		death=yes
+	}
+}
+26671041 = {#
+	name="Babek" 
+	dynasty=25560005
+	religion="yersenism"
+	culture="kurdish"
+	trait="tough_soldier"
+	trait="ambitious"
+	trait="cruel"
+	trait="craven"
+	trait="cynical"
+	trait="shaykh"
+
+	father=26671040
+	
+	2471.2.6={
+		birth=yes
+	}
+	2540.12.1={
+		death=yes
+	}
+}
+26670008 = {
+	name="Ardelan" # Ruler of Kurdistan
+	dynasty=25560005
+	religion="yersenism"
+	culture="kurdish" 
+	trait="ambitious"
+	trait="gardener"
+	trait="skilled_tactician"
+	trait="rough_terrain_leader"
+	trait="gregarious"
+	trait="shaykh"
+	father=26671041
+
+	2514.3.30={
+		birth=yes
+	}
+	2551.12.1={
+		effect = {
+			add_weak_claim = c_tikrit
+			add_weak_claim = c_euphrates
+			add_weak_claim = c_al_anbar
+			add_weak_claim = c_mardin
+			add_weak_claim = c_sinjar
+			add_weak_claim = c_nisibin
+			add_weak_claim = c_amida
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670009 = {
+	name="Sadri" 
+	dynasty=1981008
+	religion="yersenism"
+	culture="sorani" 
+	trait="brilliant_strategist"
+	trait="strategist"
+	trait="zealous"
+	trait="proud"
+	trait="lustful"
+	trait="shaykh"
+
+	2511.2.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670010 = {
+	name="Thoma" # Leader of Nineveh
+	dynasty=25560106
+	martial=7
+	diplomacy=5
+	intrigue=2
+	stewardship=2
+	learning=4
+	religion="mesopotamian"
+	culture="assyrian" 
+	trait="brilliant_strategist"
+	trait="duelist"
+	trait="organizer"
+	trait="brave"
+	trait="wroth"
+	trait="greedy"
+	trait="peasant_noble"
+	trait="stutter"
+
+	2519.6.5={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670011 = {
+	name="Martha" # Daughter of Thoma, exists to provide alliance
+	dynasty=25560106
+	religion="mesopotamian"
+	culture="assyrian" 
+	trait="thrifty_clerk"
+	trait="architect"
+	trait="fair"
+	trait="envious"
+	trait="lustful"
+	female=yes
+	father=26670010
+
+	2533.12.16={
+		birth=yes
+	}
+	2554.7.19={
+		add_spouse=26670013
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670012 = {
+	name="Younan" # Son of Thoma to ensure his line is fine
+	dynasty=25560106
+	religion="mesopotamian"
+	culture="assyrian" 
+	trait="tough_soldier"
+	trait="duelist"
+	trait="fair"
+	trait="gregarious"
+	trait="chaste"
+	father=26670010
+
+	2535.2.27={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670013 = {
+	name="Vahid" # Sadri's son. Married the Assyrian princess
+	dynasty=1981008
+	religion="yersenism"
+	culture="kurdish" 
+	trait="quick"
+	trait="gamer"
+	trait="cynical"
+	trait="proud"
+	trait="diligent"
+	trait="shaykh"
+	father=26670009
+
+	2536.4.20={
+		birth=yes
+	}
+	2554.7.19={
+		add_spouse=26670011
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670014 = {
+	name="Maroun" # Leader of Lebanon
+	dynasty=25560107
+	religion="chaldean"
+	culture="maronite" 
+	trait="brilliant_strategist"
+	trait="sympathy_islam"
+	trait="gamer"
+	trait="gluttonous"
+	trait="just"
+	trait="ambitious"
+	trait="gregarious"
+	trait="patient"
+	trait="greedy"
+
+	2525.1.12={
+		birth=yes
+		effect = {
+			wealth = 200 
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26679015 = {
+	name="Sulayman" # Vassal of Lebanon
+	dynasty=1946040
+	religion="alawite"
+	culture="nusayri" 
+	trait="scholarly_theologian"
+	trait="trusting"
+	trait="sympathy_islam"
+	trait="sympathy_judaism"
+	trait="duelist"
+	trait="poet"
+	trait="gregarious"
+	trait="kind"
+	trait="patient"
+	disallow_random_traits=yes
+	2514.5.19={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+
+26679016 = {
+	name="Ibrahim" # Vassal of Lebanon
+	religion="chaldean"
+	dynasty=1941041
+	culture="maronite" 
+	trait="thrifty_clerk"
+	trait="cruel"
+	trait="stubborn"
+	trait="gluttonous"
+	2525.1.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26679017 = {
+	name="Mukhtar" # Vassal of Lebanon
+	religion="ismaili"
+	dynasty=1946036
+	culture="levantine_arabic" 
+	trait="underhanded_rogue"
+	trait="erudite"
+	trait="paranoid"
+	trait="temperate"
+	trait="sympathy_christendom"
+	2537.5.24={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670015 = {
+	name="Bihar" #no, stop it, get some help
+	dynasty=25560108
+	religion="sunni"
+	culture="levantine_arabic" 
+	stewardship=5
+	trait="tough_soldier"
+	trait="brave"
+	trait="sympathy_christendom"
+	trait="wroth"
+	trait="arbitrary"
+	trait="ambitious"
+	2520.5.18={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670016 = {
+	name="Ishaq" 
+	dynasty=25560109 #Al-Mashriqi
+	religion="wahhabi"
+	culture="levantine_arabic" 
+	trait="tough_soldier"
+	trait="brave"
+	trait="zealous"
+	trait="wroth"
+	trait="cruel"
+	trait="ambitious"
+
+	2517.12.20={
+		birth=yes
+		effect = {add_rival = 26670017}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670017 = {
+	name="Hakim"  
+	dynasty=25560110 #Al-Ghazali
+	religion="sunni"
+	culture="levantine_arabic" 
+	trait="mastermind_theologian"
+	trait="erudite"
+	trait="zealous"
+	trait="quick"
+	trait="kind"
+
+	2509.3.1={
+		birth=yes
+		effect = {add_rival = 26670016}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670018 = {
+	name="Abdulaziz"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="tough_soldier"
+	trait="quick"
+	trait="fair"
+	trait="humble"
+	trait="craven"
+	trait="sayyid"
+	father=26670021
+	mother=26670145
+	2534.12.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670019 = {
+	name="Abdullah"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	stewardship=8
+	trait="tough_soldier"
+	trait="ambitious"
+	trait="cruel"
+	trait="cynical"
+	trait="brave"
+	trait="sayyid"
+	father=26670021
+	mother=26670145
+	2529.3.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670020 = {#ancient founder of Hashemite bloodline
+	name="Hussein"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="tough_soldier"
+	trait="ambitious"
+	trait="sayyid"
+	trait="zealous"
+	1854.1.1={
+		birth=yes
+	}
+	1916.10.30={
+		create_bloodline = {
+			type = hashemite
+			has_dlc = "Holy Fury"
+		}			
+	}
+	1931.6.4={
+		death=yes
+	}
+}
+26670021 = {#'Most recent descendent' of Hussein, so that we don't need to make 50 characters linking modern Hashemites to him Now with 50 Characters!
+	name="Zeid"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="charismatic_negotiator"
+	trait="sayyid"
+	trait="strong"
+	trait="poet"
+	trait="cruel"
+	trait="greedy"
+	father=26670142
+	2488.1.13={
+		birth=yes
+	}
+	2527.1.15={
+		add_spouse=26670145
+	}
+	2537.2.12={
+		death=yes
+	}
+}
+26670022 = {
+	name="Kwhan"
+	dynasty=2996001
+	religion="sunni"
+	culture="amriqi"
+	trait="underhanded_rogue"
+	trait="greedy"
+	trait="kind"
+	trait="honest"
+	trait="brave"
+	2510.11.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670023 = {#Sheikh of Qatar, minor player in the region
+	name="Juzif"
+	dynasty=2996000 #I wonder where he is from
+	religion="sunni"
+	culture="amriqi"
+	trait="tough_soldier"
+	trait="strong"
+	trait="brave"
+	trait="ambitious"
+	trait="envious"
+	2519.3.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670024 = {#Current 'Doge' of Abu Dhabi, expert merchant
+	name="Rashid"
+	dynasty=25560115 #Al-Nahyan, the ruling house of the UAE
+	religion="sunni"
+	culture="khaliji"
+	trait="fortune_builder"
+	trait="greedy"
+	trait="wroth"
+	trait="just"
+	trait="ambitious"
+	trait="hajjaj"
+	2501.4.20={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670025 = {#Son of 'Doge' of Abu Dhabi
+	name="Rashid"
+	dynasty=25560115 #Al-Nahyan, the ruling house of the UAE
+	father=26670024
+	religion="sunni"
+	culture="khaliji"
+	trait="indulgent_wastrel"
+	trait="charitable"
+	trait="patient"
+	trait="slothful"
+	trait="content"
+	2535.4.20={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26671030 = {#The lineage of the Kings of Kurdistan begins here
+	name="Eskander" # First ever Shah of Kurdistan
+	dynasty=25560030
+	religion="yersenism"
+	culture="kurdish"
+	trait="shaykh"
+	2298.1.2={
+		birth=yes
+	}
+	2353.6.13={
+		death=yes
+	}
+}
+26671031 = {#
+	name="Mistefa" #
+	dynasty=25560030
+	religion="yersenism"
+	culture="kurdish"
+	trait="shaykh"
+	father=26671030
+	2323.12.16={
+		birth=yes
+	}
+	2370.6.13={
+		death=yes
+	}
+}
+26671032 = {#The Apostate who tried to bring Zoroastrianism back
+	name="Kyrus" 
+	dynasty=25560030
+	religion="zoroastrian"
+	culture="kurdish"
+	trait="scholarly_theologian"
+	trait="zealous"
+	trait="stubborn"
+	trait="cruel"
+	trait="charitable"
+	trait="arbitrary"
+	father=26671031
+	2349.4.4={
+		birth=yes
+	}
+	2370.8.2={
+		create_bloodline = { type = kamangar has_dlc = "Holy Fury" }
+		give_nickname = nick_the_apostate
+	}
+	2376.3.11={
+		death = { 
+			death_reason = death_execution
+			killer = 26671033
+		}
+	}
+}
+26671033 = {#The first Barzanid, who overthrew the Apostate
+	name="Ekber" 
+	dynasty=25560005
+	religion="yersenism"
+	culture="kurdish"
+	trait="tough_soldier"
+	trait="zealous"
+	trait="stubborn"
+	trait="kind"
+	trait="just"
+	trait="mujahid"
+	trait="shaykh"
+
+	2322.9.9={
+		birth=yes
+	}
+	2394.1.13={
+		death=yes
+	}
+}
+26671034 = {#The second Barzanid, who was overthrown in a coup but came back, twice
+	name="Mihemed" 
+	dynasty=25560005
+	religion="yersenism"
+	culture="kurdish"
+	trait="brilliant_strategist"
+	trait="stubborn"
+	trait="shrewd"
+	trait="deceitful"
+	trait="shaykh"
+	father=26671033
+
+	2353.9.9={
+		birth=yes
+	}
+	2415.8.12={
+		death=yes
+	}
+}
+26671035 = {#The first Heyderan, who overthrew Mihimed, but was then murdered by an unknown party. His son lost the throne to Mihimed, then *his* son took it back, but Mihimed took it back a second time
+	name="Eskander" 
+	dynasty=25560032
+	religion="yersenism"
+	culture="kurdish"
+	trait="intricate_webweaver"
+	trait="drunkard"
+	trait="genius"
+	trait="deceitful"
+	trait="shaykh"
+
+	2340.12.30={
+		birth=yes
+	}
+	2396.6.3={
+		death = { 
+			death_reason = death_murder
+		}	
+	}
+}
+26671036 = {#The second Heyderan, who lost the throne to Mihimed. His son took it back, but Mihimed was able to recover the throne a second time.
+	name="Erdewan" 
+	dynasty=25560032
+	religion="yersenism"
+	culture="kurdish"
+	trait="naive_appeaser"
+	trait="drunkard"
+	trait="craven"
+	trait="deceitful"
+	trait="patient"
+	trait="shaykh"
+	father=26671035
+
+	2366.4.26={
+		birth=yes
+	}
+	2401.1.1={
+		death = { 
+			death_reason = death_execution
+			killer = 26671034
+		}	
+	}
+}
+26671037 = {#The third Heyderan. He retook the throne from Mihimed, only to be overthrown by him when he retook the throne for a second time
+	name="Eskander" 
+	dynasty=25560032
+	religion="yersenism"
+	culture="kurdish"
+	trait="tough_soldier"
+	trait="strong"
+	trait="cruel"
+	trait="deceitful"
+	trait="shaykh"
+	father=26671036
+
+	2387.4.26={
+		birth=yes
+	}
+	2411.5.5={
+		death = { 
+			death_reason = death_execution
+			killer = 26671034
+		}	
+	}
+}
+26671042 = {#The descendants of the Apostate and the ancestors of Mashad of Kurdistan
+	name="Ayeshah" 
+	dynasty=25560030
+	religion="yersenism"
+	secret_religion="zoroastrian"
+	culture="kurdish"
+	trait="underhanded_rogue"
+	trait="shy"
+	trait="shrewd"
+	trait="cynical"
+	trait="shaykh"
+
+	father=26671032
+	
+	2370.6.2={
+		birth=yes
+	}
+	2415.3.15={
+		death=yes
+	}
+}
+26671043 = {#The descendants of the Apostate and the ancestors of Mashad of Kurdistan
+	name="Ferzad" 
+	dynasty=25560030
+	religion="yersenism"
+	secret_religion="zoroastrian"
+	culture="kurdish"
+	trait="intricate_webweaver"
+	trait="fair"
+	trait="paranoid"
+	trait="gregarious"
+	trait="shaykh"
+
+	father=26671042
+	
+	2389.6.2={
+		birth=yes
+	}
+	2426.3.15={
+		death=yes
+	}
+}
+26671044 = {#The descendants of the Apostate and the ancestors of Mashad of Kurdistan
+	name="Kyrus" 
+	dynasty=25560030
+	religion="yersenism"
+	culture="kurdish"
+	trait="tough_soldier"
+	trait="fair"
+	trait="strong"
+	trait="gamer"
+	trait="shaykh"
+
+	father=26671043
+	
+	2411.2.12={
+		birth=yes
+	}
+	2450.8.9={
+		death=yes
+	}
+}
+26671045 = {#The descendants of the Apostate and the ancestors of Mashad of Kurdistan
+	name="Kyrus" 
+	dynasty=25560030
+	religion="yersenism"
+	culture="kurdish"
+	trait="tough_soldier"
+	trait="fair"
+	trait="stubborn"
+	trait="strategist"
+	trait="shaykh"
+
+	father=26671044
+	
+	2422.8.19={
+		birth=yes
+	}
+	2486.1.14={
+		death=yes
+	}
+}
+26671046 = {#The descendants of the Apostate and the ancestors of Mashad of Kurdistan
+	name="Vahusdan" 
+	dynasty=25560030
+	religion="yersenism"
+	culture="kurdish"
+	trait="skilled_tactician"
+	trait="fair"
+	trait="brave"
+	trait="duelist"
+	trait="strong"
+	trait="zealous"
+	trait="humble"
+	trait="kind"
+	trait="charitable"
+	trait="shaykh"
+
+	father=26671045
+	
+	2461.9.21={
+		birth=yes
+	}
+	2499.3.11={
+		death=yes
+	}
+}
+26671047 = {#The descendants of the Apostate and the ancestors of Mashad of Kurdistan
+	name="Azad" 
+	dynasty=25560030
+	religion="yersenism"
+	culture="kurdish"
+	trait="tough_soldier"
+	trait="fair"
+	trait="shrewd"
+	trait="envious"
+	trait="wroth"
+	trait="shaykh"
+
+	father=26671046
+	
+	2496.6.8={
+		birth=yes
+	}
+	2540.5.17={
+		death=yes
+	}
+}
+26670030 = {
+	name="Mashad" # Ruler of County of Kurdistan
+	dynasty=25560030
+	religion="yersenism"
+	culture="kurdish"
+	trait="intricate_webweaver"
+	trait="gregarious"
+	trait="deceitful"
+	trait="shaykh"
+	trait="mystic"
+	father=26671047
+	
+	2523.5.8={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26670031 = {
+	name="Ghazi" 
+	dynasty=1981340
+	religion="yazidi"
+	culture="zaza"
+	trait="shaykh"
+	2512.10.10={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+# The Decendents of Hussein and the Hashemite bloodline
+26670120 = {# Ali of Hejaz
+	name="Ali"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670020
+	1879.1.1={
+		birth=yes
+	}
+	1935.2.13={
+		death=yes
+	}
+}
+26671120 = {# Princess Aliya
+	name="Aliya"
+	dynasty=25560111
+	female = yes
+	religion="sunni"
+	culture="levantine_arabic"
+	father=26670120
+	1911.1.1={
+		birth=yes
+	}
+	1950.12.21={
+		death=yes
+	}
+}
+26671121 = {# Prince Abdullah
+	name="Abdullah"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670120
+	1913.11.14={
+		birth=yes
+	}
+	1958.7.14={
+		death = { death_reason = death_murder killer = 26670221 }
+	}
+}
+26670221 = {# For Flavour
+	name="Abdul Sattar Sabaa"
+	dynasty=25560116
+	religion="sunni"
+	culture="iraqi"
+	1910.1.1={
+		birth=yes
+	}
+	1978.4.10={
+		death=yes
+	}
+}
+26670222 = {# For Flavour
+	name="Mustafa Shukri Ashu"
+	religion="sunni"
+	culture="levantine_arabic"
+	1930.2.15={
+		birth=yes
+	}
+	1951.7.20={
+		death = { 
+			death_reason = death_execution
+			killer = 26670121
+		}
+	}
+}
+26670121 = {# King Abdullah of Jordan
+	name="Abdullah"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670020
+	1882.2.1={
+		birth=yes
+	}
+	1951.7.20={
+		death={death_reason = death_murder killer = 26670222}
+	}
+}
+26670122 = {# King Tala of Jordan
+	name="Talal"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	father=26670121
+	trait="lunatic"
+	trait="sayyid"
+	1909.2.26={
+		birth=yes
+	}
+	1972.7.7={
+		death=yes
+	}
+}
+26670123 = {# King Hussein of Jordan
+	name="Hussein"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670122
+	trait="cancer"
+	1935.11.14={
+		birth=yes
+	}
+	1999.2.7={
+		death = { death_reason = death_trait }
+	}
+}
+26670124 = {# King Abdullah II of Jordan
+	name="Abdullah"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670123
+	1962.1.30={
+		birth=yes
+	}
+	2038.5.12={
+		death=yes
+	}
+}
+26670125 = {# King Hussein II of Jordan
+	name="Hussein"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670124
+	1994.6.28={
+		birth=yes
+	}
+	2069.8.6={
+		death=yes
+	}
+}
+26670126 = {# King Faisal of Iraq and Syria
+	name="Faisal"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670020
+	1885.5.20={
+		birth=yes
+	}
+	1933.9.8={
+		death=yes
+	}
+}
+26670127 = {# King Ghazi of Iraq
+	name="Ghazi"
+	dynasty=25560111
+	religion="sunni"
+	culture="iraqi"
+	trait="sayyid"
+	father=26670126
+	1912.5.2={
+		birth=yes
+	}
+	1934.1.25={
+		add_spouse=26671120
+	}
+	1939.4.4={
+		death= { death_reason = death_accident }
+	}
+}
+26670128 = {# King Faisal II of Iraq
+	name="Faisal"
+	dynasty=25560111
+	religion="sunni"
+	culture="iraqi"
+	trait="sayyid"
+	father=26670127
+	mother=26671120
+	1935.5.2={
+		birth=yes
+	}
+	1958.7.14={
+		death = { death_reason = death_murder killer = 26670221 }
+	}
+}
+26670143 = {# King of Jordan
+	name="Faisal"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670125
+	2028.8.26={
+		birth=yes
+	}
+	2077.4.18={
+		death=yes
+	}
+}
+26670144 = {#
+	name="Abdullah"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670143
+	2065.4.10={
+		birth=yes
+	}
+	2133.12.1={
+		death=yes
+	}
+}
+26670129 = {#
+	name="Hussein"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670144
+	2094.1.25={
+		birth=yes
+	}
+	2160.10.12={
+		death=yes
+	}
+}
+26670130 = {#
+	name="Nayef"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670129
+	2125.5.8={
+		birth=yes
+	}
+	2197.8.12={
+		death=yes
+	}
+}
+26670131 = {#
+	name="Hussein"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670130
+	2154.11.5={
+		birth=yes
+	}
+	2222.2.22={
+		death=yes
+	}
+}
+26670132 = {#
+	name="Faisal"
+	dynasty=25560111
+	religion="sunni"
+	trait="sayyid"
+	culture="levantine_arabic"
+	father=26670131
+	2179.8.12={
+		birth=yes
+	}
+	2258.4.28={
+		death=yes
+	}
+}
+26670133 = {#
+	name="Abdullah"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670132
+	2208.4.15={
+		birth=yes
+	}
+	2274.8.12={
+		death=yes
+	}
+}
+26670134 = {#
+	name="Zeid"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670133
+	2235.12.18={
+		birth=yes
+	}
+	2291.7.8={
+		death=yes
+	}
+}
+26670135 = {#
+	name="Hussein"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670134
+	2264.5.18={
+		birth=yes
+	}
+	2332.11.5={
+		death=yes
+	}
+}
+26670136 = {#
+	name="Abdullah"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670135
+	2296.5.24={
+		birth=yes
+	}
+	2366.7.19={
+		death=yes
+	}
+}
+26670137 = {#
+	name="Hussein"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670136
+	2324.8.19={
+		birth=yes
+	}
+	2386.7.14={
+		death=yes
+	}
+}
+26670138 = {#
+	name="Zeid"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670137
+	2348.5.8={
+		birth=yes
+	}
+	2423.8.6={
+		death=yes
+	}
+}
+26670139 = {#
+	name="Abdulaziz"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670138
+	2377.7.15={
+		birth=yes
+	}
+	2448.11.10={
+		death=yes
+	}
+}
+26670140 = {#
+	name="Abdullah"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670139
+	2403.2.10={
+		birth=yes
+	}
+	2471.10.12={
+		death=yes
+	}
+}
+26670141 = {#
+	name="Zeid"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670140
+	2434.10.12={
+		birth=yes
+	}
+	2509.10.12={
+		death=yes
+	}
+}
+26670142 = {#
+	name="Abdullah"
+	dynasty=25560111
+	religion="sunni"
+	culture="levantine_arabic"
+	trait="sayyid"
+	father=26670141
+	2462.1.15={
+		birth=yes
+	}
+	2530.8.12={
+		death=yes
+	}
+}
+26670145 = {#
+	name="Abdiyah"
+	religion="sunni"
+	culture="levantine_arabic"
+	female=yes
+	2489.7.12={
+		birth=yes
+	}
+	2560.8.12={
+		death=yes
+	}
+}
+26670146 = {#
+	name="Fatimah"
+	religion="sunni"
+	culture="levantine_arabic"
+	dynasty=25560111
+	female=yes
+	father=26670021
+	mother=26670145
+	2536.2.14={
+		birth=yes
+	}
+	2560.8.12={
+		death=yes
+	}
+}
+26670147 = {#
+	name="Salihah"
+	religion="sunni"
+	culture="levantine_arabic"
+	dynasty=25560111
+	trait="sayyid"
+	female=yes
+	father=26670142
+	2489.4.15={
+		birth=yes
+	}
+	2560.8.12={
+		death=yes
+	}
+}
+26670148 = {#
+	name="Azza"
+	religion="sunni"
+	culture="levantine_arabic"
+	dynasty=25560111
+	trait="sayyid"
+	female=yes
+	father=26670142
+	2492.5.2={
+		birth=yes
+	}
+	2560.8.12={
+		death=yes
+	}
+}
+
+26672211={#The author of the Necronomicon
+	name="Abdullah"
+	dynasty=26560312
+	learning=10
+	religion="zaydi"
+	culture="yemeni"
+	trait="sympathy_pagans"
+	trait="mystic"
+	2505.11.21={
+		birth=yes
+		effect = { add_artifact = necronomicon }
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26670149={ #Maknzi Al-Taksas, patrician emir of Amriqi origin. Early life details unknown, claims "Taksas", a mysterious land, as his true home. Mainly known for his sociability and large feasts.
+	name="Maknzi"
+	dynasty=2996027 #Al-Taksas
+	religion="sunni"
+	culture="amriqi"
+	trait="gregarious"
+	trait="just"
+	trait="proud"
+	trait="socializer"
+	trait="grey_eminence"
+	2525.11.21={
+		birth=yes
+		effect = {add_artifact = ate_firearm}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26670151={ #Qasim Zayed, patrician emir in Abu Dhabi. Known for his lavishness and odd personality. 
+	name="Qasim"
+	dynasty=3921004 #Zayed
+	religion="sunni"
+	culture="khaliji"
+	trait="thrifty_clerk"
+	trait="paranoid"
+	trait="greedy"
+	trait="gregarious"
+	trait="hedonist"
+	disallow_random_traits = yes
+	2530.1.11={
+		birth=yes		
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26670152={ #Andrew Macey, British businessman and patrician emir in Abu Dhabi. Far away from his homeland, the adventurous Brit now calls Abu Dhabi home and sees fortunes to be made. 
+	name="Andrhyo"
+	dynasty=3921070 #Macey
+	religion="thelemic_reformed"
+	culture="british"
+	trait="midas_touched"
+	trait="sympathy_islam"
+	trait="adventurer"
+	trait="humble"
+	trait="gregarious"
+	trait="socializer"
+	disallow_random_traits = yes
+	2528.1.10={
+		birth=yes
+		effect = {
+			set_character_flag = diversity
+			set_graphical_culture = british
+		}
+	}
+	2549.11.7={
+		add_spouse=26670154
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26670153={ #Ghulam Jarwar, a wealthy Sindhi trader and patrician emir in Abu Dhabi. After rising from rags to riches, Ghulam Jarwar relocated to Abu Dhabi to expand his shipping business. 
+	name="Ghulam"
+	dynasty=3833600 #Jarwar
+	religion="sunni"
+	culture="sindhi"
+	trait="midas_touched"
+	trait="adventurer"
+	trait="humble"
+	trait="patient"
+	trait="zealous"
+	disallow_random_traits = yes
+	2525.2.10={
+		birth=yes		
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26670154={ #Elizabeth Gladwin, wife of Andrew Macey. 
+	name="Elyzabyth"
+	dynasty=3833718 #Gladwin
+	religion="thelemic_reformed"
+	culture="british"
+	trait="grey_eminence"
+	trait="adventurer"
+	trait="proud"
+	trait="patient"
+	trait="groomed"
+	female=yes
+	disallow_random_traits = yes
+	2530.9.10={
+		birth=yes		
+	}
+	2550.11.7={
+		add_spouse=26670152
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26670156={
+	name="Bahir" #Hadramuti under Yemen
+	dynasty=3124000
+	religion="sunni"
+	culture="hadramauti"
+	2520.9.9={
+		birth=yes		
+	}	
+	2590.1.1={
+		death=yes
+	}
+}
+
+26670157={
+	name="Muhammad" #Sunni Bedouin vassal under Hashemites
+	dynasty=1944003
+	religion="sunni"
+	culture="bedouin_arabic"
+	2527.2.9={
+		birth=yes		
+	}	
+	2590.1.1={
+		death=yes
+	}
+}
+
+26670158={
+	name="Daniyal" #Sunni vassal under Hashemites
+	dynasty=1946000
+	religion="sunni"
+	culture="levantine_arabic"
+	2524.9.9={
+		birth=yes		
+	}	
+	2590.1.1={
+		death=yes
+	}
+}
+
+26670159={
+	name="Taimur" #Sunni vassal under Hashemites
+	dynasty=1946001
+	religion="sunni"
+	culture="levantine_arabic"
+	2514.12.9={
+		birth=yes		
+	}	
+	2590.1.1={
+		death=yes
+	}
+}
+
+26670160={
+	name="Rasul" #Sunni vassal under the Namrs
+	dynasty=1946002
+	religion="sunni"
+	culture="levantine_arabic"
+	2514.11.20={
+		birth=yes		
+	}	
+	2590.1.1={
+		death=yes
+	}
+}
+
+26670161={
+	name="Qasim" #Sunni vassal under Palmyra
+	dynasty=1945000
+	religion="sunni"
+	culture="iraqi"
+	2519.11.20={
+		birth=yes		
+	}	
+	2590.1.1={
+		death=yes
+	}
+}
+
+26670162={
+	name="Majid" #Salafi vassal under Aleppo
+	dynasty=1946003
+	religion="wahhabi"
+	culture="levantine_arabic"
+	2528.10.20={
+		birth=yes		
+	}	
+	2590.1.1={
+		death=yes
+	}
+}
+
+26670163={
+	name="Salahaddin" #Salafi vassal under Aleppo
+	dynasty=1946004
+	religion="wahhabi"
+	culture="levantine_arabic"
+	2530.1.20={
+		birth=yes		
+	}	
+	2590.1.1={
+		death=yes
+	}
+}
+
+#Historical Sunni Caliphs start here
+26670164={
+	name="Muhammad" # The Prophet
+	dynasty=3821129
+	religion="sunni"
+	culture="bedouin_arabic"
+	occluded=yes
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=8
+	learning=10
+	trait="mastermind_theologian"
+	trait="sayyid"
+	trait="mystic"
+	trait="zealous"
+	trait="patient"
+	trait="gregarious"
+	trait="ambitious"
+	disallow_random_traits=yes
+	570.4.26={
+		birth="570.4.26"
+	}
+	632.6.8={
+		death="632.6.8"
+	}
+}
+
+26670165={
+	name="Abu-Bakr" # Abu-Bakr
+	dynasty=3821130
+	religion="sunni"
+	culture="bedouin_arabic"
+	occluded=yes
+	trait="skilled_tactician"
+	trait="sayyid"
+	trait="zealous"
+	trait="patient"
+	trait="gregarious"
+	trait="ambitious"
+	trait="legendary"
+	573.10.27={
+		birth=yes
+	}
+	634.8.23={
+		death=yes
+	}
+}
+
+26670166={
+	name="Harun al-Rashid" # Harun al-Rashid
+	dynasty=3821131
+	religion="sunni"
+	culture="bedouin_arabic"
+	occluded=yes
+	trait="midas_touched"
+	trait="sayyid"
+	trait="just"
+	trait="zealous"
+	trait="patient"
+	trait="gregarious"
+	trait="humble"
+	trait="legendary"
+	763.3.17={
+		birth=yes
+	}
+	809.3.24={
+		death=yes
+	}
+}
+
+26670167={
+	name="Al-Mustansir" # Al-Mustansir
+	dynasty=3821132
+	religion="sunni"
+	culture="iraqi"
+	occluded=yes
+	trait="scholarly_theologian"
+	trait="sayyid"
+	trait="legendary"
+	780.1.1={
+		birth=yes
+	}
+	1261.11.28={
+		death=yes
+	}
+}
+
+26670168={
+	name="Abdulmejid" # Abdulmejid
+	dynasty=3821133
+	religion="sunni"
+	culture="turkish"
+	occluded=yes
+	trait="mastermind_theologian"
+	trait="sayyid"
+	trait="legendary"
+	1800.1.1={
+		birth=yes
+	}
+	1944.8.23={
+		death=yes
+	}
+}
+
+26670169={
+	name="Umar" # Umar ibn Al-Khattab
+	dynasty=3821134
+	religion="sunni"
+	culture="bedouin_arabic"
+	occluded=yes
+	trait="mastermind_theologian"
+	trait="sayyid"
+	trait="patient"
+	trait="gregarious"
+	trait="legendary"
+	trait="sympathy_judaism"
+	583.1.1={
+		birth=yes
+	}
+	644.11.1={
+		death=yes
+	}
+}
+
+26670170={
+	name="Uthman" # Uthman ibn Affan
+	dynasty=3821135
+	religion="sunni"
+	culture="bedouin_arabic"
+	occluded=yes
+	trait="mastermind_theologian"
+	trait="sayyid"
+	trait="zealous"
+	trait="erudite"
+	trait="gregarious"
+	trait="legendary"
+	576.1.1={
+		birth=yes
+	}
+	656.6.17={
+		death=yes
+	}
+}
+
+26670171={
+	name="Ali" # Ali
+	dynasty=3821136
+	religion="sunni" #this is before the Sunni/Shia split
+	culture="bedouin_arabic"
+	occluded=yes
+	trait="mastermind_theologian"
+	trait="sayyid"
+	trait="zealous"
+	trait="erudite"
+	trait="humble"
+	trait="content"
+	trait="gregarious"
+	trait="legendary"
+	601.9.13={
+		birth=yes
+	}
+	661.1.28={
+		death=yes
+	}
+}
+#End of Sunni Caliphs
+
+2667800 ={
+	name="Eshai" # Eshai
+	dynasty=1974123 # Taddai
+	religion="chaldean"
+	culture="siryon"
+	trait="skilled_tactician"
+	trait="brave"
+	trait="sympathy_islam"
+	trait="strong"
+	trait="proud"
+	2533.2.10={
+		birth=yes
+	}
+	2553.5.20={
+		add_spouse=2667801
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+2667801 ={
+	name="Dikla"
+	dynasty=1974124
+	religion="chaldean"
+	culture="siryon"
+	trait="charismatic_negotiator"
+	trait="erudite"
+	trait="sympathy_islam"
+	trait="fair"
+	female=yes
+	2533.7.15={
+		birth=yes
+	}
+	2553.5.20={
+		add_spouse=2667800
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+2667802 ={
+	name="Shimun"
+	dynasty=1974123
+	religion="chaldean"
+	culture="siryon"
+	father=2667800
+	mother=2667801
+	2554.9.29={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+####Syriac-Chaldean patriarchs of the east
+
+2667803 ={
+	name="Yuhanon"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2142.1.1={
+		birth=yes
+	}
+	2223.1.1={
+		death=yes
+	}
+}
+
+2667804 ={
+	name="Yeshua"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2175.1.1={
+		birth=yes
+	}
+	2252.1.1={
+		death=yes
+	}
+}
+
+2667805 ={
+	name="Ya'qub"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2198.1.1={
+		birth=yes
+	}
+	2271.1.1={
+		death=yes
+	}
+}
+
+2667806 ={
+	name="Aphrem"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2210.1.1={
+		birth=yes
+	}
+	2275.1.1={
+		death=yes
+	}
+}
+
+2667807 ={
+	name="Mikho"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2223.1.1={
+		birth=yes
+	}
+	2283.1.1={
+		death=yes
+	}
+}
+
+2667808 ={
+	name="Abdullah"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2240.1.1={
+		birth=yes
+	}
+	2301.1.1={
+		death=yes
+	}
+}
+
+2667809 ={
+	name="Ignatius"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2269.1.1={
+		birth=yes
+	}
+	2335.1.1={
+		death=yes
+	}
+}
+
+2667810 ={
+	name="Ignatius"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2277.1.1={
+		birth=yes
+	}
+	2346.1.1={
+		death=yes
+	}
+}
+
+2667811 ={
+	name="Shimun"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2281.1.1={
+		birth=yes
+	}
+	2355.1.1={
+		death=yes
+	}
+}
+
+2667812 ={
+	name="Gewargis"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2295.1.1={
+		birth=yes
+	}
+	2362.1.1={
+		death=yes
+	}
+}
+
+2667813 ={
+	name="Ya'qub"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2309.1.1={
+		birth=yes
+	}
+	2380.1.1={
+		death=yes
+	}
+}
+
+2667814 ={
+	name="Zakka"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2315.1.1={
+		birth=yes
+	}
+	2388.1.1={
+		death=yes
+	}
+}
+
+2667815 ={
+	name="Yeshua"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2325.1.1={
+		birth=yes
+	}
+	2397.1.1={
+		death=yes
+	}
+}
+
+2667816 ={
+	name="Aphrem"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2338.1.1={
+		birth=yes
+	}
+	2410.1.1={
+		death=yes
+	}
+}
+
+2667817 ={
+	name="Zakka"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2350.1.1={
+		birth=yes
+	}
+	2423.1.1={
+		death=yes
+	}
+}
+
+2667818 ={
+	name="Eliya"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2375.1.1={
+		birth=yes
+	}
+	2442.1.1={
+		death=yes
+	}
+}
+
+2667819 ={
+	name="Mshiho"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2390.1.1={
+		birth=yes
+	}
+	2459.1.1={
+		death=yes
+	}
+}
+
+2667820 ={
+	name="Shimun"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2399.1.1={
+		birth=yes
+	}
+	2467.1.1={
+		death=yes
+	}
+}
+
+2667821 ={
+	name="Abdullah"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2410.1.1={
+		birth=yes
+	}
+	2478.1.1={
+		death=yes
+	}
+}
+
+2667822 ={
+	name="Ignatius"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2418.1.1={
+		birth=yes
+	}
+	2490.1.1={
+		death=yes
+	}
+}
+
+2667823 ={
+	name="Mikho"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2438.1.1={
+		birth=yes
+	}
+	2501.1.1={
+		death=yes
+	}
+}
+
+2667824 ={
+	name="Shukrallah"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2450.1.1={
+		birth=yes
+	}
+	2515.1.1={
+		death=yes
+	}
+}
+
+2667825 ={
+	name="Yuhanon"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2460.1.1={
+		birth=yes
+	}
+	2529.1.1={
+		death=yes
+	}
+}
+
+2667826 ={
+	name="Yuhanon"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2470.1.1={
+		birth=yes
+	}
+	2537.1.1={
+		death=yes
+	}
+}
+
+2667827 ={
+	name="Aphrem"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2480.1.1={
+		birth=yes
+	}
+	2545.1.1={
+		death=yes
+	}
+}
+
+2667828 ={
+	name="Ya'qub"
+	religion="chaldean"
+	culture="levantine_arabic"
+	2506.1.1={
+		birth=yes
+	}
+	2570.1.1={
+		death=yes
+	}
+}
+
+2667829 ={
+	name="Qasim"
+	dynasty=25560004
+	religion="shiite"
+	culture="iraqi"
+	father=26670007
+	trait="sayyid"
+	trait="content"
+	trait="kind"
+	trait="shy"
+	disallow_random_traits=yes
+	2550.7.16={
+		birth=yes
+	}
+	2690.1.1={
+		death=yes
+	}
+}

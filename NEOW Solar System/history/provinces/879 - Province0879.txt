@@ -1,0 +1,20 @@
+# 879 - Province0879
+
+# County Title
+title = c_province0879
+
+# Settlements
+max_settlements = 5
+b_barony0879` = city
+b_barony0879a = temple
+b_barony0879b = castle
+b_barony0879c = city
+
+# Misc
+culture = turkish
+religion = summer_queen
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_108790
+}

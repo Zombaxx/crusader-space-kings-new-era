@@ -1,0 +1,16 @@
+# 2133 - Province2133
+
+# County Title
+title = c_province2133
+
+# Settlements
+max_settlements = 4
+b_barony2133` = castle
+b_barony2133a = temple
+b_barony2133b = city
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

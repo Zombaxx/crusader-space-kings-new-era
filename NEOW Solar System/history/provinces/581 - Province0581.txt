@@ -1,0 +1,17 @@
+# 581 - Province0581
+
+# County Title
+title = c_province0581
+
+# Settlements
+max_settlements = 5
+b_barony0581` = castle
+b_barony0581a = temple
+b_barony0581b = city
+b_barony0581c = castle
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

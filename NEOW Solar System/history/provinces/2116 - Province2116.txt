@@ -1,0 +1,16 @@
+# 2116 - Province2116
+
+# County Title
+title = c_province2116
+
+# Settlements
+max_settlements = 4
+b_barony2116` = castle
+b_barony2116a = temple
+b_barony2116b = city
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

@@ -1,0 +1,18 @@
+804.1.1 = {
+	set_tribute_suzerain = {
+		who = e_empire0531
+		type = permanent 
+	}
+}
+937.1.1 = {
+	holder = 110380
+}
+988.1.1 = {
+	holder = 110381
+}
+1017.1.1 = {
+	holder = 110382
+}
+1063.1.1 = {
+	holder = 110385
+}

@@ -1,0 +1,16 @@
+# 288 - Province0288
+
+# County Title
+title = c_province0288
+
+# Settlements
+max_settlements = 4
+b_barony0288` = city
+b_barony0288a = temple
+b_barony0288b = castle
+
+# Misc
+culture = federalist
+religion = catholic
+
+# History

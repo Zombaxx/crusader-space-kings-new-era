@@ -1,0 +1,4740 @@
+26664139 ={
+    name="Lopatin" 
+	dynasty=25554110
+	religion="zarist"
+	culture="pietrovan"
+	diplomacy=6
+	martial=4
+	stewardship=6
+	intrigue=4
+	learning=7
+	trait="underhanded_rogue"
+	trait="charitable"
+	trait="arbitrary"
+	trait="deceitful"
+	trait="kind"		
+	2513.8.20={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664140 ={
+    name="Akim" 
+	dynasty=25554111
+	religion="zarist"
+	culture="pietrovan"
+	diplomacy=9
+	martial=7
+	stewardship=1
+	intrigue=6
+	learning=2
+	trait="underhanded_rogue"
+	trait="weak"
+	trait="gluttonous"
+	trait="charitable"
+	trait="stubborn"
+	trait="lustful"		
+	2526.4.14={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664141 ={
+    name="Valentin" 
+	dynasty=25554112
+	religion="zarist"
+	culture="yuzhane"
+	diplomacy=9
+	martial=7
+	stewardship=1
+	intrigue=6
+	learning=2
+	trait="grey_eminence"
+	trait="humble"
+	trait="content"
+	trait="wroth"
+	trait="craven"
+	2521.3.26={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664142 ={
+    name="Mikhail" 
+	dynasty=25554113
+	religion="zarist"
+	culture="yuzhane"
+	diplomacy=6
+	martial=4
+	stewardship=5
+	intrigue=8
+	learning=9
+	trait="tough_soldier"
+	trait="proud"
+	trait="arbitrary"
+	trait="greedy"
+	trait="stubborn"
+	2532.5.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664143 ={
+    name="Anatoliy" 
+	dynasty=25554114
+	religion="zarist"
+	culture="yuzhane"
+	diplomacy=8
+	martial=4
+	stewardship=9
+	intrigue=8
+	learning=9
+	trait="martial_cleric"
+	trait="gluttonous"
+	trait="patient"
+	trait="kind"
+	trait="stubborn"
+	2525.8.6={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+
+
+26664145 ={
+    name="Arkadiy" 
+	dynasty=25554116
+	religion="zarist"
+	culture="pietrovan"
+	diplomacy=6
+	martial=2
+	stewardship=8
+	intrigue=3
+	learning=8
+	trait="elusive_shadow"
+	trait="content"
+	trait="just"
+	trait="proud"
+	trait="cynical"
+	2529.2.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664146 ={
+    name="Alexei" 
+	dynasty=25554118
+	father=26674293
+	religion="folklorist"
+	culture="pomoran"
+	diplomacy=3
+	martial=2
+	stewardship=8
+	intrigue=7
+	learning=7
+	trait="grey_eminence"
+	trait="cruel"
+	trait="ambitious"
+	trait="socializer"
+	trait="wroth"
+	trait="cynical"
+	2514.7.14={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664147 ={
+    name="Gena" 
+	dynasty=25554119
+	religion="folklorist"
+	culture="pomoran"
+	diplomacy=2
+	martial=8
+	stewardship=3
+	intrigue=7
+	learning=5
+	trait="fortune_builder"
+	trait="diligent"
+	trait="charitable"
+	trait="brave"
+	trait="envious"
+	2504.3.15={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664148 ={
+    name="Makariy" 
+	dynasty=25554120
+	father=26674308
+	religion="folklorist"
+	culture="pomoran"
+	diplomacy=7
+	martial=9
+	stewardship=1
+	intrigue=3
+	learning=1
+	trait="thrifty_clerk"
+	trait="trusting"
+	trait="wroth"
+	trait="chaste"
+	trait="humble"
+	2524.11.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664149 ={
+    name="Varvara" 
+	dynasty=25554121
+	religion="folklorist"
+	culture="pomoran"
+	female=yes
+	diplomacy=6
+	martial=3
+	stewardship=3
+	intrigue=1
+	learning=1
+	trait="flamboyant_schemer"
+	trait="seductress"	
+	trait="lustful"
+	trait="proud"
+	trait="arbitrary"
+	trait="temperate"
+	2532.6.8={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664150 ={
+    name="Valeriy" 
+	dynasty=25554122
+	religion="folklorist"
+	culture="pomoran"
+	diplomacy=2
+	martial=5
+	stewardship=1
+	intrigue=7
+	learning=4
+	trait="amateurish_plotter"
+	trait="lefthanded"	
+	trait="chaste"
+	trait="gluttonous"
+	trait="arbitrary"
+	trait="deceitful"
+	2514.3.8={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664151 ={
+    name="Nikalaih" 
+	dynasty=25554123
+	religion="folklorist"
+	culture="volgar"
+	diplomacy=7
+	martial=7
+	stewardship=5
+	intrigue=8
+	learning=2
+	trait="tough_soldier"
+	trait="duelist"	
+	trait="diligent"
+	trait="lustful"
+	trait="erudite"
+	trait="greedy"
+	2525.1.22={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664152 ={
+    name="Anton" 
+	dynasty=25554124
+	religion="folklorist"
+	culture="pomoran"
+	diplomacy=8
+	martial=5
+	stewardship=3
+	intrigue=3
+	learning=7
+	trait="mastermind_theologian"
+	trait="poet"	
+	trait="erudite"
+	trait="diligent"
+	trait="wroth"
+	trait="greedy"
+	2529.9.6={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664165 ={
+    name="Dazdraperm" 
+	dynasty=25554136
+	religion="zarist"
+	culture="yuzhane"
+	diplomacy=1
+	martial=8
+	stewardship=3
+	intrigue=9
+	learning=2
+	trait="fortune_builder"
+	trait="theologian"	
+	trait="charitable"
+	trait="content"
+	trait="gregarious"
+	trait="kind"
+	2516.4.24={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664166 ={
+    name="Sergey" 
+	dynasty=25554137
+	religion="zarist"
+	culture="yuzhane"
+	diplomacy=7
+	martial=7
+	stewardship=1
+	intrigue=8
+	learning=9
+	trait="grey_eminence"
+	trait="slothful"	
+	trait="shy"
+	trait="stubborn"
+	trait="temperate"
+	2524.1.21={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664167 ={
+    name="Leha" 
+	dynasty=25554138
+	religion="zarist"
+	culture="yuzhane"
+	diplomacy=9
+	martial=1
+	stewardship=4
+	intrigue=4
+	learning=1
+	trait="intricate_webweaver"
+	trait="deceitful"	
+	trait="craven"
+	trait="shy"
+	trait="arbitrary"
+	2508.8.22={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664168 ={
+    name="Leontiy" 
+	dynasty=25554139
+	religion="zarist"
+	culture="yuzhane"
+	diplomacy=2
+	martial=6
+	stewardship=4
+	intrigue=1
+	learning=3
+	trait="skilled_tactician"
+	trait="proud"	
+	trait="gluttonous"
+	trait="greedy"
+	trait="kind"
+	2532.4.4={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664169 ={
+    name="Nikolai" 
+	dynasty=25554140
+	religion="zarist"
+	culture="yuzhane"
+	diplomacy=6
+	martial=6
+	stewardship=4
+	intrigue=8
+	learning=7
+	trait="charismatic_negotiator"
+	trait="is_fat"
+	trait="cruel"	
+	trait="slothful"
+	trait="wroth"
+	trait="zealous"	
+	2520.9.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664170 ={
+    name="Stefan" 
+	dynasty=25554141
+	religion="zarist"
+	culture="muscovite"
+	diplomacy=6
+	martial=1
+	stewardship=8
+	intrigue=8
+	learning=3
+	trait="naive_appeaser"
+	trait="paranoid"
+	trait="deceitful"	
+	trait="craven"
+	trait="diligent"
+	2521.3.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26667004 = {#Son of Stefan
+	name="Lev" #
+	dynasty=25554141
+	father = 26664170
+	religion="zarist"
+	culture="muscovite"
+	trait="charismatic_negotiator"
+	trait="temperate"
+	trait="brave"
+	trait="ambitious"
+	trait="honest"
+	2537.5.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664171 ={
+    name="Iliya" 
+	dynasty=25554142
+	religion="zarist"
+	culture="yuzhane"
+	diplomacy=1
+	martial=7
+	stewardship=8
+	intrigue=5
+	learning=3
+	trait="fortune_builder"
+	trait="content"
+	trait="honest"	
+	trait="patient"
+	trait="gregarious"
+	2526.6.6={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664172 ={
+    name="Mikhail" 
+	dynasty=25554143
+	religion="zarist"
+	culture="muscovite"
+	diplomacy=7
+	martial=3
+	stewardship=4
+	intrigue=2
+	learning=6
+	trait="elusive_shadow"
+	trait="paranoid"
+	trait="temperate"	
+	trait="slothful"
+	trait="zealous"
+	2522.9.26={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664173 ={
+    name="Ivan" 
+	dynasty=25554144
+	religion="zarist"
+	culture="muscovite"
+	diplomacy=1
+	martial=0
+	stewardship=8
+	intrigue=7
+	learning=1
+	trait="charismatic_negotiator"
+	trait="patient"
+	trait="gluttonous"	
+	trait="greedy"
+	trait="ambitious"
+	2524.2.21={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664174 ={
+    name="Valentin" 
+	dynasty=25554145
+	religion="zarist"
+	culture="muscovite"
+	diplomacy=5
+	martial=4
+	stewardship=8
+	intrigue=9
+	learning=1
+	trait="skilled_tactician"
+	trait="theologian"
+	trait="wroth"	
+	trait="zealous"
+	trait="just"
+	trait="temperate"	
+	2535.3.14={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664175 ={
+    name="Igor" 
+	dynasty=25554146
+	religion="zarist"
+	culture="muscovite"
+	diplomacy=9
+	martial=6
+	stewardship=8
+	intrigue=2
+	learning=5
+	trait="amateurish_plotter"
+	trait="just"
+	trait="content"	
+	trait="gregarious"
+	trait="paranoid"
+	trait="scholar"	
+	2523.11.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664176 ={
+    name="Yos" 
+	dynasty=25554147
+	religion="zarist"
+	culture="muscovite"
+	diplomacy=5
+	martial=2
+	stewardship=9
+	intrigue=7
+	learning=4
+	trait="elusive_shadow"
+	trait="cruel"
+	trait="diligent"	
+	trait="humble"
+	trait="envious"
+	2528.5.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664177 ={
+    name="Nikalaiy" 
+	dynasty=25554148
+	religion="orthodox"
+	culture="mari"
+	diplomacy=4
+	martial=6
+	stewardship=6
+	intrigue=8
+	learning=1
+	trait="orthodox_vasiliy"
+	trait="skilled_tactician"
+	trait="proud"
+	trait="wroth"	
+	trait="paranoid"
+	trait="diligent"
+	2531.3.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664178 ={
+    name="Fedot" 
+	dynasty=25554149
+	religion="zarist"
+	culture="muscovite"
+	diplomacy=3
+	martial=4
+	stewardship=1
+	intrigue=8
+	learning=2
+	trait="misguided_warrior"
+	trait="cruel"
+	trait="zealous"	
+	trait="stubborn"
+	trait="is_fat"
+    trait="wroth"
+
+	2522.3.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26667005 = {#Son of Fedot
+	name="Michael" #
+	dynasty=25554149 # Guidi
+	father = 26664178
+	religion="zarist"
+	culture="muscovite"
+	trait="charismatic_negotiator"
+	trait="temperate"
+	trait="brave"
+	trait="ambitious"
+	trait="honest"
+	2539.5.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26669104 = {
+	name="Petya"
+	dynasty=25559104
+	father=26674314
+	religion="folklorist"
+	culture="pomoran"
+	diplomacy=1
+	martial=14
+	stewardship=1
+	intrigue=4
+	learning=0
+	trait="brilliant_strategist"
+	trait="strong"
+	trait="just"
+	trait="wroth"
+	2533.3.20={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26669105 = {
+	name="Demitrih"
+	dynasty=25559105
+	father=26674288
+	religion="oldbeliever"
+	culture="volgar"
+	diplomacy=6
+	martial=8
+	stewardship=9
+	intrigue=2
+	learning=7
+	trait="fortune_builder"
+	trait="zealous"
+	trait="greedy"
+	trait="humble"
+	2526.2.22={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26669106 = {
+	name="Boris"
+	dynasty=25559106
+	religion="oldbeliever"
+	culture="pomoran"
+	diplomacy=2
+	martial=14
+	stewardship=3
+	intrigue=7
+	learning=2
+	trait="tough_soldier"
+	trait="zealous"
+	trait="wroth"
+	trait="proud"
+	2515.4.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26669107 = {
+	name="Alexandr"
+	dynasty=25559107
+	religion="oldbeliever"
+	culture="pomoran"
+	diplomacy=11
+	martial=5
+	stewardship=4
+	intrigue=15
+	learning=11
+	trait="intricate_webweaver"
+	trait="deceitful"
+	trait="greedy"
+	trait="zealous"
+	2530.1.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26669108 = {
+	name="Mikhail"
+	dynasty=25559108
+	religion="oldbeliever"
+	culture="sibiran"
+	diplomacy=4
+	martial=5
+	stewardship=7
+	intrigue=1
+	learning=7
+	trait="tough_soldier"
+	trait="deceitful"
+	trait="wroth"
+	trait="slothful"
+	2515.4.15={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26669109 = {
+	name="Boris"
+	dynasty=25559109
+	religion="starist_pagan"
+	culture="samoyed"
+	diplomacy=14
+	martial=12
+	stewardship=8
+	intrigue=1
+	learning=1
+	trait="tough_soldier"
+	trait="gregarious"
+	2537.1.14={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26669110 = {
+	name="Hfadim"
+	dynasty=25559110
+	religion="starist_pagan"
+	culture="volgar"
+	diplomacy=3
+	martial=4
+	stewardship=5
+	intrigue=6
+	learning=7
+	trait="naive_appeaser"
+	trait="shy"
+	trait="strong"
+	trait="stubborn"
+
+	2530.5.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26669111 = {
+	name="Hazim"
+	dynasty=25559111
+	religion="jadidist"
+	culture="tatarian"
+	diplomacy=4
+	martial=6
+	stewardship=1
+	intrigue=9
+	learning=5
+	trait="indulgent_wastrel"
+	trait="envious"
+	trait="fair"
+	trait="robust"
+
+	2526.9.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26668000 = {#Founder of the snowbear bloodline
+	name="Mishoh"
+	dynasty=25659190
+	religion="folklorist"
+	culture="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=1
+	martial=11
+	stewardship=4
+	intrigue=2
+	learning=1
+	trait="skilled_tactician"
+	trait="strong"
+	trait="brave"
+	trait="wroth"
+	trait="proud"
+
+	2390.12.22={
+		birth=yes
+	}
+	2407.12.22={
+		give_nickname = nick_the_bear
+		add_trait="berserker"
+		create_bloodline = { type = snowbear has_dlc = "Holy Fury" }
+	}
+	2436.12.22={
+		death=yes
+	}
+}
+26668001 = {
+	name="Hfadimir"
+	dynasty=25659190
+	religion="folklorist"
+	culture="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=6
+	martial=5
+	stewardship=7
+	intrigue=2
+	learning=2
+	trait="thrifty_clerk"
+	trait="strong"
+	trait="brave"
+	trait="paranoid"
+	trait="chaste"
+	father=26668000
+
+	2411.3.10={
+		birth=yes
+	}
+	2468.12.22={
+		death=yes
+	}
+}
+26668002 = {#Misha II, Son of Vladimir I. Had an unfortunate accident at 22 that rendered him infertile
+	name="Mishoh"
+	dynasty=25659190
+	religion="folklorist"
+	culture="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=2
+	martial=9
+	stewardship=1
+	intrigue=1
+	learning=0
+	trait="tough_soldier"
+	trait="strong"
+	trait="cruel"
+	trait="paranoid"
+	trait="lustful"
+	trait="eunuch"
+	father=26668001
+	
+
+	2438.3.10={
+		birth=yes
+	}
+	2460.3.12={
+		give_nickname = nick_the_brute
+	}
+	2483.11.20={
+		death=yes
+	}
+}
+26668003 = {#Boris I, bastard-son of Vlad I, took over the Tribe when Misha II (obviously) failed to produce an heir
+	name="Boryoh"
+	dynasty=25559112
+	religion="folklorist"
+	culture="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=2
+	martial=9
+	stewardship=1
+	intrigue=1
+	learning=0
+	trait="tough_soldier"
+	trait="strong"
+	trait="just"
+	trait="bastard"
+	
+	father=26668001
+
+	2441.9.3={
+		birth=yes
+	}
+	
+	2500.5.1={
+		death=yes
+	}
+}
+26668004 = {#Misha III, an unremarkable fool
+	name="Mishoh"
+	dynasty=25559112
+	religion="folklorist"
+	culture="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=2
+	martial=4
+	stewardship=1
+	intrigue=1
+	learning=0
+	trait="misguided_warrior"
+	trait="slow"
+	trait="strong"
+	trait="fair"
+	trait="envious"
+	
+	father=26668003
+
+	2469.9.3={
+		birth=yes
+	}
+	
+	2516.2.12={
+		death=yes
+	}
+}
+26668005 = {#Anatoly, a wise man and your father
+	name="Anatoh"
+	dynasty=25559112
+	religion="folklorist"
+	culture="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=6
+	martial=2
+	stewardship=1
+	intrigue=4
+	learning=6
+	trait="martial_cleric"
+	trait="strong"
+	trait="fair"
+	trait="mystic"
+	trait="kind"
+	trait="gluttonous"
+	
+	father=26668004
+
+	2496.9.3={
+		birth=yes
+	}
+	
+	2550.6.11={
+		death=yes
+	}
+}
+26669112 = {
+	name="Demitrih"
+	dynasty=25559112
+	religion="folklorist"
+	culture="volgar"
+	diplomacy=1
+	martial=9
+	stewardship=12
+	intrigue=4
+	learning=2
+	trait="skilled_tactician"
+	trait="strong"
+	trait="fair"
+	trait="envious"
+	trait="greedy"
+	trait="proud"
+	trait="cruel"
+	father=26668005
+
+	2529.5.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26669113 = {
+	name="Fyodor"
+	dynasty=25559113
+	religion="oldbeliever"
+	culture="pomoran"
+	diplomacy=11
+	martial=4
+	stewardship=12
+	intrigue=2
+	learning=1
+	trait="naive_appeaser"
+	trait="humble"
+	trait="shy"
+	trait="zealous"
+
+	2514.3.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26669114 = {
+	name="Grigori"
+	dynasty=25559114
+	religion="folklorist"
+	culture="sibiran"
+	diplomacy=2
+	martial=5
+	stewardship=3
+	intrigue=9
+	learning=11
+	trait="tough_soldier"
+	trait="humble"
+	trait="eccentric"
+	trait="greedy"
+
+	2510.11.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26669115 = {
+	name="Konstantin"
+	dynasty=25559115
+	religion="zarist"
+	culture="muscovite"
+	disallow_random_traits = yes
+    
+	diplomacy=6
+	martial=4
+	stewardship=9
+	intrigue=3
+	learning=7
+	trait="skilled_tactician"
+	trait="humble"
+	trait="zealous"
+
+	2505.12.25 ={
+		birth=yes
+	}
+	2537.8.28={
+		death = {death_reason = death_battle killer = 26669118}
+	}
+}
+
+
+26669116 = {
+	name="Abdulla"
+	dynasty=25559116
+	religion="ironist"
+	culture="kazakh"
+	diplomacy=3
+	martial=8
+	stewardship=5
+	intrigue=2
+	learning=4
+	trait="brilliant_strategist"
+	trait="scarred_high"
+	trait="cynical"
+	trait="patient"
+
+	2496.1.1 ={
+		birth=yes
+		give_nickname=nick_the_conqueror
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26669117 = {
+	name="Solayman"
+	dynasty=25559117
+	religion="jadidist"
+	culture="bashkir"
+	diplomacy=7
+	martial=5
+	stewardship=8
+	intrigue=4
+	learning=7
+	trait="thrifty_clerk"
+	trait="greedy"
+	trait="proud"
+	trait="just"
+
+	2512.6.8 ={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+
+
+26669119 = {
+	name="Nikolai"
+	dynasty=25559119
+	religion="folklorist"
+	culture="pomoran"
+	diplomacy=4
+	martial=4
+	stewardship=7
+	intrigue=2
+	learning=4
+	trait="thrifty_clerk"
+	trait="wroth"
+	trait="humble"
+	trait="arbitrary"
+
+	2522.10.12 ={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+	
+26669122 = {
+	name="Oleg"
+	dynasty=25559122
+	religion="folklorist"
+	culture="sibiran"
+	diplomacy=7
+	martial=0
+	stewardship=9
+	intrigue=3
+	learning=12
+	trait="midas_touched"
+	trait="robust"
+	trait="charitable"
+	trait="kind"
+
+	2489.1.1 ={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26669123 = {
+	name="Boris"
+	dynasty=25559122
+	father=26669122
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=7
+	martial=0
+	stewardship=9
+	intrigue=3
+	learning=12
+	trait="tough_soldier"
+	trait="robust"
+	trait="honest"
+	trait="humble"
+
+	2509.7.5 ={
+		birth=yes
+	}
+	2553.12.8={
+		death=yes
+	}
+}
+26669124 = {
+	name="Igor"
+	dynasty=25559122
+	father=26669123
+	religion="folklorist"
+	culture="pomoran"
+	diplomacy=5
+	martial=9
+	stewardship=9
+	intrigue=9
+	learning=9
+	trait="tough_soldier"
+	trait="robust"
+	trait="honest"
+	trait="quick"
+
+	2536.12.14 ={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26669125 = {
+	name="Gennady"
+	dynasty=255590001
+	father=26674299
+	dna="rgpejopqxnm"
+	properties="qj0d0d00000000000000000000000000000000"
+	religion="stalinist"
+	culture="yuzhane"
+	diplomacy=5
+	martial=7
+	stewardship=4
+	intrigue=3
+	learning=6
+	trait="scholarly_theologian"
+	trait="flanker"
+	trait="flat_terrain_leader"
+	trait="uncouth"
+	trait="honest"
+	trait="quick"
+	trait="brave"
+	trait="cannibal_trait"
+	trait="bloodthirsty_gods_1"
+
+	2522.2.18 ={
+		birth=yes
+	}
+	2542.2.12 ={
+		add_spouse=26674307
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664286 = {
+    name="Yanka" 
+	dynasty=25554269
+	female=yes
+	religion="folklorist"
+	culture="sibiran"
+	diplomacy=7
+	martial=2
+	stewardship=3
+	intrigue=2
+	learning=8
+	trait="grey_eminence"
+	trait="just"
+	trait="poet"	
+	trait="slothful"	
+	trait="zealous"	
+	2529.4.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664287 = {
+    name="Yuri" 
+	dynasty=25554270
+	religion="folklorist"
+	culture="sibiran"
+	diplomacy=5
+	martial=5
+	stewardship=3
+	intrigue=2
+	learning=1
+	trait="naive_appeaser"
+	trait="envious"
+	trait="stubborn"	
+	trait="slothful"	
+	trait="craven"	
+	2530.4.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26674288 = {
+	name="Demitrih"
+	dynasty=25559105
+	father=26674289
+	religion="oldbeliever"
+	culture="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=3
+	martial=3
+	stewardship=0
+	intrigue=4
+	learning=7
+	trait="indulgent_wastrel"
+	trait="is_fat"
+	trait="greedy"
+	trait="lustful"
+	trait="legit_bastard"
+	2496.7.21={
+		birth=yes
+		give_nickname="nick_the_bastard"
+	}
+	2530.1.10={
+		death=yes
+	}
+}
+
+26674289 = {
+	name="Aleks"
+	dynasty=25559105
+	father=26674290
+	religion="oldbeliever"
+	culture="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=13
+	martial=7
+	stewardship=6
+	intrigue=2
+	learning=8
+	trait="grey_eminence"
+	trait="leper"
+	trait="disfigured"
+	trait="kind"
+	trait="weak"
+	trait="erudite"
+	2486.2.12={
+		birth=yes
+		give_nickname=nick_the_hideous
+	}
+	2523.6.11={
+		death={
+			death_reason=death_poor_health
+		}
+	}
+}
+	
+26674290 = {
+	name="Hfarlam"
+	dynasty=25559105
+	father="26674291"
+	religion="oldbeliever"
+	culture="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=1
+	martial=3
+	stewardship=5
+	intrigue=3
+	learning=18
+	trait="scholarly_theologian"
+	trait="strong"
+	trait="celibate"
+	trait="dwarf"
+	trait="duelist"
+	2422.1.22={
+		birth=yes
+		give_nickname=nick_the_holy
+	}
+	2492.2.12={
+		death={
+			death_reason=death_accident
+		}
+	}
+}	
+26674291 = {
+	name="Aleks"
+	dynasty=25559105
+	father=26674292
+	religion="oldbeliever"
+	culture="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=0
+	martial=13
+	stewardship=8
+	intrigue=3
+	learning=3
+	trait="tough_soldier"
+	trait="strong"
+	trait="giant"
+	trait="shy"
+	trait="impaler"
+	trait="cruel"
+	2372.12.24={
+		birth=yes
+		give_nickname=nick_the_bear
+	}
+	2442.7.28={
+		death={
+			death_reason=death_battle
+		}
+	}
+}	
+	
+26674292 = {
+	name="Alexei"
+	dynasty=25559105
+	religion="oldbeliever"
+	culture="sibiran"
+	disallow_random_traits = yes
+    
+	diplomacy=12
+	martial=17
+	stewardship=4
+	intrigue=5
+	learning=6
+	trait="charismatic_negotiator"
+	trait="depressed"
+	trait="genius"
+	trait="shy"
+	trait="one_legged"
+	trait="lefthanded"
+	trait="adventurer"
+	2332.11.25={
+		birth=yes
+	}
+	2387.7.7={
+		death={
+			death_reason=death_suicide
+		}
+	}
+}	
+
+
+26674293 ={
+    name="Mikhail" 
+	dynasty=25554118
+	father=26674297
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=4
+	martial=3
+	stewardship=7
+	intrigue=17
+	learning=3
+	trait="intricate_webweaver"
+	trait="ambitious"
+	trait="schemer"
+	trait="envious"
+	trait="wroth"
+	2466.2.17={
+		birth=yes
+		give_nickname=nick_the_lucky
+	}
+	2545.12.6={
+		death=yes
+	}
+}
+
+
+26674294 ={
+    name="Vadim" 
+	dynasty=2556502
+	father=26674296
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=4
+	martial=3
+	stewardship=7
+	intrigue=8
+	learning=3
+	trait="thrifty_clerk"
+	trait="cruel"
+	trait="slothful"
+	trait="socializer"
+	trait="wroth"
+	2506.2.17={
+		birth=yes
+	}
+	2524.7.6={
+		death={
+			death_reason=death_murder_unknown
+			killer=26674293
+		}
+	}
+}
+26674295 ={
+    name="Vadim" 
+	dynasty=2556502
+	father=26674296
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=4
+	martial=2
+	stewardship=1
+	intrigue=2
+	learning=3
+	trait="naive_appeaser"
+	trait="shy"
+	trait="envious"
+	trait="craven"
+	2496.1.21={
+		birth=yes
+	}
+	2518.5.2={
+		death={
+			death_reason=death_murder_unknown
+			killer=26674293
+		}
+	}
+}
+
+26674296 ={
+    name="Vadim" 
+	dynasty=2556502
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=12
+	martial=13
+	stewardship=11
+	intrigue=12
+	learning=4
+	trait="tough_soldier"
+	trait="strong"
+	trait="scarred"
+	trait="content"
+	2466.1.21={
+		birth=yes
+		give_nickname=nick_the_usurper
+	}
+	2515.3.12={
+		death={
+			death_reason=death_murder_unknown
+			killer=26674293
+		}
+	}
+}
+26674297 ={
+    name="Vladislaus" 
+	dynasty=25554118
+	father=26674298
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=2
+	martial=7
+	stewardship=2
+	intrigue=3
+	learning=6
+	trait="indulgent_wastrel"
+	trait="slothful"
+	trait="hedonist"
+	trait="lustful"
+	2449.1.21={
+		birth=yes
+	}
+	2508.5.17={
+		death={
+			death_reason=death_accident
+		}
+	}
+}
+
+26674298 ={
+    name="Vladislaus" 
+	dynasty=25554118
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=12
+	martial=11
+	stewardship=12
+	intrigue=13
+	learning=12
+	trait="grey_eminence"
+	trait="quick"
+	trait="fair"
+	trait="weak"
+	2409.7.1={
+		birth=yes
+	}
+	2478.2.25={
+		death=yes
+	}
+}
+
+
+26674299 = {
+	name="Genndy" #Count of Stalingrad
+	dynasty=255590001
+	father=26674300
+	religion="stalinist"
+	culture="yuzhane"
+	disallow_random_traits = yes
+    
+	diplomacy=3
+	martial=5
+	stewardship=4
+	intrigue=3
+	learning=4
+	trait="tough_soldier"
+	trait="slow"
+	trait="strong"
+	trait="uncouth"
+	trait="scarred"
+	trait="brave"
+
+	2482.7.16 ={
+		birth=yes
+		effect = {
+			add_artifact = sword_of_stalingrad
+		}
+	}
+	2536.12.12={
+		death=yes
+	}
+}
+
+
+26674300 = { #Count of Kursk
+	name="Makariy"
+	dynasty=255590001
+	father=26674304
+	religion="stalinist"
+	culture="yuzhane"
+	disallow_random_traits = yes
+    
+	diplomacy=3
+	martial=5
+	stewardship=4
+	intrigue=3
+	learning=4
+	trait="flamboyant_schemer"
+	trait="seducer"
+	trait="hedonist"
+	trait="lustful"
+	trait="uncouth"
+	trait="scarred"
+	trait="brave"
+
+	2426.4.27 ={
+		birth=yes
+	}
+	2506.11.12={
+		death=yes
+	}
+}
+
+
+
+26674301 = { #Count of Voronzeh and Bastard of Makiriy Zyuganov
+	name="Gleb"
+	dynasty=2556503
+	father=26674300
+	religion="stalinist"
+	culture="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=3
+	martial=5
+	stewardship=4
+	intrigue=3
+	learning=4
+	trait="martial_cleric"
+	trait="bastard"
+	trait="one_legged"
+	trait="ambitious"
+	trait="honest"
+	trait="humble"
+
+	2502.7.16 ={
+		birth=yes
+		give_nickname=nick_the_spindleshanks
+	}
+	2546.11.28={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+
+26674302 = { 
+	name="Demitrih"
+	dynasty=2556503
+	father=26674301
+	religion="folklorist"
+	culture="volgar"
+	diplomacy=14
+	martial=5
+	stewardship=6
+	intrigue=7
+	learning=6
+	trait="fortune_builder"
+	trait="cynical"
+	trait="craven"
+	trait="chaste"
+	trait="humble"
+	trait="temperate"
+
+	2538.7.16 ={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+
+26674303 = { 
+	name="Nikitoh"
+	dynasty=2556503
+	father=26674301
+	religion="folklorist"
+	culture="volgar"
+	diplomacy=7
+	martial=12
+	stewardship=3
+	intrigue=1
+	learning=2
+	trait="skilled_tactician"
+	trait="fair"
+	trait="robust"
+	trait="gamer"
+	trait="wroth"
+	trait="charitable"
+
+	2540.7.16 ={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+
+26674304 = { #Duke of Novosil
+	name="Vyshata"
+	dynasty=255590001
+	father=26674305
+	religion="stalinist"
+	culture="yuzhane"
+	disallow_random_traits = yes
+    
+	diplomacy=7
+	martial=8
+	stewardship=3
+	intrigue=9
+	learning=4
+	trait="misguided_warrior"
+	trait="seducer"
+	trait="hedonist"
+	trait="lustful"
+	trait="uncouth"
+	trait="scarred"
+	trait="brave"
+
+	2396.3.31 ={
+		birth=yes
+	}
+	2452.1.12={
+		death={
+		death_reason=death_battle
+		}
+	}
+}
+
+26674305 = { #Duke of Novosil
+	name="Vyshata"
+	dynasty=255590001
+	religion="stalinist"
+	culture="yuzhane"
+	disallow_random_traits = yes
+    
+	diplomacy=3
+	martial=2
+	stewardship=1
+	intrigue=3
+	learning=1
+	trait="misguided_warrior"
+	trait="weak"
+	trait="kind"
+	trait="charitable"
+	trait="chaste"
+	trait="content"
+
+	2366.5.26 ={
+		birth=yes
+		give_nickname=nick_the_lame
+	}
+	2426.3.31={
+		death={
+		death_reason=death_battle
+		}
+	}
+}
+
+26674306 = { #Son of Gennedy
+	name="Golubev"
+	dynasty=255590001
+	father=26669125
+	mother=26674307
+	religion="stalinist"
+	culture="yuzhane"
+	diplomacy=15
+	martial=1
+	stewardship=3
+	intrigue=5
+	learning=4
+	trait="charismatic_negotiator"
+	trait="gardener"
+	trait="patient"
+	trait="honest"
+	trait="humble"
+	trait="content"
+	trait="quick"
+
+	2543.10.26 ={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26674307 = { #Spouse of Gennedy
+	name="Tatyana"
+	dynasty=2556503
+	father=26674301
+	religion="stalinist"
+	culture="yuzhane"
+	female=yes
+	diplomacy=12
+	martial=4
+	stewardship=3
+	intrigue=5
+	learning=4
+	trait="grey_eminence"
+	trait="shy"
+	trait="quick"
+	trait="proud"
+	trait="content"
+
+	2526.2.12 ={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+
+26674308 ={ #Get ready for lots of murders
+    name="Makariy" 
+	dynasty=25554120
+	father=26674311
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=11
+	martial=4
+	stewardship=4
+	intrigue=8
+	learning=3
+	trait="flamboyant_schemer"
+	trait="ambitious"
+	trait="wroth"
+	trait="greedy"
+	trait="erudite"
+	2507.10.18={
+		birth=yes
+	}
+	2543.11.11={
+		death={
+			death_reason=death_murder
+			killer=26669104
+		}
+	}
+}
+
+26674309 ={
+    name="Makariy" 
+	dynasty=25554120
+	father=26674311
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=3
+	martial=4
+	stewardship=4
+	intrigue=8
+	learning=3
+	trait="naive_appeaser"
+	trait="content"
+	trait="shy"
+	trait="craven"
+	trait="gardener"
+	2485.11.22={
+		birth=yes
+	}
+	2527.11.11={
+		death={
+			death_reason=death_murder
+			killer=26674314
+		}
+	}
+}
+
+26674310 ={
+    name="Sasha" 
+	dynasty=25554120
+	father=26674311
+	female=yes
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=3
+	martial=2
+	stewardship=3
+	intrigue=3
+	learning=2
+	trait="shy"
+	trait="quick"
+	2521.11.22={
+		birth=yes
+	}
+	2528.12.13={
+		death={
+			death_reason=death_murder
+			killer=26674314
+		}
+	}
+}
+
+26674311 ={
+    name="Mikhail" 
+	dynasty=25554120
+	father=26674313
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=3
+	martial=4
+	stewardship=4
+	intrigue=8
+	learning=3
+	trait="naive_appeaser"
+	trait="ambitious"
+	trait="wroth"
+	trait="greedy"
+	trait="erudite"
+	trait="twin"
+	2478.10.18={
+		birth=yes
+	}
+	2527.09.23={
+		death={
+			death_reason=death_murder
+			killer=26674314
+		}
+	}
+}
+
+26674312 ={
+    name="Makariy" 
+	dynasty=25554120
+	father=26674313
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=3
+	martial=9
+	stewardship=4
+	intrigue=3
+	learning=3
+	trait="tough_soldier"
+	trait="greedy"
+	trait="kind"
+	trait="chaste"
+	trait="scarred_high"
+	trait="twin"
+	2478.10.18={
+		birth=yes
+	}
+	2507.6.12={
+		death={
+			death_reason=death_murder
+			killer=26674315
+		}
+	}
+}
+
+26674313 ={
+    name="Makariy" 
+	dynasty=25554120
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=5
+	martial=1
+	stewardship=4
+	intrigue=16
+	learning=4
+	trait="elusive_shadow"
+	trait="ambitious"
+	trait="envious"
+	trait="greedy"
+	trait="weak"
+	trait="schemer"
+	trait="gamer"
+	2455.10.18={
+		birth=yes
+	}
+	2499.5.23={
+		death={
+			death_reason=death_murder
+			killer=26674316
+		}
+	}
+}
+
+
+26674314 = {
+	name="Sanya"
+	dynasty=25559104
+	father=26674315
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=4
+	martial=4
+	stewardship=1
+	intrigue=5
+	learning=2
+	trait="naive_appeaser"
+	trait="cruel"
+	trait="greedy"
+	trait="impaler"
+	2503.3.20={
+		birth=yes
+	}
+	2537.11.01={
+		death={
+		death_reason=death_murder
+		killer=26674308
+		}
+	}
+}
+
+
+26674315 = {
+	name="Boris"
+	dynasty=25559104
+	father=26674316
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=5
+	martial=4
+	stewardship=13
+	intrigue=7
+	learning=6
+	trait="flamboyant_schemer"
+	trait="cynical"
+	trait="greedy"
+	trait="lustful"
+	trait="is_malnourished"
+	2483.3.20={
+		birth=yes
+	}
+	2527.11.21={
+		death={
+		death_reason=death_murder
+		killer=26674308
+		}
+	}
+}
+
+
+26674316 = {
+	name="Akim"
+	dynasty=25559104
+	father=26674317
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=1
+	martial=14
+	stewardship=1
+	intrigue=4
+	learning=0
+	trait="naive_appeaser"
+	trait="gamer"
+	trait="envious"
+	trait="shy"
+	trait="craven"
+	trait="is_fat"
+	trait="chaste"
+	2462.3.27={
+		birth=yes
+	}
+	2511.9.29={
+		death={
+		death_reason=death_murder
+		killer=26674311
+		}
+	}
+}
+
+
+26674317 = {
+	name="Pyotr"
+	dynasty=25559104
+	religion="folklorist"
+	culture="pomoran"
+	disallow_random_traits = yes
+    
+	diplomacy=6
+	martial=12
+	stewardship=1
+	intrigue=4
+	learning=3
+	trait="misguided_warrior"
+	trait="duelist"
+	trait="disfigured"
+	trait="impaler"
+	2442.7.26={
+		birth=yes
+	}
+	2507.12.11={
+		death={
+		death_reason=death_accident
+		}
+	}
+}
+
+
+26674318 = { #3
+	name="Sanyoh"
+	dynasty=2556504
+	father=26674321
+	religion="jadidist"
+	culture="tatarian"
+	race="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=3
+	martial=8
+	stewardship=5
+	intrigue=2
+	learning=4
+	trait="naive_appeaser"
+	trait="scarred"
+	trait="disfigured"
+	trait="greedy"
+	trait="chaste"
+	trait="shy"
+
+	2476.7.13 ={
+		birth=yes
+	}
+	2536.11.18={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+
+26674319 = { #Count in Perm
+	name="Fedyoh"
+	dynasty=2556504
+	father=26674318
+	religion="jadidist"
+	culture="volgar"
+	diplomacy=3
+	martial=8
+	stewardship=5
+	intrigue=2
+	learning=4
+	trait="naive_appeaser"
+	trait="kind"
+	trait="ambitious"
+	trait="patient"
+	trait="charitable"
+
+	2532.4.20 ={
+		birth=yes
+	}
+	2536.11.18={
+		add_claim=d_bulgar
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26674320 = {
+	name="Tahras"
+	dynasty=2556504
+	father=26674321
+	religion="jadidist"
+	culture="tatarian"
+	race="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=3
+	martial=18
+	stewardship=2
+	intrigue=2
+	learning=3
+	trait="brilliant_strategist"
+	trait="scarred"
+	trait="duelist"
+	trait="cruel"
+	trait="brave"
+	trait="zealous"
+
+	2470.3.13 ={
+		birth=yes
+	}
+	2496.5.27={
+		death={
+			death_reason=death_duel
+			killer=26674317
+		}
+	}
+}
+
+26674321 = { #2
+	name="Sanyoh"
+	dynasty=2556504
+	father=26674322
+	religion="jadidist"
+	culture="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=5
+	martial=7
+	stewardship=4
+	intrigue=5
+	learning=5
+	trait="charismatic_negotiator"
+	trait="gardener"
+	trait="gregarious"
+	trait="ambitious"
+	2426.5.18 ={
+		birth=yes
+	}
+	2489.3.29={
+		death=yes
+	}
+}
+
+
+26674322 = { #1
+	name="Sanyoh"
+	dynasty=2556504
+	religion="folklorist"
+	culture="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=5
+	martial=7
+	stewardship=4
+	intrigue=5
+	learning=5
+	trait="brilliant_strategist"
+	trait="content"
+	trait="adventurer"
+	trait="shy"
+	2396.8.24 ={
+		birth=yes
+	}
+	2463.7.30={
+		death=yes
+	}
+}
+
+
+26674323 = { #Dead brother of the count in Perm
+	name="Salvo"
+	dynasty=2556504
+	father=26674318
+	religion="jadidist"
+	culture="tatarian"
+	disallow_random_traits = yes
+    
+	diplomacy=6
+	martial=6
+	stewardship=12
+	intrigue=6
+	learning=6
+	trait="skilled_tactician"
+	trait="quick"
+	trait="fair"
+	trait="zealous"
+	trait="kind"
+
+	2510.7.17 ={
+		birth=yes
+	}
+	2536.11.18={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+
+26674324 = { #Dead brother of the count in Perm
+	name="Krivov"
+	dynasty=2556504
+	father=26674318
+	religion="jadidist"
+	culture="tatarian"
+	disallow_random_traits = yes
+    
+	race="volgar"
+	diplomacy=12
+	martial=4
+	stewardship=7
+	intrigue=5
+	learning=7
+	trait="grey_eminence"
+	trait="genius"
+	trait="is_malnourished"
+	trait="kind"
+
+	2509.6.21 ={
+		birth=yes
+	}
+	2536.11.18={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+
+26674325 = {
+	name="Salvo"
+	dynasty=2556504
+	father=26674321
+	religion="jadidist"
+	culture="tatarian"
+	race="volgar"
+	disallow_random_traits = yes
+    
+	diplomacy=3
+	martial=2
+	stewardship=5
+	intrigue=2
+	learning=4
+	trait="flamboyant_schemer"
+	trait="slow"
+	trait="socializer"
+	trait="lustful"
+	trait="legit_bastard"
+	trait="lefthanded"
+
+	2506.7.13 ={
+		birth=yes
+	}
+	2536.11.18={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+
+2667999 = {#First ruler of the KGB, this is an attempt to get around the issue where he's somehow secretly shiite
+    name="Vladimir" 
+	dynasty=25569103
+	religion="stalinist"
+	culture="muscovite"
+	diplomacy=7
+	martial=9
+	stewardship=6
+	intrigue=15
+	learning=10
+	trait="elusive_shadow"
+	trait="envious"
+	trait="quick"	
+	trait="slothful"	
+	trait="craven"	
+	2515.3.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26654327 = {
+	name="Ivan"
+	dynasty=1969022
+	religion="stalinist"
+	culture="muscovite"
+	diplomacy=3
+	martial=6
+	stewardship=4
+	intrigue=9
+	learning=11
+	trait="tough_soldier"
+	trait="humble"
+	trait="wroth"
+	trait="diligent"
+	trait="bloodthirsty_gods_1"
+
+	2520.11.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26674334 = {
+    name="Dmitri"
+	dynasty=25559301
+	religion="nousthreskeia"
+	culture="east_sibiran"
+	trait="midas_touched"
+	trait="administrator"
+	trait="cruel"
+	trait="envious"
+	
+	2515.1.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26674337 = {
+    name="Efim"
+	dynasty=25559503
+	religion="folklorist"
+	culture="khanty"
+	trait="skilled_tactician"
+	trait="cruel"
+	trait="wroth"
+	trait="proud"
+	trait="diligent"
+	trait="sturdy"
+	trait="peasant_noble"
+	
+	
+	2523.7.7={
+		birth = yes
+	}
+	2590.1.1={
+		death="2590.1.1"
+	}
+}
+26674338 = {
+    name="Bruh"
+	dynasty=25559505
+	religion="starist_pagan"
+	culture="samoyed"
+	trait="martial_cleric"
+	trait="wroth"
+	trait="proud"
+	trait="diligent"
+	trait="sturdy"
+	
+	
+	2523.7.7={
+		birth = yes
+	}
+	2590.1.1={
+		death="2590.1.1"
+	}
+}
+26674339 = {
+    name="Vasyl"
+	dynasty=25559504
+	religion="stalinist"
+	culture="ukrainer"
+	trait="martial_cleric"
+	trait="poet"
+	trait="proud"
+	trait="ambitious"
+	trait="diligent"
+	trait="depressed"
+	
+	
+	2523.7.7={
+		birth = yes
+	}
+	2590.1.1={
+		death="2590.1.1"
+	}
+}
+16674340 = {
+    name="David"
+	dynasty=25559506
+	religion="folklorist"
+	culture="east_sibiran"
+	trait="midas_touched"
+	trait="greedy"
+	trait="deceitful"
+	trait="envious"
+	
+	
+	2523.7.7={
+		birth = yes
+	}
+	2590.1.1={
+		death="2590.1.1"
+	}
+}
+26664268 = {
+    name="Vladlen" 
+	dynasty=25559726
+	culture="east_sibiran"
+	religion="ironist"
+	diplomacy=7
+	martial=4
+	stewardship=7
+	intrigue=9
+	learning=9
+	trait="indulgent_wastrel"
+	trait="shy"
+	trait="lustful"	
+	trait="temperate"	
+	trait="stubborn"
+	2524.4.18={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674341 = {
+    name="Nu" 
+	dynasty=25559507
+	female=yes
+	religion="maoist"
+	culture="han"
+	diplomacy=7
+	martial=4
+	stewardship=7
+	intrigue=9
+	learning=9
+	trait="mastermind_theologian"
+	trait="shy"
+	trait="lustful"	
+	trait="scholar"	
+	trait="fair"
+	2538.11.11={
+		birth=yes
+	}
+	2553.2.12 ={
+		add_spouse=26669120
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674343 = {
+    name="Adurianu" 
+	dynasty=25559509
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	diplomacy=12
+	martial=7
+	stewardship=11
+	intrigue=8
+	learning=10
+	trait="mastermind_theologian"
+	trait="razumist_leader"
+
+	2521.11.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674344 = {
+    name="Bghan" 
+	dynasty=25559510
+	religion="nousthreskeia"
+	culture="evenk"
+	diplomacy=8
+	martial=15
+	stewardship=4
+	intrigue=3
+	learning=10
+	trait="skilled_tactician"
+	trait="strong"
+	trait="aggressive_leader"
+
+	2532.1.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674345 = {
+    name="Mukka" 
+	dynasty=25559511
+	religion="nousthreskeia"
+	culture="yakut"
+	diplomacy=7
+	martial=9
+	stewardship=4
+	intrigue=2
+	learning=7
+	trait="indulgent_wastrel"
+	trait="strong"
+	trait="aggressive_leader"
+
+	2491.2.4={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674346 = { #Katangsk Kezhemsk
+    name="Leontiy" 
+	dynasty=25559512
+	religion="nousthreskeia"
+	culture="east_sibiran"
+	diplomacy=5
+	martial=9
+	stewardship=4
+	intrigue=2
+	learning=4
+	trait="indulgent_wastrel"
+	trait="just"
+	trait="ambitious"
+
+	2527.8.15={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674347 = { #motyga
+    name="Asuq" 
+	dynasty=25559513
+	religion="starist_pagan"
+	culture="evenk"
+	diplomacy=8
+	martial=4
+	stewardship=9
+	intrigue=7
+	learning=8
+	trait="amateurish_plotter"
+	trait="wroth"
+	trait="greedy"
+
+	2517.3.8={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674348 = { #Ilimpiysk
+    name="Ayaltin" 
+	dynasty=25559514
+	religion="starist_pagan"
+	culture="evenk"
+	diplomacy=2
+	martial=1
+	stewardship=7
+	intrigue=9
+	learning=8
+	trait="thrifty_clerk"
+	trait="humble"
+	trait="cruel"
+
+	2529.11.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674349 = { #Kodinsk
+    name="Dionisiy" 
+	dynasty=25559515
+	religion="nousthreskeia"
+	culture="east_sibiran"
+	diplomacy=8
+	martial=4
+	stewardship=2
+	intrigue=6
+	learning=1
+	trait="grey_eminence"
+	trait="weak"
+	trait="cynical"
+
+	2518.10.15={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674351 = { #Tasowski
+    name="Sirtya" 
+	dynasty=25559517
+	religion="starist_pagan"
+	culture="nganasan"
+	diplomacy=1
+	martial=9
+	stewardship=8
+	intrigue=6
+	learning=1
+	trait="skilled_tactician"
+	trait="honest"
+	trait="ambitious"
+	trait="zealous"
+
+	2521.8.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674352 = { #Noyabrsk krasnoselkup
+    name="Nyalku" 
+	dynasty=25559518
+	religion="orthodox"
+	culture="selkup"
+	diplomacy=4
+	martial=8
+	stewardship=3
+	intrigue=9
+	learning=1
+	trait="grey_eminence"
+	trait="orthodox_vasiliy"
+	trait="greedy"
+	trait="slothful"
+	trait="trusting"
+	trait="cruel"
+
+
+	2522.12.10={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674353 = { #kogalym raduzhnyi
+    name="Pudak" 
+	dynasty=25559519
+	religion="orthodox"
+	culture="selkup"
+	diplomacy=4
+	martial=8
+	stewardship=3
+	intrigue=9
+	learning=1
+	trait="skilled_tactician"
+	trait="orthodox_vasiliy"
+	trait="greedy"
+	trait="honest"
+	trait="lustful"
+	trait="just"
+
+
+	2527.8.20={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674354 = { #Verkhneketsk
+    name="Vanya" 
+	dynasty=25559520
+	religion="oldbeliever"
+	culture="east_sibiran"
+	father=16674355
+	diplomacy=8
+	martial=1
+	stewardship=5
+	intrigue=4
+	learning=7
+	trait="grey_eminence"
+	trait="zealous"
+	trait="humble"
+	trait="kind"
+	trait="ambitious"
+	trait="bastard"
+
+
+	2519.8.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674355 = { #Strezhevpoy Nizhnevartovsk
+    name="Yelisey" 
+	dynasty=25559521
+	religion="oldbeliever"
+	culture="sibiran"
+	diplomacy=2
+	martial=7
+	stewardship=1
+	intrigue=0
+	learning=6
+	trait="tough_soldier"
+	trait="honest"
+	trait="just"
+	trait="patient"
+	trait="content"
+
+
+	2501.12.15={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26669118 = {
+	name="Tarkhan"
+	dynasty=25559118
+	religion="jadidist"
+	culture="tatarian"
+	mother=16674356
+	diplomacy=7
+	martial=5
+	stewardship=8
+	intrigue=4
+	learning=7
+	trait="brilliant_strategist"
+	trait="zealous"
+	trait="wroth"
+	trait="diligent"
+	trait="adventurer"
+
+
+	2520.6.8 ={
+		birth=yes
+	}
+	2536.11.18={
+		add_claim=d_bulgar
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674356 = {
+    name="Alisa"
+	dynasty=2556504
+	religion="jadidist"
+	culture="tatarian"
+	dna="adcajsfadaw"
+	disallow_random_traits = yes
+    
+	female=yes
+	father=26674321
+	diplomacy=7
+	martial=11
+	stewardship=6
+	intrigue=2
+	learning=10
+	trait="brilliant_strategist"
+	trait="strong"
+	trait="fair"
+	trait="diligent"
+	trait="poet"
+	trait="duelist"
+	trait="lustful"
+
+
+	2503.1.2 ={
+		birth=yes
+	}
+	2536.11.18={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+16674357 = {
+	name="Konstantin"
+	dynasty=25559115
+	father=26669115
+	religion="zarist"
+	culture="muscovite"
+	diplomacy=3
+	martial=9
+	stewardship=2
+	intrigue=8
+	learning=4
+	trait="skilled_tactician"
+	trait="humble"
+	trait="zealous"
+
+	2525.9.2 ={
+		birth=yes
+	}
+	2537.8.28 ={
+	   add_claim=d_tobol
+	   add_claim=c_tyumen
+	   add_claim=c_tobol
+	   add_claim=c_tavda
+	}
+	2590.1.1={
+		death = yes
+	}
+}
+16674358 = { 
+    name="Olya" 
+	dynasty=25559521
+	religion="oldbeliever"
+	culture="east_sibiran"
+	female=yes
+	father=16674355
+	diplomacy=6
+	martial=1
+	stewardship=6
+	intrigue=4
+	learning=7
+	trait="mastermind_theologian"
+	trait="socializer"
+	trait="just"
+	trait="zealous"
+	trait="kind"
+	trait="greedy"
+
+
+	2539.1.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674359 = { 
+    name="Katya" 
+	dynasty=25559115
+	religion="katerinist"
+	culture="muscovite"
+	female=yes
+	father=26669115
+	diplomacy=10
+	martial=1
+	stewardship=10
+	intrigue=3
+	learning=11
+	trait="mastermind_theologian"
+	trait="fair"
+	trait="quick"
+	trait="zealous"
+	trait="kind"
+	trait="diligent"
+	trait="shy"
+
+
+	2535.3.16={
+		birth=yes
+	}
+	2537.8.28 ={
+	   add_claim=c_tyumen
+	   add_claim=c_tobol
+	   add_claim=c_miass
+	   add_claim=c_magnitaya
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674360 = { 
+    name="Vera" 
+	dynasty=255590001
+	religion="stalinist"
+	culture="yuzhane"
+	disallow_random_traits = yes
+    
+	female=yes
+	father=26674305
+	diplomacy=3
+	martial=7
+	stewardship=0
+	intrigue=2
+	learning=3
+	trait="elusive_shadow"
+	trait="fair"
+	trait="schemer"
+	trait="paranoid"
+	trait="lustful"
+	trait="cynical"
+	trait="gregarious"
+
+
+	2400.5.14={
+		birth=yes
+	}
+	2416.1.1={
+	    add_spouse=16674361
+	}
+	2466.2.3={
+		death=yes
+	}
+}
+16674363 = {
+	name="Grigori"
+	religion="stalinist"
+	culture="muscovite"
+	disallow_random_traits = yes
+    
+	dynasty=25559120
+	diplomacy=7
+	martial=7
+	stewardship=9
+	intrigue=1
+	learning=5
+	trait="detached_priest"
+	trait="cynical"
+	trait="stubborn"
+	trait="shy"
+	trait="humble"
+
+	2350.1.21 ={
+		birth=yes
+	}
+	2400.12.12={
+		death=yes
+	}
+}
+16674361 = {
+	name="Eduard"
+	religion="stalinist"
+	culture="muscovite"
+	father=16674363
+	disallow_random_traits = yes
+    
+	dynasty=25559120
+	diplomacy=8
+	martial=6
+	stewardship=0
+	intrigue=3
+	learning=3
+	trait="skilled_tactician"
+	trait="strong"
+	trait="duelist"
+	trait="brave"
+	trait="cynical"
+	trait="cruel"
+	trait="stubborn"
+
+	2382.2.28 ={
+		birth=yes
+	}
+	2416.1.1={
+	    add_spouse=16674360
+	}
+	2426.3.31={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+16674362 = {
+	name="Grigori"
+	religion="stalinist"
+	culture="muscovite"
+	disallow_random_traits = yes
+    
+	father=16674361
+	mother=16674360
+	dynasty=25559120
+	diplomacy=3
+	martial=7
+	stewardship=3
+	intrigue=1
+	learning=1
+	trait="fortune_builder"
+	trait="greedy"
+	trait="content"
+	trait="gregarious"
+	trait="chaste"
+
+	2418.12.11 ={
+		birth=yes
+	}
+	2452.1.12={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+16674364 = {
+	name="Vladlen"
+	religion="stalinist"
+	culture="muscovite"
+	disallow_random_traits = yes
+    
+	father=16674362
+	dynasty=25559120
+	diplomacy=4
+	martial=11
+	stewardship=4
+	intrigue=0
+	learning=8
+	trait="mastermind_theologian"
+	trait="strategist"
+	trait="ambitious"
+	trait="wroth"
+	trait="experimenter"
+	trait="brave"
+	trait="scarred"
+
+	2438.5.14 ={
+		birth=yes
+	}
+	2502.4.6={
+		death=yes
+	}
+}
+16674365 = {
+	name="Eduard"
+	religion="stalinist"
+	culture="sibiran"
+	father=16674364
+	dynasty=25559120
+	disallow_random_traits = yes
+    
+	diplomacy=4
+	martial=0
+	stewardship=4
+	intrigue=5
+	learning=5
+	trait="midas_touched"
+	trait="wroth"
+	trait="zealous"
+	trait="content"
+	trait="envious"
+	trait="brave"
+	trait="diligent"
+	
+    2482.6.13 ={
+		birth=yes
+	}
+	2549.9.6={
+		death=yes
+	}
+}
+26669120 = {
+	name="Grigori"
+	dynasty=25559120
+	father=16674365
+	religion="stalinist"
+	secret_religion="maoist"
+	culture="sibiran"
+	diplomacy=2
+	martial=6
+	stewardship=5
+	intrigue=5
+	learning=2
+	trait="tough_soldier"
+	trait="robust"
+	trait="lustful"
+	trait="greedy"
+	trait="deceitful"
+	trait="duelist"
+
+	2526.11.5 ={
+		birth=yes
+	}
+	2549.9.7={
+        add_claim=c_sibir
+    }
+	2553.2.12 ={
+		add_spouse=16674341
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674366 = {
+	name="Pavel"
+	religion="folklorist"
+	culture="east_sibiran"
+	disallow_random_traits = yes
+    
+	dynasty=25559523
+	diplomacy=3
+	martial=4
+	stewardship=3
+	intrigue=4
+	learning=9
+	trait="mastermind_theologian"
+	trait="gregarious"
+	trait="brave"
+	trait="zealous"
+	trait="temperate"
+	trait="diligent"
+	trait="cannibal_trait"
+	trait="lustful"
+	
+    2299.7.3 ={
+		birth=yes
+	}
+	2375.1.1 ={
+	    give_nickname=nick_the_old
+	}
+	2387.6.6={
+		death=yes
+	}
+}
+16674367 = {
+	name="Mihal"
+	religion="folklorist"
+	culture="east_sibiran"
+	disallow_random_traits = yes
+    
+	dynasty=25559523
+	father=16674366
+	diplomacy=3
+	martial=4
+	stewardship=3
+	intrigue=4
+	learning=9
+	trait="midas_touched"
+	trait="gregarious"
+	trait="gamer"
+	trait="quick"
+	trait="greedy"
+	trait="is_fat"
+	
+    2354.5.28 ={
+		birth=yes
+	}
+	2409.7.17={
+		death=yes
+	}
+}
+16674368 = {
+	name="Slava"
+	religion="folklorist"
+	culture="east_sibiran"
+	disallow_random_traits = yes
+    
+	dynasty=25559523
+	father=16674367
+	diplomacy=3
+	martial=4
+	stewardship=3
+	intrigue=4
+	learning=9
+	trait="midas_touched"
+	trait="proud"
+	trait="feeble"
+	trait="weak"
+	trait="shy"
+	trait="depressed"
+	trait="slothful"
+	trait="envious"
+	trait="lustful"
+	
+    2401.2.28 ={
+		birth=yes
+	}
+	2419.2.28 ={
+	    add_spouse=16674369
+	}
+	2419.10.19={
+		death={
+			death_reason=death_duel
+			killer=16674370
+		}
+	}
+}
+16674369 = {
+	name="Maria"
+	religion="folklorist"
+	culture="east_sibiran"
+	female=yes
+	dynasty=25559524
+	disallow_random_traits = yes
+    
+	diplomacy=6
+	martial=1
+	stewardship=2
+	intrigue=7
+	learning=2
+	trait="elusive_shadow"
+	trait="seductress"
+	trait="fair"
+	trait="shy"
+	trait="lustful"
+	trait="groomed"
+	trait="proud"
+	
+    2401.1.11 ={
+		birth=yes
+	}
+	2419.2.28 ={
+	    add_spouse=16674368
+	}
+	2419.10.21 ={
+	    add_spouse=16674370
+	}
+	2427.4.30={
+		death=yes
+	}
+}
+16674370 = {
+	name="Iwanu"
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	dynasty=25559516
+	disallow_random_traits = yes
+    
+	diplomacy=2
+	martial=12
+	stewardship=6
+	intrigue=2
+	learning=3
+	trait="brilliant_strategist"
+	trait="strong"
+	trait="diligent"
+	trait="aggressive_leader"
+	trait="duelist"
+	trait="ambitious"
+	trait="robust"
+	trait="lustful"
+	
+    2401.1.1 ={
+		birth=yes
+	}
+	2419.10.21 ={
+	    add_spouse=16674369
+	}
+	2451.12.1={
+		death=yes
+	}
+}
+16674371 = {
+	name="Stas"
+	religion="nousthreskeia"
+	culture="east_sibiran"
+	disallow_random_traits = yes
+    
+	dynasty=25559516
+	father=16674370
+	mother=16674369
+	diplomacy=4
+	martial=2
+	stewardship=6
+	intrigue=1
+	learning=9
+	trait="mastermind_theologian"
+	trait="erudite"
+	trait="theologian"
+	trait="zealous"
+	trait="shrewd"
+	trait="patient"
+	trait="chaste"
+	trait="content"
+	trait="legit_bastard"
+	
+    2419.10.17 ={
+		birth=yes
+	}
+	2478.2.2={
+		death=yes
+	}
+}
+16674372 = {
+	name="Sanya"
+	religion="nousthreskeia"
+	culture="east_sibiran"
+	disallow_random_traits = yes
+    
+	dynasty=25559516
+	father=16674371
+	diplomacy=9
+	martial=7
+	stewardship=6
+	intrigue=5
+	learning=4
+	trait="tough_soldier"
+	trait="gluttonous"
+	trait="kind"
+	trait="deceitful"
+	trait="cynical"
+
+	2461.7.7 ={
+		birth=yes
+	}
+	2500.1.1={
+		death = {death_reason = death_battle killer = 26664289}
+	}
+}
+16674373 = {
+	name="Mihal"
+	religion="nousthreskeia"
+	culture="east_sibiran"
+	disallow_random_traits = yes
+    
+	dynasty=25559516
+	father=16674372
+	diplomacy=8
+	martial=8
+	stewardship=5
+	intrigue=2
+	learning=1
+	trait="thrifty_clerk"
+	trait="ugly"
+	trait="ambitious"
+	trait="greedy"
+	trait="cynical"
+	trait="wroth"
+
+	2482.1.2 ={
+		birth=yes
+	}
+	2510.9.9={
+		death =yes
+	}
+}
+16674374 = {
+	name="Ivan"
+	religion="folklorist"
+	culture="east_sibiran"
+	dynasty=25559516
+	disallow_random_traits = yes
+    
+	father=16674373
+	diplomacy=5
+	martial=10
+	stewardship=7
+	intrigue=1
+	learning=4
+	trait="indulgent_wastrel"
+	trait="arbitrary"
+	trait="ambitious"
+	trait="chaste"
+	trait="trusting"
+	trait="adventurer"
+
+	2504.9.7 ={
+		birth=yes
+	}
+	2546.1.1={
+		death =yes
+	}
+}						
+16674350 = { #Teguldet Pervomaysk
+    name="Sanya" 
+	dynasty=25559516
+	father=16674374
+	religion="folklorist"
+	culture="east_sibiran"
+	diplomacy=7
+	martial=3
+	stewardship=9
+	intrigue=2
+	learning=6
+	trait="fortune_builder"
+	trait="strong"
+	trait="diligent"
+	trait="greedy"
+
+	2531.1.5={
+		birth=yes
+	}
+	2531.1.6={
+	    add_claim=k_north_mongolia
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674375 = {
+	name="Fedor"
+	religion="folklorist"
+	culture="pomoran"
+	dynasty=25559525
+	disallow_random_traits = yes
+    
+	diplomacy=6
+	martial=1
+	stewardship=9
+	intrigue=4
+	learning=5
+	trait="thrifty_clerk"
+	trait="arbitrary"
+	trait="ambitious"
+	trait="greedy"
+	trait="legendary"
+
+	2262.2.3 ={
+		birth=yes
+	}
+	2322.7.6={
+		death =yes
+	}
+}
+16674376 = {
+	name="Fedor"
+	religion="folklorist"
+	culture="pomoran"
+	dynasty=25559525
+	disallow_random_traits = yes
+    
+	father=16674375
+	diplomacy=8
+	martial=1
+	stewardship=5
+	intrigue=5
+	learning=5
+	trait="indulgent_wastrel"
+	trait="just"
+	trait="paranoid"
+	trait="patient"
+	trait="legendary"
+
+	2287.1.23 ={
+		birth=yes
+	}
+	2338.9.30={
+		death =yes
+	}
+}
+16674397 = {
+	name="Vadimir"
+	religion="folklorist"
+	culture="komi"
+	dynasty=25559525
+	disallow_random_traits = yes
+    
+	father=16674376
+	diplomacy=3
+	martial=4
+	stewardship=1
+	intrigue=5
+	learning=6
+	trait="tough_soldier"
+	trait="sturdy"
+	trait="gregarious"
+	trait="diligent"
+	trait="legendary"
+
+	2309.3.2 ={
+		birth=yes
+	}
+	2365.3.19={
+		death =yes
+	}
+}	
+16674377 = {
+	name="Rem"
+	religion="folklorist"
+	culture="komi"
+	dynasty=25559525
+	disallow_random_traits = yes
+    
+	father=16674397
+	diplomacy=3
+	martial=11
+	stewardship=1
+	intrigue=5
+	learning=6
+	trait="brilliant_strategist"
+	trait="strong"
+	trait="ambitious"
+	trait="diligent"
+	trait="experimenter"
+	trait="patient"
+
+	2328.5.15 ={
+		birth=yes
+	}
+	2328.5.15 ={
+		give_nickname=nick_the_great
+	}
+	2379.4.4={
+		death =yes
+	}
+}	
+16674378 = {
+	name="Rem"
+	religion="folklorist"
+	culture="komi"
+	disallow_random_traits = yes
+    
+	dynasty=25559525
+	father=16674377
+	diplomacy=2
+	martial=3
+	stewardship=4
+	intrigue=6
+	learning=4
+	trait="charismatic_negotiator"
+	trait="brave"
+	trait="content"
+	trait="slothful"
+	trait="temperate"
+	trait="patient"
+
+	2346.6.30 ={
+		birth=yes
+	}
+	2400.4.10={
+		death =yes
+	}
+}
+16674379 = {
+	name="Vukol"
+	religion="folklorist"
+	culture="komi"
+	disallow_random_traits = yes
+    
+	dynasty=25559525
+	father=16674378
+	diplomacy=1
+	martial=6
+	stewardship=8
+	intrigue=9
+	learning=2
+	trait="misguided_warrior"
+	trait="brave"
+	trait="wroth"
+	trait="cruel"
+	trait="drunkard"
+
+	2379.7.25 ={
+		birth=yes
+	}
+	2402.3.30={
+		death = {death_reason = death_battle killer = 26674291}
+	}
+}
+16674380 = {
+	name="Kalina"
+	religion="folklorist"
+	culture="komi"
+	disallow_random_traits = yes
+    
+	female=yes
+	dynasty=25559525
+	father=16674378
+	diplomacy=3
+	martial=11
+	stewardship=4
+	intrigue=2
+	learning=6
+	trait="brilliant_strategist"
+	trait="strong"
+	trait="groomed"
+	trait="strategist"
+	trait="ambitious"
+	trait="wroth"
+
+	2385.2.3 ={
+		birth=yes
+	}
+	2419.1.1 ={
+	    add_spouse=16674381
+	}
+	2443.1.24={
+		death = {death_reason = death_battle}
+	}
+}
+16674381 = {
+	name="Proviv"
+	religion="folklorist"
+	culture="komi"
+	dynasty=25559525
+	disallow_random_traits = yes
+    
+	father=16674379
+	diplomacy=2
+	martial=4
+	stewardship=6
+	intrigue=4
+	learning=16
+	trait="scholarly_theologian"
+	trait="erudite"
+	trait="envious"
+	trait="lustful"
+	trait="gregarious"
+
+	2402.7.3 ={
+		birth=yes
+	}
+	2419.1.1 ={
+	    add_spouse=16674380
+	}
+	2469.6.9={
+		death =yes
+	}
+}
+16674382 = {
+	name="Rem"
+	religion="folklorist"
+	culture="komi"
+	dynasty=25559525
+	father=16674381
+	disallow_random_traits = yes
+    
+	mother=16674380
+	diplomacy=2
+	martial=4
+	stewardship=4
+	intrigue=3
+	learning=1
+	trait="detached_priest"
+	trait="slothful"
+	trait="gluttonous"
+	trait="cynical"
+	trait="patient"
+
+	2420.6.10 ={
+		birth=yes
+	}
+	2452.7.27={
+		death =yes
+	}
+}
+16674383 = {
+	name="Kalina"
+	religion="folklorist"
+	culture="komi"
+	female=yes
+	dynasty=25559525
+	disallow_random_traits = yes
+    
+	father=16674382
+	diplomacy=9
+	martial=5
+	stewardship=2
+	intrigue=12
+	learning=3
+	trait="elusive_shadow"
+	trait="fair"
+	trait="groomed"
+	trait="seductress"
+	trait="ambitious"
+	trait="diligent"
+
+	2451.6.9 ={
+		birth=yes
+	}
+	2477.9.6={
+		death =yes
+	}
+}
+16674384 = {
+    name="Gazheg"
+	disallow_random_traits = yes
+    
+	dynasty=25559502
+	mother=16674383
+	religion="folklorist"
+	culture="komi"
+	trait="tough_soldier"
+	trait="diligent"
+	trait="strong"
+	trait="bastard"
+	
+	2469.4.7={
+		birth = yes
+	}
+    2509.5.19={
+		death = yes
+	}
+}						
+26674336 = {
+    name="Gazheg"
+	dynasty=25559502
+	father=16674384
+	religion="folklorist"
+	culture="komi"
+	trait="grey_eminence"
+	trait="falconer"
+	trait="sturdy"
+	trait="ambitious"
+	
+	2492.3.4={
+		birth = yes
+	}
+	2538.7.15 ={
+	    add_claim = c_mansia
+	}
+	2590.1.1={
+		death = yes
+	}
+}	
+16674385 = {
+    name="Anan"
+	dynasty=25559508
+	mother=16674383
+	disallow_random_traits = yes
+    
+	religion="folklorist"
+	culture="komi"
+	trait="scholarly_theologian"
+	trait="zealous"
+	trait="kind"
+	trait="wroth"
+	trait="bastard"
+	
+	2472.4.7={
+		birth = yes
+	}
+    2532.1.2={
+		death = yes
+	}
+}
+16674386 = {
+    name="Anfimiy"
+	dynasty=25559508
+	disallow_random_traits = yes
+    
+	father=16674385
+	religion="oldbeliever"
+	culture="komi"
+	trait="flamboyant_schemer"
+	trait="cynical"
+	trait="kind"
+	trait="wroth"
+	trait="bastard"
+	
+	2493.7.1={
+		birth = yes
+	}
+    2533.12.12={
+		death = {death_reason = death_battle killer = 26674336}
+	}
+}
+16674342 = {
+    name="Meltsayka" 
+	dynasty=25559508
+	father=16674386
+	religion="oldbeliever"
+	culture="komi"
+	diplomacy=7
+	martial=4
+	stewardship=7
+	intrigue=9
+	learning=9
+	trait="mastermind_theologian"
+
+	2531.11.11={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26674335 = {
+    name="Tuhan"
+	disallow_random_traits = yes
+    
+	dynasty=25559501
+	religion="folklorist"
+	mother=16674383
+	culture="komi"
+	trait="impaler"
+	trait="tough_soldier"
+	trait="wroth"
+	trait="strong"
+	trait="bastard"
+	2477.2.2={
+		birth = yes
+	}
+    2599.1.21={
+		death = yes
+	}
+}	
+16674387 = {
+    name="Irinarh"
+	disallow_random_traits = yes
+    
+	dynasty=25559525	
+	mother=16674383
+    religion="folklorist"
+	culture="komi"
+	trait="charismatic_negotiator"
+	trait="brave"
+	trait="greedy"
+	trait="kind"
+	trait="paranoid"
+	trait="lunatic"
+	
+	2468.12.21={
+		birth = yes
+	}
+    2539.9.11={
+		death = yes
+	}
+}
+16674388 = {
+    name="Rem"
+	dynasty=25559525	
+	father=16674387
+	disallow_random_traits = yes
+    
+    religion="folklorist"
+	culture="komi"
+	trait="fortune_builder"
+	trait="gluttonous"
+	trait="greedy"
+	trait="envious"
+	trait="diligent"
+	trait="hedonist"
+	
+	2506.3.4={
+		birth = yes
+	}
+    2544.5.15={
+		death = {death_reason = death_battle killer = 26674337}
+	}
+}
+26664144 ={
+    name="Pyotr" 
+	dynasty=25554115
+	religion="zarist"
+	culture="pietrovan"
+	diplomacy=3
+	martial=9
+	stewardship=9
+	intrigue=0
+	learning=6
+	trait="misguided_warrior"
+	trait="ambitious"
+	trait="zealous"
+	trait="kind"
+	trait="humble"
+	2523.2.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+
+
+
+
+16674389 ={
+    name="Dmitri" 
+	dynasty=25559526
+	religion="stalinist"
+	culture="pietrovan"
+	diplomacy=2
+	martial=10
+	stewardship=12
+	intrigue=6
+	learning=8
+	trait="scholarly_theologian"
+	trait="wroth"
+	trait="cruel"
+	trait="diligent"
+	trait="greedy"
+	trait="impaler"
+	trait="gregarious"
+	trait="cannibal_trait"
+	2512.3.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674390 ={
+    name="Vasilko" 
+	dynasty=25559527
+	religion="petrist"
+	culture="pietrovan"
+	diplomacy=18
+	martial=1
+	stewardship=4
+	intrigue=2
+	learning=15
+	trait="grey_eminence"
+	trait="chaste"
+	trait="socializer"
+	trait="poet"
+	trait="ambitious"
+	trait="gregarious"
+	2533.2.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674391 ={
+    name="Viacheslav" 
+	dynasty=25559528
+	religion="zarist"
+	culture="pietrovan"
+	trait="indulgent_wastrel"
+	trait="zealous"
+	trait="craven"
+	trait="ambitious"
+	trait="proud"
+	2501.8.14={
+		birth=yes
+		create_bloodline = {
+			type = romanov_bloodline
+			has_dlc = "Holy Fury"
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674392 ={
+    name="Yemelian" 
+	dynasty=25559529
+	religion="zarist"
+	culture="pietrovan"
+	trait="amateurish_plotter"
+	trait="arbitrary"
+	trait="zealous"
+	trait="shy"
+	trait="temperate"
+	2522.7.5={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+16674393 ={
+    name="Zakhar" 
+	dynasty=25559530
+	religion="mikraist"
+	culture="kumyk"
+	trait="skilled_tactician"
+	trait="is_fat"
+	trait="cynical"
+	trait="gregarious"
+	trait="temperate"
+	trait="lustful"
+    trait="gamer"
+	trait="hedonist"
+	trait="sympathy_christendom"
+
+	2537.12.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674394 ={
+    name="Natalia" 
+	dynasty=25559531
+	female=yes
+	religion="zarist"
+	culture="adessite"
+	trait="martial_cleric"
+	trait="depressed"
+	trait="envious"
+	trait="ambitious"
+	trait="chaste"
+    trait="deceitful"
+	trait="sympathy_christendom"
+	2527.12.12={
+		birth=yes
+	}
+	2547.1.10={
+		add_matrilineal_spouse=26669005
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674395 ={
+    name="Alexandr" 
+	dynasty=25559532
+	religion="orthodox"
+	culture="crimean"
+	trait="charismatic_negotiator"
+	trait="gregarious"
+	trait="greedy"
+	trait="wroth"
+	trait="diligent"
+	trait="shrewd"
+    trait="drunkard"
+
+
+	2527.12.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+16674396 ={
+    name="Roman" 
+	dynasty=25159533
+	religion="orthodox"
+	culture="adessite"
+	trait="brilliant_strategist"
+	trait="one_eyed"
+	trait="cruel"
+	trait="content"
+	trait="honest"
+
+	2519.6.23={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+###Fm97-taken
+16674398 ={
+    name="Cyrill" 
+	dynasty=25559746
+	religion="zarist"
+	culture="yuzhane"
+	trait="brilliant_strategist"
+	trait="wroth"
+	trait="kind"
+	trait="content"
+	trait="honest"
+
+	2529.6.23={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+16674399 ={
+    name="Mikolai" 
+	dynasty=25559343
+	religion="neodonatists"
+	culture="pomoran"
+	trait="martial_cleric"
+	trait="patient"
+	trait="hunter"
+	trait="ambitious"
+	trait="honest"
+	father=19974400
+	2535.2.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+19974400 ={
+    name="Ladislaus" 
+	dynasty=25559343
+	religion="neodonatists"
+	culture="moldavian"
+	trait="mastermind_theologian"
+	father=19974401
+	2505.1.3={
+		birth=yes
+	}
+	2540.1.1={
+		death=yes
+	}
+}
+
+19974401 ={
+    name="Gavrilus" 
+	dynasty=25559343
+	religion="neodonatists"
+	culture="moldavian"
+	trait="mastermind_theologian"
+	2455.2.3={
+		birth=yes
+	}
+	2515.1.1={
+		death=yes
+	}
+}
+
+19974402 = { 
+    name="Kenshiro" 
+	religion="starist_pagan"
+	culture="hokkaido"
+	trait="strong"
+	trait="just"
+	trait="kind"
+
+	2530.1.1={
+		birth=yes
+	}
+	2550.2.27={
+		effect = {add_artifact = fist_of_the_north_star}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+19974403 = {
+    name="Havryil" 
+	dynasty=25559688 #Oleksandrov
+	religion="nousthreskeia"
+	culture="east_sibiran"
+	trait="skilled_tactician"
+	trait="quick"
+	trait="patient"
+	trait="groomed"
+	trait="diligent"
+	2525.4.15={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+19974404 = {
+    name="Turifonu" 
+	dynasty=1721088 #Cerberus
+	religion="nousthreskeia"
+	culture="novorusskiy"
+	trait="skilled_tactician"
+	trait="quick"
+	trait="patient"
+	trait="groomed"
+	trait="diligent"
+	2523.1.15={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+19974405 = {
+    name="Valentyn" 
+	dynasty=25559762 #Yaremenko
+	religion="nousthreskeia"
+	culture="klynian"
+	trait="skilled_tactician"
+	trait="quick"
+	trait="patient"
+	trait="groomed"
+	trait="diligent"
+	2526.6.15={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+19974406 = { ####legendary ruler that lived for centuries and is the ancestor of all eastern slavs
+    name="Rurik" 
+	occluded = yes
+	dynasty=50000941 #Rurikovich
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	830.1.1={
+		birth=yes
+		give_nickname = nick_rurikovich
+	}
+	1533.12.13={
+		death=yes
+	}
+}
+
+19974407 = { ####Ivan the terrible
+    name="Ivan"
+	occluded = yes
+	dynasty=50000941 #Rurikovich
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1530.1.1={
+		birth=yes
+		give_nickname = nick_the_terrible
+	}
+	1584.1.1={
+		death=yes
+	}
+}
+
+19974408 = {
+    name="Fedor"
+	occluded = yes
+	dynasty=50000941 #Rurikovich
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1557.1.1={
+		birth=yes
+		give_nickname = nick_the_blessed
+	}
+	1598.1.1={
+		death=yes
+	}
+}
+
+19974409 = {
+    name="Mikhail"
+	dynasty=50000942 #Romanov
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1596.1.1={
+		birth=yes
+	}
+	1645.1.1={
+		death=yes
+	}
+}
+
+19974410 = {
+    name="Alexei"
+	dynasty=50000942 #Romanov
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1629.1.1={
+		birth=yes
+	}
+	1676.1.1={
+		death=yes
+	}
+}
+
+19974411 = {
+    name="Fedor"
+	dynasty=50000942 #Romanov
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1661.1.1={
+		birth=yes
+	}
+	1682.1.1={
+		death=yes
+	}
+}
+
+19974412 = { ####Peter the Great
+    name="Pyotr"
+	dynasty=50000942 #Romanov
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1672.1.1={
+		birth=yes
+		give_nickname = nick_the_great
+	}
+	1725.1.1={
+		death=yes
+	}
+}
+
+19974413 = {
+    name="Yekaterina"
+	dynasty=50000942 #Romanov
+	female=yes
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1684.1.1={
+		birth=yes
+	}
+	1727.1.1={
+		death=yes
+	}
+}
+
+19974414 = {
+    name="Pyotr"
+	dynasty=50000942 #Romanov
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1715.1.1={
+		birth=yes
+	}
+	1730.1.1={
+		death=yes
+	}
+}
+
+19974415 = {
+    name="Anna"
+	dynasty=50000942 #Romanov
+	female=yes
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1693.1.1={
+		birth=yes
+		give_nickname = nick_ivanova
+	}
+	1740.1.1={
+		death=yes
+	}
+}
+
+19974416 = {
+    name="Ivan"
+	dynasty=50000942 #Romanov
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1740.1.1={
+		birth=yes
+	}
+	1764.1.1={
+		death=yes
+	}
+}
+
+19974417 = {
+    name="Yelizaveta"
+	dynasty=50000942 #Romanov
+	female=yes
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1709.1.1={
+		birth=yes
+	}
+	1762.1.1={
+		death=yes
+	}
+}
+
+19974418 = {
+    name="Pyotr"
+	dynasty=50000942 #Romanov
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1728.1.1={
+		birth=yes
+	}
+	1762.7.10={
+		death=yes
+	}
+}
+
+19974419 = {
+    name="Yekaterina"
+	dynasty=50000942 #Romanov
+	female=yes
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1729.1.1={
+		birth=yes
+		give_nickname = nick_the_great
+	}
+	1796.1.1={
+		death=yes
+	}
+}
+
+19974420 = {
+    name="Pavel"
+	dynasty=50000942 #Romanov
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1754.1.1={
+		birth=yes
+	}
+	1801.1.1={
+		death=yes
+	}
+}
+
+19974421 = {
+    name="Alexandr"
+	dynasty=50000942 #Romanov
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1777.1.1={
+		birth=yes
+		give_nickname = nick_the_blessed
+	}
+	1825.1.1={
+		death=yes
+	}
+}
+
+19974422 = {
+    name="Nikolai"
+	dynasty=50000942 #Romanov
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1796.1.1={
+		birth=yes
+	}
+	1855.1.1={
+		death=yes
+	}
+}
+
+19974423 = {
+    name="Alexandr"
+	dynasty=50000942 #Romanov
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1818.1.1={
+		birth=yes
+		give_nickname = nick_the_liberator
+	}
+	1881.1.1={
+		death=yes
+	}
+}
+
+19974424 = {
+    name="Alexandr"
+	dynasty=50000942 #Romanov
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1845.1.1={
+		birth=yes
+		give_nickname = nick_the_peacemaker
+	}
+	1894.1.1={
+		death=yes
+	}
+}
+
+19974425 = {
+    name="Nikolai"
+	dynasty=50000942 #Romanov
+	religion="zarist"
+	culture="muscovite"
+	trait="legendary"
+	1868.1.1={
+		birth=yes
+	}
+	1918.1.1={
+		death=yes
+	}
+}
+
+19974426 = {
+    name="Stalin"
+	occluded = yes
+	dynasty=50000943 #Stalin
+	religion="stalinist"
+	culture="muscovite"
+	trait="legendary"
+	1878.1.1={
+		birth=yes
+		give_nickname = nick_the_red_tzar
+	}
+	1990.1.1={
+		death=yes
+	}
+}
+
+19974427 = { ####legendary ruler that lived for centuries and is the ancestor of all eastern slavs (Ukrainian version)
+    name="Rurik" 
+	occluded = yes
+	dynasty=50000941 #Rurikovich
+	religion="orthodox"
+	culture="ukrainer"
+	trait="legendary"
+	830.1.1={
+		birth=yes
+		give_nickname = nick_rurikovich
+	}
+	1533.12.13={
+		death=yes
+	}
+}
+
+19974428 = { ####alexander kerensky
+    name="Alexandr" 
+	dynasty=50000944 #Kerensky
+	religion="orthodox"
+	culture="muscovite"
+	trait="legendary"
+	1881.5.4={
+		birth=yes
+	}
+	1970.6.11={
+		death=yes
+	}
+}
+
+19974429 = { ####yooooo its boris yeltsin
+    name="Boris" 
+	dynasty=50000945 #Yeltsin
+	religion="orthodox"
+	culture="muscovite"
+	1931.2.1={
+		birth=yes
+	}
+	2000.1.1={
+		death=yes
+	}
+}
+
+19974430 = { ####rurik reference
+    name="Dmitriy" 
+	dynasty=50000946 #Shakhovskoy
+	religion="zarist"
+	culture="muscovite"
+	diplomacy=10
+	martial=8
+	stewardship=10
+	intrigue=6
+	learning=7
+	trait="charismatic_negotiator"
+	trait="gregarious"
+	trait="socializer"
+	trait="administrator"
+	2525.5.25={
+		birth=yes
+	}
+	2547.3.16 ={
+		add_spouse=19974431
+	}
+	2600.1.1={
+		death=yes
+	}
+}
+
+19974431 = {
+    name="Irina" 
+	female=yes
+	dynasty=50000946 #Shakhovskoy
+	religion="zarist"
+	culture="muscovite"
+	intrigue=7
+	learning=6
+	2529.7.14={
+		birth=yes
+	}
+	2547.3.16 ={
+		add_spouse=19974430
+	}
+	2600.1.1={
+		death=yes
+	}
+}
+
+19974432 = {
+    name="Gennady"
+	dynasty=50000946 #Shakhovskoy
+	father=19974430
+	mother=19974431
+	religion="zarist"
+	culture="muscovite"
+	stewardship=4
+	diplomacy=5
+	2550.6.30={
+		birth=yes
+	}
+	2600.1.1={
+		death=yes
+	}
+}

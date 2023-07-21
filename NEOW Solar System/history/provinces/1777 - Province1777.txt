@@ -1,0 +1,15 @@
+# 1777 - Province1777
+
+# County Title
+title = c_province1777
+
+# Settlements
+max_settlements = 5
+b_barony1777` = tribal
+b_barony1777a = temple
+
+# Misc
+culture = panjabi
+religion = sufi
+
+# History

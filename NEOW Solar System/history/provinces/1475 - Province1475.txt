@@ -1,0 +1,16 @@
+# 1475 - Province1475
+
+# County Title
+title = c_province1475
+
+# Settlements
+max_settlements = 4
+b_barony1475` = castle
+b_barony1475a = temple
+b_barony1475b = city
+
+# Misc
+culture = frisian
+religion = yazidi
+
+# History

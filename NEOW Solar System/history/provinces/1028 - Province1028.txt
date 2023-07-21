@@ -1,0 +1,14 @@
+# 1028 - Province1028
+
+# County Title
+title = c_province1028
+
+# Settlements
+max_settlements = 3
+b_barony1028` = tribal
+
+# Misc
+culture = darwinian
+religion = baptist
+
+# History

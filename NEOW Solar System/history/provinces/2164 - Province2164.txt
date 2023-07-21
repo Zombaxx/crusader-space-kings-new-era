@@ -1,0 +1,15 @@
+# 2164 - Province2164
+
+# County Title
+title = c_province2164
+
+# Settlements
+max_settlements = 3
+b_barony2164` = castle
+b_barony2164a = temple
+
+# Misc
+culture = frisian
+religion = sufi
+
+# History

@@ -1,0 +1,55 @@
+26642100 = {
+	name="Kirsan"
+	dynasty=25540017
+	religion="vajrayana"
+	culture="kalmyk"
+	trait="midas_touched"
+	trait="proud"
+	trait="kind"
+	trait="temperate"
+	2518.2.3={
+		birth=yes
+	}
+	2538.7.19={
+		add_spouse=26642101
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+26642101 = {
+	name="Hogelun"
+	female=yes
+	religion="osvicenism"
+	culture="kalmyk"
+	trait="scholarly_theologian"
+	trait="honest"
+	trait="temperate"
+	trait="ambitious"
+	trait="osvicenism_tolerations"
+	2520.2.3={
+		birth=yes
+	}
+	2538.7.19={
+		add_spouse=26642100
+	}
+	2560.1.1={
+		death=yes
+	}
+}
+26642102 = {
+	name="Megujin"
+	dynasty=25540017
+	father=26642100
+	mother=26642101
+	religion="vajrayana"
+	culture="kalmyk"
+	trait="conscientious"
+	trait="brave"
+	2543.6.13={
+		birth=yes
+	}
+	2560.1.1={
+		death=yes
+	}
+}

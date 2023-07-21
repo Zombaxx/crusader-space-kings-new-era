@@ -1,0 +1,16 @@
+# 2120 - Province2120
+
+# County Title
+title = c_province2120
+
+# Settlements
+max_settlements = 4
+b_barony2120` = castle
+b_barony2120a = temple
+b_barony2120b = city
+
+# Misc
+culture = panjabi
+religion = baltic_pagan
+
+# History

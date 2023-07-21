@@ -1,0 +1,15 @@
+# 2038 - Province2038
+
+# County Title
+title = c_province2038
+
+# Settlements
+max_settlements = 1
+b_barony2038` = castle
+b_barony2038a = temple
+
+# Misc
+culture = persian
+religion = fraticelli
+
+# History

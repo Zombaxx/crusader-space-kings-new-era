@@ -1,0 +1,15 @@
+# 206 - Province0206
+
+# County Title
+title = c_province0206
+
+# Settlements
+max_settlements = 3
+b_barony0206` = castle
+b_barony0206a = temple
+
+# Misc
+culture = castilian
+religion = catholic
+
+# History

@@ -1,0 +1,16 @@
+# 2153 - Province2153
+
+# County Title
+title = c_province2153
+
+# Settlements
+max_settlements = 4
+b_barony2153` = castle
+b_barony2153a = temple
+b_barony2153b = city
+
+# Misc
+culture = panjabi
+religion = fraticelli
+
+# History

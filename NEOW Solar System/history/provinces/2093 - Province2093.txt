@@ -1,0 +1,14 @@
+# 2093 - Province2093
+
+# County Title
+title = c_province2093
+
+# Settlements
+max_settlements = 3
+b_barony2093` = tribal
+
+# Misc
+culture = frisian
+religion = sufi
+
+# History

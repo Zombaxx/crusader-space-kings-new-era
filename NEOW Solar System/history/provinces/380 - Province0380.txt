@@ -1,0 +1,16 @@
+# 380 - Province0380
+
+# County Title
+title = c_province0380
+
+# Settlements
+max_settlements = 4
+b_barony0380` = castle
+b_barony0380a = temple
+b_barony0380b = city
+
+# Misc
+culture = turkish
+religion = zoroastrian
+
+# History

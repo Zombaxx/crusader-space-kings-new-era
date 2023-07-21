@@ -1,0 +1,14 @@
+# 1626 - Province1626
+
+# County Title
+title = c_province1626
+
+# Settlements
+max_settlements = 3
+b_barony1626` = tribal
+
+# Misc
+culture = daju
+religion = bon
+
+# History

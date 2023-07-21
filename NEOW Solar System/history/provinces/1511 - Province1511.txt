@@ -1,0 +1,15 @@
+# 1511 - Province1511
+
+# County Title
+title = c_province1511
+
+# Settlements
+max_settlements = 3
+b_barony1511` = castle
+b_barony1511a = temple
+
+# Misc
+culture = panjabi
+religion = yazidi
+
+# History

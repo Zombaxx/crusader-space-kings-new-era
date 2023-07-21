@@ -1,0 +1,16 @@
+# 1484 - Province1484
+
+# County Title
+title = c_province1484
+
+# Settlements
+max_settlements = 4
+b_barony1484` = castle
+b_barony1484a = temple
+b_barony1484b = city
+
+# Misc
+culture = frisian
+religion = yazidi
+
+# History

@@ -1,0 +1,15 @@
+# 1214 - Province1214
+
+# County Title
+title = c_province1214
+
+# Settlements
+max_settlements = 3
+b_barony1214` = castle
+b_barony1214a = temple
+
+# Misc
+culture = mongol
+religion = old_hindu
+
+# History

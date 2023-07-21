@@ -1,0 +1,15 @@
+# 757 - Province0757
+
+# County Title
+title = c_province0757
+
+# Settlements
+max_settlements = 3
+b_barony0757` = castle
+b_barony0757a = temple
+
+# Misc
+culture = hausa
+religion = catholic
+
+# History

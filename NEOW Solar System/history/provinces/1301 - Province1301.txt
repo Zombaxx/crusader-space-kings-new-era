@@ -1,0 +1,17 @@
+# 1301 - Province1301
+
+# County Title
+title = c_province1301
+
+# Settlements
+max_settlements = 6
+b_barony1301` = castle
+b_barony1301a = temple
+b_barony1301b = city
+b_barony1301c = castle
+
+# Misc
+culture = punjabi
+religion = sufi
+
+# History

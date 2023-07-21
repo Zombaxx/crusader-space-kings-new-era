@@ -1,0 +1,15 @@
+# 744 - Province0744
+
+# County Title
+title = c_province0744
+
+# Settlements
+max_settlements = 3
+b_barony0744` = castle
+b_barony0744a = temple
+
+# Misc
+culture = hausa
+religion = baptist
+
+# History

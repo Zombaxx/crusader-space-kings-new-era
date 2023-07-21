@@ -1,0 +1,17 @@
+# 1543 - Province1543
+
+# County Title
+title = c_province1543
+
+# Settlements
+max_settlements = 5
+b_barony1543` = castle
+b_barony1543a = temple
+b_barony1543b = city
+b_barony1543c = castle
+
+# Misc
+culture = panjabi
+religion = vajrayana
+
+# History

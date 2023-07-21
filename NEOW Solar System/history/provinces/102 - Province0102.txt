@@ -1,0 +1,15 @@
+# 102 - Province0102
+
+# County Title
+title = c_province0102
+
+# Settlements
+max_settlements = 3
+b_barony0102` = city
+b_barony0102a = temple
+
+# Misc
+culture = mongol
+religion = baptist
+
+# History

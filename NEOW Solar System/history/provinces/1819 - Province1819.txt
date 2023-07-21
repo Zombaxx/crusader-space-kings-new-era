@@ -1,0 +1,15 @@
+# 1819 - Province1819
+
+# County Title
+title = c_province1819
+
+# Settlements
+max_settlements = 1
+b_barony1819` = tribal
+b_barony1819a = temple
+
+# Misc
+culture = panjabi
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 953 - Province0953
+
+# County Title
+title = c_province0953
+
+# Settlements
+max_settlements = 6
+b_barony0953` = castle
+b_barony0953a = temple
+b_barony0953b = city
+b_barony0953c = castle
+
+# Misc
+culture = punjabi
+religion = summer_queen
+
+# History

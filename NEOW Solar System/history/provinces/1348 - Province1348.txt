@@ -1,0 +1,16 @@
+# 1348 - Province1348
+
+# County Title
+title = c_province1348
+
+# Settlements
+max_settlements = 4
+b_barony1348` = castle
+b_barony1348a = temple
+b_barony1348b = city
+
+# Misc
+culture = turkish
+religion = yazidi
+
+# History

@@ -1,0 +1,16 @@
+# 782 - Province0782
+
+# County Title
+title = c_province0782
+
+# Settlements
+max_settlements = 4
+b_barony0782` = city
+b_barony0782a = temple
+b_barony0782b = castle
+
+# Misc
+culture = hausa
+religion = baptist
+
+# History

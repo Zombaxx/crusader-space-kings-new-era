@@ -1,0 +1,17 @@
+# 1556 - Province1556
+
+# County Title
+title = c_province1556
+
+# Settlements
+max_settlements = 6
+b_barony1556` = castle
+b_barony1556a = temple
+b_barony1556b = city
+b_barony1556c = castle
+
+# Misc
+culture = panjabi
+religion = old_hindu
+
+# History

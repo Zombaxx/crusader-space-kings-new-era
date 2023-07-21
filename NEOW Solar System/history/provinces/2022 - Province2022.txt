@@ -1,0 +1,15 @@
+# 2022 - Province2022
+
+# County Title
+title = c_province2022
+
+# Settlements
+max_settlements = 6
+b_barony2022` = tribal
+b_barony2022a = temple
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

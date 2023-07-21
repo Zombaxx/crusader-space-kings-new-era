@@ -1,0 +1,14 @@
+# 1686 - Province1686
+
+# County Title
+title = c_province1686
+
+# Settlements
+max_settlements = 3
+b_barony1686` = tribal
+
+# Misc
+culture = persian
+religion = vajrayana
+
+# History

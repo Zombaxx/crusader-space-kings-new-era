@@ -1,0 +1,14 @@
+# 1585 - Province1585
+
+# County Title
+title = c_province1585
+
+# Settlements
+max_settlements = 2
+b_barony1585` = castle
+
+# Misc
+culture = panjabi
+religion = vajrayana
+
+# History

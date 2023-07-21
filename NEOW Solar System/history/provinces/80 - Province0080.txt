@@ -1,0 +1,16 @@
+# 80 - Province0080
+
+# County Title
+title = c_province0080
+
+# Settlements
+max_settlements = 4
+b_barony0080` = castle
+b_barony0080a = temple
+b_barony0080b = city
+
+# Misc
+culture = castilian
+religion = brethren
+
+# History

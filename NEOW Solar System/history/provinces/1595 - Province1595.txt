@@ -1,0 +1,16 @@
+# 1595 - Province1595
+
+# County Title
+title = c_province1595
+
+# Settlements
+max_settlements = 4
+b_barony1595` = city
+b_barony1595a = temple
+b_barony1595b = castle
+
+# Misc
+culture = panjabi
+religion = bon
+
+# History

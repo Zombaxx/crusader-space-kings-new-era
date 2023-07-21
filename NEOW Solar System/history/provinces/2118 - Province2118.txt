@@ -1,0 +1,14 @@
+# 2118 - Province2118
+
+# County Title
+title = c_province2118
+
+# Settlements
+max_settlements = 3
+b_barony2118` = tribal
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

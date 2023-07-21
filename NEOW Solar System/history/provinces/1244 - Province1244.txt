@@ -1,0 +1,16 @@
+# 1244 - Province1244
+
+# County Title
+title = c_province1244
+
+# Settlements
+max_settlements = 4
+b_barony1244` = castle
+b_barony1244a = temple
+b_barony1244b = city
+
+# Misc
+culture = mongol
+religion = old_hindu
+
+# History

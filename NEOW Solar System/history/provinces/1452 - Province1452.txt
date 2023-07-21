@@ -1,0 +1,16 @@
+# 1452 - Province1452
+
+# County Title
+title = c_province1452
+
+# Settlements
+max_settlements = 4
+b_barony1452` = castle
+b_barony1452a = temple
+b_barony1452b = city
+
+# Misc
+culture = persian
+religion = sufi
+
+# History

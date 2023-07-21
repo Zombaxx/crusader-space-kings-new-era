@@ -1,0 +1,14 @@
+# 1886 - Province1886
+
+# County Title
+title = c_province1886
+
+# Settlements
+max_settlements = 3
+b_barony1886` = tribal
+
+# Misc
+culture = frisian
+religion = shiite
+
+# History

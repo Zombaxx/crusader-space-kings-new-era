@@ -1,0 +1,15 @@
+# 1050 - Province1050
+
+# County Title
+title = c_province1050
+
+# Settlements
+max_settlements = 3
+b_barony1050` = castle
+b_barony1050a = temple
+
+# Misc
+culture = kannada
+religion = catholic
+
+# History

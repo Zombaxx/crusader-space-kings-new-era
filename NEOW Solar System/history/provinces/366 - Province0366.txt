@@ -1,0 +1,15 @@
+# 366 - Province0366
+
+# County Title
+title = c_province0366
+
+# Settlements
+max_settlements = 3
+b_barony0366` = castle
+b_barony0366a = temple
+
+# Misc
+culture = turkish
+religion = zoroastrian
+
+# History

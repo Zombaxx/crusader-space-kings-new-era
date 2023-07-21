@@ -1,0 +1,16 @@
+# 1438 - Province1438
+
+# County Title
+title = c_province1438
+
+# Settlements
+max_settlements = 4
+b_barony1438` = castle
+b_barony1438a = temple
+b_barony1438b = city
+
+# Misc
+culture = gaoshan
+religion = bon
+
+# History

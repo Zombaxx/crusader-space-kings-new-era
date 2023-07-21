@@ -1,0 +1,16 @@
+# 2099 - Province2099
+
+# County Title
+title = c_province2099
+
+# Settlements
+max_settlements = 4
+b_barony2099` = castle
+b_barony2099a = temple
+b_barony2099b = city
+
+# Misc
+culture = panjabi
+religion = baltic_pagan
+
+# History

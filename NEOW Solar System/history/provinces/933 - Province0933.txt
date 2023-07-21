@@ -1,0 +1,19 @@
+# 933 - Province0933
+
+# County Title
+title = c_province0933
+
+# Settlements
+max_settlements = 4
+b_barony0933` = city
+b_barony0933a = temple
+b_barony0933b = castle
+
+# Misc
+culture = punjabi
+religion = summer_queen
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_109330
+}

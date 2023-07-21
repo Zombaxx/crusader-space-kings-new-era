@@ -1,0 +1,15 @@
+# 1436 - Province1436
+
+# County Title
+title = c_province1436
+
+# Settlements
+max_settlements = 7
+b_barony1436` = tribal
+b_barony1436a = temple
+
+# Misc
+culture = frisian
+religion = yazidi
+
+# History

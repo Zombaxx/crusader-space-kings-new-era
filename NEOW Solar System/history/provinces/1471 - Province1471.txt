@@ -1,0 +1,15 @@
+# 1471 - Province1471
+
+# County Title
+title = c_province1471
+
+# Settlements
+max_settlements = 4
+b_barony1471` = tribal
+b_barony1471a = temple
+
+# Misc
+culture = gaoshan
+religion = novelist
+
+# History

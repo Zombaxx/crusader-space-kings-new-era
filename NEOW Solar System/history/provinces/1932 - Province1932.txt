@@ -1,0 +1,14 @@
+# 1932 - Province1932
+
+# County Title
+title = c_province1932
+
+# Settlements
+max_settlements = 2
+b_barony1932` = tribal
+
+# Misc
+culture = frisian
+religion = shiite
+
+# History

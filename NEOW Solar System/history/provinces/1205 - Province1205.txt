@@ -1,0 +1,16 @@
+# 1205 - Province1205
+
+# County Title
+title = c_province1205
+
+# Settlements
+max_settlements = 4
+b_barony1205` = castle
+b_barony1205a = temple
+b_barony1205b = city
+
+# Misc
+culture = alan
+religion = hellenic_pagan
+
+# History

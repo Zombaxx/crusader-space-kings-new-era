@@ -1,0 +1,19 @@
+# 1561 - Province1561
+
+# County Title
+title = c_province1561
+
+# Settlements
+max_settlements = 4
+b_barony1561` = city
+b_barony1561a = temple
+b_barony1561b = castle
+
+# Misc
+culture = panjabi
+religion = bon
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_115610
+}

@@ -1,0 +1,15 @@
+# 237 - Province0237
+
+# County Title
+title = c_province0237
+
+# Settlements
+max_settlements = 2
+b_barony0237` = castle
+b_barony0237a = temple
+
+# Misc
+culture = mongol
+religion = jacobinist
+
+# History

@@ -1,0 +1,14 @@
+# 597 - Province0597
+
+# County Title
+title = c_province0597
+
+# Settlements
+max_settlements = 2
+b_barony0597` = castle
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

@@ -1,0 +1,346 @@
+26662300 = {
+	name="Agneta" 
+	dynasty=25552300
+	religion="finnish_pagan"
+	culture="finnish"
+	female=yes 
+	diplomacy=12
+	martial=1
+	stewardship=1
+	intrigue=9
+	learning=1
+	trait="deceitful"
+	trait="proud"
+	trait="quick"
+	trait="brave"
+	trait="lustful"
+	trait="naive_appeaser"	
+	2527.3.18={
+		birth=yes 
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662301 = {
+	name="Albrecht" 
+	dynasty=25552301
+	religion="finnish_pagan"
+	culture="finnish"
+	diplomacy=5
+	martial=9
+	stewardship=2
+	intrigue=3
+	learning=4
+	trait="strong"
+	trait="lustful"
+	trait="hunter"
+	trait="brave"
+	trait="ambitious"
+	trait="tough_soldier"	
+	2518.2.20={
+		birth=yes 
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662302 = {
+	name="Eelanti" 
+	dynasty=25552302
+	religion="finnish_pagan"
+	culture="finnish"
+	diplomacy=4
+	martial=8
+	stewardship=8
+	intrigue=4
+	learning=8
+	trait="quick"
+	trait="kind"
+	trait="honest"
+	trait="mystic"
+	trait="brave"
+	trait="mastermind_theologian"	
+	2533.4.20={
+		birth=yes 
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662303 = {
+	name="Äärnesti" 
+	dynasty=25552303
+	religion="finnish_pagan"
+	culture="finnish"
+	diplomacy=1
+	martial=10
+	stewardship=1
+	intrigue=10
+	learning=5
+	trait="strong"
+	trait="lunatic"
+	trait="deceitful"
+	trait="duelist"
+	trait="brave"
+	trait="sturdy"
+	trait="brilliant_strategist"
+	trait="finnish_leader"	
+	2475.1.1={
+		birth=yes 
+	}
+	2550.1.1={
+		give_nickname=nick_the_old
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662304 = {
+	name="Äärnästi" 
+	dynasty=25552303
+	religion="finnish_pagan"
+	culture="finnish"
+	diplomacy=10
+	martial=5
+	stewardship=10
+	intrigue=1
+	learning=1
+	trait="strong"
+	trait="deceitful"
+	trait="duelist"
+	trait="brave"
+	trait="sturdy"
+	trait="finnish_leader"
+	trait="skilled_tactician"
+	father=26662303	
+	2495.1.1={
+		birth=yes 
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662305 = {
+	name="Äärni" 
+	dynasty=25552303
+	religion="finnish_pagan"
+	culture="finnish"
+	diplomacy=5
+	martial=10
+	stewardship=1
+	intrigue=1
+	learning=10
+	trait="strong"
+	trait="deceitful"
+	trait="duelist"
+	trait="brave"
+	trait="finnish_leader"
+	trait="tough_soldier"
+	father=26662304	
+	2515.1.1={
+		birth=yes 
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662306 = {
+	name="Äärlanni" 
+	dynasty=25552303
+	religion="finnish_pagan"
+	culture="finnish"
+	diplomacy=1
+	martial=1
+	stewardship=10
+	intrigue=10
+	learning=5
+	trait="strong"
+	trait="deceitful"
+	trait="brave"
+	trait="misguided_warrior"
+	father=26662305	
+	2535.1.1={
+		birth=yes 
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662307 = {
+	name="Äärnesti" 
+	dynasty=25552303
+	religion="finnish_pagan"
+	culture="finnish"
+	diplomacy=5
+	martial=10
+	stewardship=1
+	intrigue=1
+	learning=10
+	trait="strong"
+	father=26662306	
+	2555.1.1={
+		birth=yes 
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662308 = {
+	name="Hiskia" 
+	dynasty=25552304
+	religion="finnish_pagan"
+	culture="finnish"
+	diplomacy=7
+	martial=2
+	stewardship=4
+	intrigue=6
+	learning=8
+	trait="kind"
+	trait="erudite"
+	trait="poet"
+	trait="zealous"
+	trait="martial_cleric"
+	2531.7.19={
+		birth=yes 
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26662309 = {
+	name="Vartti" 
+	dynasty=25552305
+	religion="finnish_pagan"
+	culture="finnish"
+	diplomacy=8
+	martial=8
+	stewardship=8
+	intrigue=8
+	learning=8
+	trait="genius"
+	trait="lefthanded"
+	2549.1.20={
+		birth=yes 
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+26662310 = {
+	name="Xander" 
+	dynasty=25552306
+	religion="sisukkuus"
+	culture="finnish"
+	diplomacy=7
+	martial=9
+	stewardship=3
+	intrigue=6
+	learning=10
+	trait="brave"
+	trait="content"
+	trait="honest"
+	trait="proud"
+	trait="tough_soldier"
+	trait="fecund"
+	2526.10.3={
+		birth=yes 
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+26662311 = {
+	name="Gustaf" 
+	dynasty=25552307 #Creutz
+	religion="sisukkuus"
+	culture="finnish"
+	trait="ambitious"
+	trait="just"
+	trait="brave"
+	trait="patient"
+	trait="tough_soldier"
+	2515.7.9={
+		birth=yes 
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+
+26662312 = {
+	name="Ismo" 
+	dynasty=2081378
+	religion="sisukkuus"
+	culture="finnish"
+	trait="midas_touched"
+	trait="content"
+	trait="just"
+	2525.5.9={
+		birth=yes 
+	}
+	2690.1.1={
+		death=yes
+	}
+}
+
+#Historical rulers of Finland
+26669312 = {
+	name="Carl Gustaf Emil" 
+	dynasty=3821159
+	religion="lutheran"
+	culture="finnish"
+	trait="brilliant_strategist"
+	trait="ambitious"
+	trait="just"
+	trait="shrewd"
+	trait="strategist"
+	trait="brave"
+	trait="adventurer"
+	trait="chaste"
+	trait="temperate"
+	trait="charitable"
+	trait="diligent"
+	trait="patient"
+	trait="kind"
+	trait="humble"
+	trait="legendary"
+	occluded = yes
+	disallow_random_traits = yes
+	1867.6.4={
+		birth=yes 
+	}
+	1951.1.27={
+		death=yes
+	}
+}
+
+26669313 = {
+	name="Urho" 
+	dynasty=3821160
+	religion="lutheran"
+	culture="finnish"
+	trait="midas_touched"
+	trait="ambitious"
+	trait="just"
+	trait="shrewd"
+	trait="administrator"
+	trait="brave"
+	trait="adventurer"
+	trait="chaste"
+	trait="temperate"
+	trait="charitable"
+	trait="diligent"
+	trait="patient"
+	trait="kind"
+	trait="humble"
+	trait="legendary"
+	occluded = yes
+	disallow_random_traits = yes
+	1900.9.3={
+		birth=yes 
+	}
+	1986.8.31={
+		death=yes
+	}
+}

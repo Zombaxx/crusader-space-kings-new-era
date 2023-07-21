@@ -1,0 +1,14 @@
+# 178 - Province0178
+
+# County Title
+title = c_province0178
+
+# Settlements
+max_settlements = 1
+b_barony0178` = tribal
+
+# Misc
+culture = alan
+religion = tengri_pagan
+
+# History

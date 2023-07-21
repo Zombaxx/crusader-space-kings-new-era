@@ -1,0 +1,17 @@
+# 1955 - Province1955
+
+# County Title
+title = c_province1955
+
+# Settlements
+max_settlements = 5
+b_barony1955` = castle
+b_barony1955a = temple
+b_barony1955b = city
+b_barony1955c = castle
+
+# Misc
+culture = panjabi
+religion = baltic_pagan
+
+# History

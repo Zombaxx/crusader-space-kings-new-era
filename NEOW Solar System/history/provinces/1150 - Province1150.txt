@@ -1,0 +1,17 @@
+# 1150 - Province1150
+
+# County Title
+title = c_province1150
+
+# Settlements
+max_settlements = 5
+b_barony1150` = castle
+b_barony1150a = temple
+b_barony1150b = city
+b_barony1150c = castle
+
+# Misc
+culture = punjabi
+religion = novelist
+
+# History

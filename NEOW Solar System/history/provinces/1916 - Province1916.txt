@@ -1,0 +1,14 @@
+# 1916 - Province1916
+
+# County Title
+title = c_province1916
+
+# Settlements
+max_settlements = 4
+b_barony1916` = tribal
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

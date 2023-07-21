@@ -1,0 +1,16 @@
+# 1587 - Province1587
+
+# County Title
+title = c_province1587
+
+# Settlements
+max_settlements = 4
+b_barony1587` = city
+b_barony1587a = temple
+b_barony1587b = castle
+
+# Misc
+culture = persian
+religion = bon
+
+# History

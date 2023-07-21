@@ -1,0 +1,16 @@
+# 1629 - Province1629
+
+# County Title
+title = c_province1629
+
+# Settlements
+max_settlements = 4
+b_barony1629` = city
+b_barony1629a = temple
+b_barony1629b = castle
+
+# Misc
+culture = persian
+religion = bon
+
+# History

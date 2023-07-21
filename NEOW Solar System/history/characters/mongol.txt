@@ -1,0 +1,346 @@
+26664278 = {
+    name="Temtsiltu" 
+	dynasty=36503153
+	religion="khanist"
+	culture="mongol"
+	diplomacy=0
+	martial=7
+	stewardship=6
+	intrigue=2
+	learning=8
+	trait="tough_soldier"
+	trait="erudite"
+	trait="gregarious"	
+	trait="humble"	
+	trait="cruel"		
+	2524.6.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664279 = {
+    name="Sanjaasurengiin" 
+	dynasty=25554262
+	religion="khanist"
+	culture="mongol"
+	diplomacy=8
+	martial=4
+	stewardship=3
+	intrigue=4
+	learning=4
+	trait="midas_touched"
+	trait="shy"
+	trait="patient"	
+	trait="deceitful"	
+	trait="ambitious"		
+	2518.9.4={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664266 = {
+    name="Tomoriin" 
+	dynasty=25554248
+	religion="khanist"
+	culture="mongol"
+	diplomacy=2
+	martial=1
+	stewardship=4
+	intrigue=1
+	learning=8
+	trait="brilliant_strategist"
+	trait="narrow_flank_leader"
+	trait="uncouth"	
+	trait="wroth"	
+	trait="brave"	
+	trait="slothful"
+	trait="trusting"
+	2520.2.26={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664281 = {
+    name="Sodnomyn" 
+	dynasty=25554264
+	religion="khanist"
+	culture="mongol"
+	diplomacy=3
+	martial=1
+	stewardship=5
+	intrigue=6
+	learning=7
+	trait="misguided_warrior"
+	trait="gregarious"
+	trait="ambitious"	
+	trait="cruel"	
+	trait="proud"	
+	2518.8.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664282 = {
+    name="Sodnomyn" 
+	dynasty=25554265
+	religion="khanist"
+	culture="mongol"
+	diplomacy=8
+	martial=9
+	stewardship=3
+	intrigue=7
+	learning=4
+	trait="naive_appeaser"
+	trait="cruel"
+	trait="proud"	
+	trait="honest"	
+	trait="stubborn"	
+	2527.11.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664283 = {
+    name="Serdamba" 
+	dynasty=25554266
+	religion="khanist"
+	culture="mongol"
+	diplomacy=7
+	martial=3
+	stewardship=4
+	intrigue=3
+	learning=7
+	trait="indulgent_wastrel"
+	trait="erudite"
+	trait="wroth"	
+	trait="gluttonous"	
+	trait="cynical"	
+	2514.5.21={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664284 = {
+    name="Zorigtbaataryn" 
+	dynasty=25554267
+	religion="vajrayana"
+	culture="mongol"
+	diplomacy=4
+	martial=3
+	stewardship=8
+	intrigue=5
+	learning=2
+	trait="skilled_tactician"
+	trait="eccentric"
+	trait="diligent"
+	trait="temperate"	
+	trait="humble"	
+	trait="charitable"	
+	2520.8.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664285 = {
+    name="Namkhain" 
+	dynasty=25554268
+	religion="tengri_pagan"
+	culture="buryat"
+	diplomacy=9
+	martial=4
+	stewardship=6
+	intrigue=2
+	learning=4
+	trait="intricate_webweaver"
+	trait="trusting"
+	trait="honest"	
+	trait="kind"	
+	trait="shy"	
+	2516.2.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664289 = {
+    name="Ayaan"
+	dynasty=25559302
+	religion="nousthreskeia"
+	culture="yakut"
+	trait="brilliant_strategist"
+	trait="quick"
+	trait="strong"
+	trait="sturdy"
+	trait="strategist"
+	trait="inspiring_leader"
+	trait="wroth"
+	trait="diligent"
+	trait="infirm"
+	trait="sympathy_pagans"
+	trait="sympathy_old_world_cultist"
+	trait="sympathy_buddhism"
+	2468.12.12={
+		birth=yes
+	}
+	2500.1.1={
+	    give_nickname = nick_the_conqueror
+		create_bloodline = {
+			type = deep_siberia_bloodline
+			has_dlc = "Holy Fury"
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664290 = {
+    name="Aaspy"
+	dynasty=25559302
+	religion="khanist"
+	culture="yakut"
+	father=26664289
+	trait="fortune_builder"
+	trait="proud"
+	trait="temperate"
+	trait="administrator"
+	trait="just"
+	2503.11.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664291 = {
+    name="Timin"
+	dynasty=25559302
+	religion="ironist"
+	culture="yakut"
+	father=26664289
+	trait="skilled_tactician"
+	trait="wroth"
+	trait="diligent"
+	trait="hunter"
+	trait="robust"
+	2509.10.10={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664292 = {
+    name="Ey"
+	dynasty=25559302
+	religion="vajrayana"
+	culture="yakut"
+	father=26664289
+	trait="scholarly_theologian"
+	trait="chaste"
+	trait="envious"
+	trait="scholar"
+	trait="erudite"
+	2516.1.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664293 = {
+    name="Bylyrgy"
+	dynasty=25559302
+	religion="folklorist"
+	culture="yakut"
+	father=26664289
+	trait="charismatic_negotiator"
+	trait="gluttonous"
+	trait="charitable"
+	trait="poet"
+	trait="gregarious"
+	2526.9.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664294 = {
+    name="Byraat"
+	dynasty=25559302
+	religion="nousthreskeia"
+	culture="yakut"
+	father=26664289
+	trait="elusive_shadow"
+	trait="lustful"
+	trait="patient"
+	trait="seducer"
+	trait="groomed"
+	2538.12.21={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26664295 = {
+    name="Ebiztir"
+	dynasty=25559302
+	religion="tengri_pagan"
+	culture="yakut"
+	father=26664289
+	2531.2.28={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+25559303 = {
+    name="Suul"
+    dynasty=25559303
+	religion="nousthreskeia"
+	culture="ket"
+	trait="midas_touched"
+	trait="impaler"
+	trait="mystic"
+	trait="ambitious"
+	trait="proud"
+	trait="patient"
+	trait="diligent"
+	trait="envious"
+	2500.1.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+25559304 = {
+    name="Xetsuwu"
+    dynasty=1997271
+	religion="nousthreskeia"
+	culture="ket"
+	2520.1.10={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}	

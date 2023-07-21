@@ -1,0 +1,18 @@
+# 1915 - Province1915
+
+# County Title
+title = c_province1915
+
+# Settlements
+max_settlements = 3
+b_barony1915` = city
+b_barony1915a = temple
+
+# Misc
+culture = gaoshan
+religion = baltic_pagan
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_119150
+}

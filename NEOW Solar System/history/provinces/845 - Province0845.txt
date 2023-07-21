@@ -1,0 +1,16 @@
+# 845 - Province0845
+
+# County Title
+title = c_province0845
+
+# Settlements
+max_settlements = 4
+b_barony0845` = castle
+b_barony0845a = temple
+b_barony0845b = city
+
+# Misc
+culture = frisian
+religion = catholic
+
+# History

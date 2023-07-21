@@ -1,0 +1,14 @@
+# 1155 - Province1155
+
+# County Title
+title = c_province1155
+
+# Settlements
+max_settlements = 2
+b_barony1155` = castle
+
+# Misc
+culture = gaoshan
+religion = novelist
+
+# History

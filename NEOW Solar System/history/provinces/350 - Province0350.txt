@@ -1,0 +1,16 @@
+# 350 - Province0350
+
+# County Title
+title = c_province0350
+
+# Settlements
+max_settlements = 4
+b_barony0350` = castle
+b_barony0350a = temple
+b_barony0350b = city
+
+# Misc
+culture = federalist
+religion = catholic
+
+# History

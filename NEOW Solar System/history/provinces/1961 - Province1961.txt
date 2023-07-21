@@ -1,0 +1,14 @@
+# 1961 - Province1961
+
+# County Title
+title = c_province1961
+
+# Settlements
+max_settlements = 2
+b_barony1961` = tribal
+
+# Misc
+culture = persian
+religion = fraticelli
+
+# History

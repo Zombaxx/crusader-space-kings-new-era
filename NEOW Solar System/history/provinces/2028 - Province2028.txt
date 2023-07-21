@@ -1,0 +1,14 @@
+# 2028 - Province2028
+
+# County Title
+title = c_province2028
+
+# Settlements
+max_settlements = 3
+b_barony2028` = tribal
+
+# Misc
+culture = panjabi
+religion = baltic_pagan
+
+# History

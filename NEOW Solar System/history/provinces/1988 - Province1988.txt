@@ -1,0 +1,14 @@
+# 1988 - Province1988
+
+# County Title
+title = c_province1988
+
+# Settlements
+max_settlements = 1
+b_barony1988` = tribal
+
+# Misc
+culture = persian
+religion = fraticelli
+
+# History

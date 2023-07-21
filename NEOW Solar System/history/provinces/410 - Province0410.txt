@@ -1,0 +1,14 @@
+# 410 - Province0410
+
+# County Title
+title = c_province0410
+
+# Settlements
+max_settlements = 2
+b_barony0410` = castle
+
+# Misc
+culture = turkish
+religion = zoroastrian
+
+# History

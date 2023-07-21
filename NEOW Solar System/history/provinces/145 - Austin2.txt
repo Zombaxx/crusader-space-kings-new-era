@@ -1,0 +1,16 @@
+# 145 - Austin2
+
+# County Title
+title = c_austin2
+
+# Settlements
+max_settlements = 4
+b_austin2 = city
+b_barony0145a = temple
+b_barony0145b = castle
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

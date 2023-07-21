@@ -1,0 +1,15 @@
+# 1701 - Province1701
+
+# County Title
+title = c_province1701
+
+# Settlements
+max_settlements = 5
+b_barony1701` = tribal
+b_barony1701a = temple
+
+# Misc
+culture = daju
+religion = fraticelli
+
+# History

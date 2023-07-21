@@ -1,0 +1,15 @@
+# 2073 - Province2073
+
+# County Title
+title = c_province2073
+
+# Settlements
+max_settlements = 3
+b_barony2073` = castle
+b_barony2073a = temple
+
+# Misc
+culture = frisian
+religion = baltic_pagan
+
+# History

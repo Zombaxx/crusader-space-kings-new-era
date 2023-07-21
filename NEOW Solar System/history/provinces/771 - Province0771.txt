@@ -1,0 +1,16 @@
+# 771 - Province0771
+
+# County Title
+title = c_province0771
+
+# Settlements
+max_settlements = 4
+b_barony0771` = castle
+b_barony0771a = temple
+b_barony0771b = city
+
+# Misc
+culture = daju
+religion = catholic
+
+# History

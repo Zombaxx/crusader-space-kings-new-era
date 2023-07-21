@@ -1,0 +1,14 @@
+# 2033 - Province2033
+
+# County Title
+title = c_province2033
+
+# Settlements
+max_settlements = 4
+b_barony2033` = tribal
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

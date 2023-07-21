@@ -1,0 +1,17 @@
+# 120 - Province0120
+
+# County Title
+title = c_province0120
+
+# Settlements
+max_settlements = 5
+b_barony0120` = castle
+b_barony0120a = temple
+b_barony0120b = city
+b_barony0120c = castle
+
+# Misc
+culture = castilian
+religion = catholic
+
+# History

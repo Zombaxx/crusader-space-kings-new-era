@@ -1,0 +1,14 @@
+# 1982 - Province1982
+
+# County Title
+title = c_province1982
+
+# Settlements
+max_settlements = 4
+b_barony1982` = tribal
+
+# Misc
+culture = daju
+religion = old_hindu
+
+# History

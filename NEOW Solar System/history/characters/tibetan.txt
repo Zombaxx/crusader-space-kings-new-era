@@ -1,0 +1,462 @@
+26672049={#Duke of Shigatse
+	name="Gampo"
+	dynasty=26560150
+	religion="gelugpa"
+	culture="u_tsang"
+	trait="tough_soldier"
+	trait="strong"
+	trait="proud"
+	trait="groomed"
+
+	2514.11.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26672050={#Duke of Ngari
+	name="Shangnang"
+	dynasty=26560151
+	religion="gelugpa"
+	culture="u_tsang"
+	trait="intricate_webweaver"
+	trait="paranoid"
+	trait="proud"
+	trait="greedy"
+
+	2531.6.4={
+		birth=yes
+		create_bloodline = {
+			type = wangchuck_scion
+			has_dlc = "Holy Fury"
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26672051={#King of Guge
+	name="Nyigon"
+	dynasty=26560152
+	dna = eylogzbtfgc
+	prp = agw00c00000000000000000000000000000000
+	religion="gelugpa"
+	culture="u_tsang"
+	trait="skilled_tactician"
+	trait="strong"
+	trait="fair"
+	trait="just"
+	trait="zealous"
+
+	2507.12.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26672052={#Duke of Ladakh
+	name="Tensen"
+	dynasty=26560153
+	religion="gelugpa"
+	culture="u_tsang"
+	trait="tough_soldier"
+	trait="fair"
+	trait="wroth"
+
+	2517.2.22={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26672053={#Count under Lhasa
+	name="Tongtsen"
+	dynasty=26560154
+	religion="karmapa"
+	culture="kham"
+	trait="scholarly_theologian"
+	trait="strong"
+	trait="wroth"
+
+	2528.5.16={
+		birth=yes
+		create_bloodline = {
+			type = wangchuck_scion
+			has_dlc = "Holy Fury"
+		}
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26672054={#Duke of Yarlung
+	name="Pungse"
+	dynasty=26560155
+	religion="gelugpa"
+	culture="kham"
+	trait="skilled_tactician"
+	trait="uncouth"
+	trait="envious"
+	trait="proud"
+
+	2519.6.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26672055={#King of Kham
+	name="Lukhong"
+	dynasty=26560156
+	religion="karmapa"
+	culture="kham"
+	trait="brilliant_strategist"
+	trait="greedy"
+	trait="envious"
+	trait="proud"
+	trait="patient"
+
+	2513.11.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26672056={
+	name="Aiguo"
+	dynasty=2660000
+	religion="xinjiao"
+	culture="sinoshan"
+	trait=intricate_webweaver
+	trait=deceitful
+	trait=cruel
+	trait=proud
+	trait=greedy
+	2524.1.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26672057={
+	name="Ye"
+	dynasty=2660001
+	religion="xinjiao"
+	culture="sinoshan"
+	trait=charismatic_negotiator
+	trait=just
+	trait=honest
+	trait=kind
+	trait=diligent
+	father=26672065
+	2521.5.15={
+		birth=yes
+	}	
+	2590.1.1={
+		death=yes
+	}
+}
+26672058={
+	name="Jiang"
+	dynasty=2660002
+	religion="xinjiao"
+	culture="sinoshan"
+	trait=tough_soldier
+	trait=brave
+	trait=impaler
+	trait=deceitful
+	trait=cruel
+	trait=ambitious
+	2526.3.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26672059={
+	name="Longwei"
+	dynasty=2660003
+	religion="xinjiao"
+	culture="sinoshan"
+	trait=thrifty_clerk
+	trait=fair
+	trait=honest
+	trait=lustful
+	trait=trusting
+	2522.4.24={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26672060={
+	name="Huan"
+	dynasty=2660004
+	religion="xinjiao"
+	culture="sinoshan"
+	trait=scholarly_theologian
+	trait=cynical
+	trait=patient
+	trait=erudite
+	trait=kind
+	2525.11.17={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26672061={
+	name="Duua"
+	dynasty=3923093
+	religion="karmapa"
+	culture="oirat"
+	trait="fortune_builder"
+	trait="weak"
+	trait="gardener"
+	trait="patient"
+	trait="gluttonous"
+
+	2528.12.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+
+}
+26672062={
+	name="Jigme"
+	dynasty=2070203
+	religion="bon"
+	culture="amdo"
+	trait="skilled_tactician"
+	trait="narrow_flank_leader"
+	trait="trickster"
+	trait="scarred_mid"
+	trait="depressed"
+	trait="drunkard"
+	trait="hunter"
+	trait="humble"
+	trait="just"
+
+	2515.10.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+
+}
+26672063={
+	name="Kelsang"
+	dynasty=2070207
+	religion="karmapa"
+	culture="amdo"
+	trait="charismatic_negotiator"
+	trait="seducer"
+	trait="fair"
+	trait="poet"
+	trait="cynical"
+	trait="lustful"
+	2533.12.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+
+}
+26672064={
+	name="Songsten"
+	dynasty=2070208
+	religion="gelugpa"
+	culture="amdo"
+	trait="scholarly_theologian"
+	trait="humble"
+	trait="greedy"
+	trait="kind"
+	2490.3.8={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+
+}
+
+26672065={
+	name="Bei"
+	dynasty=2660001
+	religion="xinjiao"
+	culture="sinoshan"
+	trait=skilled_tactician
+	occluded=yes
+	trait="legendary"
+	20.5.1={
+		birth=yes
+	}
+	2021.5.16={
+		create_bloodline = {
+			type = liu_bloodline
+			has_dlc = "Holy Fury"
+		}	
+	}
+	2530.1.1={
+		death=yes
+	}
+}
+
+26672066={
+	name="Pagan"
+	dynasty=4000122 #Min
+	religion="kiratist"
+	culture="kirati"
+	trait=intricate_webweaver
+	trait="cruel"
+	trait="gregarious"
+	trait="shrewd"
+	trait="schemer"
+	trait="strategist"
+	trait="diligent"
+	trait="wroth"
+	trait="proud"
+	trait="groomed"
+	trait="brave"
+	trait="arbitrary"
+	disallow_random_traits=yes
+	2535.5.1={
+		birth=yes
+	}
+	2931.5.16={
+		death=yes
+	}	
+}
+
+26672067={
+	name="Isho" #A count vassal of Kham
+	dynasty=2070223 #Lodro
+	religion="karmapa"
+	culture="amdo"
+	2505.5.1={
+		birth=yes
+	}
+	2931.5.16={
+		death=yes
+	}	
+}
+
+26672068={
+	name="Lekpa" #A independet Tibetan ruler of little note
+	dynasty=2070304 #Sagpo
+	religion="karmapa"
+	culture="kham"
+	2510.3.11={
+		birth=yes
+	}
+	2931.5.16={
+		death=yes
+	}	
+}
+
+26672069={
+	name="Bohai" #A independet qiangic ruler of little note
+	dynasty=6016032 #Lotsawa
+	religion="bon"
+	culture="rrmea"
+	2508.12.1={
+		birth=yes
+	}
+	2931.5.16={
+		death=yes
+	}	
+}
+
+26672070={
+	name="Lekpa" #Tibetan vassal of Xia
+	dynasty=2070211 #Repa
+	religion="karmapa"
+	culture="amdo"
+	2512.3.11={
+		birth=yes
+	}
+	2931.5.16={
+		death=yes
+	}	
+}
+
+26672071={
+	name="Wangdu" #Bon ruler of Serxu
+	dynasty=2070308 #Tangpa
+	religion="bon"
+	culture="kham"
+	trait="brilliant_strategist"
+	trait="proud"
+	trait="brave"
+	trait="ambitious"
+	trait="gregarious"
+	disallow_random_traits=yes
+	2520.5.1={
+		birth=yes
+	}
+	2931.5.16={
+		death=yes
+	}	
+}
+
+26672072={
+	name="Ramsha" #A independet Tibetan ruler of little note
+	dynasty=2070214 #Tsemo
+	religion="karmapa"
+	culture="amdo"
+	2501.11.2={
+		birth=yes
+	}
+	2931.5.16={
+		death=yes
+	}	
+}
+
+26672073={
+	name="Liwei" #A independet Tibetan ruler of little note
+	dynasty=6015032 #Zhang
+	religion="mahayana"
+	culture="nuosu"
+	2503.6.2={
+		birth=yes
+	}
+	2931.5.16={
+		death=yes
+	}	
+}
+26672074={ # The Duke of Zoige. The ruler of the Tibetian frontier towards the Chinese.
+	name="Pungsten"
+	dynasty=6015202
+	culture="choni"
+	religion="karmapa"
+	diplomacy=5
+	martial=4
+	stewardship=4
+	intrigue=3
+	learning=4
+	trait="misguided_warrior"
+	trait="quick"
+	trait="gregarious"
+	trait="hedonist"
+	trait="brave"
+	disallow_random_traits=yes
+	2535.3.11={
+		birth=yes
+	}
+	2666.1.1={
+		death=yes
+	}
+}

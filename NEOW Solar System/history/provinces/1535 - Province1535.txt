@@ -1,0 +1,17 @@
+# 1535 - Province1535
+
+# County Title
+title = c_province1535
+
+# Settlements
+max_settlements = 5
+b_barony1535` = castle
+b_barony1535a = temple
+b_barony1535b = city
+b_barony1535c = castle
+
+# Misc
+culture = persian
+religion = fraticelli
+
+# History

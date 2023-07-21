@@ -1,0 +1,15 @@
+# 39 - Province0039
+
+# County Title
+title = c_province0039
+
+# Settlements
+max_settlements = 3
+b_barony0039` = castle
+b_barony0039a = temple
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

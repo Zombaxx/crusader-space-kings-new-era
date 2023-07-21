@@ -1,0 +1,16 @@
+# 1350 - Province1350
+
+# County Title
+title = c_province1350
+
+# Settlements
+max_settlements = 4
+b_barony1350` = castle
+b_barony1350a = temple
+b_barony1350b = city
+
+# Misc
+culture = persian
+religion = hellenic_pagan
+
+# History

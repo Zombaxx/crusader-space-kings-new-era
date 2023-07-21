@@ -1,0 +1,16 @@
+# 1327 - Province1327
+
+# County Title
+title = c_province1327
+
+# Settlements
+max_settlements = 4
+b_barony1327` = castle
+b_barony1327a = temple
+b_barony1327b = city
+
+# Misc
+culture = turkish
+religion = yazidi
+
+# History

@@ -1,0 +1,16 @@
+# 995 - Province0995
+
+# County Title
+title = c_province0995
+
+# Settlements
+max_settlements = 4
+b_barony0995` = castle
+b_barony0995a = temple
+b_barony0995b = city
+
+# Misc
+culture = punjabi
+religion = summer_queen
+
+# History

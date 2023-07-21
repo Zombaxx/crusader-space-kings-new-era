@@ -1,0 +1,14 @@
+# 421 - Province0421
+
+# County Title
+title = c_province0421
+
+# Settlements
+max_settlements = 2
+b_barony0421` = castle
+
+# Misc
+culture = daju
+religion = sunni
+
+# History

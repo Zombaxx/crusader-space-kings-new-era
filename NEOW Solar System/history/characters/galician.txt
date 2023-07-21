@@ -1,0 +1,186 @@
+26660600 = {
+	name="Pedro" # Peter I
+	dynasty=25550500 # AtE Jimena (claim to be same house as pre-AtE Jimena)
+	father=26660599
+	religion="sevillian"
+	culture="galician"
+	trait="brilliant_strategist"
+	trait="strong"
+	trait="brave"
+	trait="just"
+	trait="kind"
+	trait="proud"
+	2432.9.8={
+		birth=yes
+		create_bloodline = {
+			type = paladins_thez
+			has_dlc = "Holy Fury"
+		}	
+	}
+	2489.3.14={
+		death=yes
+	}
+}
+26660601 = {
+	name="Diego" # Diego I
+	dynasty=25550500 # AtE Jimena (claim to be same house as pre-AtE Jimena)
+	religion="sevillian"
+	culture="galician"
+	trait="misguided_warrior"
+	trait="erudite"
+	trait="gregarious"
+	trait="scholar"
+	trait="gluttonous"
+	trait="kind"
+	father=26660600
+	2454.10.14={
+		birth=yes
+	}
+	2513.2.27={
+		death=yes
+	}
+}
+26660602 = {
+	name="Ordoño" # Ordono I
+	dynasty=25550500 # AtE Jimena (claim to be same house as pre-AtE Jimena)
+	religion="sevillian"
+	culture="galician"
+	trait="tough_soldier"
+	trait="wroth"
+	trait="honest"
+	trait="duelist"
+	trait="charitable"
+	father=26660601
+	2470.6.28={
+		birth=yes
+	}
+	2526.3.13={
+		death=yes
+	}
+}
+26660603 = {
+	name="Garcia" # Garcia I
+	dynasty=25550500 # AtE Jimena (claim to be same house as pre-AtE Jimena)
+	religion="sevillian"
+	culture="galician"
+	trait="skilled_tactician"
+	trait="strategist"
+	trait="kind"
+	trait="gregarious"
+	trait="deceitful"
+	father=26660602
+	2493.8.1={
+		birth=yes
+	}
+	2549.10.10={
+		death=yes
+	}
+}
+26660604 = {
+	name="Ramiro" # Ramiro I (current king)
+	dynasty=25550500 # AtE Jimena (claim to be same house as pre-AtE Jimena)
+	religion="sevillian"
+	culture="galician"
+	trait="tough_soldier"
+	trait="kind"
+	trait="scarred"
+	trait="gregarious"
+	trait="honest"
+	trait="chaste"
+	father=26660603
+	2512.10.16={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26660605 = {
+	name="Pedro" # Ramiro I's only son, a legitimized bastard
+	dynasty=25550500 # AtE Jimena (claim to be same house as pre-AtE Jimena)
+	religion="sevillian"
+	culture="galician"
+	trait="brilliant_strategist"
+	trait="legit_bastard"
+	trait="kind"
+	trait="erudite"
+	trait="deceitful"
+	father=26660604
+	2533.10.6={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26660606 = {
+	name="Urraca" # Urraca, Ramiro's sister, wife of the Duke of Extremadura
+	dynasty=25550500 # AtE Jimena (claim to be same house as pre-AtE Jimena)
+	religion="sevillian"
+	culture="galician"
+	trait="intricate_webweaver"
+	trait="deceitful"
+	trait="temperate"
+	trait="patient"
+	father=26660603
+	female=yes
+	2516.7.10={
+		birth=yes
+	}
+	2536.5.17={
+		add_spouse=26660523
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+## Vassals of the King of Galicia
+26660607 = {
+	name="Fernando" # Count Fernando of Asturias y Oviedo
+	dynasty=25550501 # Alonso
+	religion="sevillian"
+	culture="asturian"
+	trait="quick"
+	trait="brave"
+	trait="gregarious"
+	trait="cynical"
+	trait="grey_eminence"
+	trait="haemophiliac"
+	disallow_random_traits=yes
+	2536.7.29={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26660608 = {
+	name="Miguel" # Count Miguel of Astorga
+	dynasty=25550502 # de la Caridad
+	religion="sevillian"
+	culture="asturian"
+	trait="pilgrim"
+	trait="tough_soldier"
+	2519.1.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+26660609 = {
+	name="Antonio" # Son and heir of count Miguel of Astorga
+	dynasty=25550502 # de la Caridad
+	religion="sevillian"
+	culture="asturian"
+	trait="naive_appeaser"
+	father=26660608
+	2538.11.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}

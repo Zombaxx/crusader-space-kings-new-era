@@ -1,0 +1,15 @@
+# 575 - Province0575
+
+# County Title
+title = c_province0575
+
+# Settlements
+max_settlements = 3
+b_barony0575` = castle
+b_barony0575a = temple
+
+# Misc
+culture = greek
+religion = catholic
+
+# History

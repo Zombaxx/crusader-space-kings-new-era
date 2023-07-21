@@ -1,0 +1,14 @@
+# 536 - Province0536
+
+# County Title
+title = c_province0536
+
+# Settlements
+max_settlements = 1
+b_barony0536` = tribal
+
+# Misc
+culture = daju
+religion = sunni
+
+# History

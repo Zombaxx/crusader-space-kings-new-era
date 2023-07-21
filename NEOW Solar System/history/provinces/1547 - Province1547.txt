@@ -1,0 +1,17 @@
+# 1547 - Province1547
+
+# County Title
+title = c_province1547
+
+# Settlements
+max_settlements = 5
+b_barony1547` = castle
+b_barony1547a = temple
+b_barony1547b = city
+b_barony1547c = castle
+
+# Misc
+culture = persian
+religion = fraticelli
+
+# History

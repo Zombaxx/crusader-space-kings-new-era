@@ -1,0 +1,15 @@
+# 1521 - Province1521
+
+# County Title
+title = c_province1521
+
+# Settlements
+max_settlements = 3
+b_barony1521` = castle
+b_barony1521a = temple
+
+# Misc
+culture = panjabi
+religion = bon
+
+# History

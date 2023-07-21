@@ -1,0 +1,16 @@
+# 2078 - Province2078
+
+# County Title
+title = c_province2078
+
+# Settlements
+max_settlements = 4
+b_barony2078` = castle
+b_barony2078a = temple
+b_barony2078b = city
+
+# Misc
+culture = frisian
+religion = baltic_pagan
+
+# History

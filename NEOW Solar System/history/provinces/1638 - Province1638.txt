@@ -1,0 +1,15 @@
+# 1638 - Province1638
+
+# County Title
+title = c_province1638
+
+# Settlements
+max_settlements = 6
+b_barony1638` = tribal
+b_barony1638a = temple
+
+# Misc
+culture = gaoshan
+religion = fraticelli
+
+# History

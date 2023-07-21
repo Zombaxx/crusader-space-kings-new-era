@@ -1,0 +1,17 @@
+# 2034 - Province2034
+
+# County Title
+title = c_province2034
+
+# Settlements
+max_settlements = 6
+b_barony2034` = castle
+b_barony2034a = temple
+b_barony2034b = city
+b_barony2034c = castle
+
+# Misc
+culture = persian
+religion = sufi
+
+# History

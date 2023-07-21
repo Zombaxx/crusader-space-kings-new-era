@@ -1,0 +1,15 @@
+# 1291 - Province1291
+
+# County Title
+title = c_province1291
+
+# Settlements
+max_settlements = 2
+b_barony1291` = castle
+b_barony1291a = temple
+
+# Misc
+culture = alan
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 584 - Province0584
+
+# County Title
+title = c_province0584
+
+# Settlements
+max_settlements = 3
+b_barony0584` = castle
+b_barony0584a = temple
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

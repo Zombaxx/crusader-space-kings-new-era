@@ -1,0 +1,20 @@
+# 1564 - Province1564
+
+# County Title
+title = c_province1564
+
+# Settlements
+max_settlements = 5
+b_barony1564` = city
+b_barony1564a = temple
+b_barony1564b = castle
+b_barony1564c = city
+
+# Misc
+culture = panjabi
+religion = shiite
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_115640
+}

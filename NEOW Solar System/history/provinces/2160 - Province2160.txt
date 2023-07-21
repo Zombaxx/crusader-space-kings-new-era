@@ -1,0 +1,14 @@
+# 2160 - Province2160
+
+# County Title
+title = c_province2160
+
+# Settlements
+max_settlements = 4
+b_barony2160` = tribal
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

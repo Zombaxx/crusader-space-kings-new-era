@@ -1,0 +1,2839 @@
+26672001 = {
+	name = "Bilal"
+	dynasty = 25560010 #Indari
+	religion = "barelvi"
+	culture = "sindhi" 
+	trait = "wroth"
+	trait = "midas_touched"
+	trait = "arbitrary"
+
+	2529.5.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	} 
+
+}#26672001-3000 reserved for Indian characters
+
+26672002 = {
+	name = "Raavi"
+	dynasty = 25560011 #Singh
+	religion = "sikh"
+	culture = "panjabi" 
+	trait = "patient"
+	trait = "skilled_tactician"
+	trait = "humble"
+	trait = "sikh_tolerations"
+
+	2511.12.9 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	} 
+
+}
+26672003 = {#Legendary Bengali ruler
+	name = "Mansif"
+	dynasty = 26560012 #Chowdhury
+	religion = "dahatatta"
+	culture = "bengali" 
+	trait = "brave"
+	trait = "duelist"
+	trait = "skilled_tactician"
+	trait = "proud"
+	martial = 10
+	learning = 12
+	stewardship = 9
+
+	2419.3.12 = {
+		birth = yes
+	}
+	2442.7.26 = {
+	}
+	2500.4.16 = {
+		death = yes
+	} 
+
+}
+26672004 = {#Father of current guy
+	name = "Mahmudullah"
+	dynasty = 26560012 #Chowdhury
+	religion = "dahatatta"
+	culture = "bengali" 
+	trait = "craven"
+	trait = "administrator"
+	trait = "fortune_builder"
+	trait = "just"
+	trait = "greedy"
+	stewardship = 13
+	father = 26672003
+
+	2451.3.12 = {
+		birth = yes
+	}
+	2525.12.30 = {
+		death = yes
+	} 
+
+}
+26672005 = {#Current guy
+	name = "Shahabuddin"
+	dynasty = 26560012 #Chowdhury
+	religion = "dahatatta"
+	culture = "bengali" 
+	trait = "scholarly_theologian"
+	trait = "theologian"
+	trait = "envious"
+	trait = "zealous"
+	trait = "wroth"
+	learning = 10
+	father = 26672004
+
+	2499.5.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	} 
+
+}
+26672006 = {#Heir
+	name = "Mahmudullah"
+	dynasty = 26560012 #Chowdhury
+	religion = "dahatatta"
+	culture = "bengali" 
+	trait = "tough_soldier"
+	trait = "theologian"
+	trait = "brave"
+	trait = "zealous"
+	trait = "wroth"
+	learning = 7
+	martial = 9
+	father = 26672005
+
+	2530.1.17 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	} 
+
+}
+26672007 = {#Ruler of half the Gangetic Plain
+	name = "Ramabhadra"
+	dynasty = 26560113 #Gupta
+	dna = lbnjlrakdph
+	prp = nbd00b00000000000000000000000000000000
+	religion = "neovedantic"
+	culture = "hindustani" 
+	trait = "brilliant_strategist"
+	trait = "scarred"
+	trait = "brave"
+	trait = "zealous"
+	trait = "cruel"
+	learning = 4
+	martial = 9
+
+	2516.2.22 = {
+		birth = yes
+		effect = { add_rival = 26672009 } #Surya Mishra
+	}
+	2666.1.1 = {
+		death = yes
+	} 
+
+}
+26672008 = {#Ahmadiyya ruler
+	name = "Ahmad"
+	dynasty = 26560114 #Saeed Pasha
+	religion = "ahmadiyya"
+	culture = "panjabi" 
+	trait = "scholarly_theologian"
+	trait = "scarred"
+	trait = "brave"
+	trait = "scholar"
+	trait = "just"
+	trait = "sayyid"
+	trait = "patient"
+	disallow_random_traits=yes
+	learning = 9
+	martial = 5
+
+	2530.6.22 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	} 
+
+}
+26672009 = {#Ruler that opposes the Guptas
+	name = "Surya"
+	dynasty = 26560115 #Mishra
+	religion = "neovedantic"
+	culture = "hindustani" 
+	trait = "midas_touched"
+	trait = "honest"
+	trait = "envious"
+	trait = "strong"
+	trait = "just"
+	learning = 6
+	martial = 5
+
+	2513.4.9 = {
+		birth = yes
+		effect = { add_rival = 26672007 } #Ramabhadra Gupta
+	}
+	2666.1.1 = {
+		death = yes
+	} 
+
+}
+26672010 = {#Ruler that rules Bihar
+	name = "Mahendra"
+	dynasty = 26560116 #Anand
+	religion = "kalikula"
+	culture = "bihari" 
+	trait = "scholarly_theologian"
+	trait = "honest"
+	trait = "fair"
+	trait = "gamer"
+	trait= "kshatriya"
+
+	2516.9.4 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	} 
+
+}
+26672011 = {#Ruler of Coastal Maharashtra
+	name = "Dhananjay"
+	dynasty = 26560117 #Desai
+	religion = "navayana"
+	culture = "marathi"
+	trait = "tough_soldier"
+	trait = "arbitrary"
+	trait = "muni"
+	trait = "proud"
+	father = 26672013
+
+	2501.6.22 = {
+		birth = yes
+	}
+	2532.4.18 = {
+		add_claim = d_devagiri
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672012 = {#Brother of the ruler of the Maharashtra Coast
+	name = "Pratap"
+	dynasty = 26560117 #Desai
+	religion = "navayana"
+	culture = "marathi"
+	trait = "mastermind_theologian"
+	trait = "muni"
+	trait = "strong"
+	trait = "gluttonous"
+	father = 26672013
+
+	2509.11.29 = {
+		birth = yes
+	}
+	2532.4.18 = {
+		add_claim = d_nasikya
+		add_claim = d_konkana
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672013 = {#Father of previous two
+	name = "Yunaneshwar"
+	dynasty = 26560117 #Desai
+	religion = "navayana"
+	culture = "marathi"
+	trait = "fortune_builder"
+	trait = "strong"
+	trait = "just"
+
+	2480.12.13 = {
+		birth = yes
+	}
+	2531.8.2 = {
+		death = yes
+	}
+}
+26672014 = {#King of Sri Lanka
+	name = "Kavishan"
+	dynasty = 26560118 #Ramachandran
+	father = 26672100
+	religion = "theravada"
+	culture = "sinhala"
+	trait = "mastermind_theologian"
+	trait = "erudite"
+	trait = "scholar"
+	trait = "zealous"
+	trait = "wroth"
+	trait = "cruel"
+
+	2492.3.17 = {
+		birth = yes
+	}
+	2661.1.1 = {
+		death = yes
+	}
+}
+26672015 = {#Tamil Republic leader
+	name = "Senthil"
+	dynasty = 26560119 #Vairamuthu
+	religion = "parabrahmanist"
+	culture = "tamil"
+	trait = "midas_touched"
+	trait = "erudite"
+	trait = "greedy"
+	trait = "cynical"
+	trait = "patient"
+	trait = "vaishya"
+
+	2516.12.14 = {
+		birth = yes
+	}
+	2661.1.1 = {
+		death = yes
+	}
+}
+
+26672016 = {#Raja of Suma-Jharkand
+	name = "Jasraj"
+	dynasty = 26560120
+	religion = "kalikula"
+	culture = "oriya"
+	trait = "tough_soldier"
+	trait = "erudite"
+	trait = "wroth"
+	trait = "cynical"
+	trait="androgynous"
+	trait= "kshatriya"
+
+	2538.4.6 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672017 = {#Raja of Gauda-Jharkand
+	name = "Aadidev"
+	dynasty = 26560121
+	religion = "neovedantic"
+	culture = "bihari"
+	trait = "tough_soldier"
+	trait = "cruel"
+	trait = "wroth"
+	trait = "cynical"
+
+	2528.6.4 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672018 = {#Tributary of Bengal
+	name = "Girish"
+	dynasty = 1981191
+	religion = "sarna_pagan"
+	culture = "munda"
+	trait = "brilliant_strategist"
+	trait = "duelist"
+	trait = "gluttonous"
+	trait = "envious"
+
+	2522.12.12 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672019 = {
+	name = "Damodar"
+	dynasty = 26560123 #Vadnagari
+	religion = "neovedantic"
+	culture = "gujurati"
+	trait = "naive_appeaser"
+	trait = "zealous"
+	trait = "wroth"
+	trait = "gluttonous"
+	trait = "kind"
+	trait = "vaishya"
+
+	2516.3.3 = {
+		birth = yes
+		effect = { add_artifact = rajasaurus_skull }
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26667006 = {
+	name = "Narendara" #
+	dynasty = 26560123
+	father = 26672019
+	religion = "neovedantic"
+	culture = "gujurati"
+	trait = "charismatic_negotiator"
+	trait = "temperate"
+	trait = "brave"
+	trait = "ambitious"
+	trait = "honest"
+	trait = "vaishya"
+	2536.5.16 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672020 = {#Nasranis
+	name = "Avraaham"
+	dynasty = 26560124 #Villarvattom
+	religion = "nasrini"
+	culture = "malayalam"
+	trait = "thrifty_clerk"
+	trait = "humble"
+	trait = "envious"
+	trait="fecund"
+
+
+	2520.4.4 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672021 = {#Tribal King of Assam, formed one of the earliest Baptist realms in the Old World
+	name = "John"
+	dynasty = 26560125
+	religion = "baptist"
+	culture = "assamese"
+	trait = "brilliant_strategist"
+	trait = "humble"
+	trait = "strategist"
+	trait = "kind"
+	trait = "holy_warrior"
+	trait = "sword_driven"
+	disallow_random_traits=yes
+	2535.12.25 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+66672021 = {#Tribal Naga vassal under Assam
+	name = "Kamlung"
+	dynasty = 3873306
+	religion = "baptist"
+	culture = "naga"
+	trait = "charismatic_negotiator"
+	trait = "proud"
+	trait = "gregarious"
+	trait = "kind"
+	trait = "mission_driven"
+	disallow_random_traits=yes
+	2532.11.12 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672022 = {#Rajput warlord #1
+	name = "Kunal"
+	dynasty = 26560126
+	religion = "neovedantic"
+	culture = "rajput"
+	trait = "tough_soldier"
+	trait = "proud"
+	trait = "duelist"
+	trait = "zealous"
+	trait = "holy_warrior"
+
+	2517.11.16 = {
+		birth = yes
+	}
+	2550.5.5 = {
+	    trait = "successor"
+		add_claim = d_ajmer
+		add_claim = d_jangladesh
+		add_claim = d_maru
+		add_claim = d_stravani
+		add_claim = d_gurjara_mandala
+		add_claim = d_sauvira
+		add_claim = c_medapata
+		add_claim = c_chitrakut
+		add_claim = c_godwad
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672023 = {#Successor
+	name = "Tulamaya"
+	dynasty = 26560127
+	religion = "old_hindu"
+	culture = "rajput"
+	trait = "tough_soldier"
+	trait = "strong"
+	trait = "proud"
+	trait= "kshatriya"
+	
+	2522.1.11 = {
+		birth = yes
+	}
+	2550.5.5 = {
+	    trait = "successor"
+		add_claim = d_ajmer
+		add_claim = d_jangladesh
+		add_claim = d_maru
+		add_claim = d_stravani
+		add_claim = d_gurjara_mandala
+		add_claim = d_sauvira
+		add_claim = c_medapata
+		add_claim = c_chitrakut
+		add_claim = c_godwad
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672024 = {#Successor
+	name = "Suluva"
+	dynasty = 26560128
+	religion = "neovedantic"
+	culture = "rajput"
+	trait = "tough_soldier"
+	trait = "proud"
+	trait = "duelist"
+	trait = "erudite"
+	trait = "gregarious"
+
+	2527.5.3 = {
+		birth = yes
+	}
+	2550.5.5 = {
+	    trait = "successor"
+		add_claim = d_ajmer
+		add_claim = d_jangladesh
+		add_claim = d_maru
+		add_claim = d_stravani
+		add_claim = d_gurjara_mandala
+		add_claim = d_sauvira
+		add_claim = c_medapata
+		add_claim = c_chitrakut
+		add_claim = c_godwad
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672026 = {#Oriya warlord #1
+	name = "Sasi"
+	dynasty = 26560129
+	religion = "maunaxite"
+	culture = "oriya"
+	trait = "tough_soldier"
+	trait = "content"
+	trait = "deceitful"
+	trait = "strong"
+
+	2530.3.5 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672027 = {#Oriya warlord #2, Feudal
+	name = "Ilesh"
+	dynasty = 26560130
+	religion = "kalikula"
+	culture = "oriya"
+	trait = "mastermind_theologian"
+	trait = "content"
+	trait = "erudite"
+	trait = "craven"
+	trait= "kshatriya"
+
+	2514.5.16 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672028 = {#Oriya warlord #3, Tribal, in the middle
+	name = "Jignesh"
+	dynasty = 26560131
+	religion = "maunaxite"
+	culture = "oriya"
+	trait = "tough_soldier"
+	trait = "erudite"
+	trait = "wroth"
+	trait= "kshatriya"
+
+	2534.1.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672029 = {#Oriya warlord #4, Tribal, Kalinga
+	name = "Taayin"
+	dynasty = 26560132
+	religion = "maunaxite"
+	culture = "oriya"
+	trait = "skilled_tactician"
+	trait = "arbitrary"
+	trait = "patient"
+	trait= "kshatriya"
+
+	2523.4.20 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672030 = {#chhattisgarhi warlord #5, Tribal, Ratanpur
+	name = "Saadar"
+	dynasty = 26560133
+	religion = "maunaxite"
+	culture = "chhattisgarhi"
+	trait = "intricate_webweaver"
+	trait = "erudite"
+	trait = "wroth"
+	trait = "tribal_kinslayer"
+	trait= "kshatriya"
+
+	2534.1.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672031 = {#Kannadan Emperor
+	name = "Jayaraj"
+	dynasty = 26560134 #Narasimha
+	dna = czyxsrcuvrq
+	prp = anw00000000000000000000000000000000000
+	father = 26672123
+	religion = "parabrahmanist"
+	culture = "kannada"
+	trait = "kshatriya"
+	2547.12.20 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672032 = {#Duke of Warangal
+	name = "Zafar"
+	dynasty = 26560135 #Hyderabadi
+	religion = "shiite"
+	culture = "telugu"
+	trait = "tough_soldier"
+	trait = "cynical"
+	trait = "deceitful"
+	trait = "gregarious"
+
+	2516.3.19 = {
+		birth = yes
+	}
+	2553.12.20 = {
+		add_claim = e_karnataka
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672033 = {#Tamil vassal of Karnataka
+	name = "Ilampuli"
+	dynasty = 26560136
+	religion = "parabrahmanist"
+	culture = "tamil"
+	trait = "intricate_webweaver"
+	trait = "cynical"
+	trait = "deceitful"
+	trait = "ambitious"
+	trait = "kshatriya"
+
+	2533.1.2 = {
+		birth = yes
+	}
+	2553.12.20 = {
+		add_claim = e_karnataka
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672034 = {#Second vassal of Karnataka
+	name = "Sathish"
+	dynasty = 26560137 #Alaparthi
+	religion = "parabrahmanist"
+	culture = "kannada"
+	trait = "flamboyant_schemer"
+	trait = "cynical"
+	trait = "proud"
+	trait = "kshatriya"
+
+	2531.11.13 = {
+		birth = yes
+	}
+	2553.12.20 = {
+		add_claim = e_karnataka
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672035 = {#parabrahmanist ruler of Vengi
+	name = "Ujjwal"
+	dynasty = 26560138
+	religion = "maunaxite"
+	culture = "telugu"
+	trait = "fortune_builder"
+	trait = "greedy"
+	trait = "uncouth"
+	trait = "wroth"
+	trait = "kshatriya"
+
+	2522.3.15 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672036 = {#Second Tributary of Bengal
+	name = "Emran" #A member of the Chowdhury family who embraced Ahmadiyya
+	dynasty = 26560012
+	religion = "ahmadiyya"
+	culture = "bengali"
+	trait = "martial_cleric"
+	trait = "patient"
+	trait = "slow"
+	trait = "content"
+	father = 26672037
+
+	2526.4.19 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672037 = {#Father of second trib
+	name = "Kawsar"
+	dynasty = 26560012
+	religion = "ahmadiyya"
+	culture = "bengali"
+	trait = "martial_cleric"
+	trait = "greedy"
+	trait = "slow"
+	trait = "content"
+	father = 26672004
+
+	2491.3.9 = {
+		birth = yes
+	}
+	2546.1.1 = {
+		death = yes
+	}
+}
+26672039 = {#Random Malwan #1
+	name = "Jaspal"
+	dynasty = 26560139 #Jaspali
+	religion = "jain"
+	culture = "bhili"
+	trait = "kind"
+	trait = "content"
+	trait = "kshatriya"
+
+	2511.2.28 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672040 = {#Random Malwan #2
+	name = "Yash"
+	dynasty = 26560141 #Moriya
+	religion = "neovedantic"
+	culture = "bagheli"
+	trait = "skilled_tactician"
+	trait = "scarred"
+	trait = "charitable"
+
+	2506.3.22 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672041 = {#Successor
+	name = "Dharmamita"
+	dynasty = 26560142 #Tipu
+	religion = "neovedantic"
+	culture = "hindustani"
+	trait = "grey_eminence"
+	trait = "gregarious"
+	father = 26672237
+
+	2526.1.12 = {
+		birth = yes
+	}
+	#2547.3.15 = {
+	#}
+	2547.6.1 = {
+	    trait = "kinslayer"
+	}
+	2550.5.5 = {
+	    trait = "successor"
+		add_claim = d_ajmer
+		add_claim = d_jangladesh
+		add_claim = d_maru
+		add_claim = d_stravani
+		add_claim = d_gurjara_mandala
+		add_claim = d_sauvira
+		add_claim = c_medapata
+		add_claim = c_chitrakut
+		add_claim = c_godwad
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672042 = {#Successor
+	name = "Antekina"
+	dynasty = 26560143 #Rawel
+	religion = "neovedantic"
+	culture = "rajput"
+	trait = "skilled_tactician"
+	trait = "uncouth"
+	trait = "envious"
+	martial = 6
+
+	2530.6.16 = {
+		birth = yes
+	}
+	2550.5.5 = {
+	    trait = "successor"
+		add_claim = d_ajmer
+		add_claim = d_jangladesh
+		add_claim = d_maru
+		add_claim = d_stravani
+		add_claim = d_gurjara_mandala
+		add_claim = d_sauvira
+		add_claim = c_medapata
+		add_claim = c_chitrakut
+		add_claim = c_godwad
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672043 = {#Random Kannadan
+	name = "Pukaleshin"
+	dynasty = 26560144 #Chalyuka
+	religion = "parabrahmanist"
+	culture = "kannada"
+	trait = "fortune_builder"
+	trait = "gluttonous"
+	trait = "kshatriya"
+
+	2511.3.3 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+
+	#OWNS d_kannada_coast, c_kanara, c_honnore, c_banavasi
+}
+26672044 = {
+	name = "Devendra"
+	dynasty = 26560169 #Purandar
+	religion = "koyapunem"
+	culture = "gondi"
+	martial = 10
+	trait = "tough_soldier"
+	trait = "diligent"
+	trait = "brave"
+	trait = "ambitious"
+	trait = "wroth"
+	trait = "kshatriya"
+
+	2513.6.26 = {
+		birth = yes
+	}
+	2554.12.28 = {
+	        give_nickname = nick_bloodaxe
+			effect = { add_artifact = axe_of_devendra }
+	}
+	2666.1.1 = {
+		death = yes
+	}
+	
+	#OWNS c_kiranapura, c_chauragarh, c_kherla, c_ramagiri
+}
+26672045 = {
+	name = "Rachamalla"
+	dynasty = 26560146 #Bijjuri
+	religion = "navayana"
+	culture = "deccani"
+	trait = "martial_cleric"
+	trait = "gluttonous"
+	trait = "craven"
+	trait = "fair"
+
+	2527.2.13 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672046 = {#Smallest Uttar Pradesh
+	name = "Lakshmandeva"
+	dynasty = 26560147 #Upreti
+	religion = "neovedantic"
+	culture = "bagheli"
+	trait = "grey_eminence"
+	trait = "gregarious"
+	trait = "quick"
+
+	2531.10.10 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672047 = {#Bengali Hindu
+	name = "Gopala"
+	dynasty = 26560148 #Sengupta
+	religion = "kalikula"
+	culture = "bengali"
+	trait = "tough_soldier"
+	trait = "gregarious"
+	trait= "kshatriya"
+	trait = "strong"
+
+	2527.5.10 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672048 = {#Nepal
+	name = "Krishna"
+	dynasty = 26560149
+	religion = "parabrahmanist"
+	culture = "nepali"
+	trait = "fortune_builder"
+	trait = "erudite"
+	trait = "gluttonous"
+	trait = "kshatriya"
+
+	2533.1.11 = {
+		birth = yes
+	}
+	2552.1.3 = {
+		religion = "theravada"
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+266672049 = {#Count of Maldives
+	name = "Muhammad"
+	dynasty = 26560161 #Thakurufaanu
+	father = 26672101
+	religion ="barelvi"
+	culture = "dhivehi"
+	trait = "tough_soldier"
+	trait = "zealous"
+	trait = "trusting"
+	2530.9.18 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+266672050 = {#Count of Goa
+	name = "Pedru"
+	dynasty = 26560162
+	religion = "nasrini"
+	culture = "konkani"
+	trait = "fortune_builder"
+	trait = "content"
+	trait = "humble"
+	trait = "honest"
+	trait = "stubborn"
+	2522.8.16 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+266672051 = {#Count of Daman
+	name = "Karan"
+	dynasty = 26560163 #Yazdgir
+	religion = "zoroastrian"
+	culture = "parsi"
+	trait = "grey_eminence"
+	trait = "diligent"
+	trait = "mystic"
+	trait = "zealous"
+	2523.11.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+266672052 = {#Ruler of Kutch, tributary of Gujarat
+	name = "Zafar Khan"
+	dynasty = 26560164 #Muzzafar
+	religion = "koranist"
+	secret_religion = "shiite"
+	culture = "gujurati"
+	trait = "grey_eminence"
+	trait = "quick"
+	trait = "duelist"
+	trait = "gregarious"
+	trait = "sympathy_indian"
+	trait = "diligent"
+	trait = "koranist_moderate"
+	2512.6.20 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26664270 = {
+    name = "Ismail" 
+	dynasty = 25554253
+	religion = "ismaili"
+	culture = "kashmiri"
+	diplomacy = 4
+	martial = 5
+	stewardship = 5
+	intrigue = 8
+	learning = 9
+	trait = "misguided_warrior"
+	trait = "paranoid"
+	trait = "diligent"
+	trait = "proud"	
+	trait = "lustful"	
+	trait = "charitable"
+	2509.11.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+27679038 = {
+    name = "Khalil" #Son of the Kashmiri King, tied in marriage to the Tajik princess
+	dynasty = 25554253
+	religion = "ismaili"
+	culture = "kashmiri"
+	father = 26664270
+	trait = "scholarly_theologian"
+	trait = "groomed"
+	trait = "socializer"
+	trait = "gregarious"	
+	trait = "envious"	
+	trait = "cynical"
+	2531.11.2 = {
+		birth = yes
+	}
+	2554.3.1={
+		add_spouse = 26764271
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26664271 = { #Another Macedonian adventurer, his possibilities are endless for those who want to form Bactria
+    name = "Diodotos" 
+	dynasty = 2040228 #Diodotos
+	religion = "orthodox" #They Il San is nearby and can help
+	secret_religion = "hellenic_pagan" #Always the wildcard option
+	culture = "macedonian"
+	trait = "skilled_tactician"
+	trait = "orthodox_athos"
+	trait = "sympathy_islam" #So he doesnt get hated instantly
+	trait = "sympathy_pagans"
+	trait = "patient"
+	trait = "just"	
+	trait = "proud"	
+	trait = "quick"
+	trait="adventurer"
+	disallow_random_traits=yes
+	2530.2.12 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26664280 = {
+    name = "David" 
+	dynasty = 2370317
+	religion = "baptist"
+	culture = "mishmi"
+	diplomacy = 9
+	martial = 6
+	stewardship = 2
+	intrigue = 5
+	learning = 7
+	trait = "amateurish_plotter"
+	trait = "slothful"
+	trait = "craven"	
+	trait = "deceitful"	
+	trait = "humble"
+	trait = "mission_driven"
+	2528.7.6 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+#NEW CHARACTERS
+
+26672100 = {#Father of the King of Lanka
+	name = "Dahamsena"
+	dynasty = 26560118 #Ramachandran
+	religion = "theravada"
+	culture = "sinhala"
+
+	2468.2.16 = {
+		birth = yes
+	}
+	2511.1.1 = {
+		death = yes
+	}
+}
+26672101 = {#Father of the Count of Maldives
+	name = "Hasan"
+	dynasty = 26560161 #Thakurufaanu
+	religion = "syafi"
+	culture = "dhivehi"
+	2498.9.18 = {
+		birth = yes
+	}
+	2517.11.4 = {
+		add_spouse = 26672103 #Sister of the King of Lanka.
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672102 = {#Sister of the Count of Maldives
+	name = "Bohodevi"
+	female = yes
+	dynasty = 26560161 #Kalaminja
+	religion = "syafi"
+	culture = "dhivehi"
+	father = 26672101
+	mother = 26672103
+	2527.11.4 = {
+	    birth = yes
+		add_claim = c_maldives
+		add_claim = d_maldives #possible expansion opportunity if anyone bothers to play the count of Nagadipa
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672103 = {#Mother of the count of maldives
+	name = "Sumanadevi"
+	female = yes
+	dynasty = 26560118 #Ramachandran
+	religion = "theravada"
+	culture = "sinhala"
+	father = 26672100
+
+	2488.3.17 = {
+		birth = yes
+	}
+	2530.9.19 = {
+	    death = {
+            death_reason = death_childbirth
+        }
+	}
+}
+26672104 = {#Eldest son and heir of the King of Lanka
+	name = "Surakita"
+	dynasty = 26560118 #Ramachandran
+	disallow_random_traits = yes
+	stewardship = 16
+	learning = 8
+	religion = "theravada"
+	culture = "sinhala"
+	trait = "mastermind_theologian"
+	trait = "genius" #His godlike stats are supposed to make up for Lanka's terrible starting position
+	trait = "erudite"
+	trait = "scholar"
+	trait = "content"
+	father = 26672014
+
+	2529.3.17 = {
+		birth = yes
+	}
+	2661.1.1 = {
+		death = yes
+	}
+}
+26672105 = {#Second son of Lanka's ruler
+	name = "Apaya"
+	disallow_random_traits = yes
+	dynasty = 26560118 #Ramachandran
+	religion = "theravada"
+	culture = "sinhala"
+	trait = "skilled_tactician"
+	trait = "ambitious"
+	trait = "stubborn"
+	trait = "proud"
+	father = 26672014
+
+	2532.8.1 = {
+		birth = yes
+	}
+	2548.9.18 = {
+		effect = {
+			spawn_unit = {
+			province = 1194 # Jaffna/Nagadipa
+				owner = ROOT
+				disband_on_peace = yes
+				troops = {
+					light_infantry = { 1000 1000 }
+				}
+				attrition = 1
+			}
+		}
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672106 = {#youngest son of Lanka's ruler
+	name = "Virabahu"
+	disallow_random_traits = yes
+	dynasty = 26560118 #Ramachandran
+	religion = "theravada"
+	culture = "sinhala"
+	trait = "diligent"
+	trait = "proud"
+	trait = "wroth"
+	trait = "cruel"
+	father = 26672014
+	
+	2537.1.20 = {
+		birth = yes
+	}
+	2547.11.4 = {
+		add_spouse = 26672102 #Sister of the Count of Maldives. Mostly to prevent an early maldivian invasion. UPDATE: He isn't independent anymore so he might fall to a holy war anyway, but i'm too lazy to remove this.
+	}
+	2661.1.1 = {
+		death = yes
+	}
+}
+26672107 = {#Ruler of Madurai
+	name = "Vishnu"
+	dynasty = 26560300 #Murugan
+	religion = "shaivasiddhanta"
+	culture = "tamil"
+	trait = "indulgent_wastrel"
+	trait = "envious" #Meant to be disloyal
+	trait = "deceitful"
+	trait = "zealous"
+	trait = "craven"
+	trait = "brahmin"
+
+	2501.11.21 = {
+		birth = yes
+	}
+	2661.1.1 = {
+		death = yes
+	}
+}
+26672108 = {#Descendant of the ruler of the Gangetic realm
+	name = "Nakul"
+	dynasty = 26560303 #Sharma
+	religion = "neovedantic"
+	culture = "hindustani"
+	trait = "twin"
+	father = 26679024
+	
+	2532.11.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672109 = {#Son of the ruler of the Gangetic realm
+	name = "Sahadev"
+	dynasty = 26560303 #Sharma
+	religion = "neovedantic"
+	culture = "hindustani"
+	trait = "twin"
+	father = 26679024
+	
+	2532.11.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672110 = {#Son of the Oriya ruler of the Sharma dynasty
+	name = "Rampal"
+	dynasty = 26560303 #Sharma
+	religion = "maunaxite"
+	culture = "oriya"
+	trait= "kshatriya"
+	father = 26672235
+	
+	2543.11.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672111 = {#Daughter of the ruler of Hastinapura
+	name = "Dushala"
+	female = yes
+	dynasty = 26560303 #Sharma
+	religion = "neovedantic"
+	culture = "hindustani"
+	father = 26672227
+	
+	2544.11.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672112 = {#Nasrani Titular Duke 1
+	name = "Antony"
+	religion = "nasrini"
+	culture = "malayalam"
+	dynasty = 3834296 #George
+	2520.4.4 = {
+		birth = yes
+		effect = { dynasty = none }
+		give_job_title = job_marshal
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672113 = {#Nasrani Titular Duke 2
+	name = "Adam"
+	religion = "nasrini"
+	culture = "malayalam"
+	dynasty = 3834282 #Paul
+	2520.4.4 = {
+		birth = yes
+		effect = { dynasty = none }
+		give_job_title = job_spymaster
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672114 = {#Nasrani Titular Duke 3
+	name = "Thoma"
+	dynasty = 3834292 #Jose
+	religion = "nasrini"
+	culture = "malayalam"
+
+	2528.4.4 = {
+		birth = yes
+		give_job_title = job_chancellor
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672115 = {
+	name = "Mahesh Das"
+	dynasty = 26560167 #Brahmbhatt
+	religion = "neovedantic"
+	culture = "angrezi"
+	trait = quick
+	trait = shrewd
+
+	2528.9.27 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672116 = {
+	name = "Rama"
+	dynasty = 26560168 #Tenali
+	religion = "parabrahmanist"
+	culture = "kannada"
+	trait = quick
+	trait = poet
+	trait = "kshatriya"
+
+	2505.5.30 = {
+		birth = yes
+		effect = { give_minor_title = title_court_jester }
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672117 = {
+	name = "Aamir Shah"
+	dynasty = 26560170 #Salman
+	religion = "ahmadiyya"
+	culture = "hindustani"
+
+	2506.11.2 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672118 = {
+	name = "Vikram"
+	dynasty = 26560171 #Kalidas
+	religion = "jain"
+	culture = "bhili"
+	trait = dull
+	trait = poet
+	trait = "kshatriya"
+
+	2516.2.11 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672119 = {
+	name = "Arulmozhivarman"
+	dynasty = 26560173 #Cholan
+	religion = "shaivasiddhanta"
+	culture = "tamil"
+	trait = ambitious
+	trait = proud
+	trait = "brahmin"
+
+	2537.6.29 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672120 = {
+	name = "Krishnaraja"
+	dynasty = 26560172 #Wodeyar
+	religion = "parabrahmanist"
+	culture = "kannada"
+	trait = "kshatriya"
+
+	2502.5.12 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672121 = {
+	name = "Naga"
+	dynasty = 26560174 #Vishwaroopa
+	religion = "navayana"
+	culture = "marathi"
+
+	2496.3.14 = {
+		birth = yes
+	}
+	2554.12.28 = {
+		add_claim = c_kiranapura
+		add_claim = c_chauragarh
+		add_claim = c_kherla
+		add_claim = c_ramagiri
+	}
+	2666.1.1 = {
+		death = yes
+	}
+	
+	#OWNS d_vidharba, c_canda, c_acalapura, c_parnakheta
+}
+26672122 = {#Kannadan Emperor 2
+	name = "Anand"
+	dynasty = 26560134 #Narasimha
+	religion = "parabrahmanist"
+	culture = "kannada"
+	father = 26672234
+	trait = "kshatriya"
+	
+	2462.7.1 = {
+		birth = yes
+	}
+	2506.10.24 = {
+		death = yes
+	}
+}
+26672123 = {#Kannadan Emperor 3
+	name = "Vijay"
+	dynasty = 26560134 #Narasimha
+	religion = "parabrahmanist"
+	culture = "kannada"
+	father = 26672122
+	trait = "kshatriya"
+	
+	2491.12.28 = {
+		birth = yes
+	}
+	2553.3.17 = {
+		death = yes
+	}
+}
+26672124 = {
+	name = "Vikramaditya"
+	dynasty = 26560175 #Anantashesha
+	religion = "brethren"
+	culture = "hindustani"
+
+	2512.5.4 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+	
+	#OWNS c_faodhippolhu
+}
+##New character list starts from 26672200 onwards
+26672200 = {#Ruler of the Gangetic realm
+	name = "Vardhan"
+	dynasty = 26560303 #Sharma
+	religion = "neovedantic"
+	culture = "hindustani"
+	trait = "cynical"
+	father = 26679024
+	
+	2517.11.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672201 = {#Ruler of Przemysl
+	name = "Konrad"
+	dynasty = 26560319 #Hotzendorfas
+	martial = 0
+	religion = "catholic"
+	culture = "ukrainer"
+	trait = "brilliant_strategist"
+	trait = "mountain_terrain_leader"
+	trait = "siege_leader"
+	trait = "unyielding_leader"
+	trait = "imbecile"
+
+	2537.11.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672202 = {#Ruler of Someplace in south india idk
+	name = "Gautham"
+	dynasty = 26560305 #Waynekataraman
+	intrigue = 9
+	religion = "parabrahmanist"
+	culture = "tamil"
+	trait = "elusive_shadow"
+	trait = "schemer"
+	trait = "kshatriya"
+
+	2537.11.21 = {
+		birth = yes
+	}
+	2553.12.20 = {
+		add_claim = e_karnataka
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672203 = {
+	name = "Shivaji"
+	religion = "parabrahmanist"
+	culture = "tamil"
+	dynasty = 26560166 #Rao
+	trait = "kshatriya"
+
+	2538.11.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672204 = {#look, an EU4 reference!
+	name = "Bahlul"
+	dynasty = 26560306 #Delhavi
+	religion = "neovedantic"
+	secret_religion = "barelvi"
+	culture = "hindustani" #He must be this culture, mmmkay?
+	trait = "brilliant_strategist"
+	trait = "cynical"
+	trait="sympathy_islam"
+	trait="proud"
+	trait="arbitrary"
+	trait="content"
+	disallow_random_traits = yes
+
+	2538.6.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+	
+	#OWNS c_delhi, c_sthanisvara
+}
+26672205 = { #Vijayanagar empire
+	name = "Harihara"
+	dynasty = 85522120 #Sangama
+	religion = "parabrahmanist"
+	culture = "kannada"
+	trait = "ambitious"
+	trait = "kshatriya"
+
+	2538.11.21 = {
+		birth = yes
+	}
+	2553.12.20 = {
+		add_claim = e_karnataka
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672206 = {
+	name = "Agni"
+	dynasty = 26560126 #Agnivansha
+	religion = "pagan" 
+	culture = "oriya"
+	trait = "ambitious"
+
+	2122.5.7 = {
+		birth = yes
+	}
+	2278.6.19 = {
+		death = yes
+	}
+}
+26672207 = { #Human of the Human dynasty
+	name = "Insaan"
+	dynasty = 26560309 #Manushya
+	religion = "ahmadiyya"
+	culture = "panjabi"
+
+	2538.11.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672208 = { #Duke of Gandhara
+	name = "Semseddin"
+	dynasty = 26560310 #Candar
+	religion = "barelvi"
+	culture = "panjabi"
+
+	2538.11.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672209 = { #Shaktimaan
+	name = "Gangadhar"
+	dynasty = 26560311 #Shaktimaan
+	religion = "neovedantic"
+	culture = "gujurati"
+	trait = "vaishya"
+	trait = "strong"
+	trait = "mastermind_theologian"
+	trait = "erudite"
+	trait = "just"
+	trait = "kind"
+	trait = "shrewd"
+	trait = "zealous"
+	
+	2538.11.21 = {
+		birth = yes
+	}
+	2552.7.26 = {
+		create_bloodline = {
+			type = shaktimaan
+			has_dlc = "Holy Fury"
+		}
+	}
+	2553.11.4 = {
+		add_spouse = 26679032
+		effect = {
+			add_lover = 26679032
+		}
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672210 = {
+	name = "Abhishek"
+	diplomacy = 10
+	religion = "neovedantic"
+	culture = "gujurati"
+
+	2538.11.21 = {
+		birth = yes
+        effect = { dynasty = none }
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+#26672211 moved to the right place in Yemeni
+26672212 = {
+	name = "Agni"
+	dynasty = 26560126 #Agnivansha
+	religion = "pagan" 
+	culture = "oriya"
+    father = 26672206
+	
+	2157.3.13 = {
+		birth = yes
+	}
+	2210.5.26 = {
+		death = yes
+	}
+}
+26672213 = {
+	name = "Rudra"
+	dynasty = 26560126 #Agnivansha
+	religion = "pagan"
+	culture = "oriya"
+    father = 26672212
+	
+	2192.6.22 = {
+		birth = yes
+	}
+	2233.8.20 = {
+		death = yes
+	}
+}
+26672214 = {
+	name = "Agni"
+	dynasty = 26560126 #Agnivansha
+	religion = "pagan" 
+	culture = "oriya"
+    father = 26672213
+	
+	2231.11.7 = {
+		birth = yes
+	}
+	2298.3.12 = {
+		death = yes
+	}
+}
+26672215 = {
+	name = "Rudra"
+	dynasty = 26560126 #Agnivansha
+	religion = "neovedantic" 
+	culture = "oriya"
+    father = 26672214
+	
+	2265.4.8 = {
+		birth = yes
+	}
+	2300.6.25 = {
+		death = yes
+	}
+}
+26672216 = {
+	name = "Rudra"
+	dynasty = 26560126 #Agnivansha
+	religion = "neovedantic" 
+	culture = "hindustani"
+    father = 26672215
+	
+	2289.7.11 = {
+		birth = yes
+	}
+	2323.9.23 = {
+		death = yes
+	}
+}
+26672217 = {
+	name = "Nasir"
+	dynasty = 26560318 #Fazal
+	religion = "koranist"
+	culture = "sindhi"
+	trait = "misguided_warrior"
+	trait = "craven"
+	trait = "koranist_moderate"
+	
+	2534.2.12 = {
+		birth = yes
+	}
+	2550.5.5 = {
+	    trait = "successor"
+		add_claim = d_ajmer
+		add_claim = d_jangladesh
+		add_claim = d_maru
+		add_claim = d_stravani
+		add_claim = d_gurjara_mandala
+		add_claim = d_sauvira
+		add_claim = c_medapata
+		add_claim = c_chitrakut
+		add_claim = c_godwad
+	}
+	2666.1.1 = {
+		death = yes
+	}
+	#OWNS d_sauvira, c_sonda, c_mansura, c_vijnot, c_aror
+}
+26672218 = {
+	name = "Arin" #Arin the Conqueror
+	dynasty = 26560307 #of Bandra
+	dna = fdvdgqdyscp
+	prp = dc000000000000000000000000000000000000
+	religion = "neovedantic"
+	culture = "mumbaikar"
+	trait = "adventurer"
+	trait = "twin"
+	trait = "brave"
+	trait = "proud"
+	trait = "brilliant_strategist"
+	disallow_random_traits=yes
+	mother = 26672225
+	
+	2526.11.4 = {
+		birth = yes
+	}
+	2549.11.4 = {
+		create_bloodline = {
+			type = laskandar_bloodline
+			has_dlc = "Holy Fury"
+	    }
+	}
+	2550.5.5 = {
+		death = yes
+	}
+}
+26672219 = {
+	name = "Arin"
+	dynasty = 26560307 #of Bandra
+	dna = fdvdgqdyscp
+	prp = dc000000000000000000000000000000000000
+	religion = "neovedantic"
+	culture = "mumbaikar"
+	father = 26672218
+	2546.5.7 = {
+		birth = yes
+	}
+	2550.5.5 = {
+	    trait = "successor"
+		add_claim = d_ajmer
+		add_claim = d_jangladesh
+		add_claim = d_maru
+		add_claim = d_stravani
+		add_claim = d_gurjara_mandala
+		add_claim = d_sauvira
+		add_claim = c_medapata
+		add_claim = c_chitrakut
+		add_claim = c_godwad
+	}
+
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672221 = {
+	name = "Daraya"
+	dynasty = 26560315 #Vahana
+	religion = "neovedantic"
+	culture = "rajput"
+	trait = "craven"
+
+	2480.11.9 = {
+		birth = yes
+	}
+	2549.11.4 = {
+		death = { 
+			death_reason = death_battle
+			killer = 26672218 # Sikandar
+		}
+	}
+}
+26672222 = {
+	name = "Yama"
+	dynasty = 26560313 #Kardi
+	dna = fdvdgqdyscp
+	prp = dc000000000000000000000000000000000000
+	religion = "neovedantic"
+	culture = "rajput"
+	trait = "strategist"
+	trait = "flanker"
+	trait = "brilliant_strategist"
+	trait = successor
+	trait = ambitious
+	health = 8
+	martial = 15
+	intrigue = 5
+
+	2529.11.4 = {
+		birth = yes
+	}
+	2549.11.4 = {
+		give_nickname = nick_the_deathbringer
+	}
+	2550.5.5 = {
+	    give_job_title = job_marshal
+	    effect = { give_minor_title = title_regent }
+	    #trait = "successor"
+		add_claim = k_rajputana
+		add_claim = d_ajmer
+		add_claim = d_jangladesh
+		add_claim = d_maru
+		add_claim = d_stravani
+		add_claim = d_gurjara_mandala
+		add_claim = d_sauvira
+		add_claim = c_medapata
+		add_claim = c_chitrakut
+		add_claim = c_godwad
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672223 = {
+	name = "Valeriya"
+	dynasty = 26560307 #of Bandra
+	religion = "neovedantic"
+	culture = "mumbaikar"
+	trait = "content"
+
+	2472.5.3 = {
+		birth = yes
+	}
+	2489.8.1 = {
+	    add_spouse = 26672226
+	}
+	2497.10.8 = {
+	    effect = { add_trait = "has_tuberculosis" }
+	}
+	2498.2.28 = {
+	    effect = { remove_trait = "has_tuberculosis" }
+	}
+	2498.7.11 = {
+	    effect = { add_trait = "depressed" }
+	}
+	2503.1.1 = {
+		death = yes
+	}
+}
+26672224 = {
+	name = "Ignatiya"
+	dynasty = 26560307 #of Bandra
+	religion = "neovedantic"
+	culture = "mumbaikar"
+	father = 26672223
+	mother = 26672226
+
+	2492.6.4 = {
+		birth = yes
+	}
+	2497.9.27 = {
+	    effect = { add_trait = "has_tuberculosis" }
+	}
+	2498.7.11 = {
+		death = { 
+			death_reason = death_poor_health
+		}
+	}
+}
+26672225 = {
+	name = "Yuliyanaa"
+	female = yes
+	dynasty = 26560307 #of Bandra
+	religion = "neovedantic"
+	culture = "mumbaikar"
+	father = 26672223
+	mother = 26672226
+
+	2501.7.11 = {
+		birth = yes
+	}
+	2537.1.1 = {
+		death = yes
+	}
+}
+26672226 = {
+	name = "Helene"
+	female = yes
+	dynasty = 2040191
+	religion = "neovedantic"
+	culture = "mumbaikar"
+
+	2484.2.2 = {
+		birth = yes
+	}
+	2489.8.1 = {
+	    add_spouse = 26672223
+	}
+	2498.7.11 = {
+	    effect = { add_trait = "cynical" }
+	}
+	2542.1.1 = {
+		death = yes
+	}
+}
+26672227 = {#Count of Sthanisvara
+	name = "Prashant"
+	dynasty = 26560303 #Sharma
+	religion = "neovedantic"
+	culture = "hindustani"
+	trait = blinded
+	father = 26679024
+
+	2529.3.11 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672228 = {#chhattisgarhi warlord
+	name = "Gopinatha"
+	dynasty = 26560316 #Ratanpuri
+	religion = "maunaxite"
+	culture = "chhattisgarhi"
+	trait= "kshatriya"
+
+	2511.8.13 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672229 = {#Ancestor
+	name = "Jagadisha"
+	dynasty = 26560303 #Sharma
+	religion = "neovedantic"
+	culture = "hindustani"
+
+	2312.8.17 = {
+		birth = yes
+#		give_nickname = nick_hindu_hammer
+		create_bloodline = {
+			type = gangaraja_bloodline
+			has_dlc = "Holy Fury"
+	    }
+	}
+	2388.10.7 = {
+		death = yes
+	}
+}
+
+26672233  = { #Duke of Dvaraka in Gujarat
+    name = "Herakleya" 
+	dynasty = 26560301 #Sourasenos
+	religion = "neovedantic"
+	culture = "mumbaikar"
+	trait = "skilled_tactician"
+	trait = "strong"
+	trait = "brave"
+	trait = "content"
+	trait = "just"
+	trait = "patient"
+	disallow_random_traits=yes
+	father = 26673013
+	2537.3.3 = {
+		birth = yes
+		add_claim = d_konkana
+		effect={
+		add_friend=26679026
+		}
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672234 = {#Legendary Kannadan Emperor
+	name = "Vijay"
+	dynasty = 26560134 #Narasimha
+	dna = czyxsrcuvrq
+	prp = anw00000000000000000000000000000000000
+	religion = "parabrahmanist"
+	culture = "kannada"
+	trait = "kshatriya"
+	
+	2450.4.12 = {
+		birth = yes
+		create_bloodline = {
+			type = purandara_bloodline
+			has_dlc = "Holy Fury"
+		}
+	}
+	2500.6.10 = {
+		death = yes
+	}
+}
+26672235 = {#Sharma bihari warlord
+	name = "Harekrushna"
+	dynasty = 26560303 #Sharma
+	religion = "maunaxite"
+	culture = "bihari"
+	trait= "kshatriya"
+	father = 26679024
+
+	2520.1.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26672236 = {
+	name = "Antimakha"
+	dynasty = 26560142 #Tipu
+	religion = "neovedantic"
+	culture = "hindustani"
+	trait = "grey_eminence"
+	trait = "charitable"
+	trait = "kind"
+	father = 26672237
+
+	2524.9.9 = {
+		birth = yes
+	}
+	2547.6.1 = {
+		death = { 
+			death_reason = death_execution_beheading
+			killer = 26672041 # Dharmamita
+		}
+	}
+}
+26672237 = { #Father of the Tipu ruler
+	name = "Kapil"
+	dynasty = 26560142 #Tipu
+	religion = "neovedantic"
+	culture = "hindustani"
+
+	2489.8.4 = {
+		birth = yes
+	}
+	2544.3.17 = {
+		death = yes
+	}
+}
+26672238 = { #Oriya tributary of the palagavras
+	name = "Dalpat"
+	dynasty = 3834540 #Garha
+	religion = "koyapunem"
+	culture = "gondi"
+	trait="eccentric"
+	trait= "kshatriya"
+
+	2496.1.18 = {
+		birth = yes		
+	}
+	2590.1.17 = {
+		death = yes
+	}
+}
+26672240 = {
+	name = "Ashutosh"
+	dynasty = 26560304 #Devi
+	religion = "parabrahmanist"
+	culture = "hindustani"
+	mother = 26672241
+	trait = "kshatriya"
+
+	2492.5.11 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+	
+}
+26672241 = {
+	name = "Jayanti"
+	female = yes
+	dynasty = 26560304 #Devi
+	religion = "parabrahmanist"
+	culture = "hindustani"
+	trait = "cannibal_trait"
+	trait = "kshatriya"
+
+	2461.3.20 = {
+		birth = yes
+	}
+	2524.2.12 = {
+		death = yes
+	}
+}
+26672242 = {
+	name = "Amrit"
+	dynasty = 36503150 #Moshavi
+	religion = "jain"
+	culture = "bhili"
+	trait="barren"	
+	trait = "kshatriya"
+
+	2531.8.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26673001 = {
+	name = "Rudra"
+	dynasty = 2060013 #Kingsley
+	religion = "parabrahmanist"
+	culture = "angrezi"
+	trait = "kshatriya"
+
+	2532.7.12 = {
+		birth = yes	
+	}
+	2666.1.1 = {
+		death = yes
+	}
+	
+	#OWNS c_manyapura, c_nandagiri
+}
+26673002 = {
+	name = "George"
+	dynasty = 2060014 #Koshy
+	religion = "nasrini"
+	culture = "malayalam"
+
+	2529.8.12 = {
+		birth = yes
+        give_job_title = job_treasurer		
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26673003 = {
+	name = "Nasiha"
+	dynasty = 3834440 #Xalxo
+	religion = "sarna_pagan"
+	culture = "kurukh"
+	female = yes
+	trait = "grey_eminence"
+	trait = "gregarious"
+	trait = "kind"
+	trait = "patient"
+	trait = "erudite"
+	2535.6.12 = {
+		birth = yes	
+	}
+	2666.1.1 = {
+		death = yes
+	}
+	#OWNS c_munda
+}
+26673004 = {
+	name = "John"
+	dynasty = 2060009 #Gidney
+	religion = "neovedantic"
+	culture = "hindustani"
+	
+
+	2530.5.12 = {
+		birth = yes	
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26673005 = {
+	name = "Nishant"
+	dynasty = 26560165 #Ratna
+	religion = "jain"
+	culture = "bhili"
+	trait = "kshatriya"
+	
+
+	2513.1.8 = {
+		birth = yes	
+	}
+	2666.1.1 = {
+		death = yes
+	}
+	#OWNS c_vadodara, c_ujjayini, c_dhara, c_dadhipadra
+}
+
+1000 = {
+	name = "Subramaniam"
+	dynasty = 3834280
+	religion = "shaivasiddhanta"
+	culture = "tamil"
+	trait = "indulgent_wastrel"
+	trait = "envious"
+	trait = "deceitful"
+	trait = "zealous"
+	trait = "craven"
+	trait = "brahmin"
+
+	2501.11.21 = {
+		birth = yes
+	}
+	2661.1.1 = {
+		death = yes
+	}
+}
+
+1001 = {
+	name = "Nâgesh"
+	dynasty = 3834272
+	religion = "parabrahmanist"
+	culture = "tamil"
+	trait = "indulgent_wastrel"
+	trait = "deceitful"
+	trait = "zealous"
+	trait = "craven"
+	trait="fecund"
+	trait="androgynous"
+	trait = "kshatriya"
+
+	2521.1.3 = {
+		birth = yes
+	}
+	2661.1.1 = {
+		death = yes
+	}
+}
+
+26673014 = {
+	name = "Ilyas"
+	dynasty = 26560114 #Saeed Pasha
+	religion = "ahmadiyya"
+	culture = "panjabi" 
+	trait = "sayyid"
+	father=26672008
+
+	2550.1.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	} 
+
+}
+
+26673015 = {
+    name = "Gabriel" 
+	dynasty = 1981253
+	religion = "baptist"
+	culture = "khasic"
+	trait = "skilled_tactician"
+	trait = "patient"
+	trait = "brave"	
+	trait = "content"	
+	trait = "humble"
+	trait = "sword_driven"	
+	2530.2.6 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26673016 = {
+    name = "Kamal" 
+	dynasty = 3832140
+	religion = "barelvi"
+	culture = "lankan_tamil"
+	trait = "skilled_tactician"
+	trait = "patient"
+	trait = "brave"	
+	trait = "content"	
+	trait = "humble"
+	trait="sayyid"
+	2532.2.6 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26673017 = {
+    name = "Mahmood" 
+	dynasty = 3832140
+	religion = "barelvi"
+	culture = "lankan_tamil"
+	father=26673016
+	trait="sayyid"
+	2552.1.19 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26673018 = {
+    name = "Kamaluddin" 
+	dynasty = 3833570
+	religion = "ahmadiyya"
+	culture = "sindhi"
+	trait="skilled_tactician"
+	2522.1.20 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26673019 = {
+    name = "Nawaz" 
+	dynasty = 3833571
+	religion = "barelvi"
+	culture = "sindhi"
+	trait="thrifty_clerk"
+	2520.6.20 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26673020 = {
+    name = "Jalaluddin" 
+	dynasty = 26560122
+	religion = "dahatatta"
+	culture = "bengali"
+	trait="thrifty_clerk"
+	2510.3.20 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26673021 = {
+    name = "Tajuddin" 
+	dynasty = 3833311
+	religion = "dahatatta"
+	culture = "bengali"
+	trait="grey_eminence"
+	trait="just"
+	trait="brave"
+	2515.12.2 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26673022 = {
+    name = "Huseyn" 
+	dynasty = 3833312
+	religion = "dahatatta"
+	culture = "bengali"
+	trait="midas_touched"
+	2515.12.2 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26673023 = {
+    name = "Farid" 
+	dynasty = 1997071
+	religion = "ismaili"
+	culture = "kashmiri"
+	trait="skilled_tactician"
+	trait="fecund"
+	2525.2.2 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+#Sharma Line
+26679024 = {#Line of
+	name = "Line of"
+	dynasty = 26560303 #Sharma
+	religion = "neovedantic"
+	culture = "hindustani"
+	father=26672229
+	occluded = yes
+	2350.1.17 = {
+		birth = yes		
+	}
+	2550.1.7 = {
+		death = yes
+	}
+}
+
+26679025  = { #Son of Herakleya
+    name = "Kaisariya" 
+	dynasty = 26560301 #Sourasenos
+	religion = "neovedantic"
+	culture = "yoonaanee"
+	trait = "strong"
+	father = 26672233
+	2554.6.3 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26679026  = {
+    name = "Fokas"
+	dynasty = 2040182 #Selinofoto
+	religion = "neovedantic"
+	culture = "yoonaanee"
+	trait = "grey_eminence"
+	trait = "vaishya"
+	trait = "quick"
+	trait = "kind"
+	trait = "arbitrary"
+	trait = "craven"
+	trait = "charitable"
+	trait = "shrewd"
+	2536.6.8 = {
+		birth = yes
+		effect={
+		add_friend=26672233
+		}
+	}
+	2544.11.4 = {
+		add_spouse = 26679029
+	 effect = {
+		add_lover = 26679029
+		}
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26679027  = {
+    name = "Daniyel" 
+	dynasty = 3834289
+	religion = "nasrini"
+	culture = "malayalam"
+	trait = "grey_eminence"
+	trait = "quick"
+	trait = "kind"
+	trait = "charitable"
+	trait = "shrewd"
+	female = yes
+	2536.1.8 = {
+		birth = yes
+	}
+	2544.11.4 = {
+		add_spouse = 26679026
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26679028  = {
+    name = "Varughese" 
+	dynasty = 3834303
+	religion = "nasrini"
+	culture = "malayalam"
+	trait = "thrifty_clerk"
+	trait = "erudite"
+	trait = "gregarious"
+	trait = "patient"
+	trait = "humble"
+	2534.12.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26679029  = {
+    name = "Yakaterine"
+	religion = "neovedantic"
+	culture = "yoonaanee"
+	female = "yes"
+	trait = "tough_soldier"
+	trait = "vaishya"
+	trait = "strong"
+	trait = "ambitious"
+	trait = "stubborn"
+	trait = "brave"
+	2537.4.9 = {
+		birth = yes
+	}
+	2544.11.4 = {
+		add_spouse = 26679026
+	 effect = {
+		add_lover = 26679026
+		}
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26679030  = {
+    name = "Erene"
+	dynasty = 2040182 #Selinofoto
+	religion = "neovedantic"
+	culture = "yoonaanee"
+	female = "yes"
+	father = 26679026
+	mother = 26679029
+	trait = "strong"
+	2552.6.22 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26679031  = {
+    name = "Georgiyaa"
+	dynasty = 2040182 #Selinofoto
+	religion = "neovedantic"
+	culture = "yoonaanee"
+	female = "yes"
+	father = 26679026
+	mother = 26679029
+	trait = "quick"
+	2553.11.12 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26679032 = {
+	name = "Geeta"
+	dynasty = 3940423
+	religion = "neovedantic"
+	culture = "gujurati"
+	female = "yes"
+	father = 26679033
+	trait = "vaishya"
+	trait = "charismatic_negotiator"
+	trait = "diligent"
+	trait = "gregarious"
+	
+	2538.11.21 = {
+		birth = yes
+	}
+	2553.11.4 = {
+		add_spouse = 26672209
+		effect = {
+			add_lover = 26672209
+		}
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+26679033 = {
+	name = "Gyanesh"
+	dynasty = 3940423
+	religion = "neovedantic"
+	culture = "gujurati"
+	trait = "vaishya"
+	trait = "scholarly_theologian"
+	trait = "erudite"
+	
+	2506.11.21 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26679034 = {#Bengali Hindu's son
+	name = "Prannath"
+	dynasty = 26560148 #Sengupta
+	religion = "kalikula"
+	culture = "bengali"
+	father=26672047
+	trait = "strong"
+	trait= "kshatriya"
+	2553.2.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26679035 = {#Pujabi Sikh vassal
+	name = "Ranjit"
+	dynasty = 3834041 #Mehra
+	religion = "sikh"
+	culture = "panjabi"
+	trait = "sikh_tolerations"
+	trait="eccentric"
+	2523.2.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26679036 = {#Pujabi Muslim vassal
+	name = "Abuali"
+	dynasty = 3834046 #Malik
+	religion = "barelvi"
+	culture = "panjabi"
+	2526.3.12 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26679937 = {#Nasrani President
+	name = "Lukose"
+	dynasty = 3834310 #Ravi
+	religion = "nasrini"
+	culture = "malayalam"
+	trait = "mastermind_theologian"
+	trait = "humble"
+	trait = "content"
+	trait = "kind"
+	trait = "chaste"
+	trait = "erudite"
+	2500.4.4 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+#Andaman Rulers
+26679037 = {#King of the Andamans
+	name = "Chandravarman"
+	dynasty = 9150469 #Ganeshan
+	religion = "old_hindu"
+	culture = "andamani"
+	trait = "midas_touched"
+	trait = "ambitious"
+	trait = "erudite"
+	trait = "temperate"
+	trait = "groomed"
+	trait = "proud"
+	trait = "kshatriya"
+	disallow_random_traits=yes
+	2524.2.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26679038 = {#Vassal of Andamans
+	name = "Pravaraja"
+	dynasty = 9150470 #Kujur
+	religion = "old_hindu"
+	culture = "andamani"
+	trait = "kshatriya"
+	2528.2.1 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}
+
+26679039 = {#Vassal of Andamans
+	name = "Damodara"
+	dynasty = 9150468 #Verma
+	religion = "old_hindu"
+	culture = "andamani"
+	trait = "kshatriya"
+	2529.5.12 = {
+		birth = yes
+	}
+	2666.1.1 = {
+		death = yes
+	}
+}

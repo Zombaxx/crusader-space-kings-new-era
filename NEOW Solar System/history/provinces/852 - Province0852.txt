@@ -1,0 +1,15 @@
+# 852 - Province0852
+
+# County Title
+title = c_province0852
+
+# Settlements
+max_settlements = 3
+b_barony0852` = castle
+b_barony0852a = temple
+
+# Misc
+culture = beijing
+religion = vajrayana
+
+# History

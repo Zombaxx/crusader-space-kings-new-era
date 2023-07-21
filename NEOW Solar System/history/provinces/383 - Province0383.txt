@@ -1,0 +1,20 @@
+# 383 - Province0383
+
+# County Title
+title = c_province0383
+
+# Settlements
+max_settlements = 5
+b_barony0383` = city
+b_barony0383a = temple
+b_barony0383b = castle
+b_barony0383c = city
+
+# Misc
+culture = mongol
+religion = jewish
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_103830
+}

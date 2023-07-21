@@ -1,0 +1,16 @@
+# 1229 - Province1229
+
+# County Title
+title = c_province1229
+
+# Settlements
+max_settlements = 4
+b_barony1229` = castle
+b_barony1229a = temple
+b_barony1229b = city
+
+# Misc
+culture = gaoshan
+religion = novelist
+
+# History

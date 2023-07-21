@@ -1,0 +1,14 @@
+# 166 - Province0166
+
+# County Title
+title = c_province0166
+
+# Settlements
+max_settlements = 2
+b_barony0166` = tribal
+
+# Misc
+culture = alan
+religion = tengri_pagan
+
+# History

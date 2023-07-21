@@ -1,0 +1,14 @@
+# 1941 - Province1941
+
+# County Title
+title = c_province1941
+
+# Settlements
+max_settlements = 4
+b_barony1941` = tribal
+
+# Misc
+culture = gaoshan
+religion = old_hindu
+
+# History

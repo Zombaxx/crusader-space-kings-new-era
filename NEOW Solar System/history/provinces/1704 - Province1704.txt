@@ -1,0 +1,15 @@
+# 1704 - Province1704
+
+# County Title
+title = c_province1704
+
+# Settlements
+max_settlements = 4
+b_barony1704` = tribal
+b_barony1704a = temple
+
+# Misc
+culture = frisian
+religion = bon
+
+# History

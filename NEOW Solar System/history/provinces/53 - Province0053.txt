@@ -1,0 +1,14 @@
+# 53 - Province0053
+
+# County Title
+title = c_province0053
+
+# Settlements
+max_settlements = 2
+b_barony0053` = tribal
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

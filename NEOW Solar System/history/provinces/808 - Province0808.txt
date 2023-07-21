@@ -1,0 +1,15 @@
+# 808 - Province0808
+
+# County Title
+title = c_province0808
+
+# Settlements
+max_settlements = 3
+b_barony0808` = castle
+b_barony0808a = temple
+
+# Misc
+culture = frisian
+religion = catholic
+
+# History

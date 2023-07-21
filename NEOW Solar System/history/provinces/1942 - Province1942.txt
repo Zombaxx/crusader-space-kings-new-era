@@ -1,0 +1,14 @@
+# 1942 - Province1942
+
+# County Title
+title = c_province1942
+
+# Settlements
+max_settlements = 3
+b_barony1942` = tribal
+
+# Misc
+culture = daju
+religion = finnish_pagan
+
+# History

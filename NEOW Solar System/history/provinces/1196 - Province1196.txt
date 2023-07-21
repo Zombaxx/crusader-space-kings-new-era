@@ -1,0 +1,17 @@
+# 1196 - Province1196
+
+# County Title
+title = c_province1196
+
+# Settlements
+max_settlements = 5
+b_barony1196` = castle
+b_barony1196a = temple
+b_barony1196b = city
+b_barony1196c = castle
+
+# Misc
+culture = alan
+religion = catholic
+
+# History

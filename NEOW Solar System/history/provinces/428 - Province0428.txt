@@ -1,0 +1,16 @@
+# 428 - Province0428
+
+# County Title
+title = c_province0428
+
+# Settlements
+max_settlements = 4
+b_barony0428` = castle
+b_barony0428a = temple
+b_barony0428b = city
+
+# Misc
+culture = mongol
+religion = mesopotamian
+
+# History

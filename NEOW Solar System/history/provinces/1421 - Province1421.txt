@@ -1,0 +1,17 @@
+# 1421 - Province1421
+
+# County Title
+title = c_province1421
+
+# Settlements
+max_settlements = 5
+b_barony1421` = castle
+b_barony1421a = temple
+b_barony1421b = city
+b_barony1421c = castle
+
+# Misc
+culture = persian
+religion = sufi
+
+# History

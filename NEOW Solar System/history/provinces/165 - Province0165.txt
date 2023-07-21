@@ -1,0 +1,16 @@
+# 165 - Province0165
+
+# County Title
+title = c_province0165
+
+# Settlements
+max_settlements = 4
+b_barony0165` = castle
+b_barony0165a = temple
+b_barony0165b = city
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

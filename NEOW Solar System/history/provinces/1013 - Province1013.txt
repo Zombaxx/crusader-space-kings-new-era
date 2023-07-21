@@ -1,0 +1,15 @@
+# 1013 - Province1013
+
+# County Title
+title = c_province1013
+
+# Settlements
+max_settlements = 3
+b_barony1013` = castle
+b_barony1013a = temple
+
+# Misc
+culture = punjabi
+religion = old_hindu
+
+# History

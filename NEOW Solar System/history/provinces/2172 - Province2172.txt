@@ -1,0 +1,14 @@
+# 2172 - Province2172
+
+# County Title
+title = c_province2172
+
+# Settlements
+max_settlements = 2
+b_barony2172` = castle
+
+# Misc
+culture = frisian
+religion = sufi
+
+# History

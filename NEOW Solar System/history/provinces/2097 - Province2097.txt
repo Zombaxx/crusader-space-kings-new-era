@@ -1,0 +1,18 @@
+# 2097 - Province2097
+
+# County Title
+title = c_province2097
+
+# Settlements
+max_settlements = 7
+b_barony2097` = castle
+b_barony2097a = temple
+b_barony2097b = city
+b_barony2097c = castle
+b_barony2097d = temple
+
+# Misc
+culture = panjabi
+religion = fraticelli
+
+# History

@@ -1,0 +1,17 @@
+# 2122 - Province2122
+
+# County Title
+title = c_province2122
+
+# Settlements
+max_settlements = 5
+b_barony2122` = castle
+b_barony2122a = temple
+b_barony2122b = city
+b_barony2122c = castle
+
+# Misc
+culture = panjabi
+religion = fraticelli
+
+# History

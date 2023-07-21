@@ -1,0 +1,16 @@
+# 1457 - Province1457
+
+# County Title
+title = c_province1457
+
+# Settlements
+max_settlements = 4
+b_barony1457` = castle
+b_barony1457a = temple
+b_barony1457b = city
+
+# Misc
+culture = persian
+religion = taoist
+
+# History

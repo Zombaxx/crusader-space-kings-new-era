@@ -1,0 +1,14 @@
+# 2092 - Province2092
+
+# County Title
+title = c_province2092
+
+# Settlements
+max_settlements = 3
+b_barony2092` = tribal
+
+# Misc
+culture = panjabi
+religion = baltic_pagan
+
+# History

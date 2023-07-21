@@ -1,0 +1,14 @@
+# 230 - Province0230
+
+# County Title
+title = c_province0230
+
+# Settlements
+max_settlements = 2
+b_barony0230` = tribal
+
+# Misc
+culture = frisian
+religion = jewish
+
+# History

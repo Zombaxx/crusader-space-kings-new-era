@@ -1,0 +1,16 @@
+# 1190 - Province1190
+
+# County Title
+title = c_province1190
+
+# Settlements
+max_settlements = 4
+b_barony1190` = castle
+b_barony1190a = temple
+b_barony1190b = city
+
+# Misc
+culture = alan
+religion = hellenic_pagan
+
+# History

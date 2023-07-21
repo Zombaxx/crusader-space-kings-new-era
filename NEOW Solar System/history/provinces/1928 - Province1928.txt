@@ -1,0 +1,15 @@
+# 1928 - Province1928
+
+# County Title
+title = c_province1928
+
+# Settlements
+max_settlements = 5
+b_barony1928` = tribal
+b_barony1928a = temple
+
+# Misc
+culture = gaoshan
+religion = old_hindu
+
+# History

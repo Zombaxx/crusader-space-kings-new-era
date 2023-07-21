@@ -1,0 +1,15 @@
+# 1387 - Province1387
+
+# County Title
+title = c_province1387
+
+# Settlements
+max_settlements = 3
+b_barony1387` = castle
+b_barony1387a = temple
+
+# Misc
+culture = gaoshan
+religion = taoist
+
+# History

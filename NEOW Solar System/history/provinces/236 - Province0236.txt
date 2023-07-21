@@ -1,0 +1,14 @@
+# 236 - Province0236
+
+# County Title
+title = c_province0236
+
+# Settlements
+max_settlements = 2
+b_barony0236` = castle
+
+# Misc
+culture = turkish
+religion = jacobinist
+
+# History

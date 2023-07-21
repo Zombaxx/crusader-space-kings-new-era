@@ -1,0 +1,14 @@
+# 2148 - Province2148
+
+# County Title
+title = c_province2148
+
+# Settlements
+max_settlements = 4
+b_barony2148` = tribal
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

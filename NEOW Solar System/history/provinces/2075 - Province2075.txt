@@ -1,0 +1,17 @@
+# 2075 - Province2075
+
+# County Title
+title = c_province2075
+
+# Settlements
+max_settlements = 5
+b_barony2075` = castle
+b_barony2075a = temple
+b_barony2075b = city
+b_barony2075c = castle
+
+# Misc
+culture = mongol
+religion = baltic_pagan
+
+# History

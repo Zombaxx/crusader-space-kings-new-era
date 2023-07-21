@@ -1,0 +1,16 @@
+# 951 - Province0951
+
+# County Title
+title = c_province0951
+
+# Settlements
+max_settlements = 4
+b_barony0951` = castle
+b_barony0951a = temple
+b_barony0951b = city
+
+# Misc
+culture = kannada
+religion = vajrayana
+
+# History

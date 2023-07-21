@@ -1,0 +1,16 @@
+# 1891 - Province1891
+
+# County Title
+title = c_province1891
+
+# Settlements
+max_settlements = 4
+b_barony1891` = city
+b_barony1891a = temple
+b_barony1891b = castle
+
+# Misc
+culture = gaoshan
+religion = baltic_pagan
+
+# History

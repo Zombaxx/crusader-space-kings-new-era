@@ -1,0 +1,16 @@
+# 780 - Province0780
+
+# County Title
+title = c_province0780
+
+# Settlements
+max_settlements = 4
+b_barony0780` = castle
+b_barony0780a = temple
+b_barony0780b = city
+
+# Misc
+culture = hausa
+religion = catholic
+
+# History

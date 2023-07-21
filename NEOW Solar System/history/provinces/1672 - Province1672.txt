@@ -1,0 +1,14 @@
+# 1672 - Province1672
+
+# County Title
+title = c_province1672
+
+# Settlements
+max_settlements = 3
+b_barony1672` = tribal
+
+# Misc
+culture = daju
+religion = bon
+
+# History

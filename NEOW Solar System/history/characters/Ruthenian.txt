@@ -1,0 +1,909 @@
+26664130 ={
+    name="Mykhail" 
+	dynasty=25554102
+	culture = "tutejszy"
+	religion = "catholic"
+	diplomacy=5
+	martial=4
+	stewardship=9
+	intrigue=0
+	learning=0
+	trait="flamboyant_schemer"
+	trait="honest"
+	trait="cruel"
+	trait="brave"
+	trait="slothful"	
+	2519.2.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664131 ={
+    name="Roman" 
+	dynasty=40111130 #Milanowski 
+	religion="catholic"
+	culture="tutejszy"
+	diplomacy=2
+	martial=2
+	stewardship=5
+	intrigue=8
+	learning=2
+	trait="thrifty_clerk"
+	trait="honest"
+	trait="zealous"
+	trait="gregarious"
+	trait="gamer"
+	disallow_random_traits=yes
+	2538.2.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+26664132 ={
+    name="Stefan" 
+	dynasty=25554104
+	religion="catholic"
+	culture="tutejszy"
+	diplomacy=4
+	martial=4
+	stewardship=9
+	intrigue=7
+	learning=2
+	trait="intricate_webweaver"
+	trait="greedy"
+	trait="zealous"
+	trait="temperate"
+	trait="gregarious"	
+	2524.5.25={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+36660000 ={
+   name="Borys" 
+   dynasty=25559124
+   religion="orthodox"
+   culture="ukrainer"
+   dna="biibcqabdct"
+   disallow_random_traits = yes
+   
+   diplomacy=6
+   martial=6
+   stewardship=9
+   intrigue=2
+   learning=7
+   trait="orthodox_mykola"
+   trait="genius"
+   trait="midas_touched"	
+   trait="envious"
+   trait="diligent"
+   trait="wroth"
+   trait="gregarious"	
+   trait="legendary"
+   2194.5.14={
+		birth = yes
+	}
+   2239.1.16={
+		death = yes
+	}
+}
+36660001 ={
+   name="Stepan" 
+   dynasty=25559124
+   religion="orthodox"
+   culture="ukrainer"
+   disallow_random_traits = yes
+   
+   father=36660000
+   diplomacy=3
+   martial=6
+   stewardship=4
+   intrigue=6
+   learning=3
+   trait="orthodox_mykola"
+   trait="quick"
+   trait="tough_soldier"
+   trait="just"
+   trait="wroth"
+   trait="gluttonous"
+   trait="cynical"
+   trait="is_fat"	
+   2214.9.17={
+		birth = yes
+	}
+   2270.7.8={
+		death = yes
+	}
+}
+36660002 ={#Emperor of Ruthenia
+   name="Bohdan" 
+   dynasty=25559124
+   religion="orthodox"
+   culture="ukrainer"
+   disallow_random_traits = yes
+   
+   father=36660001
+   diplomacy=4
+   martial=8
+   stewardship=3
+   intrigue=3
+   learning=4
+   trait="orthodox_mykola"
+   trait="brilliant_strategist"
+   trait="strategist"
+   trait="quick"
+   trait="strong"
+   trait="wroth"
+   trait="robust"
+   trait="proud"	
+   2243.1.1={
+		birth = yes
+	}
+   2293.11.2={
+		death = {death_reason = death_battle killer = 26667138}
+	}
+}
+36660003 ={#ukraine line
+   name="Panas" 
+   dynasty=25559124
+   religion="orthodox"
+   culture="ukrainer"
+   disallow_random_traits = yes
+   
+   father=36660002
+   diplomacy=3
+   martial=6
+   stewardship=7
+   intrigue=2
+   learning=6
+   trait="orthodox_mykola"
+   trait="twin"
+   trait="midas_touched"
+   trait="greedy"
+   trait="quick"
+   trait="patient"
+   trait="diligent"
+   trait="is_fat"
+   2268.5.14={
+		birth = yes
+	}
+   2340.1.12={
+		death = yes
+	}
+}
+36660005 ={
+   name="Borys" 
+   dynasty=25559124
+   religion="orthodox"
+   culture="ukrainer"
+   disallow_random_traits = yes
+   
+   father=36660003
+   diplomacy=6
+   martial=4
+   stewardship=2
+   intrigue=7
+   learning=7
+   trait="orthodox_mykola"
+   trait="intricate_webweaver"
+   trait="erudite"
+   trait="quick"
+   trait="envious"
+   trait="diligent"
+   trait="groomed"
+   trait="seducer"
+   trait="cynical"
+   2289.2.10={
+		birth = yes
+	}
+   2369.3.16={
+		death = yes
+	}
+}
+36660006 ={
+   name="Borys" 
+   dynasty=25559124
+   religion="orthodox"
+   culture="ukrainer"
+   disallow_random_traits = yes
+   
+   father=36660005
+   diplomacy=6
+   martial=4
+   stewardship=2
+   intrigue=2
+   learning=9
+   trait="orthodox_mykola"
+   trait="mastermind_theologian"
+   trait="weak"
+   trait="quick"
+   trait="erudite"
+   trait="homosexual"
+   trait="feeble"
+   trait="shrewd"
+   trait="slothful"
+   trait="excommunicated"
+   2336.10.1={
+		birth = yes
+	}
+   2387.2.28={
+		death = {death_reason = death_battle killer = 26667154}
+	}
+}
+36660007 ={#Orest Lyutyi refference
+   name="Orest" 
+   dynasty=25559124
+   religion="orthodox"
+   culture="ukrainer"
+   disallow_random_traits = yes
+   
+   father=36660006
+   diplomacy=7
+   martial=5
+   stewardship=4
+   intrigue=1
+   learning=4
+   trait="orthodox_mykola"
+   trait="quick"
+   trait="lunatic"
+   trait="possessed"
+   trait="tough_soldier"
+   trait="aggressive_leader"
+   trait="duelist"
+   trait="impaler"
+   trait="poet"
+   trait="wroth"
+   trait="sympathy_pagans"
+   2368.3.11={
+		birth = yes
+		give_nickname = nick_the_livid
+	}
+   2432.1.9={
+		death = yes
+	}
+}
+36660008 ={
+   name="Panas" 
+   dynasty=25559124
+   religion="orthodox"
+   culture="ukrainer"
+   disallow_random_traits = yes
+   
+   father=36660007
+   diplomacy=3
+   martial=5
+   stewardship=7
+   intrigue=3
+   learning=2
+   trait="orthodox_mykola"
+   trait="quick"
+   trait="thrifty_clerk"
+   trait="lustful"
+   trait="content"
+   trait="diligent"
+   trait="charitable"
+   2396.8.11={
+		birth = yes
+	}
+   2461.12.12={
+		death = yes
+	}
+}
+36660009 ={#line will continue as Zvetun
+   name="Roman" 
+   dynasty=25559124
+   religion="orthodox"
+   culture="ukrainer"
+   disallow_random_traits = yes
+   
+   father=36660008
+   diplomacy=2
+   martial=6
+   stewardship=4
+   intrigue=5
+   learning=5
+   trait="orthodox_mykola"
+   trait="quick"
+   trait="misguided_warrior"
+   trait="arbitrary"
+   2431.11.11={
+		birth = yes
+	}
+   2499.12.31={
+		death = yes
+	}
+}
+36660014 ={
+   name="Kateryna"
+   dynasty=25559124
+   female = yes
+   religion="orthodox"
+   culture="ukrainer"
+   disallow_random_traits = yes
+   
+   father=36660009
+   trait="orthodox_mykola"
+   trait="quick"
+   trait="martial_cleric"
+   trait="proud"
+   trait="shrewd"
+   trait="groomed"
+   2462.7.7={
+		birth = yes
+	}
+   2478.1.1={
+         add_spouse = 36667105
+    }
+   2480.7.23={
+		death = {death_reason =  death_childbirth}
+	}
+}
+          
+
+36660004 ={#belarus line
+   name="Roman" 
+   dynasty=25559124
+   religion="orthodox"
+   culture="ukrainer"
+   disallow_random_traits = yes
+   
+   father=36660002
+   diplomacy=7
+   martial=4
+   stewardship=3
+   intrigue=8
+   learning=4
+   trait="orthodox_mykola"
+   trait="strong"
+   trait="twin"
+   trait="grey_eminence"
+   trait="charitable"
+   trait="wroth"
+   trait="slothful"
+   trait="sturdy"
+   2268.5.14={
+		birth = yes
+	}
+   2340.1.5={
+		death = yes
+	}
+}
+36660010 ={
+   name="Raman" 
+   dynasty=25559124
+   religion="orthodox"
+   culture="bielaruskaja"
+   disallow_random_traits = yes
+   
+   father=36660004
+   trait="orthodox_mykola"
+   trait="strong"
+   trait="scholarly_theologian"
+   trait="scholar"
+   trait="shrewd"
+   trait="erudite"
+   trait="proud"
+   trait="patient"
+   2298.12.6={
+		birth = yes
+	}
+   2362.7.27={
+		death = yes
+	}
+}
+36660011 ={
+   name="Siarhei" 
+   dynasty=25559124
+   religion="orthodox"
+   culture="bielaruskaja"
+   disallow_random_traits = yes
+   
+   father=36660010
+   trait="orthodox_mykola"
+   trait="strong"
+   trait="midas_touched"
+   trait="greedy"
+   trait="proud"
+   trait="patient"
+   trait="dull"
+   trait="craven"
+   trait="groomed"
+   2330.11.7={
+		birth = yes
+	}
+   2385.7.21={
+		death = yes
+	}
+}
+36660012 ={
+   name="Matsviy" 
+   dynasty=25559124
+   religion="orthodox"
+   culture="bielaruskaja"
+   disallow_random_traits = yes
+   
+   father=36660011
+   trait="orthodox_mykola"
+   trait="strong"
+   trait="naive_appeaser"
+   trait="gregarious"
+   trait="just"
+   trait="diligent"
+   trait="cynical"
+   trait="gamer"
+   2365.1.12={
+		birth = yes
+	}
+   2410.4.1={
+		death = yes
+	}
+}
+36660013 ={
+   name="Valeriy" 
+   dynasty=25559124
+   religion="orthodox"
+   culture="bielaruskaja"
+   disallow_random_traits = yes
+   
+   father=36660012
+   trait="orthodox_mykola"
+   trait="strong"
+   trait="ugly"
+   trait="tough_soldier"
+   trait="gluttonous"
+   trait="is_fat"
+   trait="duelist"
+   2400.5.4={
+		birth = yes
+		give_nickname = nick_the_boar
+	}
+   2454.5.4={
+		death = {death_reason = death_battle killer = 26641107}
+	}
+}
+
+36667105 ={
+    name="Ivan" 
+	dynasty=25559123
+	religion="orthodox"
+	culture="ukrainer"
+   disallow_random_traits = yes
+   
+	trait="orthodox_mykola"
+	trait="martial_cleric"
+	trait="lustful"
+	trait="ambitious"
+	trait="groomed"
+	trait="just"
+	trait="stressed"
+	trait="depressed"
+	2460.7.23={
+		birth = yes
+	}
+	2478.1.1={
+         add_spouse = 36660014
+    }
+	2497.9.6={
+		death = {death_reason =  death_trait}
+	}
+}
+	
+36667104 ={
+    name="Hryhoriy" 
+	dynasty=25559123
+	religion="orthodox"
+	culture="ukrainer"
+	father=36667105
+	mother=36660014
+   disallow_random_traits = yes
+   
+	trait="orthodox_mykola"
+	trait="midas_touched"
+	trait="charitable"
+	trait="diligent"
+	trait="proud"
+	trait="just"
+	trait="content"
+	2480.7.23={
+		birth = yes
+	}
+	2552.1.29={
+		death = yes
+	}
+}
+	
+26667104 ={#King of Ukraine
+    name="Taras" 
+	dynasty=25559123
+	religion="orthodox"
+	culture="ukrainer"
+	father=36667104
+	trait="orthodox_mykola"
+	trait="martial_cleric"
+	trait="poet"
+	trait="patient"
+	trait="humble"
+	trait="shrewd"
+	trait="trusting"
+	2515.6.22={
+		birth=yes
+		effect = { set_character_flag = taras_kobzar }
+	}
+	
+	2590.1.1={
+		death=yes
+	}
+}
+36667106 ={
+    name="Stepan" 
+	dynasty=25559125
+	religion="orthodox"
+	culture="ukrainer"
+   disallow_random_traits = yes
+   
+    father=36660009
+	diplomacy=2
+    martial=2
+    stewardship=7
+    intrigue=2
+    learning=7
+	trait="orthodox_mykola"
+	trait="bastard"
+	trait="midas_touched"
+	trait="quick"
+	trait="is_fat"
+	trait="content"
+	trait="gardener"
+	2466.11.5={
+		birth=yes
+	}
+	2483.4.5={
+		add_matrilineal_spouse=26667161
+	}
+	2530.1.1={
+		death=yes
+	}
+}
+36667107 ={
+    name="Oleg" 
+	dynasty=25559125
+	religion="orthodox"
+	culture="ukrainer"
+    disallow_random_traits = yes
+    
+    father=36667106
+	diplomacy=2
+    martial=2
+    stewardship=7
+    intrigue=2
+    learning=7
+	trait="orthodox_mykola"
+	trait="midas_touched"
+	trait="quick"
+	trait="envious"
+	trait="ambitious"
+	trait="hedonist"
+	2502.1.15={
+		birth=yes
+	}
+	2538.4.19={
+		death = {death_reason =  death_execution killer = 36667104}
+	}
+}
+
+26667106 ={#Duke Zvetun Galich
+    name="Pyotr" 
+	dynasty=25559125
+	religion="orthodox"
+	culture="ukrainer"
+	father=36667107
+	trait="orthodox_mykola"
+	trait="charismatic_negotiator"
+	trait="quick"
+	trait="cynical"
+	trait="gamer"
+	2534.12.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+37170481 = {
+    name="Viktor"
+	dynasty=80403034
+    religion="ironist"
+	culture="klynian"
+    trait="charismatic_negotiator"
+    trait="gamer"
+	trait="socializer"
+	trait="lustful"
+	2536.12.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+37170482 = {
+	name="Valeriy"
+	religion="orthodox"
+	culture="cossack"
+	dynasty=25559747
+	disallow_random_traits = yes
+	trait="detached_priest"
+	trait="orthodox_mykola"
+	trait="gluttonous"
+	trait="cynical"
+	trait="patient"
+	trait="androgynous"
+	2536.12.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+22660014 ={#Wife of Duke of Porohy
+    name="Ruslana" 
+	dynasty=0
+	female=yes
+	religion="orthodox"
+	culture="adessite"
+	trait="orthodox_mykola"
+	trait="underhanded_rogue"
+	trait="gregarious"
+	trait="proud"
+	2511.6.19={
+		birth=yes
+	}
+	2531.4.5={
+		add_spouse=35667105
+	}
+	2538.1.25={
+		death={
+			death_reason=death_childbirth
+		}
+	}
+}
+22660015 ={#Son of Duke of Porohy
+    name="Simon"
+	father=35667105
+	mother=22660014
+	dynasty=36559124
+	religion="orthodox"
+	culture="adessite"
+	trait="orthodox_mykola"
+	trait="tough_soldier"
+	trait="gardener"
+	trait="proud"
+	trait="paranoid"
+	2538.1.25={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+22660016 ={#Dauther of Duke of Porohy
+    name="Larisa" 
+	father=35667105
+	mother=22660014
+	dynasty=36559124
+	female=yes
+	religion="orthodox"
+	culture="adessite"
+	trait="orthodox_mykola"
+	trait="amateurish_plotter"
+	trait="stressed"
+	trait="shy"
+	trait="giant"
+	2533.11.8={
+		birth=yes
+	}
+	2551.3.29={
+		add_spouse=22660013
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+37170483 = {
+	name="Olesya"
+	religion="orthodox"
+	culture="ukrainer"
+	father=36660005
+	female = yes
+	dynasty=25559124
+	
+	disallow_random_traits = yes
+	trait="detached_priest"
+	trait="orthodox_mykola"
+	trait="lustful"
+	trait="cynical"
+	trait="patient"
+	trait="diligent"
+	2325.12.7={
+		birth=yes
+	}
+	2344.4.13={
+		add_spouse=26667145
+	}
+	2377.3.7={
+		death=yes
+	}
+}
+
+
+
+
+
+
+
+
+37170484 = {
+	name="Yakyvu"
+	religion="nousthreskeia"
+	culture="klynian"
+	dynasty=25559759
+
+	2523.6.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+37170485 = {
+	name="Stepanu"
+	religion="nousthreskeia"
+	culture="klynian"
+	dynasty=25559758
+
+	2531.3.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+37170486 = {
+	name="Olesya"
+	religion="nousthreskeia"
+	culture="klynian"
+	female=yes
+	dynasty=25559757
+
+	2539.1.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+37170487 = {
+	name="Makysymu"
+	religion="nousthreskeia"
+	culture="klynian"
+	dynasty=25559756
+
+	2528.2.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+37170488 = {
+	name="Oleksiyu"
+	religion="folklorist"
+	culture="klynian"
+	dynasty=25559754
+	trait="charismatic_negotiator"
+	trait="gluttonous"
+	trait="cynical"
+	trait="patient"
+	2536.12.7={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+37170489 = {
+	name="Eneligçur"
+	religion="akjang"
+	culture="altai"
+	dynasty=5222117
+	trait="detached_priest"
+	trait="diligent"
+	trait="zealous"
+	trait="wroth"
+	2532.2.8={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+37170490 = {
+	name="Bohydanu"
+	religion="nousthreskeia"
+	culture="klynian"
+	dynasty=25559760
+
+	2516.7.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+37170491 = {
+	name="Albert"
+	religion="ironist"
+	culture="wolgadeutsche"
+	dynasty=25559752
+	trait="indulgent_wastrel"
+	trait="gluttonous"
+	trait="groomed"
+	trait="honest"
+	2523.1.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+37170492 = {
+	name="Heinrich"
+	religion="ironist"
+	culture="wolgadeutsche"
+	dynasty=25559753
+	trait="tough_soldier"
+	trait="gregarious"
+	trait="patient"
+	trait="content"
+	2536.9.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+37170493 ={
+   name="Maryna" 
+   dynasty=25559124
+   religion="orthodox"
+   culture="ukrainer"
+   female = yes
+   disallow_random_traits = yes
+   
+   father=36660002
+   trait="orthodox_mykola"
+   trait="grey_eminence"
+   trait="fair"
+   trait="shrewd"
+   trait="patient"
+   trait="lustful"
+   trait="slothful"
+   trait="charitable"	
+   2275.11.12={
+		birth = yes
+	}
+	2292.7.30={
+		add_spouse=26669995
+	}
+   2338.11.2={
+		death = yes
+	}
+}

@@ -1,0 +1,17 @@
+# 42 - Province0042
+
+# County Title
+title = c_province0042
+
+# Settlements
+max_settlements = 5
+b_barony0042` = castle
+b_barony0042a = temple
+b_barony0042b = city
+b_barony0042c = castle
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

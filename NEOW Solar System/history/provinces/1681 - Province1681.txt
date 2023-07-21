@@ -1,0 +1,15 @@
+# 1681 - Province1681
+
+# County Title
+title = c_province1681
+
+# Settlements
+max_settlements = 5
+b_barony1681` = tribal
+b_barony1681a = temple
+
+# Misc
+culture = daju
+religion = fraticelli
+
+# History

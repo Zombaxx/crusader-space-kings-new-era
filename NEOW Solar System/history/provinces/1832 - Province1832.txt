@@ -1,0 +1,15 @@
+# 1832 - Province1832
+
+# County Title
+title = c_province1832
+
+# Settlements
+max_settlements = 5
+b_barony1832` = tribal
+b_barony1832a = temple
+
+# Misc
+culture = frisian
+religion = sufi
+
+# History

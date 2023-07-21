@@ -1,0 +1,16 @@
+# 747 - Province0747
+
+# County Title
+title = c_province0747
+
+# Settlements
+max_settlements = 4
+b_barony0747` = castle
+b_barony0747a = temple
+b_barony0747b = city
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

@@ -1,0 +1,14 @@
+# 1426 - Province1426
+
+# County Title
+title = c_province1426
+
+# Settlements
+max_settlements = 2
+b_barony1426` = castle
+
+# Misc
+culture = persian
+religion = taoist
+
+# History

@@ -1,0 +1,16 @@
+# 596 - Province0596
+
+# County Title
+title = c_province0596
+
+# Settlements
+max_settlements = 4
+b_barony0596` = castle
+b_barony0596a = temple
+b_barony0596b = city
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

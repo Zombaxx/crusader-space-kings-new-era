@@ -1,0 +1,16 @@
+# 1374 - Province1374
+
+# County Title
+title = c_province1374
+
+# Settlements
+max_settlements = 4
+b_barony1374` = castle
+b_barony1374a = temple
+b_barony1374b = city
+
+# Misc
+culture = turkish
+religion = yazidi
+
+# History

@@ -1,0 +1,17 @@
+# 125 - Province0125
+
+# County Title
+title = c_province0125
+
+# Settlements
+max_settlements = 5
+b_barony0125` = castle
+b_barony0125a = temple
+b_barony0125b = city
+b_barony0125c = castle
+
+# Misc
+culture = castilian
+religion = catholic
+
+# History

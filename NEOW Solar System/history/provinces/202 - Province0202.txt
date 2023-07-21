@@ -1,0 +1,15 @@
+# 202 - Province0202
+
+# County Title
+title = c_province0202
+
+# Settlements
+max_settlements = 3
+b_barony0202` = city
+b_barony0202a = temple
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History

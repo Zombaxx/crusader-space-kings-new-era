@@ -1,0 +1,16 @@
+# 1076 - Province1076
+
+# County Title
+title = c_province1076
+
+# Settlements
+max_settlements = 4
+b_barony1076` = castle
+b_barony1076a = temple
+b_barony1076b = city
+
+# Misc
+culture = punjabi
+religion = old_hindu
+
+# History

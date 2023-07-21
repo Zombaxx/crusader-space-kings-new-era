@@ -1,0 +1,17 @@
+# 797 - Province0797
+
+# County Title
+title = c_province0797
+
+# Settlements
+max_settlements = 5
+b_barony0797` = castle
+b_barony0797a = temple
+b_barony0797b = city
+b_barony0797c = castle
+
+# Misc
+culture = beijing
+religion = vajrayana
+
+# History

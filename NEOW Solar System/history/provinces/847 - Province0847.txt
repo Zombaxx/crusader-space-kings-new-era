@@ -1,0 +1,14 @@
+# 847 - Province0847
+
+# County Title
+title = c_province0847
+
+# Settlements
+max_settlements = 2
+b_barony0847` = castle
+
+# Misc
+culture = beijing
+religion = vajrayana
+
+# History

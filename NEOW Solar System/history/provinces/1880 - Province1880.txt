@@ -1,0 +1,15 @@
+# 1880 - Province1880
+
+# County Title
+title = c_province1880
+
+# Settlements
+max_settlements = 5
+b_barony1880` = tribal
+b_barony1880a = temple
+
+# Misc
+culture = daju
+religion = finnish_pagan
+
+# History

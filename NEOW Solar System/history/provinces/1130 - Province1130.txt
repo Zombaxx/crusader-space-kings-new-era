@@ -1,0 +1,15 @@
+# 1130 - Province1130
+
+# County Title
+title = c_province1130
+
+# Settlements
+max_settlements = 3
+b_barony1130` = castle
+b_barony1130a = temple
+
+# Misc
+culture = punjabi
+religion = novelist
+
+# History

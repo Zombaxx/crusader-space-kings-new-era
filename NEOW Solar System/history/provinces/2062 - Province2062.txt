@@ -1,0 +1,14 @@
+# 2062 - Province2062
+
+# County Title
+title = c_province2062
+
+# Settlements
+max_settlements = 3
+b_barony2062` = tribal
+
+# Misc
+culture = panjabi
+religion = brethren
+
+# History

@@ -1,0 +1,15 @@
+# 82 - Province0082
+
+# County Title
+title = c_province0082
+
+# Settlements
+max_settlements = 3
+b_barony0082` = castle
+b_barony0082a = temple
+
+# Misc
+culture = castilian
+religion = catholic
+
+# History

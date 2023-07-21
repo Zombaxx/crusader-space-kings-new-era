@@ -1,0 +1,16 @@
+# 988 - Province0988
+
+# County Title
+title = c_province0988
+
+# Settlements
+max_settlements = 4
+b_barony0988` = castle
+b_barony0988a = temple
+b_barony0988b = city
+
+# Misc
+culture = kannada
+religion = sunni
+
+# History

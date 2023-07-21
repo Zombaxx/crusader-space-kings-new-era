@@ -1,0 +1,15 @@
+# 438 - Province0438
+
+# County Title
+title = c_province0438
+
+# Settlements
+max_settlements = 3
+b_barony0438` = castle
+b_barony0438a = temple
+
+# Misc
+culture = turkish
+religion = zoroastrian
+
+# History

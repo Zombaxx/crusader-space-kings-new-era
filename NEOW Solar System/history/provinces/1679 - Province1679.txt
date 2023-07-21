@@ -1,0 +1,15 @@
+# 1679 - Province1679
+
+# County Title
+title = c_province1679
+
+# Settlements
+max_settlements = 6
+b_barony1679` = tribal
+b_barony1679a = temple
+
+# Misc
+culture = daju
+religion = fraticelli
+
+# History

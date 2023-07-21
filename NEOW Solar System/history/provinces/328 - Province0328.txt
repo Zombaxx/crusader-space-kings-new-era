@@ -1,0 +1,16 @@
+# 328 - Province0328
+
+# County Title
+title = c_province0328
+
+# Settlements
+max_settlements = 4
+b_barony0328` = castle
+b_barony0328a = temple
+b_barony0328b = city
+
+# Misc
+culture = mongol
+religion = jewish
+
+# History

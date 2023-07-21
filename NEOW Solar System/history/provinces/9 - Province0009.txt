@@ -1,0 +1,17 @@
+# 9 - Province0009
+
+# County Title
+title = c_province0009
+
+# Settlements
+max_settlements = 5
+b_barony0009` = castle
+b_barony0009a = temple
+b_barony0009b = city
+b_barony0009c = castle
+
+# Misc
+culture = castilian
+religion = catholic
+
+# History

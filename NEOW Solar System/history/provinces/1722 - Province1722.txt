@@ -1,0 +1,14 @@
+# 1722 - Province1722
+
+# County Title
+title = c_province1722
+
+# Settlements
+max_settlements = 3
+b_barony1722` = tribal
+
+# Misc
+culture = frisian
+religion = bon
+
+# History

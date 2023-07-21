@@ -1,0 +1,15 @@
+# 1500 - Province1500
+
+# County Title
+title = c_province1500
+
+# Settlements
+max_settlements = 3
+b_barony1500` = city
+b_barony1500a = temple
+
+# Misc
+culture = gaoshan
+religion = bon
+
+# History

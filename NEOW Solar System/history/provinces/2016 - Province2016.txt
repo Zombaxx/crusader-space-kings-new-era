@@ -1,0 +1,14 @@
+# 2016 - Province2016
+
+# County Title
+title = c_province2016
+
+# Settlements
+max_settlements = 2
+b_barony2016` = tribal
+
+# Misc
+culture = persian
+religion = fraticelli
+
+# History

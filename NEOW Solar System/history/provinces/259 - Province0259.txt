@@ -1,0 +1,15 @@
+# 259 - Province0259
+
+# County Title
+title = c_province0259
+
+# Settlements
+max_settlements = 3
+b_barony0259` = castle
+b_barony0259a = temple
+
+# Misc
+culture = irish
+religion = baptist
+
+# History

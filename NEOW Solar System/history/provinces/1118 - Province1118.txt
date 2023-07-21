@@ -1,0 +1,14 @@
+# 1118 - Province1118
+
+# County Title
+title = c_province1118
+
+# Settlements
+max_settlements = 2
+b_barony1118` = tribal
+
+# Misc
+culture = persian
+religion = sufi
+
+# History

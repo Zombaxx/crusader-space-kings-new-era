@@ -1,0 +1,14 @@
+# 92 - Province0092
+
+# County Title
+title = c_province0092
+
+# Settlements
+max_settlements = 2
+b_barony0092` = city
+
+# Misc
+culture = mongol
+religion = jacobinist
+
+# History

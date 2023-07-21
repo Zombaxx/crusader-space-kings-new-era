@@ -1,0 +1,15 @@
+# 376 - Province0376
+
+# County Title
+title = c_province0376
+
+# Settlements
+max_settlements = 3
+b_barony0376` = castle
+b_barony0376a = temple
+
+# Misc
+culture = mongol
+religion = jewish
+
+# History

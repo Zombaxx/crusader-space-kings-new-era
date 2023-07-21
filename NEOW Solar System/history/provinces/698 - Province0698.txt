@@ -1,0 +1,16 @@
+# 698 - Province0698
+
+# County Title
+title = c_province0698
+
+# Settlements
+max_settlements = 4
+b_barony0698` = castle
+b_barony0698a = temple
+b_barony0698b = city
+
+# Misc
+culture = hausa
+religion = baptist
+
+# History

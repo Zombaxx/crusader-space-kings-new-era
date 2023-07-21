@@ -1,0 +1,14 @@
+# 266 - Province0266
+
+# County Title
+title = c_province0266
+
+# Settlements
+max_settlements = 1
+b_barony0266` = castle
+
+# Misc
+culture = turkish
+religion = thelemic
+
+# History

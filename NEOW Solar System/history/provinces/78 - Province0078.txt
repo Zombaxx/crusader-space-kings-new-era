@@ -1,0 +1,16 @@
+# 78 - Province0078
+
+# County Title
+title = c_province0078
+
+# Settlements
+max_settlements = 4
+b_barony0078` = castle
+b_barony0078a = temple
+b_barony0078b = city
+
+# Misc
+culture = castilian
+religion = catholic
+
+# History

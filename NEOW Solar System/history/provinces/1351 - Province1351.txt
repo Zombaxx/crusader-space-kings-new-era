@@ -1,0 +1,16 @@
+# 1351 - Province1351
+
+# County Title
+title = c_province1351
+
+# Settlements
+max_settlements = 4
+b_barony1351` = castle
+b_barony1351a = temple
+b_barony1351b = city
+
+# Misc
+culture = persian
+religion = hellenic_pagan
+
+# History

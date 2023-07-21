@@ -1,0 +1,16 @@
+# 960 - Province0960
+
+# County Title
+title = c_province0960
+
+# Settlements
+max_settlements = 4
+b_barony0960` = castle
+b_barony0960a = temple
+b_barony0960b = city
+
+# Misc
+culture = kannada
+religion = vajrayana
+
+# History

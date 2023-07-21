@@ -1,0 +1,18 @@
+# 2077 - Province2077
+
+# County Title
+title = c_province2077
+
+# Settlements
+max_settlements = 7
+b_barony2077` = castle
+b_barony2077a = temple
+b_barony2077b = city
+b_barony2077c = castle
+b_barony2077d = temple
+
+# Misc
+culture = persian
+religion = sufi
+
+# History

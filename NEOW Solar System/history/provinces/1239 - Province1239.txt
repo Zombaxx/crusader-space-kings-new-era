@@ -1,0 +1,16 @@
+# 1239 - Province1239
+
+# County Title
+title = c_province1239
+
+# Settlements
+max_settlements = 4
+b_barony1239` = castle
+b_barony1239a = temple
+b_barony1239b = city
+
+# Misc
+culture = gaoshan
+religion = novelist
+
+# History

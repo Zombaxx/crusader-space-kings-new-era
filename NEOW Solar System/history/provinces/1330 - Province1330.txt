@@ -1,0 +1,15 @@
+# 1330 - Province1330
+
+# County Title
+title = c_province1330
+
+# Settlements
+max_settlements = 3
+b_barony1330` = castle
+b_barony1330a = temple
+
+# Misc
+culture = persian
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 1498 - Province1498
+
+# County Title
+title = c_province1498
+
+# Settlements
+max_settlements = 3
+b_barony1498` = tribal
+
+# Misc
+culture = gaoshan
+religion = bon
+
+# History

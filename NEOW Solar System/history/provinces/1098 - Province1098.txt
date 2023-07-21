@@ -1,0 +1,14 @@
+# 1098 - Province1098
+
+# County Title
+title = c_province1098
+
+# Settlements
+max_settlements = 3
+b_barony1098` = tribal
+
+# Misc
+culture = persian
+religion = sunni
+
+# History

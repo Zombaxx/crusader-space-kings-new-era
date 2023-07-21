@@ -1,0 +1,16 @@
+# 2091 - Province2091
+
+# County Title
+title = c_province2091
+
+# Settlements
+max_settlements = 4
+b_barony2091` = castle
+b_barony2091a = temple
+b_barony2091b = city
+
+# Misc
+culture = frisian
+religion = baltic_pagan
+
+# History

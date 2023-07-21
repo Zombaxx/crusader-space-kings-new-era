@@ -1,0 +1,17 @@
+# 2104 - Province2104
+
+# County Title
+title = c_province2104
+
+# Settlements
+max_settlements = 5
+b_barony2104` = castle
+b_barony2104a = temple
+b_barony2104b = city
+b_barony2104c = castle
+
+# Misc
+culture = mongol
+religion = baltic_pagan
+
+# History

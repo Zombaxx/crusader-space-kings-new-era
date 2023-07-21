@@ -1,0 +1,15 @@
+# 1792 - Province1792
+
+# County Title
+title = c_province1792
+
+# Settlements
+max_settlements = 5
+b_barony1792` = tribal
+b_barony1792a = temple
+
+# Misc
+culture = panjabi
+religion = tengri_pagan
+
+# History

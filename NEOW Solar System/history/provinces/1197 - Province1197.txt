@@ -1,0 +1,15 @@
+# 1197 - Province1197
+
+# County Title
+title = c_province1197
+
+# Settlements
+max_settlements = 3
+b_barony1197` = castle
+b_barony1197a = temple
+
+# Misc
+culture = mongol
+religion = old_hindu
+
+# History

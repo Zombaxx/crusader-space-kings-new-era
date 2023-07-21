@@ -1,0 +1,14 @@
+# 2161 - Province2161
+
+# County Title
+title = c_province2161
+
+# Settlements
+max_settlements = 3
+b_barony2161` = tribal
+
+# Misc
+culture = panjabi
+religion = fraticelli
+
+# History

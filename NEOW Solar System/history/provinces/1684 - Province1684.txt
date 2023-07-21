@@ -1,0 +1,15 @@
+# 1684 - Province1684
+
+# County Title
+title = c_province1684
+
+# Settlements
+max_settlements = 6
+b_barony1684` = tribal
+b_barony1684a = temple
+
+# Misc
+culture = gaoshan
+religion = fraticelli
+
+# History

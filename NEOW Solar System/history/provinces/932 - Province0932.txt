@@ -1,0 +1,14 @@
+# 932 - Province0932
+
+# County Title
+title = c_province0932
+
+# Settlements
+max_settlements = 2
+b_barony0932` = castle
+
+# Misc
+culture = kannada
+religion = vajrayana
+
+# History

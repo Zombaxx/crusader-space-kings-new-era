@@ -1,0 +1,16 @@
+# 1599 - Province1599
+
+# County Title
+title = c_province1599
+
+# Settlements
+max_settlements = 4
+b_barony1599` = city
+b_barony1599a = temple
+b_barony1599b = castle
+
+# Misc
+culture = panjabi
+religion = shiite
+
+# History

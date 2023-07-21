@@ -1,0 +1,15 @@
+# 1412 - Province1412
+
+# County Title
+title = c_province1412
+
+# Settlements
+max_settlements = 2
+b_barony1412` = castle
+b_barony1412a = temple
+
+# Misc
+culture = persian
+religion = taoist
+
+# History

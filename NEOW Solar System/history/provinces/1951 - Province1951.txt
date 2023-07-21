@@ -1,0 +1,14 @@
+# 1951 - Province1951
+
+# County Title
+title = c_province1951
+
+# Settlements
+max_settlements = 4
+b_barony1951` = tribal
+
+# Misc
+culture = frisian
+religion = shiite
+
+# History

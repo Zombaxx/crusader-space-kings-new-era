@@ -1,0 +1,15 @@
+# 1749 - Province1749
+
+# County Title
+title = c_province1749
+
+# Settlements
+max_settlements = 5
+b_barony1749` = tribal
+b_barony1749a = temple
+
+# Misc
+culture = persian
+religion = brethren
+
+# History

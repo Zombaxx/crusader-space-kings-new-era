@@ -1,0 +1,17 @@
+# 1284 - Province1284
+
+# County Title
+title = c_province1284
+
+# Settlements
+max_settlements = 5
+b_barony1284` = castle
+b_barony1284a = temple
+b_barony1284b = city
+b_barony1284c = castle
+
+# Misc
+culture = mongol
+religion = sufi
+
+# History

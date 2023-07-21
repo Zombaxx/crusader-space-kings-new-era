@@ -1,0 +1,16 @@
+# 1639 - Province1639
+
+# County Title
+title = c_province1639
+
+# Settlements
+max_settlements = 4
+b_barony1639` = castle
+b_barony1639a = temple
+b_barony1639b = city
+
+# Misc
+culture = panjabi
+religion = vajrayana
+
+# History

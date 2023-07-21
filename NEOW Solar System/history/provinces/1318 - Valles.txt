@@ -1,0 +1,20 @@
+# 1318 - Valles
+
+# County Title
+title = c_valles
+
+# Settlements
+max_settlements = 7
+b_valles = castle
+b_barony1318a = temple
+b_barony1318b = city
+b_barony1318c = castle
+b_barony1318d = temple
+b_barony1318e = city
+b_barony1318f = castle
+
+# Misc
+culture = turkish
+religion = yazidi
+
+# History

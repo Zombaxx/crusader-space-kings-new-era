@@ -1,0 +1,16 @@
+# 859 - Province0859
+
+# County Title
+title = c_province0859
+
+# Settlements
+max_settlements = 4
+b_barony0859` = castle
+b_barony0859a = temple
+b_barony0859b = city
+
+# Misc
+culture = alan
+religion = jain
+
+# History

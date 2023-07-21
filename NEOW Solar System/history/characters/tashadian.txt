@@ -1,0 +1,380 @@
+26664192 = {
+	name="Obiajulu"
+	dynasty=25654173
+	religion="highchurch"
+	culture="igbo"
+	father=29900063
+	diplomacy=5
+	martial=4
+	stewardship=8
+	intrigue=4
+	learning=2
+	trait="thrifty_clerk"
+	trait="greedy"
+	trait="ambitious"
+	trait="fair"
+	trait="shrewd"
+	trait="gregarious"
+	trait="high_anglican2"
+	disallow_random_traits=yes
+	2525.6.9={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+
+26664195 = {
+	name="Usman"
+	dynasty=25554181
+	religion="sufi"
+	culture="saran"
+	diplomacy=4
+	martial=1
+	stewardship=8
+	intrigue=7
+	learning=1
+	trait="charismatic_negotiator"
+	trait="honest"
+	trait="cynical"
+	trait="temperate"
+	trait="craven"
+	2524.8.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+
+29900046 = {
+	name="Abubakar"
+	dynasty=3843518
+	religion="sufi"
+	culture="hausa"
+	diplomacy=2
+	martial=6
+	stewardship=5
+	intrigue=1
+	learning=5
+	trait="misguided_warrior"
+	trait="lustful"
+	trait="greedy"
+	trait="shy"
+	trait="just"
+	2518.1.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+
+29900047 = {
+	name="Toholjo"
+	dynasty=3840167
+	religion="sufi"
+	culture="tedaga"
+	diplomacy=2
+	martial=6
+	stewardship=5
+	intrigue=1
+	learning=5
+	trait="charismatic_negotiator"
+	trait="diligent"
+	trait="greedy"
+	trait="zealous"
+	trait="kind"
+	2525.1.19={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+
+29900048 = {
+	name="Mohamed"
+	dynasty=3840201
+	religion="sufi"
+	culture="baggara"
+	diplomacy=9
+	martial=7
+	stewardship=1
+	intrigue=1
+	learning=1
+	trait="midas_touched"
+	trait="trusting"
+	trait="cruel"
+	trait="arbitrary"
+	trait="lustful"
+	2515.2.21={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+
+
+29900050 = {
+	name="Sayir"
+	dynasty=3840192
+	religion="sufi"
+	culture="daju"
+	diplomacy=3
+	martial=7
+	stewardship=4
+	intrigue=2
+	learning=1
+	trait="charismatic_negotiator"
+	trait="honest"
+	trait="paranoid"
+	trait="temperate"
+	trait="slothful"
+	2514.5.3={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+
+29900051 = {
+	name="Ett"
+	dynasty=3840194
+	religion="sufi"
+	culture="baggara"
+	diplomacy=2
+	martial=4
+	stewardship=5
+	intrigue=2
+	learning=6
+	trait="naive_appeaser"
+	trait="gardener"
+	trait="erudite"
+	trait="content"
+	trait="stubborn"
+	trait="cruel"
+	2519.4.12={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+
+29900052 = {
+	name="Saleh"
+	dynasty=3940255
+	religion="sunni"
+	culture="zaghawa"
+	diplomacy=3
+	martial=6
+	stewardship=1
+	intrigue=3
+	learning=2
+	trait="naive_appeaser"
+	trait="gardener"
+	trait="erudite"
+	trait="content"
+	trait="stubborn"
+	trait="cruel"
+	2534.3.15={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+
+29900053 = {
+	name="Saleh"
+	dynasty=3843525
+	religion="sunni"
+	culture="konjara"
+	diplomacy=9
+	martial=7
+	stewardship=8
+	intrigue=9
+	learning=2
+	trait="amateurish_plotter"
+	trait="stubborn"
+	trait="ambitious"
+	trait="charitable"
+	trait="envious"
+	2530.7.2={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+
+29900054 = {
+	name="Ibrahim"
+	dynasty=3843526
+	religion="sunni"
+	culture="konjara"
+	diplomacy=3
+	martial=7
+	stewardship=5
+	intrigue=3
+	learning=3
+	trait="elusive_shadow"
+	trait="mystic"
+	trait="slothful"
+	trait="gluttonous"
+	trait="kind"
+	trait="wroth"
+	2523.5.13={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+
+29900055 = {
+	name="Francis"
+	dynasty=3843527 #De Mabior
+	religion="highchurch"
+	culture="dinka"
+	diplomacy=2
+	martial=3
+	stewardship=7
+	intrigue=5
+	learning=2
+	trait="skilled_tactician"
+	trait="proud"
+	trait="craven"
+	trait="paranoid"
+	trait="ambitious"
+	2523.11.23={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes  
+	}
+}
+
+29900056 = {# Starting lineage of Enwezor family after being deposed.
+	name="Martin" #Martin, who fled Nigeria and hid in an unknown region of Africa
+	dynasty=25654152 
+	religion="highchurch"
+	culture="igbo"
+	father=26664507
+	2300.1.29={
+		birth=yes
+	}
+	2370.1.2={
+		death=yes
+	}
+}
+
+29900057 = { #Godfrey, son of Martin. Born in exile and lived an ordinary life. Most likely did not know his family's true history.
+	name="Godfrey"
+	dynasty=25654152 
+	religion="highchurch"
+	culture="igbo"
+	father=29900056
+	2330.4.2={
+		birth=yes
+	}
+	2410.1.11={
+		death=yes
+	}
+}
+
+29900058 = { #Bunkechukwu, son of Godfrey. Born in exile and lived an ordinary life. Most likely did not know his family's true history.
+	name="Bunkechukwu"
+	dynasty=25654152 
+	religion="highchurch"
+	culture="igbo"
+	father=29900057
+	2352.2.2={
+		birth=yes
+	}
+	2415.1.19={
+		death=yes
+	}
+}
+
+29900059 = { #Robin, son of Bunkechukwu. Born in exile and lived a strange life. Possibly a lunatic, as he had delusions of grandeur.
+	name="Robin"
+	dynasty=25654173 
+	religion="highchurch"
+	culture="igbo"
+	father=29900058
+	trait="lunatic"
+	trait="ambitious"
+	trait="naive_appeaser"
+	trait="groomed"
+	disallow_random_traits=yes
+	2372.2.2={
+		birth=yes
+	}
+	2410.1.10={
+		give_nickname=nick_the_mad
+	}
+	2417.1.19={
+		death=yes
+	}
+}
+
+29900060 = { #Ian, son of Robin. Born in exile and lived a semi normal life. It was documented that he hated his father's pointless ramblings the family's "true" heritage.
+	name="Ian"
+	dynasty=25654173 
+	religion="highchurch"
+	culture="igbo"
+	father=29900059
+	2391.2.2={
+		birth=yes
+	}
+	2444.4.21={
+		death=yes
+	}
+}
+
+29900061 = { #Chinua, son of Ian. Born in exile and lived a normal life. First in the family to actually step foot in Nigeria again.
+	name="Chinua"
+	dynasty=25654173 
+	religion="highchurch"
+	culture="igbo"
+	father=29900060
+	2411.2.2={
+		birth=yes
+	}
+	2460.12.1={
+		death=yes
+	}
+}
+
+29900062 = { #Adam, son of Chinua. Born in Nigeria and lived a normal life. Founded a small workshop with his father in Lagos.
+	name="Adam"
+	dynasty=25654173 
+	religion="highchurch"
+	culture="igbo"
+	father=29900061
+	2441.2.2={
+		birth=yes
+	}
+	2490.12.1={
+		death=yes
+	}
+}
+
+29900063 = { #Augustine, son of Adam. Born in Nigeria and lived a normal life. Expanded the workshop and grew the family's fortunes.
+	name="Augustine"
+	dynasty=25654173 
+	religion="highchurch"
+	culture="igbo"
+	father=29900062
+	2478.1.2={
+		birth=yes
+	}
+	2540.10.11={
+		death=yes
+	}
+}

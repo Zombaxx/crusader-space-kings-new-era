@@ -1,0 +1,14 @@
+# 1745 - Province1745
+
+# County Title
+title = c_province1745
+
+# Settlements
+max_settlements = 4
+b_barony1745` = tribal
+
+# Misc
+culture = persian
+religion = brethren
+
+# History

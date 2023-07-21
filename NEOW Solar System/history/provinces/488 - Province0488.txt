@@ -1,0 +1,16 @@
+# 488 - Province0488
+
+# County Title
+title = c_province0488
+
+# Settlements
+max_settlements = 4
+b_barony0488` = castle
+b_barony0488a = temple
+b_barony0488b = city
+
+# Misc
+culture = new_english
+religion = anglican
+
+# History

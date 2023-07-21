@@ -1,0 +1,16 @@
+# 1542 - Province1542
+
+# County Title
+title = c_province1542
+
+# Settlements
+max_settlements = 4
+b_barony1542` = castle
+b_barony1542a = temple
+b_barony1542b = city
+
+# Misc
+culture = panjabi
+religion = yazidi
+
+# History

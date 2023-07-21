@@ -1,0 +1,15 @@
+# 1340 - Province1340
+
+# County Title
+title = c_province1340
+
+# Settlements
+max_settlements = 5
+b_barony1340` = tribal
+b_barony1340a = temple
+
+# Misc
+culture = persian
+religion = hellenic_pagan
+
+# History

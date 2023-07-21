@@ -1,0 +1,17 @@
+# 2086 - Province2086
+
+# County Title
+title = c_province2086
+
+# Settlements
+max_settlements = 5
+b_barony2086` = castle
+b_barony2086a = temple
+b_barony2086b = city
+b_barony2086c = castle
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

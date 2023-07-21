@@ -1,0 +1,17 @@
+# 223 - Province0223
+
+# County Title
+title = c_province0223
+
+# Settlements
+max_settlements = 6
+b_barony0223` = castle
+b_barony0223a = temple
+b_barony0223b = city
+b_barony0223c = castle
+
+# Misc
+culture = castilian
+religion = catholic
+
+# History

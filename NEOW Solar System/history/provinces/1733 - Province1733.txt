@@ -1,0 +1,15 @@
+# 1733 - Province1733
+
+# County Title
+title = c_province1733
+
+# Settlements
+max_settlements = 3
+b_barony1733` = castle
+b_barony1733a = temple
+
+# Misc
+culture = persian
+religion = fraticelli
+
+# History

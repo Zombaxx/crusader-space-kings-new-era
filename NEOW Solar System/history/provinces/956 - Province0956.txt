@@ -1,0 +1,17 @@
+# 956 - Province0956
+
+# County Title
+title = c_province0956
+
+# Settlements
+max_settlements = 6
+b_barony0956` = castle
+b_barony0956a = temple
+b_barony0956b = city
+b_barony0956c = castle
+
+# Misc
+culture = kannada
+religion = catholic
+
+# History

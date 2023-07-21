@@ -1,0 +1,15 @@
+# 1635 - Province1635
+
+# County Title
+title = c_province1635
+
+# Settlements
+max_settlements = 4
+b_barony1635` = tribal
+b_barony1635a = temple
+
+# Misc
+culture = daju
+religion = bon
+
+# History

@@ -1,0 +1,15 @@
+# 1208 - Province1208
+
+# County Title
+title = c_province1208
+
+# Settlements
+max_settlements = 6
+b_barony1208` = tribal
+b_barony1208a = temple
+
+# Misc
+culture = mongol
+religion = brethren
+
+# History

@@ -1,0 +1,17 @@
+# 1288 - Province1288
+
+# County Title
+title = c_province1288
+
+# Settlements
+max_settlements = 6
+b_barony1288` = castle
+b_barony1288a = temple
+b_barony1288b = city
+b_barony1288c = castle
+
+# Misc
+culture = punjabi
+religion = old_hindu
+
+# History

@@ -1,0 +1,14 @@
+# 559 - Province0559
+
+# County Title
+title = c_province0559
+
+# Settlements
+max_settlements = 2
+b_barony0559` = castle
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

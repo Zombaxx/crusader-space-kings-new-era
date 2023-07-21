@@ -1,0 +1,14 @@
+# 2094 - Province2094
+
+# County Title
+title = c_province2094
+
+# Settlements
+max_settlements = 3
+b_barony2094` = tribal
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

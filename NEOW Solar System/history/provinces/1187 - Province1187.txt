@@ -1,0 +1,17 @@
+# 1187 - Province1187
+
+# County Title
+title = c_province1187
+
+# Settlements
+max_settlements = 5
+b_barony1187` = castle
+b_barony1187a = temple
+b_barony1187b = city
+b_barony1187c = castle
+
+# Misc
+culture = alan
+religion = hellenic_pagan
+
+# History

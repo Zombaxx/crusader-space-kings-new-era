@@ -1,0 +1,15 @@
+# 2017 - Province2017
+
+# County Title
+title = c_province2017
+
+# Settlements
+max_settlements = 3
+b_barony2017` = castle
+b_barony2017a = temple
+
+# Misc
+culture = persian
+religion = sufi
+
+# History

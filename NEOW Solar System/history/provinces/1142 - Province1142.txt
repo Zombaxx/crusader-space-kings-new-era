@@ -1,0 +1,15 @@
+# 1142 - Province1142
+
+# County Title
+title = c_province1142
+
+# Settlements
+max_settlements = 3
+b_barony1142` = castle
+b_barony1142a = temple
+
+# Misc
+culture = punjabi
+religion = novelist
+
+# History

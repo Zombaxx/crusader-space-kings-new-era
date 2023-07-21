@@ -1,0 +1,15 @@
+# 952 - Province0952
+
+# County Title
+title = c_province0952
+
+# Settlements
+max_settlements = 5
+b_barony0952` = tribal
+b_barony0952a = temple
+
+# Misc
+culture = turkish
+religion = jain
+
+# History

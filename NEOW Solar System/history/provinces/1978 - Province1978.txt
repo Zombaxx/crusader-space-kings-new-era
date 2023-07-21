@@ -1,0 +1,16 @@
+# 1978 - Province1978
+
+# County Title
+title = c_province1978
+
+# Settlements
+max_settlements = 4
+b_barony1978` = castle
+b_barony1978a = temple
+b_barony1978b = city
+
+# Misc
+culture = daju
+religion = baltic_pagan
+
+# History

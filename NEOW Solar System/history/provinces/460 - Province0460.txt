@@ -1,0 +1,14 @@
+# 460 - Province0460
+
+# County Title
+title = c_province0460
+
+# Settlements
+max_settlements = 2
+b_barony0460` = castle
+
+# Misc
+culture = saxon
+religion = baptist
+
+# History

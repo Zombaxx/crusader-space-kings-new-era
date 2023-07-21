@@ -1,0 +1,16 @@
+# 1435 - Province1435
+
+# County Title
+title = c_province1435
+
+# Settlements
+max_settlements = 4
+b_barony1435` = castle
+b_barony1435a = temple
+b_barony1435b = city
+
+# Misc
+culture = mongol
+religion = sufi
+
+# History

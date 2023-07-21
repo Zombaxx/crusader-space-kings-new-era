@@ -1,0 +1,15 @@
+# 841 - Province0841
+
+# County Title
+title = c_province0841
+
+# Settlements
+max_settlements = 3
+b_barony0841` = castle
+b_barony0841a = temple
+
+# Misc
+culture = beijing
+religion = vajrayana
+
+# History

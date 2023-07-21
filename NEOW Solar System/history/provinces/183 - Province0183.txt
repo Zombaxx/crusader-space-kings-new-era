@@ -1,0 +1,14 @@
+# 183 - Province0183
+
+# County Title
+title = c_province0183
+
+# Settlements
+max_settlements = 2
+b_barony0183` = castle
+
+# Misc
+culture = turkish
+religion = jacobinist
+
+# History

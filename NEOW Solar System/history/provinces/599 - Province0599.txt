@@ -1,0 +1,17 @@
+# 599 - Province0599
+
+# County Title
+title = c_province0599
+
+# Settlements
+max_settlements = 6
+b_barony0599` = castle
+b_barony0599a = temple
+b_barony0599b = city
+b_barony0599c = castle
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

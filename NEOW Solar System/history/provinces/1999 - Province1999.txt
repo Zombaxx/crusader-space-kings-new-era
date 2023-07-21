@@ -1,0 +1,15 @@
+# 1999 - Province1999
+
+# County Title
+title = c_province1999
+
+# Settlements
+max_settlements = 5
+b_barony1999` = tribal
+b_barony1999a = temple
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

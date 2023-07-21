@@ -1,0 +1,16 @@
+# 2063 - Province2063
+
+# County Title
+title = c_province2063
+
+# Settlements
+max_settlements = 4
+b_barony2063` = castle
+b_barony2063a = temple
+b_barony2063b = city
+
+# Misc
+culture = frisian
+religion = baltic_pagan
+
+# History

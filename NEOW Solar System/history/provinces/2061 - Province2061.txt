@@ -1,0 +1,16 @@
+# 2061 - Province2061
+
+# County Title
+title = c_province2061
+
+# Settlements
+max_settlements = 4
+b_barony2061` = castle
+b_barony2061a = temple
+b_barony2061b = city
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

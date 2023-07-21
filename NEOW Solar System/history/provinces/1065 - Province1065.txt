@@ -1,0 +1,14 @@
+# 1065 - Province1065
+
+# County Title
+title = c_province1065
+
+# Settlements
+max_settlements = 2
+b_barony1065` = castle
+
+# Misc
+culture = punjabi
+religion = summer_queen
+
+# History

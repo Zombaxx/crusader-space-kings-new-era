@@ -1,0 +1,17 @@
+# 1567 - Province1567
+
+# County Title
+title = c_province1567
+
+# Settlements
+max_settlements = 5
+b_barony1567` = castle
+b_barony1567a = temple
+b_barony1567b = city
+b_barony1567c = castle
+
+# Misc
+culture = panjabi
+religion = vajrayana
+
+# History

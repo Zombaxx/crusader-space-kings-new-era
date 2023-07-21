@@ -1,0 +1,15 @@
+# 1769 - Province1769
+
+# County Title
+title = c_province1769
+
+# Settlements
+max_settlements = 6
+b_barony1769` = tribal
+b_barony1769a = temple
+
+# Misc
+culture = persian
+religion = bon
+
+# History

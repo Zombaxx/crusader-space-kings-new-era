@@ -1,0 +1,16 @@
+# 900 - Province0900
+
+# County Title
+title = c_province0900
+
+# Settlements
+max_settlements = 4
+b_barony0900` = castle
+b_barony0900a = temple
+b_barony0900b = city
+
+# Misc
+culture = tamil
+religion = old_hindu
+
+# History

@@ -1,0 +1,14 @@
+# 520 - Province0520
+
+# County Title
+title = c_province0520
+
+# Settlements
+max_settlements = 2
+b_barony0520` = castle
+
+# Misc
+culture = swedish
+religion = baptist
+
+# History

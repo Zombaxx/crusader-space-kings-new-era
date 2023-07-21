@@ -1,0 +1,17 @@
+# 759 - Province0759
+
+# County Title
+title = c_province0759
+
+# Settlements
+max_settlements = 5
+b_barony0759` = castle
+b_barony0759a = temple
+b_barony0759b = city
+b_barony0759c = castle
+
+# Misc
+culture = hausa
+religion = baptist
+
+# History

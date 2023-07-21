@@ -1,0 +1,15 @@
+# 1167 - Province1167
+
+# County Title
+title = c_province1167
+
+# Settlements
+max_settlements = 3
+b_barony1167` = castle
+b_barony1167a = temple
+
+# Misc
+culture = alan
+religion = catholic
+
+# History

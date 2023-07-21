@@ -1,0 +1,14 @@
+# 2129 - Province2129
+
+# County Title
+title = c_province2129
+
+# Settlements
+max_settlements = 3
+b_barony2129` = tribal
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

@@ -1,0 +1,17 @@
+# 1766 - Province1766
+
+# County Title
+title = c_province1766
+
+# Settlements
+max_settlements = 5
+b_barony1766` = castle
+b_barony1766a = temple
+b_barony1766b = city
+b_barony1766c = castle
+
+# Misc
+culture = mongol
+religion = sufi
+
+# History

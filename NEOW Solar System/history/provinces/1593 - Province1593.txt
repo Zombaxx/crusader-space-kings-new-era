@@ -1,0 +1,15 @@
+# 1593 - Province1593
+
+# County Title
+title = c_province1593
+
+# Settlements
+max_settlements = 3
+b_barony1593` = city
+b_barony1593a = temple
+
+# Misc
+culture = persian
+religion = vajrayana
+
+# History

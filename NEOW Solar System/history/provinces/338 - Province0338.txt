@@ -1,0 +1,17 @@
+# 338 - Province0338
+
+# County Title
+title = c_province0338
+
+# Settlements
+max_settlements = 6
+b_barony0338` = castle
+b_barony0338a = temple
+b_barony0338b = city
+b_barony0338c = castle
+
+# Misc
+culture = turkish
+religion = zoroastrian
+
+# History

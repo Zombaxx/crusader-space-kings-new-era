@@ -1,0 +1,16 @@
+# 766 - Province0766
+
+# County Title
+title = c_province0766
+
+# Settlements
+max_settlements = 4
+b_barony0766` = castle
+b_barony0766a = temple
+b_barony0766b = city
+
+# Misc
+culture = alan
+religion = jain
+
+# History

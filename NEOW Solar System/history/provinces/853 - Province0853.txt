@@ -1,0 +1,17 @@
+# 853 - Province0853
+
+# County Title
+title = c_province0853
+
+# Settlements
+max_settlements = 5
+b_barony0853` = castle
+b_barony0853a = temple
+b_barony0853b = city
+b_barony0853c = castle
+
+# Misc
+culture = alan
+religion = summer_queen
+
+# History

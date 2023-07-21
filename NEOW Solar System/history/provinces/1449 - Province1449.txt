@@ -1,0 +1,16 @@
+# 1449 - Province1449
+
+# County Title
+title = c_province1449
+
+# Settlements
+max_settlements = 4
+b_barony1449` = castle
+b_barony1449a = temple
+b_barony1449b = city
+
+# Misc
+culture = mongol
+religion = fraticelli
+
+# History

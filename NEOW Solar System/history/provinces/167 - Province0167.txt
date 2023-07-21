@@ -1,0 +1,16 @@
+# 167 - Province0167
+
+# County Title
+title = c_province0167
+
+# Settlements
+max_settlements = 4
+b_barony0167` = city
+b_barony0167a = temple
+b_barony0167b = castle
+
+# Misc
+culture = castilian
+religion = catholic
+
+# History

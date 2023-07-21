@@ -1,0 +1,16 @@
+# 725 - Province0725
+
+# County Title
+title = c_province0725
+
+# Settlements
+max_settlements = 4
+b_barony0725` = castle
+b_barony0725a = temple
+b_barony0725b = city
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

@@ -1,0 +1,14 @@
+# 561 - Province0561
+
+# County Title
+title = c_province0561
+
+# Settlements
+max_settlements = 1
+b_barony0561` = tribal
+
+# Misc
+culture = punjabi
+religion = zoroastrian
+
+# History

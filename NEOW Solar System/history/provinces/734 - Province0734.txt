@@ -1,0 +1,14 @@
+# 734 - Province0734
+
+# County Title
+title = c_province0734
+
+# Settlements
+max_settlements = 1
+b_barony0734` = tribal
+
+# Misc
+culture = hausa
+religion = sunni
+
+# History

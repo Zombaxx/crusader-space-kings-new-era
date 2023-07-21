@@ -1,0 +1,17 @@
+# 1544 - Province1544
+
+# County Title
+title = c_province1544
+
+# Settlements
+max_settlements = 6
+b_barony1544` = castle
+b_barony1544a = temple
+b_barony1544b = city
+b_barony1544c = castle
+
+# Misc
+culture = gaoshan
+religion = vajrayana
+
+# History

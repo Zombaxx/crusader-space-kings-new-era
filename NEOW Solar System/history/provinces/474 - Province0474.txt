@@ -1,0 +1,16 @@
+# 474 - Province0474
+
+# County Title
+title = c_province0474
+
+# Settlements
+max_settlements = 5
+b_barony0474` = castle
+b_barony0474a = temple
+b_barony0474b = city
+
+# Misc
+culture = new_english
+religion = anglican
+
+# History

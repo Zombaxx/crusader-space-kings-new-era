@@ -1,0 +1,16 @@
+# 1417 - Province1417
+
+# County Title
+title = c_province1417
+
+# Settlements
+max_settlements = 4
+b_barony1417` = castle
+b_barony1417a = temple
+b_barony1417b = city
+
+# Misc
+culture = persian
+religion = sufi
+
+# History

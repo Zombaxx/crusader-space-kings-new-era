@@ -1,0 +1,15 @@
+# 1933 - Province1933
+
+# County Title
+title = c_province1933
+
+# Settlements
+max_settlements = 5
+b_barony1933` = tribal
+b_barony1933a = temple
+
+# Misc
+culture = frisian
+religion = shiite
+
+# History

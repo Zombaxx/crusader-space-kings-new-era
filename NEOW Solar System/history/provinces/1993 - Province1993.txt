@@ -1,0 +1,14 @@
+# 1993 - Province1993
+
+# County Title
+title = c_province1993
+
+# Settlements
+max_settlements = 4
+b_barony1993` = tribal
+
+# Misc
+culture = panjabi
+religion = baltic_pagan
+
+# History

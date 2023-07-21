@@ -1,0 +1,15 @@
+# 2175 - Province2175
+
+# County Title
+title = c_province2175
+
+# Settlements
+max_settlements = 1
+b_barony2175` = castle
+b_barony2175a = temple
+
+# Misc
+culture = frisian
+religion = jewish
+
+# History

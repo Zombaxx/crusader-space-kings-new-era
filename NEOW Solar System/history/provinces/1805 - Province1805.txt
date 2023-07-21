@@ -1,0 +1,15 @@
+# 1805 - Province1805
+
+# County Title
+title = c_province1805
+
+# Settlements
+max_settlements = 5
+b_barony1805` = tribal
+b_barony1805a = temple
+
+# Misc
+culture = daju
+religion = vajrayana
+
+# History

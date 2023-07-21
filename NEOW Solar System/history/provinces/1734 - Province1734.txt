@@ -1,0 +1,14 @@
+# 1734 - Province1734
+
+# County Title
+title = c_province1734
+
+# Settlements
+max_settlements = 3
+b_barony1734` = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

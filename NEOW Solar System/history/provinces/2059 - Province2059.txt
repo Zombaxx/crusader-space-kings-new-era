@@ -1,0 +1,15 @@
+# 2059 - Province2059
+
+# County Title
+title = c_province2059
+
+# Settlements
+max_settlements = 5
+b_barony2059` = tribal
+b_barony2059a = temple
+
+# Misc
+culture = daju
+religion = baltic_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 1354 - Province1354
+
+# County Title
+title = c_province1354
+
+# Settlements
+max_settlements = 5
+b_barony1354` = castle
+b_barony1354a = temple
+b_barony1354b = city
+b_barony1354c = castle
+
+# Misc
+culture = persian
+religion = hellenic_pagan
+
+# History

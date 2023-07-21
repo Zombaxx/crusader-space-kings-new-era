@@ -1,0 +1,16 @@
+# 1006 - Province1006
+
+# County Title
+title = c_province1006
+
+# Settlements
+max_settlements = 4
+b_barony1006` = castle
+b_barony1006a = temple
+b_barony1006b = city
+
+# Misc
+culture = kannada
+religion = sunni
+
+# History

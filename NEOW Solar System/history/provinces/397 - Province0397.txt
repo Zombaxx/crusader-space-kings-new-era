@@ -1,0 +1,14 @@
+# 397 - Province0397
+
+# County Title
+title = c_province0397
+
+# Settlements
+max_settlements = 2
+b_barony0397` = castle
+
+# Misc
+culture = turkish
+religion = zoroastrian
+
+# History

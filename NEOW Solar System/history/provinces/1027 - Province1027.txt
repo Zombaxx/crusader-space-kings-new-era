@@ -1,0 +1,14 @@
+# 1027 - Province1027
+
+# County Title
+title = c_province1027
+
+# Settlements
+max_settlements = 1
+b_barony1027` = tribal
+
+# Misc
+culture = punjabi
+religion = summer_queen
+
+# History

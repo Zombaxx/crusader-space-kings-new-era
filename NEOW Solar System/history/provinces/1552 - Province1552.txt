@@ -1,0 +1,17 @@
+# 1552 - Province1552
+
+# County Title
+title = c_province1552
+
+# Settlements
+max_settlements = 6
+b_barony1552` = castle
+b_barony1552a = temple
+b_barony1552b = city
+b_barony1552c = castle
+
+# Misc
+culture = panjabi
+religion = vajrayana
+
+# History

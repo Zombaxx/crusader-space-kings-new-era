@@ -1,0 +1,16 @@
+# 1467 - Province1467
+
+# County Title
+title = c_province1467
+
+# Settlements
+max_settlements = 4
+b_barony1467` = castle
+b_barony1467a = temple
+b_barony1467b = city
+
+# Misc
+culture = persian
+religion = fraticelli
+
+# History

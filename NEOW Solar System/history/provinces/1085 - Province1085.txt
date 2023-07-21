@@ -1,0 +1,16 @@
+# 1085 - Province1085
+
+# County Title
+title = c_province1085
+
+# Settlements
+max_settlements = 4
+b_barony1085` = castle
+b_barony1085a = temple
+b_barony1085b = city
+
+# Misc
+culture = punjabi
+religion = old_hindu
+
+# History

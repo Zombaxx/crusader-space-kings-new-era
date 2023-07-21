@@ -1,0 +1,14 @@
+# 1968 - Province1968
+
+# County Title
+title = c_province1968
+
+# Settlements
+max_settlements = 4
+b_barony1968` = tribal
+
+# Misc
+culture = daju
+religion = old_hindu
+
+# History

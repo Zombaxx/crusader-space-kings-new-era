@@ -1,0 +1,16 @@
+# 2040 - Province2040
+
+# County Title
+title = c_province2040
+
+# Settlements
+max_settlements = 4
+b_barony2040` = castle
+b_barony2040a = temple
+b_barony2040b = city
+
+# Misc
+culture = daju
+religion = baltic_pagan
+
+# History

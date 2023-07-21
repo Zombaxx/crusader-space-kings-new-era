@@ -1,0 +1,15 @@
+# 2140 - Province2140
+
+# County Title
+title = c_province2140
+
+# Settlements
+max_settlements = 3
+b_barony2140` = castle
+b_barony2140a = temple
+
+# Misc
+culture = panjabi
+religion = fraticelli
+
+# History

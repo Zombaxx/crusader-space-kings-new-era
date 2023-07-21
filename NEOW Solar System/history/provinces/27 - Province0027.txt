@@ -1,0 +1,14 @@
+# 27 - Province0027
+
+# County Title
+title = c_province0027
+
+# Settlements
+max_settlements = 2
+b_barony0027` = castle
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

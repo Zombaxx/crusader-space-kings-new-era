@@ -1,0 +1,14 @@
+# 632 - Province0632
+
+# County Title
+title = c_province0632
+
+# Settlements
+max_settlements = 2
+b_barony0632` = castle
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

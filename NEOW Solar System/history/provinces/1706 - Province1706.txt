@@ -1,0 +1,14 @@
+# 1706 - Province1706
+
+# County Title
+title = c_province1706
+
+# Settlements
+max_settlements = 3
+b_barony1706` = tribal
+
+# Misc
+culture = panjabi
+religion = fraticelli
+
+# History

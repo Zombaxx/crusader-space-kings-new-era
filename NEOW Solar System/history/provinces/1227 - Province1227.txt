@@ -1,0 +1,15 @@
+# 1227 - Province1227
+
+# County Title
+title = c_province1227
+
+# Settlements
+max_settlements = 3
+b_barony1227` = castle
+b_barony1227a = temple
+
+# Misc
+culture = punjabi
+religion = novelist
+
+# History

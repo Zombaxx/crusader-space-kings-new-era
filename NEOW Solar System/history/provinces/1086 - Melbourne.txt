@@ -1,0 +1,22 @@
+# 1086 - Melbourne
+
+# County Title
+title = c_melbourne
+
+# Settlements
+max_settlements = 7
+b_melbourne = city
+b_barony1086a = temple
+b_barony1086b = castle
+b_barony1086c = city
+b_barony1086d = castle
+b_barony1086e = city
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_110860
+}

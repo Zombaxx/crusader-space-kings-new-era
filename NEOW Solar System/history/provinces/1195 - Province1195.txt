@@ -1,0 +1,17 @@
+# 1195 - Province1195
+
+# County Title
+title = c_province1195
+
+# Settlements
+max_settlements = 5
+b_barony1195` = castle
+b_barony1195a = temple
+b_barony1195b = city
+b_barony1195c = castle
+
+# Misc
+culture = alan
+religion = hellenic_pagan
+
+# History

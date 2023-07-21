@@ -1,0 +1,17 @@
+# 2076 - Province2076
+
+# County Title
+title = c_province2076
+
+# Settlements
+max_settlements = 5
+b_barony2076` = city
+b_barony2076a = temple
+b_barony2076b = castle
+b_barony2076c = city
+
+# Misc
+culture = persian
+religion = fraticelli
+
+# History

@@ -1,0 +1,16 @@
+# 404 - Province0404
+
+# County Title
+title = c_province0404
+
+# Settlements
+max_settlements = 4
+b_barony0404` = castle
+b_barony0404a = temple
+b_barony0404b = city
+
+# Misc
+culture = daju
+religion = sunni
+
+# History

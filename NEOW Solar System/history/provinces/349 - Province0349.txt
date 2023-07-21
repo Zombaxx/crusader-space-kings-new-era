@@ -1,0 +1,15 @@
+# 349 - Province0349
+
+# County Title
+title = c_province0349
+
+# Settlements
+max_settlements = 2
+b_barony0349` = tribal
+b_barony0349a = temple
+
+# Misc
+culture = kazakh
+religion = finnish_pagan
+
+# History

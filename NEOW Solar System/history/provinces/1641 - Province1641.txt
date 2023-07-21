@@ -1,0 +1,15 @@
+# 1641 - Province1641
+
+# County Title
+title = c_province1641
+
+# Settlements
+max_settlements = 5
+b_barony1641` = tribal
+b_barony1641a = temple
+
+# Misc
+culture = daju
+religion = tengri_pagan
+
+# History

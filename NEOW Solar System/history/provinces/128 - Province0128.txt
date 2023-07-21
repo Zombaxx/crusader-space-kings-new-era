@@ -1,0 +1,14 @@
+# 128 - Province0128
+
+# County Title
+title = c_province0128
+
+# Settlements
+max_settlements = 2
+b_barony0128` = castle
+
+# Misc
+culture = turkish
+religion = jacobinist
+
+# History

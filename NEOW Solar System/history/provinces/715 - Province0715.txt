@@ -1,0 +1,15 @@
+# 715 - Province0715
+
+# County Title
+title = c_province0715
+
+# Settlements
+max_settlements = 5
+b_barony0715` = tribal
+b_barony0715a = temple
+
+# Misc
+culture = crimean
+religion = orthodox
+
+# History

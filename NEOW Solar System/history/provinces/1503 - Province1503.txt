@@ -1,0 +1,16 @@
+# 1503 - Province1503
+
+# County Title
+title = c_province1503
+
+# Settlements
+max_settlements = 4
+b_barony1503` = city
+b_barony1503a = temple
+b_barony1503b = castle
+
+# Misc
+culture = gaoshan
+religion = bon
+
+# History

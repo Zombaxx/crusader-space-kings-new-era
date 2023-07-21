@@ -1,0 +1,15 @@
+# 1314 - Province1314
+
+# County Title
+title = c_province1314
+
+# Settlements
+max_settlements = 3
+b_barony1314` = castle
+b_barony1314a = temple
+
+# Misc
+culture = frisian
+religion = catholic
+
+# History

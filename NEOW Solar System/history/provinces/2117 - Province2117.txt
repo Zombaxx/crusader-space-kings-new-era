@@ -1,0 +1,17 @@
+# 2117 - Province2117
+
+# County Title
+title = c_province2117
+
+# Settlements
+max_settlements = 5
+b_barony2117` = castle
+b_barony2117a = temple
+b_barony2117b = city
+b_barony2117c = castle
+
+# Misc
+culture = panjabi
+religion = fraticelli
+
+# History

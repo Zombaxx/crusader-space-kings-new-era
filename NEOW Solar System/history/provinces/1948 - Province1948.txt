@@ -1,0 +1,15 @@
+# 1948 - Province1948
+
+# County Title
+title = c_province1948
+
+# Settlements
+max_settlements = 3
+b_barony1948` = castle
+b_barony1948a = temple
+
+# Misc
+culture = gaoshan
+religion = baltic_pagan
+
+# History

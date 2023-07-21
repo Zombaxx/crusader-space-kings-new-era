@@ -1,0 +1,15 @@
+# 1995 - Province1995
+
+# County Title
+title = c_province1995
+
+# Settlements
+max_settlements = 3
+b_barony1995` = castle
+b_barony1995a = temple
+
+# Misc
+culture = gaoshan
+religion = jewish
+
+# History

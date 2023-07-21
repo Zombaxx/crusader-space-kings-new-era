@@ -1,0 +1,15 @@
+# 1791 - Province1791
+
+# County Title
+title = c_province1791
+
+# Settlements
+max_settlements = 3
+b_barony1791` = castle
+b_barony1791a = temple
+
+# Misc
+culture = persian
+religion = sufi
+
+# History

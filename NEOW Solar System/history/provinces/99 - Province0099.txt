@@ -1,0 +1,14 @@
+# 99 - Province0099
+
+# County Title
+title = c_province0099
+
+# Settlements
+max_settlements = 2
+b_barony0099` = tribal
+
+# Misc
+culture = alan
+religion = tengri_pagan
+
+# History

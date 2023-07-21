@@ -1,0 +1,14 @@
+# 1926 - Province1926
+
+# County Title
+title = c_province1926
+
+# Settlements
+max_settlements = 4
+b_barony1926` = tribal
+
+# Misc
+culture = daju
+religion = finnish_pagan
+
+# History

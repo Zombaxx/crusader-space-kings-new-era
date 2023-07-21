@@ -1,0 +1,16 @@
+# 1303 - Province1303
+
+# County Title
+title = c_province1303
+
+# Settlements
+max_settlements = 4
+b_barony1303` = castle
+b_barony1303a = temple
+b_barony1303b = city
+
+# Misc
+culture = mongol
+religion = old_hindu
+
+# History

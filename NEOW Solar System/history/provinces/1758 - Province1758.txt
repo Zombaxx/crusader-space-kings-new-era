@@ -1,0 +1,14 @@
+# 1758 - Province1758
+
+# County Title
+title = c_province1758
+
+# Settlements
+max_settlements = 4
+b_barony1758` = tribal
+
+# Misc
+culture = panjabi
+religion = sufi
+
+# History

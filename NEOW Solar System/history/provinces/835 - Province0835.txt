@@ -1,0 +1,17 @@
+# 835 - Province0835
+
+# County Title
+title = c_province0835
+
+# Settlements
+max_settlements = 5
+b_barony0835` = castle
+b_barony0835a = temple
+b_barony0835b = city
+b_barony0835c = castle
+
+# Misc
+culture = alan
+religion = jain
+
+# History

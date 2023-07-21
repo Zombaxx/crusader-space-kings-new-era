@@ -1,0 +1,14 @@
+# 1313 - Province1313
+
+# County Title
+title = c_province1313
+
+# Settlements
+max_settlements = 2
+b_barony1313` = tribal
+
+# Misc
+culture = punjabi
+religion = taoist
+
+# History

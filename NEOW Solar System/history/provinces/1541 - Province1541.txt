@@ -1,0 +1,17 @@
+# 1541 - Province1541
+
+# County Title
+title = c_province1541
+
+# Settlements
+max_settlements = 5
+b_barony1541` = castle
+b_barony1541a = temple
+b_barony1541b = city
+b_barony1541c = castle
+
+# Misc
+culture = panjabi
+religion = yazidi
+
+# History

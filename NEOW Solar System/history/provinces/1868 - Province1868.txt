@@ -1,0 +1,14 @@
+# 1868 - Province1868
+
+# County Title
+title = c_province1868
+
+# Settlements
+max_settlements = 3
+b_barony1868` = tribal
+
+# Misc
+culture = frisian
+religion = shiite
+
+# History

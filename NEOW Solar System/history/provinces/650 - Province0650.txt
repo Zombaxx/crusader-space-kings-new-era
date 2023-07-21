@@ -1,0 +1,14 @@
+# 650 - Province0650
+
+# County Title
+title = c_province0650
+
+# Settlements
+max_settlements = 3
+b_barony0650` = tribal
+
+# Misc
+culture = crimean
+religion = orthodox
+
+# History

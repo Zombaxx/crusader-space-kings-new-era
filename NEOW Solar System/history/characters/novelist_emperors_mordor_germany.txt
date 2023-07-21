@@ -1,0 +1,182 @@
+22660735 = { #First ruler of Mordor. Subservient to Sauron and the White Witch. Ruled with curelty and terror. 
+	name="Mordu Karl Xaver"
+	dynasty=3821126 # Mordor, the most evil family in the known world
+	religion="novelist"
+	culture="austrian"
+	trait="legendary"
+	trait="brilliant_strategist"
+	trait="proud"
+	trait="cruel"
+	trait="possessed"
+	trait="disfigured"
+	trait="robust"
+	trait="impaler"
+	trait="brave"
+	trait="zealous"
+	disallow_random_traits=yes
+	742.4.2 = {
+		birth=yes
+		give_nickname=nick_the_mouth_sauron
+	}
+	1000.1.28 = {
+		death=yes
+	}
+}
+
+22660736 = { #Nazgûl, son of Karl. Continued the reign of terror. 
+	name="Nazgûl Ludwig Karl"
+	dynasty=3821126 # Mordor, the most evil family in the known world
+	religion="novelist"
+	culture="austrian"
+	father=22660735
+	trait="legendary"
+	trait="intricate_webweaver"
+	trait="proud"
+	trait="cruel"
+	trait="possessed"
+	trait="disfigured"
+	trait="quick"
+	trait="impaler"
+	trait="brave"
+	trait="groomed"
+	trait="zealous"
+	disallow_random_traits=yes
+	850.5.1 = {
+		birth=yes
+		give_nickname=nick_the_butcher
+	}
+	1150.1.1 = {
+		death=yes
+	}
+}
+
+22660737 = { #Gothmog, son of Nazgûl. Continued the reign of terror. 
+	name="Gothmog Alberich Ludwig Josef"
+	dynasty=3821126 # Mordor, the most evil family in the known world
+	religion="novelist"
+	culture="austrian"
+	father=22660736
+	trait="legendary"
+	trait="skilled_tactician"
+	trait="proud"
+	trait="cruel"
+	trait="possessed"
+	trait="disfigured"
+	trait="shrewd"
+	trait="hunter"
+	trait="brave"
+	trait="zealous"
+	disallow_random_traits=yes
+	900.5.1 = {
+		birth=yes
+		give_nickname=nick_son_of_evilgod
+	}
+	1200.1.1 = {
+		death=yes
+	}
+}
+
+22660738 = { #Shagrat, son of Gothmog. Continued the reign of terror. 
+	name="Shagrat Ludwig Otto Lothar"
+	dynasty=3821126 # Mordor, the most evil family in the known world
+	religion="novelist"
+	culture="austrian"
+	father=22660737
+	trait="legendary"
+	trait="skilled_tactician"
+	trait="cruel"
+	trait="possessed"
+	trait="disfigured"
+	trait="proud"
+	trait="slow"
+	999.5.1 = {
+		birth=yes
+		give_nickname=nick_son_of_evilgod
+	}
+	1300.1.1 = {
+		death=yes
+	}
+}
+
+22660739 = { #Azog, son of Shagrat. Continued the reign of terror. 
+	name="Azog Heinrich Florian"
+	dynasty=3821126 # Mordor, the most evil family in the known world
+	religion="novelist"
+	culture="austrian"
+	father=22660738
+	trait="legendary"
+	trait="skilled_tactician"
+	trait="cruel"
+	trait="possessed"
+	trait="disfigured"
+	1190.5.1 = {
+		birth=yes
+		give_nickname=nick_son_of_evilgod
+	}
+	1400.1.1 = {
+		death=yes
+	}
+}
+
+22660740 = { #Bolg, son of Azog. Continued the reign of terror. 
+	name="Bolg Franz Stefan"
+	dynasty=3821126 # Mordor, the most evil family in the known world
+	religion="novelist"
+	culture="austrian"
+	father=22660739
+	trait="legendary"
+	trait="skilled_tactician"
+	trait="cruel"
+	trait="possessed"
+	trait="disfigured"
+	1300.5.1 = {
+		birth=yes
+		give_nickname=nick_son_of_evilgod
+	}
+	1500.1.1 = {
+		death=yes
+	}
+}
+
+22660741 = { #Miraz, son of Bolg. Continued the reign of terror. 
+	name="Miraz Anton Martin"
+	dynasty=3821126 # Mordor, the most evil family in the known world
+	religion="novelist"
+	culture="austrian"
+	father=22660740
+	trait="legendary"
+	trait="skilled_tactician"
+	trait="cruel"
+	trait="possessed"
+	trait="disfigured"
+	trait="kinslayer"
+	1400.1.1 = {
+		birth=yes
+		give_nickname=nick_son_of_evilgod
+	}
+	1600.1.1 = {
+		death=yes
+	}
+}
+
+22660742 = { #Melkor, son of Miraz. Continued the reign of terror. 
+	name="Melkor Leopold Jodok"
+	dynasty=3821126 # Mordor, the most evil family in the known world
+	religion="novelist"
+	culture="austrian"
+	father=22660741
+	trait="legendary"
+	trait="skilled_tactician"
+	trait="cruel"
+	trait="possessed"
+	trait="disfigured"
+	1500.1.1 = {
+		birth=yes
+		give_nickname=nick_son_of_evilgod
+	}
+	1700.1.1 = {
+		death=yes
+	}
+}
+
+#Further IDs from this point are in the Swiss Novelist file

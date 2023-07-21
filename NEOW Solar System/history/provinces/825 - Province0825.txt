@@ -1,0 +1,16 @@
+# 825 - Province0825
+
+# County Title
+title = c_province0825
+
+# Settlements
+max_settlements = 4
+b_barony0825` = castle
+b_barony0825a = temple
+b_barony0825b = city
+
+# Misc
+culture = alan
+religion = summer_queen
+
+# History

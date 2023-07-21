@@ -1,0 +1,16 @@
+# 2128 - Province2128
+
+# County Title
+title = c_province2128
+
+# Settlements
+max_settlements = 4
+b_barony2128` = castle
+b_barony2128a = temple
+b_barony2128b = city
+
+# Misc
+culture = daju
+religion = brethren
+
+# History

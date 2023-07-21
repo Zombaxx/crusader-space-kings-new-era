@@ -1,0 +1,20 @@
+# 234 - Province0234
+
+# County Title
+title = c_province0234
+
+# Settlements
+max_settlements = 5
+b_barony0234` = city
+b_barony0234a = temple
+b_barony0234b = castle
+b_barony0234c = city
+
+# Misc
+culture = ethiopian
+religion = catholic
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_102340
+}

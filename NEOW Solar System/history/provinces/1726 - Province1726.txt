@@ -1,0 +1,14 @@
+# 1726 - Province1726
+
+# County Title
+title = c_province1726
+
+# Settlements
+max_settlements = 4
+b_barony1726` = tribal
+
+# Misc
+culture = frisian
+religion = bon
+
+# History

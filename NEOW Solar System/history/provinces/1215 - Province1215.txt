@@ -1,0 +1,17 @@
+# 1215 - Province1215
+
+# County Title
+title = c_province1215
+
+# Settlements
+max_settlements = 6
+b_barony1215` = castle
+b_barony1215a = temple
+b_barony1215b = city
+b_barony1215c = castle
+
+# Misc
+culture = mongol
+religion = sufi
+
+# History

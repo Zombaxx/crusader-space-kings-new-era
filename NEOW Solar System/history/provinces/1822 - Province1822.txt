@@ -1,0 +1,17 @@
+# 1822 - Province1822
+
+# County Title
+title = c_province1822
+
+# Settlements
+max_settlements = 5
+b_barony1822` = castle
+b_barony1822a = temple
+b_barony1822b = city
+b_barony1822c = castle
+
+# Misc
+culture = frisian
+religion = shiite
+
+# History

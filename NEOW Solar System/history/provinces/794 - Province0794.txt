@@ -1,0 +1,14 @@
+# 794 - Province0794
+
+# County Title
+title = c_province0794
+
+# Settlements
+max_settlements = 2
+b_barony0794` = tribal
+
+# Misc
+culture = kannada
+religion = vajrayana
+
+# History

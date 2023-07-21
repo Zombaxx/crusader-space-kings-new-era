@@ -1,0 +1,14 @@
+# 1295 - Province1295
+
+# County Title
+title = c_province1295
+
+# Settlements
+max_settlements = 3
+b_barony1295` = tribal
+
+# Misc
+culture = punjabi
+religion = hellenic_pagan
+
+# History

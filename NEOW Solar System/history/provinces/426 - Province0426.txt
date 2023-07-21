@@ -1,0 +1,14 @@
+# 426 - Province0426
+
+# County Title
+title = c_province0426
+
+# Settlements
+max_settlements = 2
+b_barony0426` = tribal
+
+# Misc
+culture = mongol
+religion = mesopotamian
+
+# History

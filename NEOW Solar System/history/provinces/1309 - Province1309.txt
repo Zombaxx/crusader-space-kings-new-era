@@ -1,0 +1,15 @@
+# 1309 - Province1309
+
+# County Title
+title = c_province1309
+
+# Settlements
+max_settlements = 3
+b_barony1309` = castle
+b_barony1309a = temple
+
+# Misc
+culture = turkish
+religion = yazidi
+
+# History

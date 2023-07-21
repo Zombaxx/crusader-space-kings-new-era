@@ -1,0 +1,17 @@
+# 528 - Berlin
+
+# County Title
+title = c_berlin
+
+# Settlements
+max_settlements = 5
+b_berlin = castle
+b_barony0528a = temple
+b_barony0528c = city
+b_barony0528d = city
+
+# Misc
+culture = saxon
+religion = baptist
+
+# History

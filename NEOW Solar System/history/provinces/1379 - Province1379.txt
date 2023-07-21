@@ -1,0 +1,17 @@
+# 1379 - Province1379
+
+# County Title
+title = c_province1379
+
+# Settlements
+max_settlements = 6
+b_barony1379` = castle
+b_barony1379a = temple
+b_barony1379b = city
+b_barony1379c = castle
+
+# Misc
+culture = frisian
+religion = yazidi
+
+# History
