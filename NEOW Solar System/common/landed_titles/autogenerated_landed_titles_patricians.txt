@@ -21,44 +21,44 @@ b_patrician_101414 = {
 }
 # Chesapeake Bay Merchant Republic Palaces
 b_patrician_102640 = {
-	culture = old_frankish
-	religion = nestorian
+	culture = federalist
+	religion = baptist
 }
 b_patrician_102641 = {
-	culture = old_frankish
-	religion = nestorian
+	culture = federalist
+	religion = baptist
 }
 b_patrician_102642 = {
-	culture = old_frankish
-	religion = nestorian
+	culture = federalist
+	religion = baptist
 }
 b_patrician_102643 = {
-	culture = old_frankish
-	religion = nestorian
+	culture = federalist
+	religion = baptist
 }
 b_patrician_102644 = {
-	culture = old_frankish
-	religion = nestorian
+	culture = federalist
+	religion = baptist
 }
 # Duchy0234 Merchant Republic Palaces
 b_patrician_102340 = {
-	culture = nubian
+	culture = ethiopian
 	religion = catholic
 }
 b_patrician_102341 = {
-	culture = nubian
+	culture = ethiopian
 	religion = catholic
 }
 b_patrician_102342 = {
-	culture = nubian
+	culture = ethiopian
 	religion = catholic
 }
 b_patrician_102343 = {
-	culture = nubian
+	culture = ethiopian
 	religion = catholic
 }
 b_patrician_102344 = {
-	culture = nubian
+	culture = ethiopian
 	religion = catholic
 }
 # Duchy0383 Merchant Republic Palaces
@@ -127,23 +127,23 @@ b_patrician_104924 = {
 # Duchy0913 Merchant Republic Palaces
 b_patrician_109130 = {
 	culture = zhangzhung
-	religion = buddhist
+	religion = vajrayana
 }
 b_patrician_109131 = {
 	culture = zhangzhung
-	religion = buddhist
+	religion = vajrayana
 }
 b_patrician_109132 = {
 	culture = zhangzhung
-	religion = buddhist
+	religion = vajrayana
 }
 b_patrician_109133 = {
 	culture = zhangzhung
-	religion = buddhist
+	religion = vajrayana
 }
 b_patrician_109134 = {
 	culture = zhangzhung
-	religion = buddhist
+	religion = vajrayana
 }
 # Duchy0879 Merchant Republic Palaces
 b_patrician_108790 = {
@@ -211,23 +211,23 @@ b_patrician_109334 = {
 # Duchy1083 Merchant Republic Palaces
 b_patrician_110830 = {
 	culture = frankish
-	religion = nestorian
+	religion = baptist
 }
 b_patrician_110831 = {
 	culture = frankish
-	religion = nestorian
+	religion = baptist
 }
 b_patrician_110832 = {
 	culture = frankish
-	religion = nestorian
+	religion = baptist
 }
 b_patrician_110833 = {
 	culture = frankish
-	religion = nestorian
+	religion = baptist
 }
 b_patrician_110834 = {
 	culture = frankish
-	religion = nestorian
+	religion = baptist
 }
 # Melbourne Merchant Republic Palaces
 b_patrician_110860 = {
@@ -358,23 +358,23 @@ b_patrician_116144 = {
 # Duchy1583 Merchant Republic Palaces
 b_patrician_115830 = {
 	culture = bear
-	religion = buddhist
+	religion = vajrayana
 }
 b_patrician_115831 = {
 	culture = bear
-	religion = buddhist
+	religion = vajrayana
 }
 b_patrician_115832 = {
 	culture = bear
-	religion = buddhist
+	religion = vajrayana
 }
 b_patrician_115833 = {
 	culture = bear
-	religion = buddhist
+	religion = vajrayana
 }
 b_patrician_115834 = {
 	culture = bear
-	religion = buddhist
+	religion = vajrayana
 }
 # Duchy1512 Merchant Republic Palaces
 b_patrician_115120 = {
