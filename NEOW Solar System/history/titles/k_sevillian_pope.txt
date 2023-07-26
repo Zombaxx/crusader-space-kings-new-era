@@ -905,195 +905,195 @@
 {
 	holder=478566
 }
-1978.8.16=
+1999.12.01=
 {
-	holder=478567
-}
-1978.10.7=
-{
-	holder=478568
+	holder=478569 # Gregory XVII, first and only Pre-Event sevillian Pope separated from the Roman Church
 }
 2100.1.1=
 {
-	holder=378500
+	holder=578500 # Landus II
 }
-2119.7.13=
+2120.7.14=
 {
-	holder=378501
+	holder=578501 # Peter II
 }
-2128.3.19=
+2152.8.25=
 {
-	holder=378502
+	holder=578502 # Peter III
 }
-2130.6.21=
+2157.3.16=
 {
-	holder=378503
+	holder=578503 # Dyonisius II
 }
-2154.3.8=
+2163.12.19=
 {
-	holder=378504
+	holder=578504 # Peter IV
 }
-2165.4.19=
+2171.6.8=
 {
-	holder=378505
+	holder=578505 # Liberius II
 }
-2173.6.18=
+2179.10.31=
 {
-	holder=378506
+	holder=578506 # Evaristus II
 }
-2176.2.7=
+2198.6.4=
 {
-	holder=378507
+	holder=578507 # Agapitus III
 }
-2189.3.3=
+2212.3.13=
 {
-	holder=378508
+	holder=578508 # Marcellus III
 }
-2201.4.18=
+2224.4.8=
 {
-	holder=378509
+	holder=578509 # Valentinus II
 }
-2220.5.8=
+2226.5.16=
 {
-	holder=378510
+	holder=578510 # Felix V
 }
-2226.8.17=
+2230.8.4=
 {
-	holder=378511
+	holder=578511 # Valentinus III
 }
-2232.7.14=
+2240.6.28=
 {
-	holder=378512
+	holder=578512 # Peter V
 }
-2246.5.19=
+2248.9.2=
 {
-	holder=378513
+	holder=578513 # Eleutherius II
 }
-2249.1.7=
+2260.6.29=
 {
-	holder=378514
+	holder=578514 # Peter VI
 }
-2254.8.4=
+2267.10.13=
 {
-	holder=378515
+	holder=578515 # Peter VII
 }
-2259.7.29=
+2281.4.20=
 {
-	holder=378516
+	holder=578516 # Peter VIII
 }
-2264.8.14=
+2293.1.8=
 {
-	holder=378517
+	holder=578517 # Gelasius III
 }
-2266.8.16=
+2299.6.14=
 {
-	holder=378518
+	holder=578518 # Martinus VI
 }
-2278.6.19=
+2303.8.19=
 {
-	holder=378519
+	holder=578519 # Marcellus IV
 }
-2289.4.9=
+2310.5.23=
 {
-	holder=378520
+	holder=578520 # Valentinus IV
 }
-2299.12.16=
+2324.8.11=
 {
-	holder=378521
+	holder=578521 # Hilarius II
 }
-2319.4.27=
+2330.11.27=
 {
-	holder=378522
+	holder=578522 # Peter IX
 }
-2325.3.12=
+2339.6.11=
 {
-	holder=378523
+	holder=578523 # Peter X
 }
-2329.6.1=
+2351.8.20=
 {
-	holder=378524
+	holder=578524 # Gregory XVIII
 }
-2348.9.23=
+2360.4.2=
 {
-	holder=378525
+	holder=578525 # Eutychianus II
 }
-2355.6.10=
+2368.3.24=
 {
-	holder=378526
+	holder=578526 # Agatho II
 }
-2367.11.8=
+2379.4.12=
 {
-	holder=378527
+	holder=578527 # Peter XI
 }
-2373.8.19=
+2385.10.1=
 {
-	holder=378528
+	holder=578528 # Iulius IV
 }
-2380.11.4=
+2397.3.5=
 {
-	holder=378529
+	holder=578529 # Peter XII
 }
-2383.9.12=
+2397.6.14=
 {
-	holder=378530
+	holder=578530 # Peter XIII
 }
-2390.7.7=
+2405.8.11=
 {
-	holder=378531
+	holder=578531 # Agatho III
 }
-2401.6.18=
+2414.7.20=
 {
-	holder=378532
+	holder=578532 # Eleutherius III
 }
-2415.4.20=
+2422.9.13=
 {
-	holder=378533
+	holder=578533 # Fabianus II
 }
-2431.9.18=
+2425.1.2=
 {
-	holder=378534
+	holder=578534 # Peter XIV
 }
-2439.10.3=
+2436.11.29=
 {
-	holder=378535
+	holder=578535 # Peter XV
 }
-2450.4.16=
+2455.7.2=
 {
-	holder=378536
+	holder=578536 # Silverius II
 }
-2459.10.28=
+2460.8.19=
 {
-	holder=378537
+	holder=578537 # Peter XVI
 }
-2462.8.11=
+2471.3.19=
 {
-	holder=378538
+	holder=578538 # Landus III
 }
-2475.11.27=
+2482.3.14=
 {
-	holder=378539
+	holder=578539 # Eutychianus III
 }
-2498.6.13=
+2489.6.11=
 {
-	holder=378540
+	holder=578540 # Pelagius III
 }
-2517.3.14=
+2500.10.8=
 {
-	holder=378541
+	holder=578541 # Peter XVII
 }
-2529.1.31=
+2512.2.16=
 {
-	holder=378542
+	holder=578542 # Marcellus V
 }
-2537.11.9=
+2525.3.14=
 {
-	holder=378543
+	holder=578543 # Peter XVIII
 }
-2549.2.17=
+2534.6.11=
 {
-	holder=378544
+	holder=578544 # Nicolaus VI
 }
-2554.10.31=
+2541.4.9=
 {
-	holder = 26661622
+	holder=578545 # Gelasius IV
+}
+2550.3.13=
+{
+	holder=26660524 # Current Pope Peter XIX
 }

@@ -1,0 +1,6 @@
+50.6.20={
+	holder=26777776
+}
+300.7.10={
+	holder = 0 #Ascended to godhood
+}

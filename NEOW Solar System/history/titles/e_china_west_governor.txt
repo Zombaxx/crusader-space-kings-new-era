@@ -1,0 +1,4 @@
+2553.1.1 = {	
+	holder = 26664191
+	government = feudal_government
+}
