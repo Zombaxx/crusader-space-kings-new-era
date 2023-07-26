@@ -318,6 +318,7 @@ succession_laws = {
 			}			
 			holder_scope = {
 				OR = {
+					culture_group = low_american
 					has_landed_title = d_athos
 					has_landed_title = k_athos
 					AND = {
@@ -413,6 +414,7 @@ succession_laws = {
 							is_tribal = yes
 							religion = folklorist
 						}
+						culture_group = low_american
 						religion = finnish_pagan
 						religion = finnish_pagan_reformed
 						religion = kiratist
@@ -1166,6 +1168,7 @@ succession_laws = {
 					OR = {
 					culture_group = goidelic
 					culture_group = brythonic
+					culture_group = low_american
 					}
 					any_owned_bloodline = {
 						has_bloodline_flag = bloodline_tanistry
